@@ -1,0 +1,9 @@
+{
+    "name": "pco-bcp/satis",
+    "homepage": "http://raw.githubusercontent.com/pco-bcp/satis",
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/pco-bcp/pm_modules" },
+        { "type": "vcs", "url": "https://github.com/pco-bcp/pm_theme" }
+    ],
+    "require-all": true
+}

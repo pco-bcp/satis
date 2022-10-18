@@ -1,0 +1,13 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$0a0c46e9e5d03b397bacd1d3f697a2ec6a78fb64.json": {
+            "sha1": "0a0c46e9e5d03b397bacd1d3f697a2ec6a78fb64"
+        }
+    },
+    "metadata-url": "/pco-bcp/satis/p2/%package%.json",
+    "available-packages": [
+        "pco-bcp/pm_modules",
+        "pco-bcp/pm_theme"
+    ]
+}
