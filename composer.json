@@ -76,7 +76,7 @@
             "php": "7.4.28"
         },
         "allow-plugins": {
-            "composer/satis": true
+            "composer/satis": "true"
         }
     },
     "scripts": {
