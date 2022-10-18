@@ -1,0 +1,22 @@
+name: Composer repository
+
+on:
+  - push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: dev-this/satis-build@v1
+        with:
+          token: ${{ GITHUB_TOKEN }} # App/OAuth token, PAT
+      - env:
+          GIT_EMAIL: bot@github.com
+          GIT_NAME: cool-bot
+        run: |
+          git config user.name $GIT_NAME
+          git config user.email $GIT_EMAIL
+          git add repository/
+          git commit -m "Re-built repository assets"
+          git push
