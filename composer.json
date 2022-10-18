@@ -75,9 +75,7 @@
         "platform": {
             "php": "7.4.28"
         },
-        "allow-plugins": {
-            "composer/satis": "true"
-        }
+        "allow-plugins": true
     },
     "scripts": {
         "test": "vendor/bin/phpunit",
