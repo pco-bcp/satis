@@ -7,6 +7,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - run: |
+          composer global config --no-plugins allow-plugins.composer/satis true
       - uses: actions/checkout@v2
       - uses: dev-this/satis-build@v1
         with:
@@ -14,7 +16,7 @@ jobs:
       - env:
           GIT_EMAIL: bot@github.com
           GIT_NAME: cool-bot
-        run: |
+      - run: |
           git config user.name $GIT_NAME
           git config user.email $GIT_EMAIL
           git add repository/
