@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: dev-this/satis-build@v1
         with:
-          token: ${{ GH_TOKEN }} # App/OAuth token, PAT
+          token: ${{ secrets.GITHUB_TOKEN }} # App/OAuth token, PAT
       - env:
           GIT_EMAIL: bot@github.com
           GIT_NAME: cool-bot
