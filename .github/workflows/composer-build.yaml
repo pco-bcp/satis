@@ -9,9 +9,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Private Composer Registry
-        uses: djsutter/satis-build@v2
+        uses: djsutter/satis-build@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }} # App/OAuth token, PAT
+          satis_config: satis.json
+          output: repository
       - env:
           GIT_EMAIL: bot@github.com
           GIT_NAME: cool-bot
