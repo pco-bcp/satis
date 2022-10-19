@@ -11,7 +11,7 @@ jobs:
       - name: Private Composer Registry
         uses: djsutter/satis-build@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # App/OAuth token, PAT
+          token: ${{ secrets.DS_PAT }} # App/OAuth token, PAT
           satis_config: satis.json
           output: repository
       - env:
