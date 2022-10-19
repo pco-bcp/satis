@@ -11,7 +11,7 @@ jobs:
       - name: Private Composer Registry
         uses: and-that/private-composer-registry-action@v1.1
         with:
-          token: ${{ GITHUB_TOKEN }} # App/OAuth token, PAT
+          token: ${{ secrets.GITHUB_TOKEN }} # App/OAuth token, PAT
       - env:
           GIT_EMAIL: bot@github.com
           GIT_NAME: cool-bot
