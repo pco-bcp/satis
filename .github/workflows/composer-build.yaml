@@ -1,7 +1,9 @@
 name: Composer repository
 
 on:
-  - push
+  repository_dispatch:
+    types:
+      - webhook
 
 jobs:
   build:
@@ -9,11 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Private Composer Registry
-        uses: djsutter/satis-build@v3
+        uses: pco-bcp/satis-build@v2
         with:
           token: ${{ secrets.DS_PAT }} # App/OAuth token, PAT
-          satis_config: satis.json
-          output: repository
       - env:
           GIT_EMAIL: bot@github.com
           GIT_NAME: cool-bot
