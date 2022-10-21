@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Private Composer Registry
-        uses: djsutter/satis-build@v3
+        uses: pco-bcp/satis-build@v2
         with:
           token: ${{ secrets.DS_PAT }} # App/OAuth token, PAT
       - env:
