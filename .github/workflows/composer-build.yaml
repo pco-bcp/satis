@@ -14,6 +14,7 @@ jobs:
         uses: pco-bcp/satis-build@v2
         with:
           token: ${{ secrets.DS_PAT }} # App/OAuth token, PAT
+          satis_config: satis.json
       - env:
           GIT_EMAIL: bot@github.com
           GIT_NAME: cool-bot
