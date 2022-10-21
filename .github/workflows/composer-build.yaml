@@ -2,8 +2,6 @@ name: Composer repository
 
 on:
   repository_dispatch:
-    types:
-      - webhook
 
 jobs:
   build:
