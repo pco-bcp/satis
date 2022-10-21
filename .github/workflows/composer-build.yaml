@@ -11,10 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Private Composer Registry
-        uses: dev-this/satis-build@v1
+        uses: djsutter/satis-build@v3
         with:
           token: ${{ secrets.DS_PAT }} # App/OAuth token, PAT
-          satis_config: satis.json
       - env:
           GIT_EMAIL: bot@github.com
           GIT_NAME: cool-bot
