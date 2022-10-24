@@ -23,7 +23,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/pco-bcp/asg-web#391--add-single-site-coexist",
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.1",
                     "issues": "https://github.com/pco-bcp/pm_modules/issues"
                 }
             }
