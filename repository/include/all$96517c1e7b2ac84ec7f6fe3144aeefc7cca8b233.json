@@ -187,6 +187,32 @@
                     "issues": "https://github.com/pco-bcp/test_webhook/issues"
                 }
             },
+            "1.1.2": {
+                "name": "pco-bcp/test_webhook",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/test_webhook.git",
+                    "reference": "3f633f810a2e194aa46fc1ab972018161a6f60af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/test_webhook/zipball/3f633f810a2e194aa46fc1ab972018161a6f60af",
+                    "reference": "3f633f810a2e194aa46fc1ab972018161a6f60af",
+                    "shasum": ""
+                },
+                "time": "2022-10-25T10:58:57+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/test_webhook/tree/1.1.2",
+                    "issues": "https://github.com/pco-bcp/test_webhook/issues"
+                }
+            },
             "dev-pco-bcp/asg-web#391--add-single-site-coexist": {
                 "name": "pco-bcp/test_webhook",
                 "version": "dev-pco-bcp/asg-web#391--add-single-site-coexist",
@@ -194,22 +220,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/test_webhook.git",
-                    "reference": "1ee93dc777c50d1d8f8c4031ace867e4bfd68983"
+                    "reference": "3f633f810a2e194aa46fc1ab972018161a6f60af"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/test_webhook/zipball/1ee93dc777c50d1d8f8c4031ace867e4bfd68983",
-                    "reference": "1ee93dc777c50d1d8f8c4031ace867e4bfd68983",
+                    "url": "https://api.github.com/repos/pco-bcp/test_webhook/zipball/3f633f810a2e194aa46fc1ab972018161a6f60af",
+                    "reference": "3f633f810a2e194aa46fc1ab972018161a6f60af",
                     "shasum": ""
                 },
-                "time": "2022-10-25T10:01:01+00:00",
+                "time": "2022-10-25T10:58:57+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/test_webhook/tree/1.1.1",
+                    "source": "https://github.com/pco-bcp/test_webhook/tree/1.1.2",
                     "issues": "https://github.com/pco-bcp/test_webhook/issues"
                 }
             }
