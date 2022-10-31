@@ -1,14 +1,14 @@
 {
     "packages": [],
     "includes": {
-        "include/all$96517c1e7b2ac84ec7f6fe3144aeefc7cca8b233.json": {
-            "sha1": "96517c1e7b2ac84ec7f6fe3144aeefc7cca8b233"
+        "include/all$b2d308a9b622b89f216d236f67cd6ae7170d83f2.json": {
+            "sha1": "b2d308a9b622b89f216d236f67cd6ae7170d83f2"
         }
     },
     "metadata-url": "/pco-bcp/satis/main/repository/p2/%package%.json",
     "available-packages": [
+        "pco-bcp/pco_cities",
         "pco-bcp/pm_modules",
-        "pco-bcp/pm_theme",
-        "pco-bcp/test_webhook"
+        "pco-bcp/pm_theme"
     ]
 }
