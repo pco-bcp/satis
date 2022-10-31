@@ -4,7 +4,7 @@
     "repositories": [
         { "type": "vcs", "url": "https://github.com/pco-bcp/pm_modules" },
         { "type": "vcs", "url": "https://github.com/pco-bcp/pm_theme" },
-        { "type": "vcs", "url": "https://github.com/pco-bcp/test_webhook" }
+        { "type": "vcs", "url": "https://github.com/impact-canada/pco_cities" }
     ],
     "require-all": true,
     "output-dir": "repository"
