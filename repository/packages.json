@@ -1,13 +1,14 @@
 {
     "packages": [],
     "includes": {
-        "include/all$78e8866a1f3de3951778a81bd8b2713219557d43.json": {
-            "sha1": "78e8866a1f3de3951778a81bd8b2713219557d43"
+        "include/all$529efeb7ab0acb10b2bd032cbc8ae0a0628b34f9.json": {
+            "sha1": "529efeb7ab0acb10b2bd032cbc8ae0a0628b34f9"
         }
     },
     "metadata-url": "/pco-bcp/satis/main/repository/p2/%package%.json",
     "available-packages": [
         "impact-canada/pco_cities",
+        "pco-bcp/impact_bootstrap",
         "pco-bcp/pm_modules",
         "pco-bcp/pm_theme"
     ]
