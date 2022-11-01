@@ -105,10 +105,10 @@
                     "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
                 }
             },
-            "2.4.1": {
+            "2.4.0": {
                 "name": "impact-canada/impact_bootstrap",
-                "version": "2.4.1",
-                "version_normalized": "2.4.1.0",
+                "version": "2.4.0",
+                "version_normalized": "2.4.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/impact_bootstrap.git",
@@ -127,7 +127,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.4.1",
+                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.4.0",
                     "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
                 }
             },
@@ -284,7 +284,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.4.1",
+                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.4.0",
                     "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
                 }
             }
