@@ -1,6 +1,32 @@
 {
     "packages": {
         "impact-canada/impact_bootstrap": {
+            "2.2.1": {
+                "name": "impact-canada/impact_bootstrap",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
+                    "reference": "dcd9cc3756f86fd314fa4e4c6e90deb071e80bcf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/dcd9cc3756f86fd314fa4e4c6e90deb071e80bcf",
+                    "reference": "dcd9cc3756f86fd314fa4e4c6e90deb071e80bcf",
+                    "shasum": ""
+                },
+                "time": "2022-11-01T19:34:40+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.2.1",
+                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
+                }
+            },
             "2.3.1": {
                 "name": "impact-canada/impact_bootstrap",
                 "version": "2.3.1",
@@ -139,22 +165,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/impact_bootstrap.git",
-                    "reference": "e48f1fb95f176ef0a0e35ceb1929fa0f671f7d92"
+                    "reference": "dcd9cc3756f86fd314fa4e4c6e90deb071e80bcf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/e48f1fb95f176ef0a0e35ceb1929fa0f671f7d92",
-                    "reference": "e48f1fb95f176ef0a0e35ceb1929fa0f671f7d92",
+                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/dcd9cc3756f86fd314fa4e4c6e90deb071e80bcf",
+                    "reference": "dcd9cc3756f86fd314fa4e4c6e90deb071e80bcf",
                     "shasum": ""
                 },
-                "time": "2022-10-28T09:19:30+00:00",
+                "time": "2022-11-01T19:34:40+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/4.2.x-2.2.x",
+                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.2.1",
                     "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
                 }
             },
