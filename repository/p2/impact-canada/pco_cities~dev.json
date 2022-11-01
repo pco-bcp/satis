@@ -294,12 +294,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/pco_cities.git",
-                    "reference": "c54198e46913b46be8fab73585dc2e26d36a0972"
+                    "reference": "632ebef7d2101f5965767453132680e3ba7ecef2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/c54198e46913b46be8fab73585dc2e26d36a0972",
-                    "reference": "c54198e46913b46be8fab73585dc2e26d36a0972",
+                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/632ebef7d2101f5965767453132680e3ba7ecef2",
+                    "reference": "632ebef7d2101f5965767453132680e3ba7ecef2",
                     "shasum": ""
                 },
                 "require": {
@@ -309,9 +309,9 @@
                     "drupal/smtp": "^1.0",
                     "drupalwxt/wxt": "4.2.4",
                     "drush/drush": ">=9.7",
-                    "impact-canada/impact_bootstrap": "dev-4.2.x-2.2.x"
+                    "impact-canada/impact_bootstrap": "^2.2"
                 },
-                "time": "2022-11-01T15:49:28+00:00",
+                "time": "2022-11-01T19:31:20+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
