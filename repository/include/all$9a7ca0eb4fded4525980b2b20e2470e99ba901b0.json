@@ -670,10 +670,10 @@
                     "issues": "https://github.com/impact-canada/pco_cities/issues"
                 }
             },
-            "2.4.1": {
+            "2.4.0": {
                 "name": "impact-canada/pco_cities",
-                "version": "2.4.1",
-                "version_normalized": "2.4.1.0",
+                "version": "2.4.0",
+                "version_normalized": "2.4.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/pco_cities.git",
@@ -760,7 +760,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/impact-canada/pco_cities/tree/2.4.1",
+                    "source": "https://github.com/impact-canada/pco_cities/tree/2.4.0",
                     "issues": "https://github.com/impact-canada/pco_cities/issues"
                 }
             },
@@ -1329,7 +1329,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/impact-canada/pco_cities/tree/2.4.1",
+                    "source": "https://github.com/impact-canada/pco_cities/tree/2.4.0",
                     "issues": "https://github.com/impact-canada/pco_cities/issues"
                 }
             }
