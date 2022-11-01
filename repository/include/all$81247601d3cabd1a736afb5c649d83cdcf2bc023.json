@@ -27,6 +27,32 @@
                     "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
                 }
             },
+            "2.4.1": {
+                "name": "impact-canada/impact_bootstrap",
+                "version": "2.4.1",
+                "version_normalized": "2.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
+                    "reference": "9a1b417e710ffa766bad7b95b45c0ec5f6672c40"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/9a1b417e710ffa766bad7b95b45c0ec5f6672c40",
+                    "reference": "9a1b417e710ffa766bad7b95b45c0ec5f6672c40",
+                    "shasum": ""
+                },
+                "time": "2022-11-01T17:46:45+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.4.1",
+                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
+                }
+            },
             "dev-3.1.x-1.0.x": {
                 "name": "impact-canada/impact_bootstrap",
                 "version": "dev-3.1.x-1.0.x",
@@ -155,6 +181,32 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.3.1",
+                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
+                }
+            },
+            "dev-4.4.x-2.4.x": {
+                "name": "impact-canada/impact_bootstrap",
+                "version": "dev-4.4.x-2.4.x",
+                "version_normalized": "dev-4.4.x-2.4.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
+                    "reference": "9a1b417e710ffa766bad7b95b45c0ec5f6672c40"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/9a1b417e710ffa766bad7b95b45c0ec5f6672c40",
+                    "reference": "9a1b417e710ffa766bad7b95b45c0ec5f6672c40",
+                    "shasum": ""
+                },
+                "time": "2022-11-01T17:46:45+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.4.1",
                     "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
                 }
             }
@@ -547,12 +599,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/pco_cities.git",
-                    "reference": "16d5ff3c3400380aef0d252408b025bf93d4b56d"
+                    "reference": "c54198e46913b46be8fab73585dc2e26d36a0972"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/16d5ff3c3400380aef0d252408b025bf93d4b56d",
-                    "reference": "16d5ff3c3400380aef0d252408b025bf93d4b56d",
+                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/c54198e46913b46be8fab73585dc2e26d36a0972",
+                    "reference": "c54198e46913b46be8fab73585dc2e26d36a0972",
                     "shasum": ""
                 },
                 "require": {
@@ -562,9 +614,9 @@
                     "drupal/smtp": "^1.0",
                     "drupalwxt/wxt": "4.2.4",
                     "drush/drush": ">=9.7",
-                    "pco-bcp/impact_bootstrap": "dev-4.2.x-2.2.x"
+                    "impact-canada/impact_bootstrap": "dev-4.2.x-2.2.x"
                 },
-                "time": "2022-10-31T15:09:22+00:00",
+                "time": "2022-11-01T15:49:28+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -642,12 +694,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/pco_cities.git",
-                    "reference": "4a401856f2ad13549320723fb1b8e88b34fa3a47"
+                    "reference": "1626f77dae1aca92e01dbe5d7d74baf5a1cd0a4f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/4a401856f2ad13549320723fb1b8e88b34fa3a47",
-                    "reference": "4a401856f2ad13549320723fb1b8e88b34fa3a47",
+                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/1626f77dae1aca92e01dbe5d7d74baf5a1cd0a4f",
+                    "reference": "1626f77dae1aca92e01dbe5d7d74baf5a1cd0a4f",
                     "shasum": ""
                 },
                 "require": {
@@ -656,9 +708,9 @@
                     "drupal/mailgun": "^1.0",
                     "drupalwxt/wxt": "4.3.4",
                     "drush/drush": ">=9.7",
-                    "pco-bcp/impact_bootstrap": "dev-4.3.x-2.3.x"
+                    "impact-canada/impact_bootstrap": "dev-4.3.x-2.3.x"
                 },
-                "time": "2022-10-31T13:49:32+00:00",
+                "time": "2022-11-01T17:27:44+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
