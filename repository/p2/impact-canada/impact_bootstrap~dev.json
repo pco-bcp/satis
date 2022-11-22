@@ -3,6 +3,32 @@
         "impact-canada/impact_bootstrap": [
             {
                 "name": "impact-canada/impact_bootstrap",
+                "version": "dev-15-add-phpcs-to-ddev-on-ici",
+                "version_normalized": "dev-15-add-phpcs-to-ddev-on-ici",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
+                    "reference": "0a516b9cda16d5dec7f6374176515468a7b10a9b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/0a516b9cda16d5dec7f6374176515468a7b10a9b",
+                    "reference": "0a516b9cda16d5dec7f6374176515468a7b10a9b",
+                    "shasum": ""
+                },
+                "time": "2022-11-22T10:32:02+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/15-add-phpcs-to-ddev-on-ici",
+                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
+                }
+            },
+            {
+                "name": "impact-canada/impact_bootstrap",
                 "version": "dev-3.1.x-1.0.x",
                 "version_normalized": "dev-3.1.x-1.0.x",
                 "source": {
