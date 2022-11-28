@@ -131,29 +131,29 @@
                     "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
                 }
             },
-            "dev-15-add-phpcs-to-ddev-on-ici": {
+            "2.4.1": {
                 "name": "impact-canada/impact_bootstrap",
-                "version": "dev-15-add-phpcs-to-ddev-on-ici",
-                "version_normalized": "dev-15-add-phpcs-to-ddev-on-ici",
+                "version": "2.4.1",
+                "version_normalized": "2.4.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/impact_bootstrap.git",
-                    "reference": "0a516b9cda16d5dec7f6374176515468a7b10a9b"
+                    "reference": "6b71159f2e34dc72b5cc5e9d8ded8f82958c7e6e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/0a516b9cda16d5dec7f6374176515468a7b10a9b",
-                    "reference": "0a516b9cda16d5dec7f6374176515468a7b10a9b",
+                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/6b71159f2e34dc72b5cc5e9d8ded8f82958c7e6e",
+                    "reference": "6b71159f2e34dc72b5cc5e9d8ded8f82958c7e6e",
                     "shasum": ""
                 },
-                "time": "2022-11-22T10:32:02+00:00",
+                "time": "2022-11-22T14:46:12+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/15-add-phpcs-to-ddev-on-ici",
+                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.4.1",
                     "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
                 }
             },
@@ -173,7 +173,6 @@
                     "shasum": ""
                 },
                 "time": "2022-11-01T11:14:52+00:00",
-                "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -295,22 +294,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/impact_bootstrap.git",
-                    "reference": "9a1b417e710ffa766bad7b95b45c0ec5f6672c40"
+                    "reference": "6b71159f2e34dc72b5cc5e9d8ded8f82958c7e6e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/9a1b417e710ffa766bad7b95b45c0ec5f6672c40",
-                    "reference": "9a1b417e710ffa766bad7b95b45c0ec5f6672c40",
+                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/6b71159f2e34dc72b5cc5e9d8ded8f82958c7e6e",
+                    "reference": "6b71159f2e34dc72b5cc5e9d8ded8f82958c7e6e",
                     "shasum": ""
                 },
-                "time": "2022-11-01T17:46:45+00:00",
+                "time": "2022-11-22T14:46:12+00:00",
+                "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.4.0",
+                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.4.1",
                     "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
                 }
             }
@@ -790,19 +790,19 @@
                     "issues": "https://github.com/impact-canada/pco_cities/issues"
                 }
             },
-            "dev-15-add-phpcs-to-ddev-on-ici": {
+            "2.4.1": {
                 "name": "impact-canada/pco_cities",
-                "version": "dev-15-add-phpcs-to-ddev-on-ici",
-                "version_normalized": "dev-15-add-phpcs-to-ddev-on-ici",
+                "version": "2.4.1",
+                "version_normalized": "2.4.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/pco_cities.git",
-                    "reference": "ed02fb0c9c544f4424ad4cd173357dfeb9637d90"
+                    "reference": "8b4cd2ad685186a4f6627ec19814bd032528763c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/ed02fb0c9c544f4424ad4cd173357dfeb9637d90",
-                    "reference": "ed02fb0c9c544f4424ad4cd173357dfeb9637d90",
+                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/8b4cd2ad685186a4f6627ec19814bd032528763c",
+                    "reference": "8b4cd2ad685186a4f6627ec19814bd032528763c",
                     "shasum": ""
                 },
                 "require": {
@@ -813,7 +813,7 @@
                     "drush/drush": ">=9.7",
                     "impact-canada/impact_bootstrap": "^2.4"
                 },
-                "time": "2022-11-22T00:00:45+00:00",
+                "time": "2022-11-22T14:47:11+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -880,7 +880,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/impact-canada/pco_cities/tree/15-add-phpcs-to-ddev-on-ici",
+                    "source": "https://github.com/impact-canada/pco_cities/tree/2.4.1",
                     "issues": "https://github.com/impact-canada/pco_cities/issues"
                 }
             },
@@ -909,7 +909,6 @@
                     "impact-canada/impact_bootstrap": "^1.0"
                 },
                 "time": "2022-11-01T22:57:36+00:00",
-                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -1366,12 +1365,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/pco_cities.git",
-                    "reference": "15bdfd1c3c98ac3048d93e92663df25f6b3d71b2"
+                    "reference": "8b4cd2ad685186a4f6627ec19814bd032528763c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/15bdfd1c3c98ac3048d93e92663df25f6b3d71b2",
-                    "reference": "15bdfd1c3c98ac3048d93e92663df25f6b3d71b2",
+                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/8b4cd2ad685186a4f6627ec19814bd032528763c",
+                    "reference": "8b4cd2ad685186a4f6627ec19814bd032528763c",
                     "shasum": ""
                 },
                 "require": {
@@ -1382,7 +1381,8 @@
                     "drush/drush": ">=9.7",
                     "impact-canada/impact_bootstrap": "^2.4"
                 },
-                "time": "2022-10-31T23:14:21+00:00",
+                "time": "2022-11-22T14:47:11+00:00",
+                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -1449,7 +1449,101 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/impact-canada/pco_cities/tree/2.4.0",
+                    "source": "https://github.com/impact-canada/pco_cities/tree/2.4.1",
+                    "issues": "https://github.com/impact-canada/pco_cities/issues"
+                }
+            },
+            "dev-7-phpcs-cleanup": {
+                "name": "impact-canada/pco_cities",
+                "version": "dev-7-phpcs-cleanup",
+                "version_normalized": "dev-7-phpcs-cleanup",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:impact-canada/pco_cities.git",
+                    "reference": "7d008e46cb07f820456fab9a8a006b453f712634"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/7d008e46cb07f820456fab9a8a006b453f712634",
+                    "reference": "7d008e46cb07f820456fab9a8a006b453f712634",
+                    "shasum": ""
+                },
+                "require": {
+                    "cweagans/composer-patches": "^1.6.4",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/mailgun": "^1.0",
+                    "drupalwxt/wxt": "4.4.x-dev",
+                    "drush/drush": ">=9.7",
+                    "impact-canada/impact_bootstrap": "^2.4"
+                },
+                "time": "2022-11-25T19:43:13+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/impact-canada/pco_cities/tree/7-phpcs-cleanup",
                     "issues": "https://github.com/impact-canada/pco_cities/issues"
                 }
             }

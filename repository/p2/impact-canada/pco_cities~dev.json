@@ -3,100 +3,6 @@
         "impact-canada/pco_cities": [
             {
                 "name": "impact-canada/pco_cities",
-                "version": "dev-15-add-phpcs-to-ddev-on-ici",
-                "version_normalized": "dev-15-add-phpcs-to-ddev-on-ici",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:impact-canada/pco_cities.git",
-                    "reference": "ed02fb0c9c544f4424ad4cd173357dfeb9637d90"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/ed02fb0c9c544f4424ad4cd173357dfeb9637d90",
-                    "reference": "ed02fb0c9c544f4424ad4cd173357dfeb9637d90",
-                    "shasum": ""
-                },
-                "require": {
-                    "cweagans/composer-patches": "^1.6.4",
-                    "drupal/core-composer-scaffold": "*",
-                    "drupal/mailgun": "^1.0",
-                    "drupalwxt/wxt": "4.4.x-dev",
-                    "drush/drush": ">=9.7",
-                    "impact-canada/impact_bootstrap": "^2.4"
-                },
-                "time": "2022-11-22T00:00:45+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/impact-canada/pco_cities/tree/15-add-phpcs-to-ddev-on-ici",
-                    "issues": "https://github.com/impact-canada/pco_cities/issues"
-                }
-            },
-            {
-                "name": "impact-canada/pco_cities",
                 "version": "dev-3.1.x-1.0.x",
                 "version_normalized": "dev-3.1.x-1.0.x",
                 "source": {
@@ -120,7 +26,6 @@
                     "impact-canada/impact_bootstrap": "^1.0"
                 },
                 "time": "2022-11-01T22:57:36+00:00",
-                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -577,12 +482,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/pco_cities.git",
-                    "reference": "15bdfd1c3c98ac3048d93e92663df25f6b3d71b2"
+                    "reference": "8b4cd2ad685186a4f6627ec19814bd032528763c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/15bdfd1c3c98ac3048d93e92663df25f6b3d71b2",
-                    "reference": "15bdfd1c3c98ac3048d93e92663df25f6b3d71b2",
+                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/8b4cd2ad685186a4f6627ec19814bd032528763c",
+                    "reference": "8b4cd2ad685186a4f6627ec19814bd032528763c",
                     "shasum": ""
                 },
                 "require": {
@@ -593,7 +498,8 @@
                     "drush/drush": ">=9.7",
                     "impact-canada/impact_bootstrap": "^2.4"
                 },
-                "time": "2022-10-31T23:14:21+00:00",
+                "time": "2022-11-22T14:47:11+00:00",
+                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -660,7 +566,101 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/impact-canada/pco_cities/tree/2.4.0",
+                    "source": "https://github.com/impact-canada/pco_cities/tree/2.4.1",
+                    "issues": "https://github.com/impact-canada/pco_cities/issues"
+                }
+            },
+            {
+                "name": "impact-canada/pco_cities",
+                "version": "dev-7-phpcs-cleanup",
+                "version_normalized": "dev-7-phpcs-cleanup",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:impact-canada/pco_cities.git",
+                    "reference": "7d008e46cb07f820456fab9a8a006b453f712634"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/7d008e46cb07f820456fab9a8a006b453f712634",
+                    "reference": "7d008e46cb07f820456fab9a8a006b453f712634",
+                    "shasum": ""
+                },
+                "require": {
+                    "cweagans/composer-patches": "^1.6.4",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/mailgun": "^1.0",
+                    "drupalwxt/wxt": "4.4.x-dev",
+                    "drush/drush": ">=9.7",
+                    "impact-canada/impact_bootstrap": "^2.4"
+                },
+                "time": "2022-11-25T19:43:13+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/impact-canada/pco_cities/tree/7-phpcs-cleanup",
                     "issues": "https://github.com/impact-canada/pco_cities/issues"
                 }
             }
