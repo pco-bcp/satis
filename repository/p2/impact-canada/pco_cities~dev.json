@@ -3,6 +3,100 @@
         "impact-canada/pco_cities": [
             {
                 "name": "impact-canada/pco_cities",
+                "version": "dev-11-satis-update-on-any-push",
+                "version_normalized": "dev-11-satis-update-on-any-push",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:impact-canada/pco_cities.git",
+                    "reference": "4008e3807ff17340f6625efecd832854d89cd28c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/4008e3807ff17340f6625efecd832854d89cd28c",
+                    "reference": "4008e3807ff17340f6625efecd832854d89cd28c",
+                    "shasum": ""
+                },
+                "require": {
+                    "cweagans/composer-patches": "^1.6.4",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/mailgun": "^1.0",
+                    "drupalwxt/wxt": "4.4.0",
+                    "drush/drush": ">=9.7",
+                    "impact-canada/impact_bootstrap": "^2.4"
+                },
+                "time": "2022-12-19T22:22:55+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/impact-canada/pco_cities/tree/11-satis-update-on-any-push",
+                    "issues": "https://github.com/impact-canada/pco_cities/issues"
+                }
+            },
+            {
+                "name": "impact-canada/pco_cities",
                 "version": "dev-3.1.x-1.0.x",
                 "version_normalized": "dev-3.1.x-1.0.x",
                 "source": {
