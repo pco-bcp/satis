@@ -671,12 +671,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/pco_cities.git",
-                    "reference": "864c0ce6bbf9eca5a1cde55703d9bb356706b5c0"
+                    "reference": "96a82e7db26776da84539c78ffeddbb8676e68a6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/864c0ce6bbf9eca5a1cde55703d9bb356706b5c0",
-                    "reference": "864c0ce6bbf9eca5a1cde55703d9bb356706b5c0",
+                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/96a82e7db26776da84539c78ffeddbb8676e68a6",
+                    "reference": "96a82e7db26776da84539c78ffeddbb8676e68a6",
                     "shasum": ""
                 },
                 "require": {
@@ -687,7 +687,7 @@
                     "drush/drush": ">=9.7",
                     "impact-canada/impact_bootstrap": "^2.4"
                 },
-                "time": "2022-12-19T22:45:31+00:00",
+                "time": "2022-12-20T22:06:50+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -754,7 +754,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/impact-canada/pco_cities/tree/4.4.x-2.4.x",
+                    "source": "https://github.com/impact-canada/pco_cities/tree/7-phpcs-cleanup-duncan",
                     "issues": "https://github.com/impact-canada/pco_cities/issues"
                 }
             }
