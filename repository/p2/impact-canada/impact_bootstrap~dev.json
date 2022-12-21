@@ -157,6 +157,32 @@
                     "source": "https://github.com/impact-canada/impact_bootstrap/tree/4.4.x-2.4.x",
                     "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
                 }
+            },
+            {
+                "name": "impact-canada/impact_bootstrap",
+                "version": "dev-7-phpcs-cleanup",
+                "version_normalized": "dev-7-phpcs-cleanup",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
+                    "reference": "b62b6f0256458a495bb191ef14f756faf053d4a9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/b62b6f0256458a495bb191ef14f756faf053d4a9",
+                    "reference": "b62b6f0256458a495bb191ef14f756faf053d4a9",
+                    "shasum": ""
+                },
+                "time": "2022-12-21T11:41:25+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/7-phpcs-cleanup",
+                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
+                }
             }
         ]
     }
