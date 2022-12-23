@@ -313,32 +313,6 @@
                     "source": "https://github.com/impact-canada/impact_bootstrap/tree/4.4.x-2.4.x",
                     "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
                 }
-            },
-            "dev-7-phpcs-cleanup": {
-                "name": "impact-canada/impact_bootstrap",
-                "version": "dev-7-phpcs-cleanup",
-                "version_normalized": "dev-7-phpcs-cleanup",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
-                    "reference": "d5a8304c906aae8e8825281adec64f0587f45c5e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/d5a8304c906aae8e8825281adec64f0587f45c5e",
-                    "reference": "d5a8304c906aae8e8825281adec64f0587f45c5e",
-                    "shasum": ""
-                },
-                "time": "2022-12-21T13:55:23+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/7-phpcs-cleanup",
-                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
-                }
             }
         },
         "impact-canada/pco_cities": {
