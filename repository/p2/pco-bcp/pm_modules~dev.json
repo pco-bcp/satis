@@ -3,6 +3,33 @@
         "pco-bcp/pm_modules": [
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "1.x-dev",
+                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "51d9f359a720ff3d8de3aed346ef3a35c97c0623"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/51d9f359a720ff3d8de3aed346ef3a35c97c0623",
+                    "reference": "51d9f359a720ff3d8de3aed346ef3a35c97c0623",
+                    "shasum": ""
+                },
+                "time": "2022-12-23T21:21:12+00:00",
+                "default-branch": true,
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.2",
+                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-pco-bcp/asg-web#391--add-single-site-coexist",
                 "version_normalized": "dev-pco-bcp/asg-web#391--add-single-site-coexist",
                 "source": {
