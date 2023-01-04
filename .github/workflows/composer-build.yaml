@@ -13,7 +13,7 @@ jobs:
       - name: Private Composer Registry
         uses: pco-bcp/satis-build@v2
         with:
-          token: ${{ secrets.DS_PAT }} # App/OAuth token, PAT
+          token: ${{ secrets.APP_PAT }} # App/OAuth token, PAT
       - env:
           GIT_EMAIL: bot@github.com
           GIT_NAME: cool-bot
