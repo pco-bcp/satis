@@ -294,15 +294,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/impact_bootstrap.git",
-                    "reference": "eb186bab1dae8e9fa416dd8d2f1fc5c885cd0035"
+                    "reference": "1841dc73de92ed93ae895df2a0453bc7d934cd4a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/eb186bab1dae8e9fa416dd8d2f1fc5c885cd0035",
-                    "reference": "eb186bab1dae8e9fa416dd8d2f1fc5c885cd0035",
+                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/1841dc73de92ed93ae895df2a0453bc7d934cd4a",
+                    "reference": "1841dc73de92ed93ae895df2a0453bc7d934cd4a",
                     "shasum": ""
                 },
-                "time": "2022-12-21T14:23:59+00:00",
+                "time": "2023-01-04T23:51:37+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
