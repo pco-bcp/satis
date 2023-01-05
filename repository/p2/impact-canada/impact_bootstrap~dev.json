@@ -157,6 +157,32 @@
                     "source": "https://github.com/impact-canada/impact_bootstrap/tree/4.4.x-2.4.x",
                     "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
                 }
+            },
+            {
+                "name": "impact-canada/impact_bootstrap",
+                "version": "dev-6-fix-base_url-to-resolve-mixed-content-warnings-for-images",
+                "version_normalized": "dev-6-fix-base_url-to-resolve-mixed-content-warnings-for-images",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
+                    "reference": "1841dc73de92ed93ae895df2a0453bc7d934cd4a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/1841dc73de92ed93ae895df2a0453bc7d934cd4a",
+                    "reference": "1841dc73de92ed93ae895df2a0453bc7d934cd4a",
+                    "shasum": ""
+                },
+                "time": "2023-01-04T23:51:37+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/4.4.x-2.4.x",
+                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
+                }
             }
         ]
     }
