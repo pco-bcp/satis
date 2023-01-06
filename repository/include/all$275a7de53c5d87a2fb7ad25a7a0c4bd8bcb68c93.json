@@ -1632,12 +1632,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/pco_cities.git",
-                    "reference": "d4c039f4e595997e5e336319fe9de9f058af3ecd"
+                    "reference": "ae9a4633f65fd32eccba5a7107789c60e32aef58"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/d4c039f4e595997e5e336319fe9de9f058af3ecd",
-                    "reference": "d4c039f4e595997e5e336319fe9de9f058af3ecd",
+                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/ae9a4633f65fd32eccba5a7107789c60e32aef58",
+                    "reference": "ae9a4633f65fd32eccba5a7107789c60e32aef58",
                     "shasum": ""
                 },
                 "require": {
@@ -1648,7 +1648,7 @@
                     "drush/drush": ">=9.7",
                     "impact-canada/impact_bootstrap": "^2.4"
                 },
-                "time": "2023-01-05T13:51:54+00:00",
+                "time": "2023-01-06T19:42:59+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
