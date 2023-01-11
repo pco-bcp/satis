@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/pco_cities.git",
-                    "reference": "ae9a4633f65fd32eccba5a7107789c60e32aef58"
+                    "reference": "e6614fee829dab1c16e818fe4a589a61c0fd0b48"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/ae9a4633f65fd32eccba5a7107789c60e32aef58",
-                    "reference": "ae9a4633f65fd32eccba5a7107789c60e32aef58",
+                    "url": "https://api.github.com/repos/impact-canada/pco_cities/zipball/e6614fee829dab1c16e818fe4a589a61c0fd0b48",
+                    "reference": "e6614fee829dab1c16e818fe4a589a61c0fd0b48",
                     "shasum": ""
                 },
                 "require": {
@@ -24,7 +24,7 @@
                     "drush/drush": ">=9.7",
                     "impact-canada/impact_bootstrap": "^2.4"
                 },
-                "time": "2023-01-06T19:42:59+00:00",
+                "time": "2023-01-11T20:03:51+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -91,7 +91,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/impact-canada/pco_cities/tree/4.4.x-2.4.x",
+                    "source": "https://github.com/impact-canada/pco_cities/tree/16-challenge-pages-custom-module-throws-error-when-user-enters-a-url-that-is-not-unique",
                     "issues": "https://github.com/impact-canada/pco_cities/issues"
                 }
             },
