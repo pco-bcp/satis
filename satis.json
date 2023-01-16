@@ -2,6 +2,8 @@
     "name": "pco-bcp/satis",
     "homepage": "http://raw.githubusercontent.com/pco-bcp/satis/main/repository",
     "repositories": [
+        { "type": "vcs", "url": "https://github.com/pco-bcp/dpm_modules" },
+        { "type": "vcs", "url": "https://github.com/pco-bcp/dpm_theme" },
         { "type": "vcs", "url": "https://github.com/pco-bcp/pm_modules" },
         { "type": "vcs", "url": "https://github.com/pco-bcp/pm_theme" },
         { "type": "vcs", "url": "https://github.com/impact-canada/pco_cities" },
