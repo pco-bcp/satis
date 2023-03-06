@@ -848,7 +848,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/impact-canada/pco_cities/tree/pco-bcp/asg-web#463--update-wxt-to-4.4.2-2023-03-06",
+                    "source": "https://github.com/impact-canada/pco_cities/tree/2.4.4",
                     "issues": "https://github.com/impact-canada/pco_cities/issues"
                 }
             }
