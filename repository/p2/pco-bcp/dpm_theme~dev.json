@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "0fe528034ef4c4c6dd29d547d28645d5f807d1f1"
+                    "reference": "8fbc25db98d6ef0f56beb31d1c6984b763846cfe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/0fe528034ef4c4c6dd29d547d28645d5f807d1f1",
-                    "reference": "0fe528034ef4c4c6dd29d547d28645d5f807d1f1",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/8fbc25db98d6ef0f56beb31d1c6984b763846cfe",
+                    "reference": "8fbc25db98d6ef0f56beb31d1c6984b763846cfe",
                     "shasum": ""
                 },
-                "time": "2023-03-13T12:15:42+00:00",
+                "time": "2023-03-22T09:45:48+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -24,7 +24,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/1.0.3",
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/1.x",
                     "issues": "https://github.com/pco-bcp/dpm_theme/issues"
                 }
             }
