@@ -8926,15 +8926,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "35f0c37b4286708a2eb124856b0b6077c3c8b2d4"
+                    "reference": "4435a9558d61f4866b432869c24b3049be328523"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/35f0c37b4286708a2eb124856b0b6077c3c8b2d4",
-                    "reference": "35f0c37b4286708a2eb124856b0b6077c3c8b2d4",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4435a9558d61f4866b432869c24b3049be328523",
+                    "reference": "4435a9558d61f4866b432869c24b3049be328523",
                     "shasum": ""
                 },
-                "time": "2023-03-30T10:25:14+00:00",
+                "time": "2023-04-05T10:35:56+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -8942,7 +8942,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.4",
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.x",
                     "issues": "https://github.com/pco-bcp/pm_modules/issues"
                 }
             },
