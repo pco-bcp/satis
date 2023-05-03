@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_modules.git",
-                    "reference": "7cf003c9697218035dc2954d590bc77eefbfb942"
+                    "reference": "2da37f670043406075353ca880b0e4eee77015bc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/7cf003c9697218035dc2954d590bc77eefbfb942",
-                    "reference": "7cf003c9697218035dc2954d590bc77eefbfb942",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/2da37f670043406075353ca880b0e4eee77015bc",
+                    "reference": "2da37f670043406075353ca880b0e4eee77015bc",
                     "shasum": ""
                 },
-                "time": "2023-04-25T09:57:24+00:00",
+                "time": "2023-05-03T19:29:18+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -24,7 +24,33 @@
                 ],
                 "description": "DPM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.5",
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.x",
+                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_modules",
+                "version": "dev-pco-bcp/dpm_modules--fix-admin-toolbar-css-2023-05-03",
+                "version_normalized": "dev-pco-bcp/dpm_modules--fix-admin-toolbar-css-2023-05-03",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "a6029b4489157d33a93a4bb62c26050b0098acc3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/a6029b4489157d33a93a4bb62c26050b0098acc3",
+                    "reference": "a6029b4489157d33a93a4bb62c26050b0098acc3",
+                    "shasum": ""
+                },
+                "time": "2023-05-03T19:27:57+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/pco-bcp/dpm_modules--fix-admin-toolbar-css-2023-05-03",
                     "issues": "https://github.com/pco-bcp/dpm_modules/issues"
                 }
             }

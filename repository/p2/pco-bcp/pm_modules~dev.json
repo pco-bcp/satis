@@ -27,32 +27,6 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.8",
                     "issues": "https://github.com/pco-bcp/pm_modules/issues"
                 }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-fix--admin_toolbar-search-css-2023-05-3",
-                "version_normalized": "dev-fix--admin_toolbar-search-css-2023-05-3",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "b8503141bc084506035ff368fd403a141b48082a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b8503141bc084506035ff368fd403a141b48082a",
-                    "reference": "b8503141bc084506035ff368fd403a141b48082a",
-                    "shasum": ""
-                },
-                "time": "2023-05-03T18:53:41+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix--admin_toolbar-search-css-2023-05-3",
-                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
-                }
             }
         ]
     }
