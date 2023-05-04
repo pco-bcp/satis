@@ -9754,6 +9754,35 @@
                 }
             }
         },
+        "pco-bcp/pco_modules": {
+            "1.x-dev": {
+                "name": "pco-bcp/pco_modules",
+                "version": "1.x-dev",
+                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "bada9092df879ffc6574639fce996b5dc8b48b45"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/bada9092df879ffc6574639fce996b5dc8b48b45",
+                    "reference": "bada9092df879ffc6574639fce996b5dc8b48b45",
+                    "shasum": ""
+                },
+                "time": "2023-05-04T12:21:35+00:00",
+                "default-branch": true,
+                "type": "pco-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.x",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            }
+        },
         "pco-bcp/pm_modules": {
             "1.0.0": {
                 "name": "pco-bcp/pm_modules",
@@ -10006,6 +10035,32 @@
                 },
                 "time": "2023-05-03T18:54:42+00:00",
                 "default-branch": true,
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.8",
+                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
+                }
+            },
+            "dev-fix-deprecated-str_replace-function-in-pm_entitiesadditional-module": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-fix-deprecated-str_replace-function-in-pm_entitiesadditional-module",
+                "version_normalized": "dev-fix-deprecated-str_replace-function-in-pm_entitiesadditional-module",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "f38a6453d2077524fa22c526f4dd6ccc9a0a101c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f38a6453d2077524fa22c526f4dd6ccc9a0a101c",
+                    "reference": "f38a6453d2077524fa22c526f4dd6ccc9a0a101c",
+                    "shasum": ""
+                },
+                "time": "2023-05-03T18:54:42+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"

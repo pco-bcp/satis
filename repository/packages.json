@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$03670cd41161263146d316957d5dcffe03a9d6e1.json": {
-            "sha1": "03670cd41161263146d316957d5dcffe03a9d6e1"
+        "include/all$47190234a8f9a77979e27f9ce6138b091d922d72.json": {
+            "sha1": "47190234a8f9a77979e27f9ce6138b091d922d72"
         }
     },
     "metadata-url": "/pco-bcp/satis/main/repository/p2/%package%.json",
@@ -12,6 +12,7 @@
         "impact-canada/site-pco-impactcanada",
         "pco-bcp/dpm_modules",
         "pco-bcp/dpm_theme",
+        "pco-bcp/pco_modules",
         "pco-bcp/pm_modules",
         "pco-bcp/pm_theme"
     ]

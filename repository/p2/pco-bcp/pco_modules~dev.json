@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "pco-bcp/pco_modules": [
+            {
+                "name": "pco-bcp/pco_modules",
+                "version": "1.x-dev",
+                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "bada9092df879ffc6574639fce996b5dc8b48b45"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/bada9092df879ffc6574639fce996b5dc8b48b45",
+                    "reference": "bada9092df879ffc6574639fce996b5dc8b48b45",
+                    "shasum": ""
+                },
+                "time": "2023-05-04T12:21:35+00:00",
+                "default-branch": true,
+                "type": "pco-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.x",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            }
+        ]
+    }
+}
