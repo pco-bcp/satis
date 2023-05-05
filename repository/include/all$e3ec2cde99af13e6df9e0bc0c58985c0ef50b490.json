@@ -9778,7 +9778,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-html-title",
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.x",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
@@ -9789,15 +9789,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "b10f13bde31db739486ef784474d5f9bc674fdcd"
+                    "reference": "3e3b08e18b4ea4776b2e0341ad201059f41c886e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b10f13bde31db739486ef784474d5f9bc674fdcd",
-                    "reference": "b10f13bde31db739486ef784474d5f9bc674fdcd",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/3e3b08e18b4ea4776b2e0341ad201059f41c886e",
+                    "reference": "3e3b08e18b4ea4776b2e0341ad201059f41c886e",
                     "shasum": ""
                 },
-                "time": "2023-05-05T10:36:01+00:00",
+                "time": "2023-05-05T11:00:47+00:00",
                 "type": "pco-custom-module",
                 "license": [
                     "GPL-2.0+"
