@@ -9762,15 +9762,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "cb35b45b73b2d073f3b9d021b629ad814df45fd9"
+                    "reference": "1c736776adc424329a22233e7cc3ffd6537c3e56"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/cb35b45b73b2d073f3b9d021b629ad814df45fd9",
-                    "reference": "cb35b45b73b2d073f3b9d021b629ad814df45fd9",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1c736776adc424329a22233e7cc3ffd6537c3e56",
+                    "reference": "1c736776adc424329a22233e7cc3ffd6537c3e56",
                     "shasum": ""
                 },
-                "time": "2023-05-09T10:18:01+00:00",
+                "time": "2023-05-09T11:06:22+00:00",
                 "default-branch": true,
                 "type": "pco-custom-module",
                 "license": [
