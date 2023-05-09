@@ -9782,6 +9782,32 @@
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
+            "dev-pco-ckeditorcitation": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-pco-ckeditorcitation",
+                "version_normalized": "dev-pco-ckeditorcitation",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "bff3b6b6af73a4c31e4d43fde6342be3dc86c8a9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/bff3b6b6af73a4c31e4d43fde6342be3dc86c8a9",
+                    "reference": "bff3b6b6af73a4c31e4d43fde6342be3dc86c8a9",
+                    "shasum": ""
+                },
+                "time": "2023-05-09T10:48:12+00:00",
+                "type": "pco-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-ckeditorcitation",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
             "dev-pco-html-title": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-pco-html-title",
