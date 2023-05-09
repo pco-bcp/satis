@@ -56,6 +56,32 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-pco-ckeditornbreakhy",
+                "version_normalized": "dev-pco-ckeditornbreakhy",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "c3112792a516403ec23d3a0b01c2c857b77a7bc3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c3112792a516403ec23d3a0b01c2c857b77a7bc3",
+                    "reference": "c3112792a516403ec23d3a0b01c2c857b77a7bc3",
+                    "shasum": ""
+                },
+                "time": "2023-05-09T12:00:19+00:00",
+                "type": "pco-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-ckeditornbreakhy",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-pco-html-title",
                 "version_normalized": "dev-pco-html-title",
                 "source": {
