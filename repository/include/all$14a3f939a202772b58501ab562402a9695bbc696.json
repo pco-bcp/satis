@@ -9859,6 +9859,32 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/pco-html-title",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
+            },
+            "dev-pco-pm-emailer": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-pco-pm-emailer",
+                "version_normalized": "dev-pco-pm-emailer",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "636bdfc523a63b6c404896ab6626885d6908667f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/636bdfc523a63b6c404896ab6626885d6908667f",
+                    "reference": "636bdfc523a63b6c404896ab6626885d6908667f",
+                    "shasum": ""
+                },
+                "time": "2023-05-10T10:41:00+00:00",
+                "type": "pco-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-pm-emailer",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
             }
         },
         "pco-bcp/pm_modules": {
