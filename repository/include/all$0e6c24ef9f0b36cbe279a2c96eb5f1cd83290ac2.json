@@ -9860,6 +9860,32 @@
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
+            "dev-pco-greetings": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-pco-greetings",
+                "version_normalized": "dev-pco-greetings",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "61cf2c781b616015db113c33f528ac712c6ee67f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/61cf2c781b616015db113c33f528ac712c6ee67f",
+                    "reference": "61cf2c781b616015db113c33f528ac712c6ee67f",
+                    "shasum": ""
+                },
+                "time": "2023-05-12T11:03:35+00:00",
+                "type": "pco-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-greetings",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
             "dev-pco-html-title": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-pco-html-title",
