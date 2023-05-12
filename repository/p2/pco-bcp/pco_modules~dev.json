@@ -82,6 +82,32 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-pco-entitiesadditional",
+                "version_normalized": "dev-pco-entitiesadditional",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "9e308cc7d4e0c7acf125bc1959d8f8c207a9a970"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/9e308cc7d4e0c7acf125bc1959d8f8c207a9a970",
+                    "reference": "9e308cc7d4e0c7acf125bc1959d8f8c207a9a970",
+                    "shasum": ""
+                },
+                "time": "2023-05-12T10:00:31+00:00",
+                "type": "pco-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-entitiesadditional",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-pco-html-title",
                 "version_normalized": "dev-pco-html-title",
                 "source": {
