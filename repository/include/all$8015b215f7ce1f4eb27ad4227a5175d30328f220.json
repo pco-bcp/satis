@@ -9594,6 +9594,32 @@
                     "issues": "https://github.com/pco-bcp/dpm_modules/issues"
                 }
             },
+            "dev-fix--superscript-tag-french-H1-in-email-2023-05-17": {
+                "name": "pco-bcp/dpm_modules",
+                "version": "dev-fix--superscript-tag-french-H1-in-email-2023-05-17",
+                "version_normalized": "dev-fix--superscript-tag-french-H1-in-email-2023-05-17",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "46d713422689ee13d36722f08938b9d22b3cc0da"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/46d713422689ee13d36722f08938b9d22b3cc0da",
+                    "reference": "46d713422689ee13d36722f08938b9d22b3cc0da",
+                    "shasum": ""
+                },
+                "time": "2023-05-17T12:27:32+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/fix--superscript-tag-french-H1-in-email-2023-05-17",
+                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
+                }
+            },
             "dev-pm-module-alignment": {
                 "name": "pco-bcp/dpm_modules",
                 "version": "dev-pm-module-alignment",
