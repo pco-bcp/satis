@@ -53,6 +53,32 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/fix-deprecated-str_replace-function-in-pm_entitiesadditional-module",
                     "issues": "https://github.com/pco-bcp/pm_modules/issues"
                 }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-pm-module-alignment",
+                "version_normalized": "dev-pm-module-alignment",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "09658a3c3133e73c7a18a657a0db2bf4d6925d77"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/09658a3c3133e73c7a18a657a0db2bf4d6925d77",
+                    "reference": "09658a3c3133e73c7a18a657a0db2bf4d6925d77",
+                    "shasum": ""
+                },
+                "time": "2023-05-17T11:36:08+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/pm-module-alignment",
+                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
+                }
             }
         ]
     }

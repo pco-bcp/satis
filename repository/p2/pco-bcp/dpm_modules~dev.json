@@ -27,6 +27,32 @@
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.7",
                     "issues": "https://github.com/pco-bcp/dpm_modules/issues"
                 }
+            },
+            {
+                "name": "pco-bcp/dpm_modules",
+                "version": "dev-pm-module-alignment",
+                "version_normalized": "dev-pm-module-alignment",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "833f1f2da9c20d6795a41696a761f558b32ffc04"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/833f1f2da9c20d6795a41696a761f558b32ffc04",
+                    "reference": "833f1f2da9c20d6795a41696a761f558b32ffc04",
+                    "shasum": ""
+                },
+                "time": "2023-05-17T11:36:43+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/pm-module-alignment",
+                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
+                }
             }
         ]
     }
