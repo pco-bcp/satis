@@ -56,6 +56,32 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-fix-deprecated-str-function-in-pm-admin-module-2023-05-18",
+                "version_normalized": "dev-fix-deprecated-str-function-in-pm-admin-module-2023-05-18",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "9c1fa721a934365487798136f58c93d3eab7a3fb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9c1fa721a934365487798136f58c93d3eab7a3fb",
+                    "reference": "9c1fa721a934365487798136f58c93d3eab7a3fb",
+                    "shasum": ""
+                },
+                "time": "2023-05-18T19:27:07+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix-deprecated-str-function-in-pm-admin-module-2023-05-18",
+                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-fix-deprecated-str_replace-function-in-pm_entitiesadditional-module",
                 "version_normalized": "dev-fix-deprecated-str_replace-function-in-pm_entitiesadditional-module",
                 "source": {
