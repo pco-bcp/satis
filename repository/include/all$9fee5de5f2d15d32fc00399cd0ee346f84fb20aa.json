@@ -9814,15 +9814,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "81dbd4b272778ea32166e41026e02f5ced831f83"
+                    "reference": "e73e33bc4774e195b877eccfdf8be3064cb74d7e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/81dbd4b272778ea32166e41026e02f5ced831f83",
-                    "reference": "81dbd4b272778ea32166e41026e02f5ced831f83",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/e73e33bc4774e195b877eccfdf8be3064cb74d7e",
+                    "reference": "e73e33bc4774e195b877eccfdf8be3064cb74d7e",
                     "shasum": ""
                 },
-                "time": "2023-05-12T10:26:25+00:00",
+                "time": "2023-05-19T10:35:15+00:00",
                 "default-branch": true,
                 "type": "pco-custom-module",
                 "license": [
@@ -9961,32 +9961,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/pco-html-title",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            "dev-pco-metrics": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-metrics",
-                "version_normalized": "dev-pco-metrics",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "658949a0a84f6f6b061660f1198314741c6572dc"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/658949a0a84f6f6b061660f1198314741c6572dc",
-                    "reference": "658949a0a84f6f6b061660f1198314741c6572dc",
-                    "shasum": ""
-                },
-                "time": "2023-05-17T10:44:07+00:00",
-                "type": "pco-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-metrics",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
