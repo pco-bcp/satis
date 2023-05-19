@@ -9964,6 +9964,32 @@
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
+            "dev-pco-metrics": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-pco-metrics",
+                "version_normalized": "dev-pco-metrics",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "229df0b32de02c0baec3e70db901a18a4cf00cc4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/229df0b32de02c0baec3e70db901a18a4cf00cc4",
+                    "reference": "229df0b32de02c0baec3e70db901a18a4cf00cc4",
+                    "shasum": ""
+                },
+                "time": "2023-05-19T10:44:34+00:00",
+                "type": "pco-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-metrics",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
             "dev-pco-pm-emailer": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-pco-pm-emailer",
