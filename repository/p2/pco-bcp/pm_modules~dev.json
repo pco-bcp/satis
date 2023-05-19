@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "4b822e501a69a513002b70877c8453c90d89c2a5"
+                    "reference": "6d0016b3d0db7173045baa892b2f15a82faa6b02"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4b822e501a69a513002b70877c8453c90d89c2a5",
-                    "reference": "4b822e501a69a513002b70877c8453c90d89c2a5",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6d0016b3d0db7173045baa892b2f15a82faa6b02",
+                    "reference": "6d0016b3d0db7173045baa892b2f15a82faa6b02",
                     "shasum": ""
                 },
-                "time": "2023-05-19T18:04:25+00:00",
+                "time": "2023-05-19T18:58:50+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -129,6 +129,32 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/fix-deprecated-str_replace-function-in-pm_entitiesadditional-module",
+                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-pco-bcp/pm_modules--fix-hardcoded-links-for-akamai",
+                "version_normalized": "dev-pco-bcp/pm_modules--fix-hardcoded-links-for-akamai",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "20c11dca8e9871c491da7a12782b8cebb94ea80e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/20c11dca8e9871c491da7a12782b8cebb94ea80e",
+                    "reference": "20c11dca8e9871c491da7a12782b8cebb94ea80e",
+                    "shasum": ""
+                },
+                "time": "2023-05-19T18:57:50+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/pco-bcp/pm_modules--fix-hardcoded-links-for-akamai",
                     "issues": "https://github.com/pco-bcp/pm_modules/issues"
                 }
             },
