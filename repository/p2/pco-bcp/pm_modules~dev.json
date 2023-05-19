@@ -56,6 +56,32 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-fix-css-issue-in-unpub-list-2023-05-18",
+                "version_normalized": "dev-fix-css-issue-in-unpub-list-2023-05-18",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "569e2c467bc111dbcbd76c032784195247eb8d93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/569e2c467bc111dbcbd76c032784195247eb8d93",
+                    "reference": "569e2c467bc111dbcbd76c032784195247eb8d93",
+                    "shasum": ""
+                },
+                "time": "2023-05-19T14:44:56+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix-css-issue-in-unpub-list-2023-05-18",
+                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-fix-deprecated-str-function-in-pm-admin-module-2023-05-18",
                 "version_normalized": "dev-fix-deprecated-str-function-in-pm-admin-module-2023-05-18",
                 "source": {
