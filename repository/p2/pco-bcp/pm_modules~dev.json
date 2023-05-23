@@ -30,6 +30,32 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-fix--#493-recordEmail-undefined-in-pm_subscribe-2023-05-23",
+                "version_normalized": "dev-fix--#493-recordEmail-undefined-in-pm_subscribe-2023-05-23",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "a396f49d75c58dba4dc35b113bccfbbc289e6d4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a396f49d75c58dba4dc35b113bccfbbc289e6d4f",
+                    "reference": "a396f49d75c58dba4dc35b113bccfbbc289e6d4f",
+                    "shasum": ""
+                },
+                "time": "2023-05-23T13:24:54+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix--#493-recordEmail-undefined-in-pm_subscribe-2023-05-23",
+                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-fix--Superscript-french-H1-in-email-2023-05-17",
                 "version_normalized": "dev-fix--Superscript-french-H1-in-email-2023-05-17",
                 "source": {
