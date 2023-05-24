@@ -9834,6 +9834,32 @@
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
+            "dev-everything": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-everything",
+                "version_normalized": "dev-everything",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "9d12fab5bac05de6ec91b642582afb324a78e907"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/9d12fab5bac05de6ec91b642582afb324a78e907",
+                    "reference": "9d12fab5bac05de6ec91b642582afb324a78e907",
+                    "shasum": ""
+                },
+                "time": "2023-05-24T12:17:57+00:00",
+                "type": "pco-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/everything",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
             "dev-pco-ckeditorcitation": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-pco-ckeditorcitation",
@@ -9997,15 +10023,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "69f18cb6cdcf4bf69911efa524825747fa59d644"
+                    "reference": "ef0828f2e565a876ef2a321c91aa9688bce9fcd2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/69f18cb6cdcf4bf69911efa524825747fa59d644",
-                    "reference": "69f18cb6cdcf4bf69911efa524825747fa59d644",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/ef0828f2e565a876ef2a321c91aa9688bce9fcd2",
+                    "reference": "ef0828f2e565a876ef2a321c91aa9688bce9fcd2",
                     "shasum": ""
                 },
-                "time": "2023-05-17T10:50:54+00:00",
+                "time": "2023-05-24T12:15:19+00:00",
                 "type": "pco-custom-module",
                 "license": [
                     "GPL-2.0+"
