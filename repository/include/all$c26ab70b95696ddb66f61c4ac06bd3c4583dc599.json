@@ -10067,6 +10067,32 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/pco-subscribe-admin",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
+            },
+            "dev-pco-varnish": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-pco-varnish",
+                "version_normalized": "dev-pco-varnish",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "b5c95fa9bed61de64dfae3fa2c0b6b2f4b71ff57"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b5c95fa9bed61de64dfae3fa2c0b6b2f4b71ff57",
+                    "reference": "b5c95fa9bed61de64dfae3fa2c0b6b2f4b71ff57",
+                    "shasum": ""
+                },
+                "time": "2023-05-26T11:19:39+00:00",
+                "type": "pco-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-varnish",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
             }
         },
         "pco-bcp/pm_modules": {
