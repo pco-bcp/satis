@@ -10049,15 +10049,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "0d8eff55aa02d037a009cc6b6d4f12b4ea4d6346"
+                    "reference": "153e63d3fabbb3e2352b308a7c626d7d087b3c36"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/0d8eff55aa02d037a009cc6b6d4f12b4ea4d6346",
-                    "reference": "0d8eff55aa02d037a009cc6b6d4f12b4ea4d6346",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/153e63d3fabbb3e2352b308a7c626d7d087b3c36",
+                    "reference": "153e63d3fabbb3e2352b308a7c626d7d087b3c36",
                     "shasum": ""
                 },
-                "time": "2023-06-05T11:48:48+00:00",
+                "time": "2023-06-05T13:18:15+00:00",
                 "type": "pco-custom-module",
                 "license": [
                     "GPL-2.0+"
