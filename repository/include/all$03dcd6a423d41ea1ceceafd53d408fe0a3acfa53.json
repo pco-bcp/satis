@@ -10042,6 +10042,32 @@
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
+            "dev-pco-subscribe": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-pco-subscribe",
+                "version_normalized": "dev-pco-subscribe",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "0d8eff55aa02d037a009cc6b6d4f12b4ea4d6346"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/0d8eff55aa02d037a009cc6b6d4f12b4ea4d6346",
+                    "reference": "0d8eff55aa02d037a009cc6b6d4f12b4ea4d6346",
+                    "shasum": ""
+                },
+                "time": "2023-06-05T11:48:48+00:00",
+                "type": "pco-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-subscribe",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
             "dev-pco-subscribe-admin": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-pco-subscribe-admin",
