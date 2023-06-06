@@ -10075,15 +10075,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "72d7b2962c45da8c3c901d6c0be3e86564dbbce0"
+                    "reference": "a328486affd7048b2316b91afca60a88620e0a9d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/72d7b2962c45da8c3c901d6c0be3e86564dbbce0",
-                    "reference": "72d7b2962c45da8c3c901d6c0be3e86564dbbce0",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a328486affd7048b2316b91afca60a88620e0a9d",
+                    "reference": "a328486affd7048b2316b91afca60a88620e0a9d",
                     "shasum": ""
                 },
-                "time": "2023-05-26T10:41:17+00:00",
+                "time": "2023-06-06T10:56:18+00:00",
                 "type": "pco-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -10101,15 +10101,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "b5c95fa9bed61de64dfae3fa2c0b6b2f4b71ff57"
+                    "reference": "2ecabd64ef0f1366352cbea6118f759f83ce3e72"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b5c95fa9bed61de64dfae3fa2c0b6b2f4b71ff57",
-                    "reference": "b5c95fa9bed61de64dfae3fa2c0b6b2f4b71ff57",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2ecabd64ef0f1366352cbea6118f759f83ce3e72",
+                    "reference": "2ecabd64ef0f1366352cbea6118f759f83ce3e72",
                     "shasum": ""
                 },
-                "time": "2023-05-26T11:19:39+00:00",
+                "time": "2023-06-06T10:56:42+00:00",
                 "type": "pco-custom-module",
                 "license": [
                     "GPL-2.0+"
