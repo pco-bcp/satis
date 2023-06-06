@@ -7128,7 +7128,6 @@
                     "squizlabs/php_codesniffer": "^3.3"
                 },
                 "time": "2023-03-20T15:51:52+00:00",
-                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
@@ -7293,6 +7292,7 @@
                     "squizlabs/php_codesniffer": "^3.3"
                 },
                 "time": "2023-05-02T14:43:01+00:00",
+                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
@@ -9919,15 +9919,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "ed87bc01f854edfa5dcf00986189bbc5331524c1"
+                    "reference": "588414ee531c8db793532a03d02330a3a3928942"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/ed87bc01f854edfa5dcf00986189bbc5331524c1",
-                    "reference": "ed87bc01f854edfa5dcf00986189bbc5331524c1",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/588414ee531c8db793532a03d02330a3a3928942",
+                    "reference": "588414ee531c8db793532a03d02330a3a3928942",
                     "shasum": ""
                 },
-                "time": "2023-05-24T12:12:43+00:00",
+                "time": "2023-06-06T10:15:35+00:00",
                 "type": "pco-custom-module",
                 "license": [
                     "GPL-2.0+"
