@@ -9574,15 +9574,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_modules.git",
-                    "reference": "0ea380d24877818a7e10130e5911f3a6270998ae"
+                    "reference": "e8bdf03f8fe2831303c158decad8b185e41752c5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/0ea380d24877818a7e10130e5911f3a6270998ae",
-                    "reference": "0ea380d24877818a7e10130e5911f3a6270998ae",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/e8bdf03f8fe2831303c158decad8b185e41752c5",
+                    "reference": "e8bdf03f8fe2831303c158decad8b185e41752c5",
                     "shasum": ""
                 },
-                "time": "2023-06-07T10:22:53+00:00",
+                "time": "2023-06-07T10:23:47+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -9591,58 +9591,6 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/1.x",
-                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
-                }
-            },
-            "dev-fix--superscript-tag-french-H1-in-email-2023-05-17": {
-                "name": "pco-bcp/dpm_modules",
-                "version": "dev-fix--superscript-tag-french-H1-in-email-2023-05-17",
-                "version_normalized": "dev-fix--superscript-tag-french-H1-in-email-2023-05-17",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_modules.git",
-                    "reference": "8a3144a00a2a3e32fdc0d66068664df2b91060e9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/8a3144a00a2a3e32fdc0d66068664df2b91060e9",
-                    "reference": "8a3144a00a2a3e32fdc0d66068664df2b91060e9",
-                    "shasum": ""
-                },
-                "time": "2023-05-17T12:42:24+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/fix--superscript-tag-french-H1-in-email-2023-05-17",
-                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
-                }
-            },
-            "dev-pm-module-alignment": {
-                "name": "pco-bcp/dpm_modules",
-                "version": "dev-pm-module-alignment",
-                "version_normalized": "dev-pm-module-alignment",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_modules.git",
-                    "reference": "f10a4ce3eb77ea7f2a4df22d74cd12ace3217a32"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/f10a4ce3eb77ea7f2a4df22d74cd12ace3217a32",
-                    "reference": "f10a4ce3eb77ea7f2a4df22d74cd12ace3217a32",
-                    "shasum": ""
-                },
-                "time": "2023-05-18T11:39:31+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/pm-module-alignment",
                     "issues": "https://github.com/pco-bcp/dpm_modules/issues"
                 }
             }
@@ -10572,15 +10520,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "8bc96119fa58058d36cd010ca029411b38282368"
+                    "reference": "30fecc148d68fc60f0b93892f7cb395d6f6e38a1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8bc96119fa58058d36cd010ca029411b38282368",
-                    "reference": "8bc96119fa58058d36cd010ca029411b38282368",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/30fecc148d68fc60f0b93892f7cb395d6f6e38a1",
+                    "reference": "30fecc148d68fc60f0b93892f7cb395d6f6e38a1",
                     "shasum": ""
                 },
-                "time": "2023-05-18T11:40:02+00:00",
+                "time": "2023-06-07T10:52:06+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
