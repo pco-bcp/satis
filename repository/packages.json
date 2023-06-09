@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$da9f078d6cfb61d00616886b4819b356214b99a9.json": {
-            "sha1": "da9f078d6cfb61d00616886b4819b356214b99a9"
+        "include/all$11df06901ab693a81767d60e24495cc4a55f6217.json": {
+            "sha1": "11df06901ab693a81767d60e24495cc4a55f6217"
         }
     },
     "metadata-url": "/pco-bcp/satis/main/repository/p2/%package%.json",
