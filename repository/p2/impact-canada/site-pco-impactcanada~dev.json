@@ -4085,17 +4085,17 @@
             },
             {
                 "name": "impact-canada/site-pco-impactcanada",
-                "version": "dev-fix-fakeobjects-constraints-2023-06-13",
-                "version_normalized": "dev-fix-fakeobjects-constraints-2023-06-13",
+                "version": "dev-drupal-security-modules-version2-2023-06-13",
+                "version_normalized": "dev-drupal-security-modules-version2-2023-06-13",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:impact-canada/site-pco-impactcanada.git",
-                    "reference": "9d2bbf3fe8728e6231c4d7550d75b439c66f8207"
+                    "reference": "7c019c70672261a7fd16f119ccbc855633f42d7a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/site-pco-impactcanada/zipball/9d2bbf3fe8728e6231c4d7550d75b439c66f8207",
-                    "reference": "9d2bbf3fe8728e6231c4d7550d75b439c66f8207",
+                    "url": "https://api.github.com/repos/impact-canada/site-pco-impactcanada/zipball/7c019c70672261a7fd16f119ccbc855633f42d7a",
+                    "reference": "7c019c70672261a7fd16f119ccbc855633f42d7a",
                     "shasum": ""
                 },
                 "require": {
@@ -4109,7 +4109,6 @@
                     "drupal/config_filter": "^1.5",
                     "drupal/config_split": "^1.4",
                     "drupal/config_update": "^1.7",
-                    "drupal/content_access": "^2.0@RC",
                     "drupal/core-composer-scaffold": "*",
                     "drupal/entity_browser": "2.9.0 as 2.8.0",
                     "drupal/features": "^3.12",
@@ -4117,7 +4116,6 @@
                     "drupal/field_permissions": "^1.1",
                     "drupal/ga_login": "^1.0@alpha",
                     "drupal/google_analytics": "^4.0",
-                    "drupal/hacked": "^2.0@beta",
                     "drupal/honeypot": "^2.1",
                     "drupal/login_security": "^2.0",
                     "drupal/mailsystem": "^4.3",
@@ -4141,16 +4139,17 @@
                 },
                 "require-dev": {
                     "drupal/console": "~1.9.0",
-                    "drupal/console-extend-plugin": "0.9.5",
+                    "drupal/core-composer-scaffold": "*",
                     "drupal/core-dev": "^9",
-                    "drupal/drupal-extension": "^4.2",
+                    "drupal/drupal-extension": "^4.1.0",
                     "mglaman/drupal-check": "^1.4",
+                    "oomphinc/composer-installers-extender": "^1.1 || ^2",
                     "palantirnet/drupal-rector": "^0.15.1",
                     "phpspec/prophecy-phpunit": "^2",
                     "rector/rector": "~0.15.2",
-                    "squizlabs/php_codesniffer": "^3.3"
+                    "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2023-06-13T17:46:11+00:00",
+                "time": "2023-06-14T15:17:10+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
@@ -4204,8 +4203,8 @@
                             "Error after saving node drupal 8.7 issue": "https://www.drupal.org/files/issues/2019-02-11/ignore_width_height_on_untranslatable_field_comparision_2941092_8.patch",
                             "str_replace patch": "https://www.drupal.org/files/issues/2022-07-07/3294680-2.patch"
                         },
-                        "drupal/login_security": {
-                            "Readme issue on help page": "https://www.drupal.org/files/issues/2022-12-16/3327553-4.patch"
+                        "drupal/moderation_dashboard": {
+                            "strpos issue for moderation_dashboard": "https://gist.githubusercontent.com/mazz0016/35c03e7dfed329eae3fad2aff00125eb/raw/b0f06b6169b8ad88b5c2e7c96fa2e601aa3d2f4f/395-strpos-moderation_dashboard-error.patch"
                         }
                     },
                     "patches-ignore": {
@@ -4248,7 +4247,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/impact-canada/site-pco-impactcanada/tree/fix-fakeobjects-constraints-2023-06-13",
+                    "source": "https://github.com/impact-canada/site-pco-impactcanada/tree/drupal-security-modules-version2-2023-06-13",
                     "issues": "https://github.com/impact-canada/site-pco-impactcanada/issues"
                 }
             },
