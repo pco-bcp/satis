@@ -10437,6 +10437,32 @@
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/1.x",
                     "issues": "https://github.com/pco-bcp/dpm_modules/issues"
                 }
+            },
+            "dev-refactor-reduce-pm-admin": {
+                "name": "pco-bcp/dpm_modules",
+                "version": "dev-refactor-reduce-pm-admin",
+                "version_normalized": "dev-refactor-reduce-pm-admin",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "16e8aca9c26003db2f44929f769c59036362c513"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/16e8aca9c26003db2f44929f769c59036362c513",
+                    "reference": "16e8aca9c26003db2f44929f769c59036362c513",
+                    "shasum": ""
+                },
+                "time": "2023-06-20T10:30:01+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/refactor-reduce-pm-admin",
+                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
+                }
             }
         },
         "pco-bcp/dpm_theme": {
@@ -11406,6 +11432,32 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/pm-module-alignment",
+                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
+                }
+            },
+            "dev-refactor-reduce-pm-admin": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-refactor-reduce-pm-admin",
+                "version_normalized": "dev-refactor-reduce-pm-admin",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "632e463a93f638cc0a52dbea37eff4c2822c7a6e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/632e463a93f638cc0a52dbea37eff4c2822c7a6e",
+                    "reference": "632e463a93f638cc0a52dbea37eff4c2822c7a6e",
+                    "shasum": ""
+                },
+                "time": "2023-06-20T10:26:53+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/refactor-reduce-pm-admin",
                     "issues": "https://github.com/pco-bcp/pm_modules/issues"
                 }
             }
