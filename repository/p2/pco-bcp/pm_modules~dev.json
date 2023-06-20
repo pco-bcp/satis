@@ -160,6 +160,32 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-fix-new-phpcs-errors",
+                "version_normalized": "dev-fix-new-phpcs-errors",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "7f8d0ed045a2bbc9550db939090af273f38d90ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7f8d0ed045a2bbc9550db939090af273f38d90ca",
+                    "reference": "7f8d0ed045a2bbc9550db939090af273f38d90ca",
+                    "shasum": ""
+                },
+                "time": "2023-06-20T11:44:25+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix-new-phpcs-errors",
+                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-pco-bcp/pm_modules--fix-hardcoded-links-for-akamai",
                 "version_normalized": "dev-pco-bcp/pm_modules--fix-hardcoded-links-for-akamai",
                 "source": {
