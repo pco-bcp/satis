@@ -238,6 +238,32 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-pm-photo-update",
+                "version_normalized": "dev-pm-photo-update",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "35c7f18e033b68882a20ebbf49808932ca4b0ad0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/35c7f18e033b68882a20ebbf49808932ca4b0ad0",
+                    "reference": "35c7f18e033b68882a20ebbf49808932ca4b0ad0",
+                    "shasum": ""
+                },
+                "time": "2023-06-23T13:29:59+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/pm-photo-update",
+                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-refactor-reduce-pm-admin",
                 "version_normalized": "dev-refactor-reduce-pm-admin",
                 "source": {
