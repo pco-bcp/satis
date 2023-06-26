@@ -10450,32 +10450,6 @@
                     "issues": "https://github.com/pco-bcp/dpm_modules/issues"
                 }
             },
-            "dev-fix-new-phpcs-errors": {
-                "name": "pco-bcp/dpm_modules",
-                "version": "dev-fix-new-phpcs-errors",
-                "version_normalized": "dev-fix-new-phpcs-errors",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_modules.git",
-                    "reference": "52254cb39656f5baddd0a78d6932e131692a7f15"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/52254cb39656f5baddd0a78d6932e131692a7f15",
-                    "reference": "52254cb39656f5baddd0a78d6932e131692a7f15",
-                    "shasum": ""
-                },
-                "time": "2023-06-20T11:45:32+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/fix-new-phpcs-errors",
-                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
-                }
-            },
             "dev-refactor-reduce-pm-admin": {
                 "name": "pco-bcp/dpm_modules",
                 "version": "dev-refactor-reduce-pm-admin",
@@ -10483,15 +10457,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_modules.git",
-                    "reference": "16e8aca9c26003db2f44929f769c59036362c513"
+                    "reference": "4060302e56c253448045e19e3895fc53af6f55e9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/16e8aca9c26003db2f44929f769c59036362c513",
-                    "reference": "16e8aca9c26003db2f44929f769c59036362c513",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/4060302e56c253448045e19e3895fc53af6f55e9",
+                    "reference": "4060302e56c253448045e19e3895fc53af6f55e9",
                     "shasum": ""
                 },
-                "time": "2023-06-20T10:30:01+00:00",
+                "time": "2023-06-26T10:57:06+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
