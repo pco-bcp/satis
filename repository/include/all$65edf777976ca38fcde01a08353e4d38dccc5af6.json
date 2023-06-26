@@ -11291,162 +11291,6 @@
                     "issues": "https://github.com/pco-bcp/pm_modules/issues"
                 }
             },
-            "dev-fix--#493-recordEmail-undefined-in-pm_subscribe-2023-05-23": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-fix--#493-recordEmail-undefined-in-pm_subscribe-2023-05-23",
-                "version_normalized": "dev-fix--#493-recordEmail-undefined-in-pm_subscribe-2023-05-23",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "a396f49d75c58dba4dc35b113bccfbbc289e6d4f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a396f49d75c58dba4dc35b113bccfbbc289e6d4f",
-                    "reference": "a396f49d75c58dba4dc35b113bccfbbc289e6d4f",
-                    "shasum": ""
-                },
-                "time": "2023-05-23T13:24:54+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix--#493-recordEmail-undefined-in-pm_subscribe-2023-05-23",
-                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
-                }
-            },
-            "dev-fix--Superscript-french-H1-in-email-2023-05-17": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-fix--Superscript-french-H1-in-email-2023-05-17",
-                "version_normalized": "dev-fix--Superscript-french-H1-in-email-2023-05-17",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "dabaa3e7626534f5c6a7d6a1183de5147401db90"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/dabaa3e7626534f5c6a7d6a1183de5147401db90",
-                    "reference": "dabaa3e7626534f5c6a7d6a1183de5147401db90",
-                    "shasum": ""
-                },
-                "time": "2023-05-17T13:04:11+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix--Superscript-french-H1-in-email-2023-05-17",
-                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
-                }
-            },
-            "dev-fix-css-issue-in-unpub-list-2023-05-18": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-fix-css-issue-in-unpub-list-2023-05-18",
-                "version_normalized": "dev-fix-css-issue-in-unpub-list-2023-05-18",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "569e2c467bc111dbcbd76c032784195247eb8d93"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/569e2c467bc111dbcbd76c032784195247eb8d93",
-                    "reference": "569e2c467bc111dbcbd76c032784195247eb8d93",
-                    "shasum": ""
-                },
-                "time": "2023-05-19T14:44:56+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix-css-issue-in-unpub-list-2023-05-18",
-                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
-                }
-            },
-            "dev-fix-deprecated-str-function-in-pm-admin-module-2023-05-18": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-fix-deprecated-str-function-in-pm-admin-module-2023-05-18",
-                "version_normalized": "dev-fix-deprecated-str-function-in-pm-admin-module-2023-05-18",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "9c1fa721a934365487798136f58c93d3eab7a3fb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9c1fa721a934365487798136f58c93d3eab7a3fb",
-                    "reference": "9c1fa721a934365487798136f58c93d3eab7a3fb",
-                    "shasum": ""
-                },
-                "time": "2023-05-18T19:27:07+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix-deprecated-str-function-in-pm-admin-module-2023-05-18",
-                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
-                }
-            },
-            "dev-fix-deprecated-str_replace-function-in-pm_entitiesadditional-module": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-fix-deprecated-str_replace-function-in-pm_entitiesadditional-module",
-                "version_normalized": "dev-fix-deprecated-str_replace-function-in-pm_entitiesadditional-module",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2c242d7ccc8d4dc3d9998675334f46a42629d5a2"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2c242d7ccc8d4dc3d9998675334f46a42629d5a2",
-                    "reference": "2c242d7ccc8d4dc3d9998675334f46a42629d5a2",
-                    "shasum": ""
-                },
-                "time": "2023-05-04T15:59:15+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix-deprecated-str_replace-function-in-pm_entitiesadditional-module",
-                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
-                }
-            },
-            "dev-pco-bcp/pm_modules--fix-hardcoded-links-for-akamai": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-pco-bcp/pm_modules--fix-hardcoded-links-for-akamai",
-                "version_normalized": "dev-pco-bcp/pm_modules--fix-hardcoded-links-for-akamai",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "20c11dca8e9871c491da7a12782b8cebb94ea80e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/20c11dca8e9871c491da7a12782b8cebb94ea80e",
-                    "reference": "20c11dca8e9871c491da7a12782b8cebb94ea80e",
-                    "shasum": ""
-                },
-                "time": "2023-05-19T18:57:50+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/pco-bcp/pm_modules--fix-hardcoded-links-for-akamai",
-                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
-                }
-            },
             "dev-pm-module-alignment": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-pm-module-alignment",
@@ -11454,15 +11298,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "30fecc148d68fc60f0b93892f7cb395d6f6e38a1"
+                    "reference": "a646d26854c7258a871d07db1c4d164946ca0771"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/30fecc148d68fc60f0b93892f7cb395d6f6e38a1",
-                    "reference": "30fecc148d68fc60f0b93892f7cb395d6f6e38a1",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a646d26854c7258a871d07db1c4d164946ca0771",
+                    "reference": "a646d26854c7258a871d07db1c4d164946ca0771",
                     "shasum": ""
                 },
-                "time": "2023-06-07T10:52:06+00:00",
+                "time": "2023-06-26T10:54:57+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
