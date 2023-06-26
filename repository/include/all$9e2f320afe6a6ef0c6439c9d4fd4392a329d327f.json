@@ -10801,16 +10801,16 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "3ca33a3fdf3e239dbf0148a4ba73d7bf7123f987"
+                    "reference": "4f5aa57a651fa41e5a09ee83d8da12d4c3600d1d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/3ca33a3fdf3e239dbf0148a4ba73d7bf7123f987",
-                    "reference": "3ca33a3fdf3e239dbf0148a4ba73d7bf7123f987",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4f5aa57a651fa41e5a09ee83d8da12d4c3600d1d",
+                    "reference": "4f5aa57a651fa41e5a09ee83d8da12d4c3600d1d",
                     "shasum": ""
                 },
-                "time": "2023-06-06T10:53:40+00:00",
-                "type": "pco-custom-module",
+                "time": "2023-06-26T11:20:23+00:00",
+                "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -10827,16 +10827,16 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "ba4ac6a80d5af5b4b99942200602d8d0d0853e20"
+                    "reference": "47329a3b59fe93f6a8070f7d31ab4caffc956cf2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/ba4ac6a80d5af5b4b99942200602d8d0d0853e20",
-                    "reference": "ba4ac6a80d5af5b4b99942200602d8d0d0853e20",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/47329a3b59fe93f6a8070f7d31ab4caffc956cf2",
+                    "reference": "47329a3b59fe93f6a8070f7d31ab4caffc956cf2",
                     "shasum": ""
                 },
-                "time": "2023-06-06T10:53:57+00:00",
-                "type": "pco-custom-module",
+                "time": "2023-06-26T11:19:49+00:00",
+                "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
