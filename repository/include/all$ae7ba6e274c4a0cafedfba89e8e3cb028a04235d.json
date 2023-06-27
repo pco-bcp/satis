@@ -10670,15 +10670,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "27b3745d2914ae4bd1f641599b1ddfad02035bff"
+                    "reference": "2e4f3115a59e11dfd167f419821a61a8e80bf43b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/27b3745d2914ae4bd1f641599b1ddfad02035bff",
-                    "reference": "27b3745d2914ae4bd1f641599b1ddfad02035bff",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2e4f3115a59e11dfd167f419821a61a8e80bf43b",
+                    "reference": "2e4f3115a59e11dfd167f419821a61a8e80bf43b",
                     "shasum": ""
                 },
-                "time": "2023-06-21T17:25:38+00:00",
+                "time": "2023-06-27T14:15:50+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -10686,7 +10686,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-metrics",
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.x",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
@@ -10843,32 +10843,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/pco-html-title",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            "dev-pco-metrics": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-metrics",
-                "version_normalized": "dev-pco-metrics",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "27b3745d2914ae4bd1f641599b1ddfad02035bff"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/27b3745d2914ae4bd1f641599b1ddfad02035bff",
-                    "reference": "27b3745d2914ae4bd1f641599b1ddfad02035bff",
-                    "shasum": ""
-                },
-                "time": "2023-06-21T17:25:38+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-metrics",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
