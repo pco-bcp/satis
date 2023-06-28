@@ -2404,12 +2404,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "93a8b2d655eaebb2828a3905f463df97016d56f9"
+                    "reference": "e425bc9bbc5b670d8dbe1f1c543b1658b0331934"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/93a8b2d655eaebb2828a3905f463df97016d56f9",
-                    "reference": "93a8b2d655eaebb2828a3905f463df97016d56f9",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/e425bc9bbc5b670d8dbe1f1c543b1658b0331934",
+                    "reference": "e425bc9bbc5b670d8dbe1f1c543b1658b0331934",
                     "shasum": ""
                 },
                 "require": {
@@ -2418,9 +2418,9 @@
                     "drupal/mailgun": "^1.0",
                     "drupalwxt/wxt": "4.5.2",
                     "drush/drush": ">=9.7",
-                    "impact-canada/impact_bootstrap": "^2.4"
+                    "pco-bcp/impact_bootstrap": "^2.4"
                 },
-                "time": "2023-06-28T13:37:32+00:00",
+                "time": "2023-06-28T18:22:21+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -8120,22 +8120,26 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "6e841e26238c5594c23c96ecf7925eb072c88e0c"
+                    "reference": "445bdbce3e3f62a9adbce4d73f305ceec75709c9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/6e841e26238c5594c23c96ecf7925eb072c88e0c",
-                    "reference": "6e841e26238c5594c23c96ecf7925eb072c88e0c",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/445bdbce3e3f62a9adbce4d73f305ceec75709c9",
+                    "reference": "445bdbce3e3f62a9adbce4d73f305ceec75709c9",
                     "shasum": ""
                 },
                 "require": {
+                    "ckeditor/fakeobjects": "4.18.0 as 4.17.1",
                     "cweagans/composer-patches": "^1.7",
                     "drupal/admin_toolbar": "^3.2.1",
+                    "drupal/autologout": "^1.4",
                     "drupal/blazy": "^2.7",
                     "drupal/cache_control_override": "^1.0@alpha",
+                    "drupal/captcha": "^1.10",
                     "drupal/config_filter": "^1.5",
                     "drupal/config_split": "^1.4",
                     "drupal/config_update": "^1.7",
+                    "drupal/content_access": "^2.0@RC",
                     "drupal/core-composer-scaffold": "*",
                     "drupal/entity_browser": "2.9.0 as 2.8.0",
                     "drupal/features": "^3.12",
@@ -8143,14 +8147,18 @@
                     "drupal/field_permissions": "^1.1",
                     "drupal/ga_login": "^1.0@alpha",
                     "drupal/google_analytics": "^4.0",
+                    "drupal/hacked": "^2.0@beta",
                     "drupal/honeypot": "^2.1",
+                    "drupal/login_security": "^2.0",
                     "drupal/mailsystem": "^4.3",
                     "drupal/moderation_dashboard": "^1.0",
                     "drupal/openapi_jsonapi": "^3.0",
+                    "drupal/password_policy": "4.0.0 as 3.2.0",
                     "drupal/phpmailer_smtp": "^2.1",
                     "drupal/real_aes": "^2.4",
                     "drupal/scheduled_updates": "dev-3172330-module-is-not",
                     "drupal/search_api": "1.27.0 as 1.26.0",
+                    "drupal/seckit": "^2.0",
                     "drupal/simple_oauth": "^5.2",
                     "drupal/simple_sitemap": "^3.8",
                     "drupal/tfa": "^1.0@alpha",
@@ -8164,16 +8172,17 @@
                 },
                 "require-dev": {
                     "drupal/console": "~1.9.0",
-                    "drupal/console-extend-plugin": "0.9.5",
+                    "drupal/core-composer-scaffold": "*",
                     "drupal/core-dev": "^9",
-                    "drupal/drupal-extension": "^4.2",
+                    "drupal/drupal-extension": "^4.1.0",
                     "mglaman/drupal-check": "^1.4",
+                    "oomphinc/composer-installers-extender": "^1.1 || ^2",
                     "palantirnet/drupal-rector": "^0.15.1",
                     "phpspec/prophecy-phpunit": "^2",
                     "rector/rector": "~0.15.2",
-                    "squizlabs/php_codesniffer": "^3.3"
+                    "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2023-06-28T13:36:31+00:00",
+                "time": "2023-06-28T17:54:20+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -8230,6 +8239,9 @@
                         },
                         "drupal/moderation_dashboard": {
                             "strpos issue for moderation_dashboard": "https://gist.githubusercontent.com/mazz0016/35c03e7dfed329eae3fad2aff00125eb/raw/b0f06b6169b8ad88b5c2e7c96fa2e601aa3d2f4f/395-strpos-moderation_dashboard-error.patch"
+                        },
+                        "drupal/login_security": {
+                            "Readme issue on help page": "https://www.drupal.org/files/issues/2022-12-16/3327553-4.patch"
                         }
                     },
                     "patches-ignore": {
