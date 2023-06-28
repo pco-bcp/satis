@@ -56,6 +56,32 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-pco-ckeditorcitation",
+                "version_normalized": "dev-pco-ckeditorcitation",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "c34a662a173e32c1d9ca17ee5b15d5df930b2ac1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c34a662a173e32c1d9ca17ee5b15d5df930b2ac1",
+                    "reference": "c34a662a173e32c1d9ca17ee5b15d5df930b2ac1",
+                    "shasum": ""
+                },
+                "time": "2023-06-26T11:21:07+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-ckeditorcitation",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-pco-entitiesadditional",
                 "version_normalized": "dev-pco-entitiesadditional",
                 "source": {
