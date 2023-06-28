@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "aad64dd5a4ab576db8a9d794ed9a19083c6cedf0"
+                    "reference": "b19239326011903a172764761d6a0ba37298fe98"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/aad64dd5a4ab576db8a9d794ed9a19083c6cedf0",
-                    "reference": "aad64dd5a4ab576db8a9d794ed9a19083c6cedf0",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b19239326011903a172764761d6a0ba37298fe98",
+                    "reference": "b19239326011903a172764761d6a0ba37298fe98",
                     "shasum": ""
                 },
-                "time": "2023-06-28T16:10:55+00:00",
+                "time": "2023-06-28T16:47:06+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -51,32 +51,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/pco-article-metatag",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-ckeditorcitation",
-                "version_normalized": "dev-pco-ckeditorcitation",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "c34a662a173e32c1d9ca17ee5b15d5df930b2ac1"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c34a662a173e32c1d9ca17ee5b15d5df930b2ac1",
-                    "reference": "c34a662a173e32c1d9ca17ee5b15d5df930b2ac1",
-                    "shasum": ""
-                },
-                "time": "2023-06-26T11:21:07+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-ckeditorcitation",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
