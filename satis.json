@@ -9,7 +9,10 @@
         { "type": "vcs", "url": "https://github.com/pco-bcp/pm_theme" },
         { "type": "vcs", "url": "https://github.com/impact-canada/pco_cities" },
         { "type": "vcs", "url": "https://github.com/impact-canada/impact_bootstrap" },
-        { "type": "vcs", "url": "https://github.com/impact-canada/site-pco-impactcanada" }
+        { "type": "vcs", "url": "https://github.com/impact-canada/site-pco-impactcanada" },
+        { "type": "vcs", "url": "https://github.com/pco-bcp/pco_cities" },
+        { "type": "vcs", "url": "https://github.com/pco-bcp/impact_bootstrap" },
+        { "type": "vcs", "url": "https://github.com/pco-bcp/site-pco-impactcanada" }
     ],
     "require-all": true,
     "output-dir": "repository"
