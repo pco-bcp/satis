@@ -2327,7 +2327,6 @@
                     "impact-canada/impact_bootstrap": "^2.4"
                 },
                 "time": "2023-06-28T13:54:07+00:00",
-                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -2422,6 +2421,7 @@
                     "impact-canada/impact_bootstrap": "^2.4"
                 },
                 "time": "2023-06-28T13:37:32+00:00",
+                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -2621,15 +2621,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "2e4f3115a59e11dfd167f419821a61a8e80bf43b"
+                    "reference": "aad64dd5a4ab576db8a9d794ed9a19083c6cedf0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2e4f3115a59e11dfd167f419821a61a8e80bf43b",
-                    "reference": "2e4f3115a59e11dfd167f419821a61a8e80bf43b",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/aad64dd5a4ab576db8a9d794ed9a19083c6cedf0",
+                    "reference": "aad64dd5a4ab576db8a9d794ed9a19083c6cedf0",
                     "shasum": ""
                 },
-                "time": "2023-06-27T14:15:50+00:00",
+                "time": "2023-06-28T16:10:55+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -2664,32 +2664,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/pco-article-metatag",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            "dev-pco-ckeditornbreakhy": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-ckeditornbreakhy",
-                "version_normalized": "dev-pco-ckeditornbreakhy",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "2f95c3e73c2497ced59efc638686c342f95f518f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2f95c3e73c2497ced59efc638686c342f95f518f",
-                    "reference": "2f95c3e73c2497ced59efc638686c342f95f518f",
-                    "shasum": ""
-                },
-                "time": "2023-06-26T11:20:47+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-ckeditornbreakhy",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
