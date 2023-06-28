@@ -92,7 +92,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.x-1.0.x",
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/1.0.0",
                     "issues": "https://github.com/pco-bcp/pco_cities/issues"
                 }
             },
@@ -187,7 +187,7 @@
                 ],
                 "description": "Installation profile template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/4.0.x-2.0.x",
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/2.0.0",
                     "issues": "https://github.com/pco-bcp/pco_cities/issues"
                 }
             },
@@ -282,7 +282,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/4.1.x-2.1.x",
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/2.1.0",
                     "issues": "https://github.com/pco-bcp/pco_cities/issues"
                 }
             },
@@ -377,7 +377,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/4.2.x-2.2.x",
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/2.2.0",
                     "issues": "https://github.com/pco-bcp/pco_cities/issues"
                 }
             },
