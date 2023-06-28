@@ -7,12 +7,12 @@
                 "version_normalized": "dev-3.1.x-1.0.x",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
                     "reference": "cada134af22fb6e74131fe214cba2315176492d2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/cada134af22fb6e74131fe214cba2315176492d2",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/cada134af22fb6e74131fe214cba2315176492d2",
                     "reference": "cada134af22fb6e74131fe214cba2315176492d2",
                     "shasum": ""
                 },
@@ -23,8 +23,8 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/1.0.0",
-                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.x-1.0.x",
+                    "issues": "https://github.com/pco-bcp/impact_bootstrap/issues"
                 }
             },
             {
@@ -33,12 +33,12 @@
                 "version_normalized": "dev-4.0.x-2.0.x",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
                     "reference": "94c24754fcde37b54c710d82a3c8b778dc24af5b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/94c24754fcde37b54c710d82a3c8b778dc24af5b",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/94c24754fcde37b54c710d82a3c8b778dc24af5b",
                     "reference": "94c24754fcde37b54c710d82a3c8b778dc24af5b",
                     "shasum": ""
                 },
@@ -49,8 +49,8 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.0.0",
-                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.0.x-2.0.x",
+                    "issues": "https://github.com/pco-bcp/impact_bootstrap/issues"
                 }
             },
             {
@@ -59,12 +59,12 @@
                 "version_normalized": "dev-4.1.x-2.1.x",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
                     "reference": "f52f70aa7956789cacd3f6a391e714b0ad538fbd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/f52f70aa7956789cacd3f6a391e714b0ad538fbd",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/f52f70aa7956789cacd3f6a391e714b0ad538fbd",
                     "reference": "f52f70aa7956789cacd3f6a391e714b0ad538fbd",
                     "shasum": ""
                 },
@@ -75,8 +75,8 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.1.0",
-                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.1.x-2.1.x",
+                    "issues": "https://github.com/pco-bcp/impact_bootstrap/issues"
                 }
             },
             {
@@ -85,12 +85,12 @@
                 "version_normalized": "dev-4.2.x-2.2.x",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
                     "reference": "dcd9cc3756f86fd314fa4e4c6e90deb071e80bcf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/dcd9cc3756f86fd314fa4e4c6e90deb071e80bcf",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/dcd9cc3756f86fd314fa4e4c6e90deb071e80bcf",
                     "reference": "dcd9cc3756f86fd314fa4e4c6e90deb071e80bcf",
                     "shasum": ""
                 },
@@ -101,8 +101,8 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.2.0",
-                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.2.x-2.2.x",
+                    "issues": "https://github.com/pco-bcp/impact_bootstrap/issues"
                 }
             },
             {
@@ -111,12 +111,12 @@
                 "version_normalized": "dev-4.3.x-2.3.x",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
                     "reference": "f4c8a04749203f0eff53380dfc8c8ae10916691a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/f4c8a04749203f0eff53380dfc8c8ae10916691a",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/f4c8a04749203f0eff53380dfc8c8ae10916691a",
                     "reference": "f4c8a04749203f0eff53380dfc8c8ae10916691a",
                     "shasum": ""
                 },
@@ -127,8 +127,8 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/4.3.x-2.3.x",
-                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.3.x-2.3.x",
+                    "issues": "https://github.com/pco-bcp/impact_bootstrap/issues"
                 }
             },
             {
@@ -137,12 +137,12 @@
                 "version_normalized": "dev-4.4.x-2.4.x",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:impact-canada/impact_bootstrap.git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
                     "reference": "313e78614c3a086d480083832c60d73dd0795340"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/impact-canada/impact_bootstrap/zipball/313e78614c3a086d480083832c60d73dd0795340",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/313e78614c3a086d480083832c60d73dd0795340",
                     "reference": "313e78614c3a086d480083832c60d73dd0795340",
                     "shasum": ""
                 },
@@ -154,8 +154,8 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/impact-canada/impact_bootstrap/tree/2.4.2",
-                    "issues": "https://github.com/impact-canada/impact_bootstrap/issues"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.4.x-2.4.x",
+                    "issues": "https://github.com/pco-bcp/impact_bootstrap/issues"
                 }
             }
         ]
