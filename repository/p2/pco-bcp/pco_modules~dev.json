@@ -30,6 +30,32 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-add-hml-title",
+                "version_normalized": "dev-add-hml-title",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "c448cbbe527654089b32fb96dda21973b04f8966"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c448cbbe527654089b32fb96dda21973b04f8966",
+                    "reference": "c448cbbe527654089b32fb96dda21973b04f8966",
+                    "shasum": ""
+                },
+                "time": "2023-06-30T10:09:51+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/add-hml-title",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-pco-article-metatag",
                 "version_normalized": "dev-pco-article-metatag",
                 "source": {
