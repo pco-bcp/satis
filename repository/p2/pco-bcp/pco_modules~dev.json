@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "b19239326011903a172764761d6a0ba37298fe98"
+                    "reference": "817c65b53da7c93a0d9827a83c9e67bc55ccb29c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b19239326011903a172764761d6a0ba37298fe98",
-                    "reference": "b19239326011903a172764761d6a0ba37298fe98",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/817c65b53da7c93a0d9827a83c9e67bc55ccb29c",
+                    "reference": "817c65b53da7c93a0d9827a83c9e67bc55ccb29c",
                     "shasum": ""
                 },
-                "time": "2023-06-28T16:47:06+00:00",
+                "time": "2023-07-04T13:33:56+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -25,32 +25,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1.x",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-add-hml-title",
-                "version_normalized": "dev-add-hml-title",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "c448cbbe527654089b32fb96dda21973b04f8966"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c448cbbe527654089b32fb96dda21973b04f8966",
-                    "reference": "c448cbbe527654089b32fb96dda21973b04f8966",
-                    "shasum": ""
-                },
-                "time": "2023-06-30T10:09:51+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/add-hml-title",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
