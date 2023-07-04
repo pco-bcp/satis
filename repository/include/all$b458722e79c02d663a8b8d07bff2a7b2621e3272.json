@@ -2916,6 +2916,32 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/pco-subscribe-admin",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
+            },
+            "dev-remove-pco-html-title-module": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-remove-pco-html-title-module",
+                "version_normalized": "dev-remove-pco-html-title-module",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "dd5b416a94a9630b83b5af3f7a192565f95ba26e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/dd5b416a94a9630b83b5af3f7a192565f95ba26e",
+                    "reference": "dd5b416a94a9630b83b5af3f7a192565f95ba26e",
+                    "shasum": ""
+                },
+                "time": "2023-07-04T15:17:46+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/remove-pco-html-title-module",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
             }
         },
         "pco-bcp/pm_modules": {
