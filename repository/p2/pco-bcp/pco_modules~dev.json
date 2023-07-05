@@ -235,6 +235,32 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/remove-pco-html-title-module",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-remove-pco-varnish",
+                "version_normalized": "dev-remove-pco-varnish",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "12371f610c30d45d45f40480f02a8fed8bca1711"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/12371f610c30d45d45f40480f02a8fed8bca1711",
+                    "reference": "12371f610c30d45d45f40480f02a8fed8bca1711",
+                    "shasum": ""
+                },
+                "time": "2023-07-05T10:09:36+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/remove-pco-varnish",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
             }
         ]
     }
