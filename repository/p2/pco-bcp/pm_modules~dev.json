@@ -82,6 +82,32 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-pm-video-update",
+                "version_normalized": "dev-pm-video-update",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "4c7646e2b1a12564589d4334bfd16693ba555d2e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4c7646e2b1a12564589d4334bfd16693ba555d2e",
+                    "reference": "4c7646e2b1a12564589d4334bfd16693ba555d2e",
+                    "shasum": ""
+                },
+                "time": "2023-07-06T12:40:25+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/pm-video-update",
+                    "issues": "https://github.com/pco-bcp/pm_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-refactor-reduce-pm-admin",
                 "version_normalized": "dev-refactor-reduce-pm-admin",
                 "source": {
