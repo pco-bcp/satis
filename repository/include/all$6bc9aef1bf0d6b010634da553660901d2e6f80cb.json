@@ -2715,15 +2715,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "39b185580d25902c504d0784c49d32c8531c9348"
+                    "reference": "79f8b40aa4fa3a46036306733e28fcb42277fdc3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/39b185580d25902c504d0784c49d32c8531c9348",
-                    "reference": "39b185580d25902c504d0784c49d32c8531c9348",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/79f8b40aa4fa3a46036306733e28fcb42277fdc3",
+                    "reference": "79f8b40aa4fa3a46036306733e28fcb42277fdc3",
                     "shasum": ""
                 },
-                "time": "2023-07-17T16:15:37+00:00",
+                "time": "2023-07-17T17:24:28+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -2732,32 +2732,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1.x",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            "dev-pco-entitiesadditional": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-entitiesadditional",
-                "version_normalized": "dev-pco-entitiesadditional",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "2220f8cf47e547b134329e229e7a085b2dd4d630"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2220f8cf47e547b134329e229e7a085b2dd4d630",
-                    "reference": "2220f8cf47e547b134329e229e7a085b2dd4d630",
-                    "shasum": ""
-                },
-                "time": "2023-07-17T11:13:48+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-entitiesadditional",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             }
