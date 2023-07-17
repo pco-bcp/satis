@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "0f7bd962aa6b5a207ac5c6756183518aee5a8b40"
+                    "reference": "28f1caf4bb8d1c072d6013c2aa10e66004bacd77"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/0f7bd962aa6b5a207ac5c6756183518aee5a8b40",
-                    "reference": "0f7bd962aa6b5a207ac5c6756183518aee5a8b40",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/28f1caf4bb8d1c072d6013c2aa10e66004bacd77",
+                    "reference": "28f1caf4bb8d1c072d6013c2aa10e66004bacd77",
                     "shasum": ""
                 },
-                "time": "2023-07-17T14:58:15+00:00",
+                "time": "2023-07-17T16:15:14+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -77,84 +77,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/pco-greetings",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-pm-emailer",
-                "version_normalized": "dev-pco-pm-emailer",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "adace943cfc1617247c0f46b8da787530d0dc533"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/adace943cfc1617247c0f46b8da787530d0dc533",
-                    "reference": "adace943cfc1617247c0f46b8da787530d0dc533",
-                    "shasum": ""
-                },
-                "time": "2023-07-17T11:15:09+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-pm-emailer",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-subscribe",
-                "version_normalized": "dev-pco-subscribe",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "6c1ce56d7df2c49260f19003220deeac2edd778f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/6c1ce56d7df2c49260f19003220deeac2edd778f",
-                    "reference": "6c1ce56d7df2c49260f19003220deeac2edd778f",
-                    "shasum": ""
-                },
-                "time": "2023-07-17T11:15:27+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-subscribe",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-subscribe-admin",
-                "version_normalized": "dev-pco-subscribe-admin",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a4497fba574936bfb586e40e3109f12a45842e61"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a4497fba574936bfb586e40e3109f12a45842e61",
-                    "reference": "a4497fba574936bfb586e40e3109f12a45842e61",
-                    "shasum": ""
-                },
-                "time": "2023-07-17T11:15:45+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-subscribe-admin",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             }
