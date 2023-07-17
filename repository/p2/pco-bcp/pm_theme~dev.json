@@ -27,6 +27,32 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1.x",
                     "issues": "https://github.com/pco-bcp/pm_theme/issues"
                 }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-fix-missing-span-pco_alias-2023-07-17",
+                "version_normalized": "dev-fix-missing-span-pco_alias-2023-07-17",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "62a2eea113fb73e1421567afea32ec85dd8e40ad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/62a2eea113fb73e1421567afea32ec85dd8e40ad",
+                    "reference": "62a2eea113fb73e1421567afea32ec85dd8e40ad",
+                    "shasum": ""
+                },
+                "time": "2023-07-17T23:39:18+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/fix-missing-span-pco_alias-2023-07-17",
+                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                }
             }
         ]
     }
