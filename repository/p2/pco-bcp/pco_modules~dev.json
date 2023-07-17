@@ -35,15 +35,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "89d36b90de9afe0b0ad43b68206d6e7277591d5c"
+                    "reference": "1a3b4fc50b3df7213cf4ab3fe9ca2d58a004e87d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/89d36b90de9afe0b0ad43b68206d6e7277591d5c",
-                    "reference": "89d36b90de9afe0b0ad43b68206d6e7277591d5c",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1a3b4fc50b3df7213cf4ab3fe9ca2d58a004e87d",
+                    "reference": "1a3b4fc50b3df7213cf4ab3fe9ca2d58a004e87d",
                     "shasum": ""
                 },
-                "time": "2023-06-26T11:14:46+00:00",
+                "time": "2023-07-17T11:13:02+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -103,32 +103,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/pco-greetings",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-html-title",
-                "version_normalized": "dev-pco-html-title",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "47329a3b59fe93f6a8070f7d31ab4caffc956cf2"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/47329a3b59fe93f6a8070f7d31ab4caffc956cf2",
-                    "reference": "47329a3b59fe93f6a8070f7d31ab4caffc956cf2",
-                    "shasum": ""
-                },
-                "time": "2023-06-26T11:19:49+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-html-title",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
