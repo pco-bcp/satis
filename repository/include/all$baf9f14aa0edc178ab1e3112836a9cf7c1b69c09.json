@@ -2768,15 +2768,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "328a79c946557549d01ba1c96462c1ae17d95ce0"
+                    "reference": "2220f8cf47e547b134329e229e7a085b2dd4d630"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/328a79c946557549d01ba1c96462c1ae17d95ce0",
-                    "reference": "328a79c946557549d01ba1c96462c1ae17d95ce0",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2220f8cf47e547b134329e229e7a085b2dd4d630",
+                    "reference": "2220f8cf47e547b134329e229e7a085b2dd4d630",
                     "shasum": ""
                 },
-                "time": "2023-06-26T11:21:24+00:00",
+                "time": "2023-07-17T11:13:48+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -2794,15 +2794,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "4f5aa57a651fa41e5a09ee83d8da12d4c3600d1d"
+                    "reference": "d27dc4abe4aa1ea32dffc603e3435329a2503ea4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4f5aa57a651fa41e5a09ee83d8da12d4c3600d1d",
-                    "reference": "4f5aa57a651fa41e5a09ee83d8da12d4c3600d1d",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d27dc4abe4aa1ea32dffc603e3435329a2503ea4",
+                    "reference": "d27dc4abe4aa1ea32dffc603e3435329a2503ea4",
                     "shasum": ""
                 },
-                "time": "2023-06-26T11:20:23+00:00",
+                "time": "2023-07-17T11:14:21+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
