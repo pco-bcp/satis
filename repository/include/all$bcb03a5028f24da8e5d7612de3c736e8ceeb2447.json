@@ -2741,15 +2741,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "79f8b40aa4fa3a46036306733e28fcb42277fdc3"
+                    "reference": "b3028e2b8eaff8a51d8e75cbd72b32e5242e4660"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/79f8b40aa4fa3a46036306733e28fcb42277fdc3",
-                    "reference": "79f8b40aa4fa3a46036306733e28fcb42277fdc3",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b3028e2b8eaff8a51d8e75cbd72b32e5242e4660",
+                    "reference": "b3028e2b8eaff8a51d8e75cbd72b32e5242e4660",
                     "shasum": ""
                 },
-                "time": "2023-07-17T17:24:28+00:00",
+                "time": "2023-07-19T17:30:32+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -2810,58 +2810,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix-final-codescan-issues",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            "dev-fix-refactor-pco_emailer-2023-07-19": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-fix-refactor-pco_emailer-2023-07-19",
-                "version_normalized": "dev-fix-refactor-pco_emailer-2023-07-19",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "3489a6ea67c677ba4bf9b21070f717f4019012c9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/3489a6ea67c677ba4bf9b21070f717f4019012c9",
-                    "reference": "3489a6ea67c677ba4bf9b21070f717f4019012c9",
-                    "shasum": ""
-                },
-                "time": "2023-07-19T17:05:55+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix-refactor-pco_emailer-2023-07-19",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            "dev-refactor-pco_news_emailer-2023-07-18": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-refactor-pco_news_emailer-2023-07-18",
-                "version_normalized": "dev-refactor-pco_news_emailer-2023-07-18",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "c1cf0910b733211e1aebe0049522985de7610bf7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c1cf0910b733211e1aebe0049522985de7610bf7",
-                    "reference": "c1cf0910b733211e1aebe0049522985de7610bf7",
-                    "shasum": ""
-                },
-                "time": "2023-07-19T13:18:28+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/refactor-pco_news_emailer-2023-07-18",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             }
