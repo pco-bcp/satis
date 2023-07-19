@@ -2761,6 +2761,32 @@
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
+            "dev-develop-eslint-scan": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-develop-eslint-scan",
+                "version_normalized": "dev-develop-eslint-scan",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "97755f3178d369c9b3ce4f6c68a9880ce98fb7df"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/97755f3178d369c9b3ce4f6c68a9880ce98fb7df",
+                    "reference": "97755f3178d369c9b3ce4f6c68a9880ce98fb7df",
+                    "shasum": ""
+                },
+                "time": "2023-07-19T11:12:19+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/develop-eslint-scan",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
             "dev-fix-final-codescan-issues": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix-final-codescan-issues",
