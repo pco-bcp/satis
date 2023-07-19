@@ -79,6 +79,32 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix-final-codescan-issues",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-fix-pco_emailer-for-subscriber-2023-07-19",
+                "version_normalized": "dev-fix-pco_emailer-for-subscriber-2023-07-19",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "c487b8f3bab5a8bdb2544e2ab2047304fd354195"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c487b8f3bab5a8bdb2544e2ab2047304fd354195",
+                    "reference": "c487b8f3bab5a8bdb2544e2ab2047304fd354195",
+                    "shasum": ""
+                },
+                "time": "2023-07-19T18:01:59+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix-pco_emailer-for-subscriber-2023-07-19",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
             }
         ]
     }
