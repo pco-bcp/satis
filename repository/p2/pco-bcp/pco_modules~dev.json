@@ -108,6 +108,32 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-fix-deprecation-erros-2023-07-21",
+                "version_normalized": "dev-fix-deprecation-erros-2023-07-21",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "a999c0193ed1da0404a058f66cdb39e984867d05"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a999c0193ed1da0404a058f66cdb39e984867d05",
+                    "reference": "a999c0193ed1da0404a058f66cdb39e984867d05",
+                    "shasum": ""
+                },
+                "time": "2023-07-21T19:18:47+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix-deprecation-erros-2023-07-21",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix-final-codescan-issues",
                 "version_normalized": "dev-fix-final-codescan-issues",
                 "source": {
