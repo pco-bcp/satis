@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "8b19d3c8af9ff015131d67193a9467585ed0c63a"
+                    "reference": "9ec571c17d37abfd1c636a513b94679736556539"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/8b19d3c8af9ff015131d67193a9467585ed0c63a",
-                    "reference": "8b19d3c8af9ff015131d67193a9467585ed0c63a",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/9ec571c17d37abfd1c636a513b94679736556539",
+                    "reference": "9ec571c17d37abfd1c636a513b94679736556539",
                     "shasum": ""
                 },
-                "time": "2023-07-19T20:12:58+00:00",
+                "time": "2023-07-21T18:16:58+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -77,32 +77,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-fix-errors-when-running-rector-2023-07-21",
-                "version_normalized": "dev-fix-errors-when-running-rector-2023-07-21",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "031dc49a8a73ce52a2a90316f3b7f9f8728f3b1c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/031dc49a8a73ce52a2a90316f3b7f9f8728f3b1c",
-                    "reference": "031dc49a8a73ce52a2a90316f3b7f9f8728f3b1c",
-                    "shasum": ""
-                },
-                "time": "2023-07-21T16:12:35+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix-errors-when-running-rector-2023-07-21",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
