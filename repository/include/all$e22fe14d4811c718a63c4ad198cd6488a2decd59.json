@@ -2741,15 +2741,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "9ec571c17d37abfd1c636a513b94679736556539"
+                    "reference": "0c0956a52766fba30741783ee8ffbcf3bfa9468a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/9ec571c17d37abfd1c636a513b94679736556539",
-                    "reference": "9ec571c17d37abfd1c636a513b94679736556539",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/0c0956a52766fba30741783ee8ffbcf3bfa9468a",
+                    "reference": "0c0956a52766fba30741783ee8ffbcf3bfa9468a",
                     "shasum": ""
                 },
-                "time": "2023-07-21T18:16:58+00:00",
+                "time": "2023-07-21T19:54:33+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -2810,58 +2810,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            "dev-fix--wrong-prefix-chosen-in-french-2023-07-21": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-fix--wrong-prefix-chosen-in-french-2023-07-21",
-                "version_normalized": "dev-fix--wrong-prefix-chosen-in-french-2023-07-21",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "f4656415e2dc18f2f69b8382db99375e22016bd0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/f4656415e2dc18f2f69b8382db99375e22016bd0",
-                    "reference": "f4656415e2dc18f2f69b8382db99375e22016bd0",
-                    "shasum": ""
-                },
-                "time": "2023-07-21T18:28:02+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix--wrong-prefix-chosen-in-french-2023-07-21",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            "dev-fix-deprecation-erros-2023-07-21": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-fix-deprecation-erros-2023-07-21",
-                "version_normalized": "dev-fix-deprecation-erros-2023-07-21",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a999c0193ed1da0404a058f66cdb39e984867d05"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a999c0193ed1da0404a058f66cdb39e984867d05",
-                    "reference": "a999c0193ed1da0404a058f66cdb39e984867d05",
-                    "shasum": ""
-                },
-                "time": "2023-07-21T19:18:47+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix-deprecation-erros-2023-07-21",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
