@@ -3520,6 +3520,32 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/fix-missing-span-pco_alias-2023-07-17",
                     "issues": "https://github.com/pco-bcp/pm_theme/issues"
                 }
+            },
+            "dev-hide-sort-order-for-cabinet-page-2023-07-24": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-hide-sort-order-for-cabinet-page-2023-07-24",
+                "version_normalized": "dev-hide-sort-order-for-cabinet-page-2023-07-24",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "8b586faf064919ec311cd0872b21d43befd1c8ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8b586faf064919ec311cd0872b21d43befd1c8ca",
+                    "reference": "8b586faf064919ec311cd0872b21d43befd1c8ca",
+                    "shasum": ""
+                },
+                "time": "2023-07-24T22:11:14+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/hide-sort-order-for-cabinet-page-2023-07-24",
+                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                }
             }
         },
         "pco-bcp/site-pco-impactcanada": {
