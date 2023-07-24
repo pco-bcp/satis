@@ -2767,15 +2767,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "0c0956a52766fba30741783ee8ffbcf3bfa9468a"
+                    "reference": "7dc5906149bbff925859f5104a099a51f16391b7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/0c0956a52766fba30741783ee8ffbcf3bfa9468a",
-                    "reference": "0c0956a52766fba30741783ee8ffbcf3bfa9468a",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7dc5906149bbff925859f5104a099a51f16391b7",
+                    "reference": "7dc5906149bbff925859f5104a099a51f16391b7",
                     "shasum": ""
                 },
-                "time": "2023-07-21T19:54:33+00:00",
+                "time": "2023-07-24T13:19:39+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -2836,32 +2836,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            "dev-fix-depreaction-errors-parl-sec-2023-07-24": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-fix-depreaction-errors-parl-sec-2023-07-24",
-                "version_normalized": "dev-fix-depreaction-errors-parl-sec-2023-07-24",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "edcf3d0d29a199ae53de9bb1e5eee7674adfe6e2"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/edcf3d0d29a199ae53de9bb1e5eee7674adfe6e2",
-                    "reference": "edcf3d0d29a199ae53de9bb1e5eee7674adfe6e2",
-                    "shasum": ""
-                },
-                "time": "2023-07-24T11:20:48+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix-depreaction-errors-parl-sec-2023-07-24",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
