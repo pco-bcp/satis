@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "cfe7d677afe171d2e70223181430fba776dc02dc"
+                    "reference": "8055abd920b70ac695a44a63047f555d80f9f906"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/cfe7d677afe171d2e70223181430fba776dc02dc",
-                    "reference": "cfe7d677afe171d2e70223181430fba776dc02dc",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8055abd920b70ac695a44a63047f555d80f9f906",
+                    "reference": "8055abd920b70ac695a44a63047f555d80f9f906",
                     "shasum": ""
                 },
-                "time": "2023-07-18T20:06:33+00:00",
+                "time": "2023-07-25T12:47:21+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -87,15 +87,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4adf9d9543f96955b572733f0b0ce6230804445d"
+                    "reference": "c76a4a27fb5d96d29af2582f04c8504de776af4f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4adf9d9543f96955b572733f0b0ce6230804445d",
-                    "reference": "4adf9d9543f96955b572733f0b0ce6230804445d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c76a4a27fb5d96d29af2582f04c8504de776af4f",
+                    "reference": "c76a4a27fb5d96d29af2582f04c8504de776af4f",
                     "shasum": ""
                 },
-                "time": "2023-07-25T12:24:50+00:00",
+                "time": "2023-07-25T12:46:41+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
