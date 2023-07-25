@@ -79,6 +79,32 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/hide-sort-order-for-cabinet-page-2023-07-24",
                     "issues": "https://github.com/pco-bcp/pm_theme/issues"
                 }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-hide-sort-order-for-cabinet-page-2023-07-25",
+                "version_normalized": "dev-hide-sort-order-for-cabinet-page-2023-07-25",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "4adf9d9543f96955b572733f0b0ce6230804445d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4adf9d9543f96955b572733f0b0ce6230804445d",
+                    "reference": "4adf9d9543f96955b572733f0b0ce6230804445d",
+                    "shasum": ""
+                },
+                "time": "2023-07-25T12:24:50+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/hide-sort-order-for-cabinet-page-2023-07-25",
+                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                }
             }
         ]
     }
