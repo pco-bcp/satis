@@ -2916,6 +2916,32 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix-final-codescan-issues",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
+            },
+            "dev-fix-issue-for-deprecated_function_strtotime-pco_metrics-2023-08-02": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-fix-issue-for-deprecated_function_strtotime-pco_metrics-2023-08-02",
+                "version_normalized": "dev-fix-issue-for-deprecated_function_strtotime-pco_metrics-2023-08-02",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "8defc56027030618e6f887b7d14b4ab7357245e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/8defc56027030618e6f887b7d14b4ab7357245e2",
+                    "reference": "8defc56027030618e6f887b7d14b4ab7357245e2",
+                    "shasum": ""
+                },
+                "time": "2023-08-02T20:13:18+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix-issue-for-deprecated_function_strtotime-pco_metrics-2023-08-02",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
             }
         },
         "pco-bcp/pm_modules": {
