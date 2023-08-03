@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_modules.git",
-                    "reference": "d2d5891d76c70c40d7b770b6d3e0ad17017fcb24"
+                    "reference": "7b4577329ea496cfbc2ae339a6adf0e432bf98a1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/d2d5891d76c70c40d7b770b6d3e0ad17017fcb24",
-                    "reference": "d2d5891d76c70c40d7b770b6d3e0ad17017fcb24",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/7b4577329ea496cfbc2ae339a6adf0e432bf98a1",
+                    "reference": "7b4577329ea496cfbc2ae339a6adf0e432bf98a1",
                     "shasum": ""
                 },
-                "time": "2023-07-24T16:50:40+00:00",
+                "time": "2023-08-03T18:26:22+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -24,7 +24,7 @@
                 ],
                 "description": "DPM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.8",
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.x",
                     "issues": "https://github.com/pco-bcp/dpm_modules/issues"
                 }
             },
@@ -51,6 +51,32 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/fix--deprecated-function-on-pm_admin-2023-07-24",
+                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_modules",
+                "version": "dev-fix--update-pm_cron-to-point-to-pco_subscribe-2023-08-03",
+                "version_normalized": "dev-fix--update-pm_cron-to-point-to-pco_subscribe-2023-08-03",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "65a9d04b57944e5a52cd588f5ca03d84befdc277"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/65a9d04b57944e5a52cd588f5ca03d84befdc277",
+                    "reference": "65a9d04b57944e5a52cd588f5ca03d84befdc277",
+                    "shasum": ""
+                },
+                "time": "2023-08-03T18:15:31+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/fix--update-pm_cron-to-point-to-pco_subscribe-2023-08-03",
                     "issues": "https://github.com/pco-bcp/dpm_modules/issues"
                 }
             },
