@@ -2871,15 +2871,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "7eb7cf99f3cb5c503216f267c79cf5ea360fd2ad"
+                    "reference": "3c6b53c4be6b2af77e124948179097bc60cad054"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7eb7cf99f3cb5c503216f267c79cf5ea360fd2ad",
-                    "reference": "7eb7cf99f3cb5c503216f267c79cf5ea360fd2ad",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/3c6b53c4be6b2af77e124948179097bc60cad054",
+                    "reference": "3c6b53c4be6b2af77e124948179097bc60cad054",
                     "shasum": ""
                 },
-                "time": "2023-08-03T12:47:01+00:00",
+                "time": "2023-08-04T19:39:12+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -2887,7 +2887,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.0.2",
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.x",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
@@ -2940,32 +2940,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21",
-                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
-                }
-            },
-            "dev-fix-final-codescan-issues": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-fix-final-codescan-issues",
-                "version_normalized": "dev-fix-final-codescan-issues",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "2e40e244336e98940c8de583cba8d5a7f50b5422"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2e40e244336e98940c8de583cba8d5a7f50b5422",
-                    "reference": "2e40e244336e98940c8de583cba8d5a7f50b5422",
-                    "shasum": ""
-                },
-                "time": "2023-08-04T17:47:02+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix-final-codescan-issues",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             }
