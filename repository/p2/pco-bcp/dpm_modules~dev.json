@@ -24,7 +24,7 @@
                 ],
                 "description": "DPM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.x",
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.9",
                     "issues": "https://github.com/pco-bcp/dpm_modules/issues"
                 }
             },
