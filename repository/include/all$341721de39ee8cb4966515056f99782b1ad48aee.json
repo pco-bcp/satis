@@ -2969,6 +2969,32 @@
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
+            "dev-eslint-pco-subscribe": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-eslint-pco-subscribe",
+                "version_normalized": "dev-eslint-pco-subscribe",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "6735fc819db14a290bf551b5dfba42d482f085fe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/6735fc819db14a290bf551b5dfba42d482f085fe",
+                    "reference": "6735fc819db14a290bf551b5dfba42d482f085fe",
+                    "shasum": ""
+                },
+                "time": "2023-08-11T13:09:10+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/eslint-pco-subscribe",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
