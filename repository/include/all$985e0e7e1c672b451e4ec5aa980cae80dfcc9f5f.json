@@ -3020,6 +3020,32 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
+            },
+            "dev-fix-pm_news_emailer-email-template-adjust-both-PM-and_DPM-sites-2023-08-11": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-fix-pm_news_emailer-email-template-adjust-both-PM-and_DPM-sites-2023-08-11",
+                "version_normalized": "dev-fix-pm_news_emailer-email-template-adjust-both-PM-and_DPM-sites-2023-08-11",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "bb846f15b22f702350258b4445c4567ab3752009"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/bb846f15b22f702350258b4445c4567ab3752009",
+                    "reference": "bb846f15b22f702350258b4445c4567ab3752009",
+                    "shasum": ""
+                },
+                "time": "2023-08-11T16:22:15+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix-pm_news_emailer-email-template-adjust-both-PM-and_DPM-sites-2023-08-11",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
             }
         },
         "pco-bcp/pm_modules": {
