@@ -3020,6 +3020,32 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
+            },
+            "dev-fix-news_emailers-template-version2-2023-08-12": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-fix-news_emailers-template-version2-2023-08-12",
+                "version_normalized": "dev-fix-news_emailers-template-version2-2023-08-12",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "b247455b6b751593536e31d6969a0520895550f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b247455b6b751593536e31d6969a0520895550f6",
+                    "reference": "b247455b6b751593536e31d6969a0520895550f6",
+                    "shasum": ""
+                },
+                "time": "2023-08-12T14:18:15+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix-news_emailers-template-version2-2023-08-12",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
             }
         },
         "pco-bcp/pm_modules": {
