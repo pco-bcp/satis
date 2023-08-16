@@ -340,6 +340,32 @@
                     "issues": "https://github.com/pco-bcp/dpm_modules/issues"
                 }
             },
+            "dev-fix-align-covid-and-ukraine-fields-same_row-2023-08-16": {
+                "name": "pco-bcp/dpm_modules",
+                "version": "dev-fix-align-covid-and-ukraine-fields-same_row-2023-08-16",
+                "version_normalized": "dev-fix-align-covid-and-ukraine-fields-same_row-2023-08-16",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "ae130ed0d7fe841819c0a762015890188daa3f4d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/ae130ed0d7fe841819c0a762015890188daa3f4d",
+                    "reference": "ae130ed0d7fe841819c0a762015890188daa3f4d",
+                    "shasum": ""
+                },
+                "time": "2023-08-16T19:20:08+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/fix-align-covid-and-ukraine-fields-same_row-2023-08-16",
+                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
+                }
+            },
             "dev-refactor-pm_news_emailer-to-use-pco_emailer-2023-07-18": {
                 "name": "pco-bcp/dpm_modules",
                 "version": "dev-refactor-pm_news_emailer-to-use-pco_emailer-2023-07-18",
