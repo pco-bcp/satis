@@ -3021,6 +3021,32 @@
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
+            "dev-eslint-fix-pco-subscribe": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-eslint-fix-pco-subscribe",
+                "version_normalized": "dev-eslint-fix-pco-subscribe",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "c3f352832d37646c6e0fb17d35d7646c22283bcd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c3f352832d37646c6e0fb17d35d7646c22283bcd",
+                    "reference": "c3f352832d37646c6e0fb17d35d7646c22283bcd",
+                    "shasum": ""
+                },
+                "time": "2023-08-22T11:42:50+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/eslint-fix-pco-subscribe",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
             "dev-eslint-pco-subscribe": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-eslint-pco-subscribe",
