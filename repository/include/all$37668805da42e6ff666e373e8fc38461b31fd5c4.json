@@ -3124,6 +3124,32 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
+            },
+            "dev-fix-subscriber-cannnot-activate": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-fix-subscriber-cannnot-activate",
+                "version_normalized": "dev-fix-subscriber-cannnot-activate",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "c3f84bf0fbc02c1ef8542192829b1f1044e221e3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c3f84bf0fbc02c1ef8542192829b1f1044e221e3",
+                    "reference": "c3f84bf0fbc02c1ef8542192829b1f1044e221e3",
+                    "shasum": ""
+                },
+                "time": "2023-08-24T13:19:03+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix-subscriber-cannnot-activate",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
             }
         },
         "pco-bcp/pm_modules": {
