@@ -105,6 +105,32 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/hide-sort-order-for-cabinet-page-2023-07-25",
                     "issues": "https://github.com/pco-bcp/pm_theme/issues"
                 }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-pco-bcp/pm_theme--fix-indent-2023-08-30",
+                "version_normalized": "dev-pco-bcp/pm_theme--fix-indent-2023-08-30",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "2ae9155b65e847f5aacfc39ac5db49d49322f638"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2ae9155b65e847f5aacfc39ac5db49d49322f638",
+                    "reference": "2ae9155b65e847f5aacfc39ac5db49d49322f638",
+                    "shasum": ""
+                },
+                "time": "2023-08-30T17:35:33+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/pco-bcp/pm_theme--fix-indent-2023-08-30",
+                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                }
             }
         ]
     }

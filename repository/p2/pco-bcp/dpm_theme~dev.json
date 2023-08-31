@@ -27,6 +27,32 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/1.x",
                     "issues": "https://github.com/pco-bcp/dpm_theme/issues"
                 }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-pco-bcp/dpm_theme--fix-indent-2023-08-30",
+                "version_normalized": "dev-pco-bcp/dpm_theme--fix-indent-2023-08-30",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "09e870f8b520927b80b14fe527b00fadc94e28ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/09e870f8b520927b80b14fe527b00fadc94e28ce",
+                    "reference": "09e870f8b520927b80b14fe527b00fadc94e28ce",
+                    "shasum": ""
+                },
+                "time": "2023-08-30T17:57:33+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/pco-bcp/dpm_theme--fix-indent-2023-08-30",
+                    "issues": "https://github.com/pco-bcp/dpm_theme/issues"
+                }
             }
         ]
     }
