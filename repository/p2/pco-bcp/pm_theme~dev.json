@@ -131,6 +131,32 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/pco-bcp/pm_theme--fix-indent-2023-08-30",
                     "issues": "https://github.com/pco-bcp/pm_theme/issues"
                 }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-pco-bcp/pm_theme--fix-indent-2nd-attempt-2023-09-01",
+                "version_normalized": "dev-pco-bcp/pm_theme--fix-indent-2nd-attempt-2023-09-01",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "9f0ec6ee69f554b749e07f524f73e2debe9f7e52"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9f0ec6ee69f554b749e07f524f73e2debe9f7e52",
+                    "reference": "9f0ec6ee69f554b749e07f524f73e2debe9f7e52",
+                    "shasum": ""
+                },
+                "time": "2023-09-01T16:06:17+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/pco-bcp/pm_theme--fix-indent-2nd-attempt-2023-09-01",
+                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                }
             }
         ]
     }
