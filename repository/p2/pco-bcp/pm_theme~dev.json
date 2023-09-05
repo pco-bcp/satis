@@ -30,6 +30,32 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-date-released-twig-display-timezone-2023-09-05",
+                "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "4be250fa0d89209f5a877c2b94d3e63bcab59667"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4be250fa0d89209f5a877c2b94d3e63bcab59667",
+                    "reference": "4be250fa0d89209f5a877c2b94d3e63bcab59667",
+                    "shasum": ""
+                },
+                "time": "2023-09-05T16:56:21+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/date-released-twig-display-timezone-2023-09-05",
+                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-fix-missing-span-pco_alias-2023-07-17",
                 "version_normalized": "dev-fix-missing-span-pco_alias-2023-07-17",
                 "source": {
