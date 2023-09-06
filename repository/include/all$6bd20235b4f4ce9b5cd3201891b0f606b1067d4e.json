@@ -3073,6 +3073,32 @@
                     "issues": "https://github.com/pco-bcp/pco_modules/issues"
                 }
             },
+            "dev-eslint-fix-ckeditorcitation": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-eslint-fix-ckeditorcitation",
+                "version_normalized": "dev-eslint-fix-ckeditorcitation",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "d9ef8a38ea32de7ccfbf68c1f4e03deac4310b74"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d9ef8a38ea32de7ccfbf68c1f4e03deac4310b74",
+                    "reference": "d9ef8a38ea32de7ccfbf68c1f4e03deac4310b74",
+                    "shasum": ""
+                },
+                "time": "2023-09-06T10:51:05+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/eslint-fix-ckeditorcitation",
+                    "issues": "https://github.com/pco-bcp/pco_modules/issues"
+                }
+            },
             "dev-eslint-fix-pco-metrics": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-eslint-fix-pco-metrics",
