@@ -34,15 +34,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "8276deaaf5bbc7ab1a93114082a7a2b296e8114d"
+                    "reference": "4df0331927c249a866e66295a380f3f987e96636"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/8276deaaf5bbc7ab1a93114082a7a2b296e8114d",
-                    "reference": "8276deaaf5bbc7ab1a93114082a7a2b296e8114d",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4df0331927c249a866e66295a380f3f987e96636",
+                    "reference": "4df0331927c249a866e66295a380f3f987e96636",
                     "shasum": ""
                 },
-                "time": "2023-08-09T09:58:15+00:00",
+                "time": "2023-09-07T21:12:31+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -50,56 +50,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/develop-eslint-scan"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-eslint-pco-subscribe",
-                "version_normalized": "dev-eslint-pco-subscribe",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "6735fc819db14a290bf551b5dfba42d482f085fe"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/6735fc819db14a290bf551b5dfba42d482f085fe",
-                    "reference": "6735fc819db14a290bf551b5dfba42d482f085fe",
-                    "shasum": ""
-                },
-                "time": "2023-08-11T13:09:10+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/eslint-pco-subscribe"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-eslint-setup",
-                "version_normalized": "dev-eslint-setup",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "f75a79e448896de23e61251ab93dbdf004b16b03"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/f75a79e448896de23e61251ab93dbdf004b16b03",
-                    "reference": "f75a79e448896de23e61251ab93dbdf004b16b03",
-                    "shasum": ""
-                },
-                "time": "2023-08-17T10:26:40+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/eslint-setup"
                 }
             },
             {
