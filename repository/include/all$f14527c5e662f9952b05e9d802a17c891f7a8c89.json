@@ -2964,15 +2964,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "ecce6fdff8ed062bdc7155a0610c264da62a8204"
+                    "reference": "117a5c2efd37717f6a1f645353bcb55956a008ad"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/ecce6fdff8ed062bdc7155a0610c264da62a8204",
-                    "reference": "ecce6fdff8ed062bdc7155a0610c264da62a8204",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/117a5c2efd37717f6a1f645353bcb55956a008ad",
+                    "reference": "117a5c2efd37717f6a1f645353bcb55956a008ad",
                     "shasum": ""
                 },
-                "time": "2023-09-07T17:54:32+00:00",
+                "time": "2023-09-07T18:25:21+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -3006,31 +3006,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/develop-eslint-scan"
-                }
-            },
-            "dev-eslint-fix-pco-metrics": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-eslint-fix-pco-metrics",
-                "version_normalized": "dev-eslint-fix-pco-metrics",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "12f31e04e4afc29a642b883e7a15983ed61bfb4c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/12f31e04e4afc29a642b883e7a15983ed61bfb4c",
-                    "reference": "12f31e04e4afc29a642b883e7a15983ed61bfb4c",
-                    "shasum": ""
-                },
-                "time": "2023-09-07T18:18:04+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/eslint-fix-pco-metrics"
                 }
             },
             "dev-eslint-pco-subscribe": {
