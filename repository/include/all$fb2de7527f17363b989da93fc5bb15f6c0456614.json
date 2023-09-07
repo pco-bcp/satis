@@ -2964,15 +2964,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "fb820f2abc9eba9b42e8f642a8e1fc02460b3f8c"
+                    "reference": "ecce6fdff8ed062bdc7155a0610c264da62a8204"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/fb820f2abc9eba9b42e8f642a8e1fc02460b3f8c",
-                    "reference": "fb820f2abc9eba9b42e8f642a8e1fc02460b3f8c",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/ecce6fdff8ed062bdc7155a0610c264da62a8204",
+                    "reference": "ecce6fdff8ed062bdc7155a0610c264da62a8204",
                     "shasum": ""
                 },
-                "time": "2023-09-07T16:11:38+00:00",
+                "time": "2023-09-07T17:54:32+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -3006,31 +3006,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/develop-eslint-scan"
-                }
-            },
-            "dev-eslint-fix-ckeditorcitation": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-eslint-fix-ckeditorcitation",
-                "version_normalized": "dev-eslint-fix-ckeditorcitation",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "d9ef8a38ea32de7ccfbf68c1f4e03deac4310b74"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d9ef8a38ea32de7ccfbf68c1f4e03deac4310b74",
-                    "reference": "d9ef8a38ea32de7ccfbf68c1f4e03deac4310b74",
-                    "shasum": ""
-                },
-                "time": "2023-09-06T10:51:05+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/eslint-fix-ckeditorcitation"
                 }
             },
             "dev-eslint-fix-pco-metrics": {
