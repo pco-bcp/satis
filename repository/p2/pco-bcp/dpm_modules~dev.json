@@ -24,8 +24,7 @@
                 ],
                 "description": "DPM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.x",
-                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.x"
                 }
             },
             {
@@ -50,8 +49,7 @@
                 ],
                 "description": "DPM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/fix--deprecated-function-on-pm_admin-2023-07-24",
-                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/fix--deprecated-function-on-pm_admin-2023-07-24"
                 }
             },
             {
@@ -76,8 +74,7 @@
                 ],
                 "description": "DPM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/fix--update-pm_cron-to-point-to-pco_subscribe-2023-08-03",
-                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/fix--update-pm_cron-to-point-to-pco_subscribe-2023-08-03"
                 }
             },
             {
@@ -102,8 +99,7 @@
                 ],
                 "description": "DPM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/fix-align-covid-and-ukraine-fields-same_row-2023-08-16",
-                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/fix-align-covid-and-ukraine-fields-same_row-2023-08-16"
                 }
             },
             {
@@ -128,8 +124,7 @@
                 ],
                 "description": "DPM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/refactor-pm_news_emailer-to-use-pco_emailer-2023-07-18",
-                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/refactor-pm_news_emailer-to-use-pco_emailer-2023-07-18"
                 }
             },
             {
@@ -154,8 +149,7 @@
                 ],
                 "description": "DPM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/refactor-reduce-pm-admin",
-                    "issues": "https://github.com/pco-bcp/dpm_modules/issues"
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/refactor-reduce-pm-admin"
                 }
             }
         ]

@@ -164,8 +164,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/18-enable-hacked-module",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/18-enable-hacked-module"
                 }
             },
             {
@@ -330,8 +329,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/19-enable-coder-module",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/19-enable-coder-module"
                 }
             },
             {
@@ -497,8 +495,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/20-enable-content-access-module",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/20-enable-content-access-module"
                 }
             },
             {
@@ -664,8 +661,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/21-enable-automated-logout-module",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/21-enable-automated-logout-module"
                 }
             },
             {
@@ -831,8 +827,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/22-enable-captcha-module",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/22-enable-captcha-module"
                 }
             },
             {
@@ -997,8 +992,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/23-enable-password-policy-module",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/23-enable-password-policy-module"
                 }
             },
             {
@@ -1164,8 +1158,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/24-enable-login-security-module-v2",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/24-enable-login-security-module-v2"
                 }
             },
             {
@@ -1331,8 +1324,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/26-implement-drupal-security-kit-module",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/26-implement-drupal-security-kit-module"
                 }
             },
             {
@@ -1498,8 +1490,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/27-implement-drupal-paranoia-module",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/27-implement-drupal-paranoia-module"
                 }
             },
             {
@@ -1667,8 +1658,7 @@
                 ],
                 "description": "Project template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1.0.0",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1.0.0"
                 }
             },
             {
@@ -1835,8 +1825,7 @@
                 ],
                 "description": "Project template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1.1.0",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1.1.0"
                 }
             },
             {
@@ -2021,8 +2010,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.0.0",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.0.0"
                 }
             },
             {
@@ -2233,8 +2221,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.1.0",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.1.0"
                 }
             },
             {
@@ -2435,8 +2422,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.2.0",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.2.0"
                 }
             },
             {
@@ -2593,8 +2579,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/4.3.x-2.3.x",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/4.3.x-2.3.x"
                 }
             },
             {
@@ -2758,8 +2743,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/4.4.x-2.4.x",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/4.4.x-2.4.x"
                 }
             },
             {
@@ -2933,8 +2917,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/4.5.x-2.5.x",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/4.5.x-2.5.x"
                 }
             },
             {
@@ -3098,8 +3081,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/42-set-up-behat",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/42-set-up-behat"
                 }
             },
             {
@@ -3260,8 +3242,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/43-add-playwright-test-cases",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/43-add-playwright-test-cases"
                 }
             },
             {
@@ -3425,8 +3406,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/43-set-up-playwright",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/43-set-up-playwright"
                 }
             },
             {
@@ -3599,8 +3579,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/captcha-test-branch-2023-06-20",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/captcha-test-branch-2023-06-20"
                 }
             },
             {
@@ -3771,8 +3750,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/content-access-test-branch-2023-06-09",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/content-access-test-branch-2023-06-09"
                 }
             },
             {
@@ -3945,8 +3923,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/content-access-test-branch-2023-06-15",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/content-access-test-branch-2023-06-15"
                 }
             },
             {
@@ -4119,8 +4096,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/fix-url-node-19-2023-07-09",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/fix-url-node-19-2023-07-09"
                 }
             },
             {
@@ -4282,8 +4258,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/pco-bcp/asg-web#463--update-wxt-to-4.4.2-2023-03-06",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/pco-bcp/asg-web#463--update-wxt-to-4.4.2-2023-03-06"
                 }
             },
             {
@@ -4456,8 +4431,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/pco-bcp/site-pco-impactcanada--disable-contact-module--7JUL2023",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/pco-bcp/site-pco-impactcanada--disable-contact-module--7JUL2023"
                 }
             },
             {
@@ -4630,8 +4604,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/security-modules-updates-2023-06-06",
-                    "issues": "https://github.com/pco-bcp/site-pco-impactcanada/issues"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/security-modules-updates-2023-06-06"
                 }
             }
         ]

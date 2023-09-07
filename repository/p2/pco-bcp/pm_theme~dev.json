@@ -24,8 +24,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.x",
-                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.x"
                 }
             },
             {
@@ -50,8 +49,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/date-released-twig-display-timezone-2023-09-05",
-                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/date-released-twig-display-timezone-2023-09-05"
                 }
             },
             {
@@ -76,8 +74,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/fix-missing-span-pco_alias-2023-07-17",
-                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/fix-missing-span-pco_alias-2023-07-17"
                 }
             },
             {
@@ -102,8 +99,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/hide-sort-order-for-cabinet-page-2023-07-24",
-                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/hide-sort-order-for-cabinet-page-2023-07-24"
                 }
             },
             {
@@ -128,8 +124,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/hide-sort-order-for-cabinet-page-2023-07-25",
-                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/hide-sort-order-for-cabinet-page-2023-07-25"
                 }
             },
             {
@@ -154,8 +149,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/pco-bcp/pm_theme--fix-indent-2023-08-30",
-                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/pco-bcp/pm_theme--fix-indent-2023-08-30"
                 }
             },
             {
@@ -180,8 +174,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/pco-bcp/pm_theme--fix-indent-2nd-attempt-2023-09-01",
-                    "issues": "https://github.com/pco-bcp/pm_theme/issues"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/pco-bcp/pm_theme--fix-indent-2nd-attempt-2023-09-01"
                 }
             }
         ]
