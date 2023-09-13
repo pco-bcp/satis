@@ -3863,6 +3863,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.8"
                 }
             },
+            "1.0.9": {
+                "name": "pco-bcp/pm_theme",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "d01f75fe130af64d3ee66096f4fe918cb3fb09b3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d01f75fe130af64d3ee66096f4fe918cb3fb09b3",
+                    "reference": "d01f75fe130af64d3ee66096f4fe918cb3fb09b3",
+                    "shasum": ""
+                },
+                "time": "2023-09-06T16:42:56+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.9"
+                }
+            },
             "1.x-dev": {
                 "name": "pco-bcp/pm_theme",
                 "version": "1.x-dev",
@@ -3886,7 +3911,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.x"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.9"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
