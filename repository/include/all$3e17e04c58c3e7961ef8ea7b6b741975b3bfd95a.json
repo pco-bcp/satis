@@ -2957,6 +2957,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1.0.4"
                 }
             },
+            "1.0.5": {
+                "name": "pco-bcp/pco_modules",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "117a5c2efd37717f6a1f645353bcb55956a008ad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/117a5c2efd37717f6a1f645353bcb55956a008ad",
+                    "reference": "117a5c2efd37717f6a1f645353bcb55956a008ad",
+                    "shasum": ""
+                },
+                "time": "2023-09-07T18:25:21+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.0.5"
+                }
+            },
             "1.x-dev": {
                 "name": "pco-bcp/pco_modules",
                 "version": "1.x-dev",
@@ -2980,32 +3005,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.x"
-                }
-            },
-            "dev-develop-eslint-scan": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-develop-eslint-scan",
-                "version_normalized": "dev-develop-eslint-scan",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "4df0331927c249a866e66295a380f3f987e96636"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4df0331927c249a866e66295a380f3f987e96636",
-                    "reference": "4df0331927c249a866e66295a380f3f987e96636",
-                    "shasum": ""
-                },
-                "time": "2023-09-07T21:12:31+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/develop-eslint-scan"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.0.5"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
@@ -10014,12 +10014,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "2fd4b4f61476867826ecd026363fdefbd7bc2a43"
+                    "reference": "7e4bf644165c8bfee4204d2beb2551ea4dac2ddf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/2fd4b4f61476867826ecd026363fdefbd7bc2a43",
-                    "reference": "2fd4b4f61476867826ecd026363fdefbd7bc2a43",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/7e4bf644165c8bfee4204d2beb2551ea4dac2ddf",
+                    "reference": "7e4bf644165c8bfee4204d2beb2551ea4dac2ddf",
                     "shasum": ""
                 },
                 "require": {
@@ -10076,7 +10076,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2023-07-10T17:51:02+00:00",
+                "time": "2023-09-11T15:42:59+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -10129,7 +10129,8 @@
                             "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2021-10-13/2921627-71.patch",
                             "3150294 - New translations for moderated nodes are not created in the initial workflow state": "https://www.drupal.org/files/issues/2022-01-05/3150294-95.patch",
                             "Error after saving node drupal 8.7 issue": "https://www.drupal.org/files/issues/2019-02-11/ignore_width_height_on_untranslatable_field_comparision_2941092_8.patch",
-                            "str_replace patch": "https://www.drupal.org/files/issues/2022-07-07/3294680-2.patch"
+                            "str_replace patch": "https://www.drupal.org/files/issues/2022-07-07/3294680-2.patch",
+                            "seven-admin-theme-add-metatag-for-mixed-content": "https://gist.githubusercontent.com/delalis/765a1abe79fc94ae20d027527685b6c0/raw/b40d64f78a359eff597c279eccb7f3f9880dd0da/seven-admin-theme-add-metatag.patch"
                         },
                         "drupal/moderation_dashboard": {
                             "strpos issue for moderation_dashboard": "https://gist.githubusercontent.com/mazz0016/35c03e7dfed329eae3fad2aff00125eb/raw/b0f06b6169b8ad88b5c2e7c96fa2e601aa3d2f4f/395-strpos-moderation_dashboard-error.patch"
@@ -10179,6 +10180,180 @@
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/4.5.x-2.5.x"
+                }
+            },
+            "dev-4.5.x-2.5.x-BAK": {
+                "name": "pco-bcp/site-pco-impactcanada",
+                "version": "dev-4.5.x-2.5.x-BAK",
+                "version_normalized": "dev-4.5.x-2.5.x-BAK",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
+                    "reference": "f885674c09aef2ef345de84ff2845536cb5488e7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/f885674c09aef2ef345de84ff2845536cb5488e7",
+                    "reference": "f885674c09aef2ef345de84ff2845536cb5488e7",
+                    "shasum": ""
+                },
+                "require": {
+                    "ckeditor/fakeobjects": "4.18.0 as 4.17.1",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/admin_toolbar": "^3.2.1",
+                    "drupal/autologout": "^1.4",
+                    "drupal/blazy": "^2.7",
+                    "drupal/cache_control_override": "^1.0@alpha",
+                    "drupal/captcha": "^1.10",
+                    "drupal/config_filter": "^1.5",
+                    "drupal/config_split": "^1.4",
+                    "drupal/config_update": "^1.7",
+                    "drupal/content_access": "^2.0@RC",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/entity_browser": "2.9.0 as 2.8.0",
+                    "drupal/features": "^3.12",
+                    "drupal/features_ui": "^3.12",
+                    "drupal/field_permissions": "^1.1",
+                    "drupal/ga_login": "^1.0@alpha",
+                    "drupal/google_analytics": "^4.0",
+                    "drupal/hacked": "^2.0@beta",
+                    "drupal/honeypot": "^2.1",
+                    "drupal/login_security": "^2.0",
+                    "drupal/mailsystem": "^4.3",
+                    "drupal/moderation_dashboard": "^1.0",
+                    "drupal/openapi_jsonapi": "^3.0",
+                    "drupal/password_policy": "4.0.0 as 3.2.0",
+                    "drupal/phpmailer_smtp": "^2.1",
+                    "drupal/real_aes": "^2.4",
+                    "drupal/scheduled_updates": "dev-3172330-module-is-not",
+                    "drupal/search_api": "1.27.0 as 1.26.0",
+                    "drupal/seckit": "^2.0",
+                    "drupal/simple_oauth": "^5.2",
+                    "drupal/simple_sitemap": "^3.8",
+                    "drupal/tfa": "^1.0@alpha",
+                    "drupal/upgrade_status": "^3.14",
+                    "drupal/webform_views": "^5.0@beta",
+                    "drush/drush": "^11",
+                    "oomphinc/composer-installers-extender": "^1.1 || ^2",
+                    "pco-bcp/pco_cities": "^2.5",
+                    "phpstan/phpstan": "^1.3",
+                    "wikimedia/composer-merge-plugin": "^2.0"
+                },
+                "require-dev": {
+                    "drupal/console": "~1.9.0",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/core-dev": "^9",
+                    "drupal/drupal-extension": "^4.1.0",
+                    "mglaman/drupal-check": "^1.4",
+                    "oomphinc/composer-installers-extender": "^1.1 || ^2",
+                    "palantirnet/drupal-rector": "^0.15.1",
+                    "phpspec/prophecy-phpunit": "^2",
+                    "rector/rector": "~0.15.2",
+                    "squizlabs/php_codesniffer": "3.*"
+                },
+                "time": "2023-09-11T19:18:52+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "html/"
+                        }
+                    },
+                    "merge-plugin": {
+                        "include": [
+                            "html/modules/contrib/webform/composer.libraries.json"
+                        ]
+                    },
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-console-library",
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "composer-exit-on-patch-failure": true,
+                    "enable-patching": true,
+                    "patchLevel": {
+                        "drupal/core": "-p2"
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "2630732 - Implement entity fields for migration destinations": "https://www.drupal.org/files/issues/2022-02-22/D93x-implement_entity_fields_for_migration_dest-2630732.patch",
+                            "Enter drupal/core patch #2907413 description here": "https://www.drupal.org/files/issues/2021-11-19/D93x-2907413-23.patch",
+                            "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2021-10-13/2921627-71.patch",
+                            "3150294 - New translations for moderated nodes are not created in the initial workflow state": "https://www.drupal.org/files/issues/2022-01-05/3150294-95.patch",
+                            "Error after saving node drupal 8.7 issue": "https://www.drupal.org/files/issues/2019-02-11/ignore_width_height_on_untranslatable_field_comparision_2941092_8.patch",
+                            "str_replace patch": "https://www.drupal.org/files/issues/2022-07-07/3294680-2.patch",
+                            "seven-admin-theme-add-metatag-for-mixed-content": "https://gist.githubusercontent.com/delalis/765a1abe79fc94ae20d027527685b6c0/raw/b40d64f78a359eff597c279eccb7f3f9880dd0da/seven-admin-theme-add-metatag.patch"
+                        },
+                        "drupal/moderation_dashboard": {
+                            "strpos issue for moderation_dashboard": "https://gist.githubusercontent.com/mazz0016/35c03e7dfed329eae3fad2aff00125eb/raw/b0f06b6169b8ad88b5c2e7c96fa2e601aa3d2f4f/395-strpos-moderation_dashboard-error.patch"
+                        },
+                        "drupal/login_security": {
+                            "Readme issue on help page": "https://www.drupal.org/files/issues/2022-12-16/3327553-4.patch"
+                        }
+                    },
+                    "patches-ignore": {
+                        "drupalwxt/wxt": {
+                            "drupal/core": {
+                                "Enter drupal/core patch #1356276 description here": "https://www.drupal.org/files/issues/2021-06-29/D91x-1356276-656.patch",
+                                "Enter drupal/core patch #2630732 description here": "https://www.drupal.org/files/issues/2020-09-17/2630732-77.patch",
+                                "Enter drupal/core patch #2907413 description here": "https://www.drupal.org/files/issues/2019-06-21/2907413-11.patch",
+                                "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2021-09-07/2921627-68_3.patch",
+                                "Enter drupal/core patch #2922570 description here": "https://www.drupal.org/files/issues/2021-09-08/2922570-90.9.2.5.patch",
+                                "3150294 - New translations for moderated nodes are not created in the initial workflow state": "https://www.drupal.org/files/issues/2021-11-02/3150294-74.patch",
+                                "2681947-40": "https://www.drupal.org/files/issues/2020-12-22/2681947-40.patch",
+                                "2630732": "https://www.drupal.org/files/issues/2022-02-22/D93x-implement_entity_fields_for_migration_dest-2630732.patch"
+                            },
+                            "drupal/s3fs": {
+                                "drupal/s3fs": "https://www.drupal.org/files/issues/2018-07-17/s3fs-2986407-save-memory-2.patch",
+                                "0001-feat-s3fs-Compatibility-with-Minio": "https://www.drupal.org/files/issues/2019-03-10/0001-feat-s3fs-Compatibility-with-Minio.patch"
+                            },
+                            "drupal/toc_api": {
+                                "toc_api-add_exclude_xpath_option-6": "https://www.drupal.org/files/issues/2021-08-04/toc_api-add_exclude_xpath_option-6.patch"
+                            }
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "post-create-project-cmd": [
+                        "rm -r -f .travis.yml behat.yml .travis-ci"
+                    ],
+                    "quick-start": [
+                        "composer install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/4.5.x-2.5.x-BAK"
                 }
             },
             "dev-42-set-up-behat": {
@@ -10668,6 +10843,179 @@
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/43-set-up-playwright"
+                }
+            },
+            "dev-aseV3-preprod": {
+                "name": "pco-bcp/site-pco-impactcanada",
+                "version": "dev-aseV3-preprod",
+                "version_normalized": "dev-aseV3-preprod",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
+                    "reference": "26a49ced3720b19d37e0013c0272e0ab494767f8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/26a49ced3720b19d37e0013c0272e0ab494767f8",
+                    "reference": "26a49ced3720b19d37e0013c0272e0ab494767f8",
+                    "shasum": ""
+                },
+                "require": {
+                    "ckeditor/fakeobjects": "4.18.0 as 4.17.1",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/admin_toolbar": "^3.2.1",
+                    "drupal/autologout": "^1.4",
+                    "drupal/blazy": "^2.7",
+                    "drupal/cache_control_override": "^1.0@alpha",
+                    "drupal/captcha": "^1.10",
+                    "drupal/config_filter": "^1.5",
+                    "drupal/config_split": "^1.4",
+                    "drupal/config_update": "^1.7",
+                    "drupal/content_access": "^2.0@RC",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/entity_browser": "2.9.0 as 2.8.0",
+                    "drupal/features": "^3.12",
+                    "drupal/features_ui": "^3.12",
+                    "drupal/field_permissions": "^1.1",
+                    "drupal/ga_login": "^1.0@alpha",
+                    "drupal/google_analytics": "^4.0",
+                    "drupal/hacked": "^2.0@beta",
+                    "drupal/honeypot": "^2.1",
+                    "drupal/login_security": "^2.0",
+                    "drupal/mailsystem": "^4.3",
+                    "drupal/moderation_dashboard": "^1.0",
+                    "drupal/openapi_jsonapi": "^3.0",
+                    "drupal/password_policy": "4.0.0 as 3.2.0",
+                    "drupal/phpmailer_smtp": "^2.1",
+                    "drupal/real_aes": "^2.4",
+                    "drupal/scheduled_updates": "dev-3172330-module-is-not",
+                    "drupal/search_api": "1.27.0 as 1.26.0",
+                    "drupal/seckit": "^2.0",
+                    "drupal/simple_oauth": "^5.2",
+                    "drupal/simple_sitemap": "^3.8",
+                    "drupal/tfa": "^1.0@alpha",
+                    "drupal/upgrade_status": "^3.14",
+                    "drupal/webform_views": "^5.0@beta",
+                    "drush/drush": "^11",
+                    "oomphinc/composer-installers-extender": "^1.1 || ^2",
+                    "pco-bcp/pco_cities": "^2.5",
+                    "phpstan/phpstan": "^1.3",
+                    "wikimedia/composer-merge-plugin": "^2.0"
+                },
+                "require-dev": {
+                    "drupal/console": "~1.9.0",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/core-dev": "^9",
+                    "drupal/drupal-extension": "^4.1.0",
+                    "mglaman/drupal-check": "^1.4",
+                    "oomphinc/composer-installers-extender": "^1.1 || ^2",
+                    "palantirnet/drupal-rector": "^0.15.1",
+                    "phpspec/prophecy-phpunit": "^2",
+                    "rector/rector": "~0.15.2",
+                    "squizlabs/php_codesniffer": "3.*"
+                },
+                "time": "2023-09-08T18:37:01+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "html/"
+                        }
+                    },
+                    "merge-plugin": {
+                        "include": [
+                            "html/modules/contrib/webform/composer.libraries.json"
+                        ]
+                    },
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-console-library",
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "composer-exit-on-patch-failure": true,
+                    "enable-patching": true,
+                    "patchLevel": {
+                        "drupal/core": "-p2"
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "2630732 - Implement entity fields for migration destinations": "https://www.drupal.org/files/issues/2022-02-22/D93x-implement_entity_fields_for_migration_dest-2630732.patch",
+                            "Enter drupal/core patch #2907413 description here": "https://www.drupal.org/files/issues/2021-11-19/D93x-2907413-23.patch",
+                            "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2021-10-13/2921627-71.patch",
+                            "3150294 - New translations for moderated nodes are not created in the initial workflow state": "https://www.drupal.org/files/issues/2022-01-05/3150294-95.patch",
+                            "Error after saving node drupal 8.7 issue": "https://www.drupal.org/files/issues/2019-02-11/ignore_width_height_on_untranslatable_field_comparision_2941092_8.patch",
+                            "str_replace patch": "https://www.drupal.org/files/issues/2022-07-07/3294680-2.patch"
+                        },
+                        "drupal/moderation_dashboard": {
+                            "strpos issue for moderation_dashboard": "https://gist.githubusercontent.com/mazz0016/35c03e7dfed329eae3fad2aff00125eb/raw/b0f06b6169b8ad88b5c2e7c96fa2e601aa3d2f4f/395-strpos-moderation_dashboard-error.patch"
+                        },
+                        "drupal/login_security": {
+                            "Readme issue on help page": "https://www.drupal.org/files/issues/2022-12-16/3327553-4.patch"
+                        }
+                    },
+                    "patches-ignore": {
+                        "drupalwxt/wxt": {
+                            "drupal/core": {
+                                "Enter drupal/core patch #1356276 description here": "https://www.drupal.org/files/issues/2021-06-29/D91x-1356276-656.patch",
+                                "Enter drupal/core patch #2630732 description here": "https://www.drupal.org/files/issues/2020-09-17/2630732-77.patch",
+                                "Enter drupal/core patch #2907413 description here": "https://www.drupal.org/files/issues/2019-06-21/2907413-11.patch",
+                                "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2021-09-07/2921627-68_3.patch",
+                                "Enter drupal/core patch #2922570 description here": "https://www.drupal.org/files/issues/2021-09-08/2922570-90.9.2.5.patch",
+                                "3150294 - New translations for moderated nodes are not created in the initial workflow state": "https://www.drupal.org/files/issues/2021-11-02/3150294-74.patch",
+                                "2681947-40": "https://www.drupal.org/files/issues/2020-12-22/2681947-40.patch",
+                                "2630732": "https://www.drupal.org/files/issues/2022-02-22/D93x-implement_entity_fields_for_migration_dest-2630732.patch"
+                            },
+                            "drupal/s3fs": {
+                                "drupal/s3fs": "https://www.drupal.org/files/issues/2018-07-17/s3fs-2986407-save-memory-2.patch",
+                                "0001-feat-s3fs-Compatibility-with-Minio": "https://www.drupal.org/files/issues/2019-03-10/0001-feat-s3fs-Compatibility-with-Minio.patch"
+                            },
+                            "drupal/toc_api": {
+                                "toc_api-add_exclude_xpath_option-6": "https://www.drupal.org/files/issues/2021-08-04/toc_api-add_exclude_xpath_option-6.patch"
+                            }
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "post-create-project-cmd": [
+                        "rm -r -f .travis.yml behat.yml .travis-ci"
+                    ],
+                    "quick-start": [
+                        "composer install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/aseV3-preprod"
                 }
             },
             "dev-captcha-test-branch-2023-06-20": {
@@ -11187,6 +11535,354 @@
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/content-access-test-branch-2023-06-15"
                 }
             },
+            "dev-cors-config-fix-for-services-yml": {
+                "name": "pco-bcp/site-pco-impactcanada",
+                "version": "dev-cors-config-fix-for-services-yml",
+                "version_normalized": "dev-cors-config-fix-for-services-yml",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
+                    "reference": "e86bc1ef1b1b0bf61a5720b67c0518aa61540a02"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/e86bc1ef1b1b0bf61a5720b67c0518aa61540a02",
+                    "reference": "e86bc1ef1b1b0bf61a5720b67c0518aa61540a02",
+                    "shasum": ""
+                },
+                "require": {
+                    "ckeditor/fakeobjects": "4.18.0 as 4.17.1",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/admin_toolbar": "^3.2.1",
+                    "drupal/autologout": "^1.4",
+                    "drupal/blazy": "^2.7",
+                    "drupal/cache_control_override": "^1.0@alpha",
+                    "drupal/captcha": "^1.10",
+                    "drupal/config_filter": "^1.5",
+                    "drupal/config_split": "^1.4",
+                    "drupal/config_update": "^1.7",
+                    "drupal/content_access": "^2.0@RC",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/entity_browser": "2.9.0 as 2.8.0",
+                    "drupal/features": "^3.12",
+                    "drupal/features_ui": "^3.12",
+                    "drupal/field_permissions": "^1.1",
+                    "drupal/ga_login": "^1.0@alpha",
+                    "drupal/google_analytics": "^4.0",
+                    "drupal/hacked": "^2.0@beta",
+                    "drupal/honeypot": "^2.1",
+                    "drupal/login_security": "^2.0",
+                    "drupal/mailsystem": "^4.3",
+                    "drupal/moderation_dashboard": "^1.0",
+                    "drupal/openapi_jsonapi": "^3.0",
+                    "drupal/password_policy": "4.0.0 as 3.2.0",
+                    "drupal/phpmailer_smtp": "^2.1",
+                    "drupal/real_aes": "^2.4",
+                    "drupal/scheduled_updates": "dev-3172330-module-is-not",
+                    "drupal/search_api": "1.27.0 as 1.26.0",
+                    "drupal/seckit": "^2.0",
+                    "drupal/simple_oauth": "^5.2",
+                    "drupal/simple_sitemap": "^3.8",
+                    "drupal/tfa": "^1.0@alpha",
+                    "drupal/upgrade_status": "^3.14",
+                    "drupal/webform_views": "^5.0@beta",
+                    "drush/drush": "^11",
+                    "oomphinc/composer-installers-extender": "^1.1 || ^2",
+                    "pco-bcp/pco_cities": "^2.5",
+                    "phpstan/phpstan": "^1.3",
+                    "wikimedia/composer-merge-plugin": "^2.0"
+                },
+                "require-dev": {
+                    "drupal/console": "~1.9.0",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/core-dev": "^9",
+                    "drupal/drupal-extension": "^4.1.0",
+                    "mglaman/drupal-check": "^1.4",
+                    "oomphinc/composer-installers-extender": "^1.1 || ^2",
+                    "palantirnet/drupal-rector": "^0.15.1",
+                    "phpspec/prophecy-phpunit": "^2",
+                    "rector/rector": "~0.15.2",
+                    "squizlabs/php_codesniffer": "3.*"
+                },
+                "time": "2023-09-11T17:48:42+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "html/"
+                        }
+                    },
+                    "merge-plugin": {
+                        "include": [
+                            "html/modules/contrib/webform/composer.libraries.json"
+                        ]
+                    },
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-console-library",
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "composer-exit-on-patch-failure": true,
+                    "enable-patching": true,
+                    "patchLevel": {
+                        "drupal/core": "-p2"
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "2630732 - Implement entity fields for migration destinations": "https://www.drupal.org/files/issues/2022-02-22/D93x-implement_entity_fields_for_migration_dest-2630732.patch",
+                            "Enter drupal/core patch #2907413 description here": "https://www.drupal.org/files/issues/2021-11-19/D93x-2907413-23.patch",
+                            "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2021-10-13/2921627-71.patch",
+                            "3150294 - New translations for moderated nodes are not created in the initial workflow state": "https://www.drupal.org/files/issues/2022-01-05/3150294-95.patch",
+                            "Error after saving node drupal 8.7 issue": "https://www.drupal.org/files/issues/2019-02-11/ignore_width_height_on_untranslatable_field_comparision_2941092_8.patch",
+                            "str_replace patch": "https://www.drupal.org/files/issues/2022-07-07/3294680-2.patch",
+                            "seven-admin-theme-add-metatag-for-mixed-content": "https://gist.githubusercontent.com/delalis/765a1abe79fc94ae20d027527685b6c0/raw/b40d64f78a359eff597c279eccb7f3f9880dd0da/seven-admin-theme-add-metatag.patch"
+                        },
+                        "drupal/moderation_dashboard": {
+                            "strpos issue for moderation_dashboard": "https://gist.githubusercontent.com/mazz0016/35c03e7dfed329eae3fad2aff00125eb/raw/b0f06b6169b8ad88b5c2e7c96fa2e601aa3d2f4f/395-strpos-moderation_dashboard-error.patch"
+                        },
+                        "drupal/login_security": {
+                            "Readme issue on help page": "https://www.drupal.org/files/issues/2022-12-16/3327553-4.patch"
+                        }
+                    },
+                    "patches-ignore": {
+                        "drupalwxt/wxt": {
+                            "drupal/core": {
+                                "Enter drupal/core patch #1356276 description here": "https://www.drupal.org/files/issues/2021-06-29/D91x-1356276-656.patch",
+                                "Enter drupal/core patch #2630732 description here": "https://www.drupal.org/files/issues/2020-09-17/2630732-77.patch",
+                                "Enter drupal/core patch #2907413 description here": "https://www.drupal.org/files/issues/2019-06-21/2907413-11.patch",
+                                "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2021-09-07/2921627-68_3.patch",
+                                "Enter drupal/core patch #2922570 description here": "https://www.drupal.org/files/issues/2021-09-08/2922570-90.9.2.5.patch",
+                                "3150294 - New translations for moderated nodes are not created in the initial workflow state": "https://www.drupal.org/files/issues/2021-11-02/3150294-74.patch",
+                                "2681947-40": "https://www.drupal.org/files/issues/2020-12-22/2681947-40.patch",
+                                "2630732": "https://www.drupal.org/files/issues/2022-02-22/D93x-implement_entity_fields_for_migration_dest-2630732.patch"
+                            },
+                            "drupal/s3fs": {
+                                "drupal/s3fs": "https://www.drupal.org/files/issues/2018-07-17/s3fs-2986407-save-memory-2.patch",
+                                "0001-feat-s3fs-Compatibility-with-Minio": "https://www.drupal.org/files/issues/2019-03-10/0001-feat-s3fs-Compatibility-with-Minio.patch"
+                            },
+                            "drupal/toc_api": {
+                                "toc_api-add_exclude_xpath_option-6": "https://www.drupal.org/files/issues/2021-08-04/toc_api-add_exclude_xpath_option-6.patch"
+                            }
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "post-create-project-cmd": [
+                        "rm -r -f .travis.yml behat.yml .travis-ci"
+                    ],
+                    "quick-start": [
+                        "composer install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/cors-config-fix-for-services-yml"
+                }
+            },
+            "dev-create-services-yml": {
+                "name": "pco-bcp/site-pco-impactcanada",
+                "version": "dev-create-services-yml",
+                "version_normalized": "dev-create-services-yml",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
+                    "reference": "042780d78dc39ab9ecf049bebd782a3c0d05e078"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/042780d78dc39ab9ecf049bebd782a3c0d05e078",
+                    "reference": "042780d78dc39ab9ecf049bebd782a3c0d05e078",
+                    "shasum": ""
+                },
+                "require": {
+                    "ckeditor/fakeobjects": "4.18.0 as 4.17.1",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/admin_toolbar": "^3.2.1",
+                    "drupal/autologout": "^1.4",
+                    "drupal/blazy": "^2.7",
+                    "drupal/cache_control_override": "^1.0@alpha",
+                    "drupal/captcha": "^1.10",
+                    "drupal/config_filter": "^1.5",
+                    "drupal/config_split": "^1.4",
+                    "drupal/config_update": "^1.7",
+                    "drupal/content_access": "^2.0@RC",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/entity_browser": "2.9.0 as 2.8.0",
+                    "drupal/features": "^3.12",
+                    "drupal/features_ui": "^3.12",
+                    "drupal/field_permissions": "^1.1",
+                    "drupal/ga_login": "^1.0@alpha",
+                    "drupal/google_analytics": "^4.0",
+                    "drupal/hacked": "^2.0@beta",
+                    "drupal/honeypot": "^2.1",
+                    "drupal/login_security": "^2.0",
+                    "drupal/mailsystem": "^4.3",
+                    "drupal/moderation_dashboard": "^1.0",
+                    "drupal/openapi_jsonapi": "^3.0",
+                    "drupal/password_policy": "4.0.0 as 3.2.0",
+                    "drupal/phpmailer_smtp": "^2.1",
+                    "drupal/real_aes": "^2.4",
+                    "drupal/scheduled_updates": "dev-3172330-module-is-not",
+                    "drupal/search_api": "1.27.0 as 1.26.0",
+                    "drupal/seckit": "^2.0",
+                    "drupal/simple_oauth": "^5.2",
+                    "drupal/simple_sitemap": "^3.8",
+                    "drupal/tfa": "^1.0@alpha",
+                    "drupal/upgrade_status": "^3.14",
+                    "drupal/webform_views": "^5.0@beta",
+                    "drush/drush": "^11",
+                    "oomphinc/composer-installers-extender": "^1.1 || ^2",
+                    "pco-bcp/pco_cities": "^2.5",
+                    "phpstan/phpstan": "^1.3",
+                    "wikimedia/composer-merge-plugin": "^2.0"
+                },
+                "require-dev": {
+                    "drupal/console": "~1.9.0",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/core-dev": "^9",
+                    "drupal/drupal-extension": "^4.1.0",
+                    "mglaman/drupal-check": "^1.4",
+                    "oomphinc/composer-installers-extender": "^1.1 || ^2",
+                    "palantirnet/drupal-rector": "^0.15.1",
+                    "phpspec/prophecy-phpunit": "^2",
+                    "rector/rector": "~0.15.2",
+                    "squizlabs/php_codesniffer": "3.*"
+                },
+                "time": "2023-09-11T17:40:09+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "html/"
+                        }
+                    },
+                    "merge-plugin": {
+                        "include": [
+                            "html/modules/contrib/webform/composer.libraries.json"
+                        ]
+                    },
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-console-library",
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "composer-exit-on-patch-failure": true,
+                    "enable-patching": true,
+                    "patchLevel": {
+                        "drupal/core": "-p2"
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "2630732 - Implement entity fields for migration destinations": "https://www.drupal.org/files/issues/2022-02-22/D93x-implement_entity_fields_for_migration_dest-2630732.patch",
+                            "Enter drupal/core patch #2907413 description here": "https://www.drupal.org/files/issues/2021-11-19/D93x-2907413-23.patch",
+                            "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2021-10-13/2921627-71.patch",
+                            "3150294 - New translations for moderated nodes are not created in the initial workflow state": "https://www.drupal.org/files/issues/2022-01-05/3150294-95.patch",
+                            "Error after saving node drupal 8.7 issue": "https://www.drupal.org/files/issues/2019-02-11/ignore_width_height_on_untranslatable_field_comparision_2941092_8.patch",
+                            "str_replace patch": "https://www.drupal.org/files/issues/2022-07-07/3294680-2.patch",
+                            "seven-admin-theme-add-metatag-for-mixed-content": "https://gist.githubusercontent.com/delalis/765a1abe79fc94ae20d027527685b6c0/raw/b40d64f78a359eff597c279eccb7f3f9880dd0da/seven-admin-theme-add-metatag.patch"
+                        },
+                        "drupal/moderation_dashboard": {
+                            "strpos issue for moderation_dashboard": "https://gist.githubusercontent.com/mazz0016/35c03e7dfed329eae3fad2aff00125eb/raw/b0f06b6169b8ad88b5c2e7c96fa2e601aa3d2f4f/395-strpos-moderation_dashboard-error.patch"
+                        },
+                        "drupal/login_security": {
+                            "Readme issue on help page": "https://www.drupal.org/files/issues/2022-12-16/3327553-4.patch"
+                        }
+                    },
+                    "patches-ignore": {
+                        "drupalwxt/wxt": {
+                            "drupal/core": {
+                                "Enter drupal/core patch #1356276 description here": "https://www.drupal.org/files/issues/2021-06-29/D91x-1356276-656.patch",
+                                "Enter drupal/core patch #2630732 description here": "https://www.drupal.org/files/issues/2020-09-17/2630732-77.patch",
+                                "Enter drupal/core patch #2907413 description here": "https://www.drupal.org/files/issues/2019-06-21/2907413-11.patch",
+                                "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2021-09-07/2921627-68_3.patch",
+                                "Enter drupal/core patch #2922570 description here": "https://www.drupal.org/files/issues/2021-09-08/2922570-90.9.2.5.patch",
+                                "3150294 - New translations for moderated nodes are not created in the initial workflow state": "https://www.drupal.org/files/issues/2021-11-02/3150294-74.patch",
+                                "2681947-40": "https://www.drupal.org/files/issues/2020-12-22/2681947-40.patch",
+                                "2630732": "https://www.drupal.org/files/issues/2022-02-22/D93x-implement_entity_fields_for_migration_dest-2630732.patch"
+                            },
+                            "drupal/s3fs": {
+                                "drupal/s3fs": "https://www.drupal.org/files/issues/2018-07-17/s3fs-2986407-save-memory-2.patch",
+                                "0001-feat-s3fs-Compatibility-with-Minio": "https://www.drupal.org/files/issues/2019-03-10/0001-feat-s3fs-Compatibility-with-Minio.patch"
+                            },
+                            "drupal/toc_api": {
+                                "toc_api-add_exclude_xpath_option-6": "https://www.drupal.org/files/issues/2021-08-04/toc_api-add_exclude_xpath_option-6.patch"
+                            }
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "post-create-project-cmd": [
+                        "rm -r -f .travis.yml behat.yml .travis-ci"
+                    ],
+                    "quick-start": [
+                        "composer install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/create-services-yml"
+                }
+            },
             "dev-fix-url-node-19-2023-07-09": {
                 "name": "pco-bcp/site-pco-impactcanada",
                 "version": "dev-fix-url-node-19-2023-07-09",
@@ -11520,6 +12216,180 @@
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/pco-bcp/asg-web#463--update-wxt-to-4.4.2-2023-03-06"
+                }
+            },
+            "dev-pco-bcp/site-pco-impactcanada--add-metatag-to-admin-theme-2023sep11": {
+                "name": "pco-bcp/site-pco-impactcanada",
+                "version": "dev-pco-bcp/site-pco-impactcanada--add-metatag-to-admin-theme-2023sep11",
+                "version_normalized": "dev-pco-bcp/site-pco-impactcanada--add-metatag-to-admin-theme-2023sep11",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
+                    "reference": "73bdfe14565d4996962ac75a895d6790318d3b77"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/73bdfe14565d4996962ac75a895d6790318d3b77",
+                    "reference": "73bdfe14565d4996962ac75a895d6790318d3b77",
+                    "shasum": ""
+                },
+                "require": {
+                    "ckeditor/fakeobjects": "4.18.0 as 4.17.1",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/admin_toolbar": "^3.2.1",
+                    "drupal/autologout": "^1.4",
+                    "drupal/blazy": "^2.7",
+                    "drupal/cache_control_override": "^1.0@alpha",
+                    "drupal/captcha": "^1.10",
+                    "drupal/config_filter": "^1.5",
+                    "drupal/config_split": "^1.4",
+                    "drupal/config_update": "^1.7",
+                    "drupal/content_access": "^2.0@RC",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/entity_browser": "2.9.0 as 2.8.0",
+                    "drupal/features": "^3.12",
+                    "drupal/features_ui": "^3.12",
+                    "drupal/field_permissions": "^1.1",
+                    "drupal/ga_login": "^1.0@alpha",
+                    "drupal/google_analytics": "^4.0",
+                    "drupal/hacked": "^2.0@beta",
+                    "drupal/honeypot": "^2.1",
+                    "drupal/login_security": "^2.0",
+                    "drupal/mailsystem": "^4.3",
+                    "drupal/moderation_dashboard": "^1.0",
+                    "drupal/openapi_jsonapi": "^3.0",
+                    "drupal/password_policy": "4.0.0 as 3.2.0",
+                    "drupal/phpmailer_smtp": "^2.1",
+                    "drupal/real_aes": "^2.4",
+                    "drupal/scheduled_updates": "dev-3172330-module-is-not",
+                    "drupal/search_api": "1.27.0 as 1.26.0",
+                    "drupal/seckit": "^2.0",
+                    "drupal/simple_oauth": "^5.2",
+                    "drupal/simple_sitemap": "^3.8",
+                    "drupal/tfa": "^1.0@alpha",
+                    "drupal/upgrade_status": "^3.14",
+                    "drupal/webform_views": "^5.0@beta",
+                    "drush/drush": "^11",
+                    "oomphinc/composer-installers-extender": "^1.1 || ^2",
+                    "pco-bcp/pco_cities": "^2.5",
+                    "phpstan/phpstan": "^1.3",
+                    "wikimedia/composer-merge-plugin": "^2.0"
+                },
+                "require-dev": {
+                    "drupal/console": "~1.9.0",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/core-dev": "^9",
+                    "drupal/drupal-extension": "^4.1.0",
+                    "mglaman/drupal-check": "^1.4",
+                    "oomphinc/composer-installers-extender": "^1.1 || ^2",
+                    "palantirnet/drupal-rector": "^0.15.1",
+                    "phpspec/prophecy-phpunit": "^2",
+                    "rector/rector": "~0.15.2",
+                    "squizlabs/php_codesniffer": "3.*"
+                },
+                "time": "2023-09-11T15:41:54+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "html/"
+                        }
+                    },
+                    "merge-plugin": {
+                        "include": [
+                            "html/modules/contrib/webform/composer.libraries.json"
+                        ]
+                    },
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-console-library",
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "composer-exit-on-patch-failure": true,
+                    "enable-patching": true,
+                    "patchLevel": {
+                        "drupal/core": "-p2"
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "2630732 - Implement entity fields for migration destinations": "https://www.drupal.org/files/issues/2022-02-22/D93x-implement_entity_fields_for_migration_dest-2630732.patch",
+                            "Enter drupal/core patch #2907413 description here": "https://www.drupal.org/files/issues/2021-11-19/D93x-2907413-23.patch",
+                            "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2021-10-13/2921627-71.patch",
+                            "3150294 - New translations for moderated nodes are not created in the initial workflow state": "https://www.drupal.org/files/issues/2022-01-05/3150294-95.patch",
+                            "Error after saving node drupal 8.7 issue": "https://www.drupal.org/files/issues/2019-02-11/ignore_width_height_on_untranslatable_field_comparision_2941092_8.patch",
+                            "str_replace patch": "https://www.drupal.org/files/issues/2022-07-07/3294680-2.patch",
+                            "seven-admin-theme-add-metatag-for-mixed-content": "https://gist.githubusercontent.com/delalis/765a1abe79fc94ae20d027527685b6c0/raw/b40d64f78a359eff597c279eccb7f3f9880dd0da/seven-admin-theme-add-metatag.patch"
+                        },
+                        "drupal/moderation_dashboard": {
+                            "strpos issue for moderation_dashboard": "https://gist.githubusercontent.com/mazz0016/35c03e7dfed329eae3fad2aff00125eb/raw/b0f06b6169b8ad88b5c2e7c96fa2e601aa3d2f4f/395-strpos-moderation_dashboard-error.patch"
+                        },
+                        "drupal/login_security": {
+                            "Readme issue on help page": "https://www.drupal.org/files/issues/2022-12-16/3327553-4.patch"
+                        }
+                    },
+                    "patches-ignore": {
+                        "drupalwxt/wxt": {
+                            "drupal/core": {
+                                "Enter drupal/core patch #1356276 description here": "https://www.drupal.org/files/issues/2021-06-29/D91x-1356276-656.patch",
+                                "Enter drupal/core patch #2630732 description here": "https://www.drupal.org/files/issues/2020-09-17/2630732-77.patch",
+                                "Enter drupal/core patch #2907413 description here": "https://www.drupal.org/files/issues/2019-06-21/2907413-11.patch",
+                                "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2021-09-07/2921627-68_3.patch",
+                                "Enter drupal/core patch #2922570 description here": "https://www.drupal.org/files/issues/2021-09-08/2922570-90.9.2.5.patch",
+                                "3150294 - New translations for moderated nodes are not created in the initial workflow state": "https://www.drupal.org/files/issues/2021-11-02/3150294-74.patch",
+                                "2681947-40": "https://www.drupal.org/files/issues/2020-12-22/2681947-40.patch",
+                                "2630732": "https://www.drupal.org/files/issues/2022-02-22/D93x-implement_entity_fields_for_migration_dest-2630732.patch"
+                            },
+                            "drupal/s3fs": {
+                                "drupal/s3fs": "https://www.drupal.org/files/issues/2018-07-17/s3fs-2986407-save-memory-2.patch",
+                                "0001-feat-s3fs-Compatibility-with-Minio": "https://www.drupal.org/files/issues/2019-03-10/0001-feat-s3fs-Compatibility-with-Minio.patch"
+                            },
+                            "drupal/toc_api": {
+                                "toc_api-add_exclude_xpath_option-6": "https://www.drupal.org/files/issues/2021-08-04/toc_api-add_exclude_xpath_option-6.patch"
+                            }
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "post-create-project-cmd": [
+                        "rm -r -f .travis.yml behat.yml .travis-ci"
+                    ],
+                    "quick-start": [
+                        "composer install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/pco-bcp/site-pco-impactcanada--add-metatag-to-admin-theme-2023sep11"
                 }
             },
             "dev-pco-bcp/site-pco-impactcanada--disable-contact-module--7JUL2023": {

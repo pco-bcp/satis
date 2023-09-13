@@ -24,32 +24,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-develop-eslint-scan",
-                "version_normalized": "dev-develop-eslint-scan",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "4df0331927c249a866e66295a380f3f987e96636"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4df0331927c249a866e66295a380f3f987e96636",
-                    "reference": "4df0331927c249a866e66295a380f3f987e96636",
-                    "shasum": ""
-                },
-                "time": "2023-09-07T21:12:31+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/develop-eslint-scan"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.0.5"
                 }
             },
             {
