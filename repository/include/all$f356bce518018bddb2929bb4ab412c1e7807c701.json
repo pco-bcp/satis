@@ -3920,15 +3920,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2d2e483e287cb05c416751ed84c476754951a7c9"
+                    "reference": "b70a1d841f2b831789558eea746e8da8e2efdeda"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2d2e483e287cb05c416751ed84c476754951a7c9",
-                    "reference": "2d2e483e287cb05c416751ed84c476754951a7c9",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b70a1d841f2b831789558eea746e8da8e2efdeda",
+                    "reference": "b70a1d841f2b831789558eea746e8da8e2efdeda",
                     "shasum": ""
                 },
-                "time": "2023-09-21T14:08:59+00:00",
+                "time": "2023-10-19T14:38:54+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -3936,7 +3936,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.10"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.x"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
