@@ -3133,6 +3133,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/18-enable-eslint-scan-in-github-actions-for-pco_modules"
                 }
             },
+            "dev-26-es6-javascript-conversions-ckeditor": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-26-es6-javascript-conversions-ckeditor",
+                "version_normalized": "dev-26-es6-javascript-conversions-ckeditor",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "117a5c2efd37717f6a1f645353bcb55956a008ad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/117a5c2efd37717f6a1f645353bcb55956a008ad",
+                    "reference": "117a5c2efd37717f6a1f645353bcb55956a008ad",
+                    "shasum": ""
+                },
+                "time": "2023-09-07T18:25:21+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.0.5"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
