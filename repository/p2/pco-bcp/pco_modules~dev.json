@@ -84,22 +84,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "117a5c2efd37717f6a1f645353bcb55956a008ad"
+                    "reference": "d8782129a9b887fe4a398b30f40276a3fabf78c6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/117a5c2efd37717f6a1f645353bcb55956a008ad",
-                    "reference": "117a5c2efd37717f6a1f645353bcb55956a008ad",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d8782129a9b887fe4a398b30f40276a3fabf78c6",
+                    "reference": "d8782129a9b887fe4a398b30f40276a3fabf78c6",
                     "shasum": ""
                 },
-                "time": "2023-09-07T18:25:21+00:00",
+                "time": "2023-10-24T11:16:34+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.0.5"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-ckeditor"
                 }
             },
             {
