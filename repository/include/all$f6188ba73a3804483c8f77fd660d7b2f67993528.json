@@ -3158,6 +3158,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-ckeditor"
                 }
             },
+            "dev-es6-javascript-conversions-entitiesadditional": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-es6-javascript-conversions-entitiesadditional",
+                "version_normalized": "dev-es6-javascript-conversions-entitiesadditional",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "c4ff76047c8aa58e2a0eedd9c7c078691a013b5f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c4ff76047c8aa58e2a0eedd9c7c078691a013b5f",
+                    "reference": "c4ff76047c8aa58e2a0eedd9c7c078691a013b5f",
+                    "shasum": ""
+                },
+                "time": "2023-10-25T13:43:55+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/es6-javascript-conversions-entitiesadditional"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
