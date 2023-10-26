@@ -104,6 +104,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-26-es6-javascript-conversions-entitiesadditional",
+                "version_normalized": "dev-26-es6-javascript-conversions-entitiesadditional",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "117a5c2efd37717f6a1f645353bcb55956a008ad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/117a5c2efd37717f6a1f645353bcb55956a008ad",
+                    "reference": "117a5c2efd37717f6a1f645353bcb55956a008ad",
+                    "shasum": ""
+                },
+                "time": "2023-09-07T18:25:21+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.0.5"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-es6-javascript-conversions-entitiesadditional",
                 "version_normalized": "dev-es6-javascript-conversions-entitiesadditional",
                 "source": {
