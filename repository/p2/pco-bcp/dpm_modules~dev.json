@@ -129,6 +129,31 @@
             },
             {
                 "name": "pco-bcp/dpm_modules",
+                "version": "dev-pco-bcp/dpm_modules--updated-custom-modules-constraints-for-d10",
+                "version_normalized": "dev-pco-bcp/dpm_modules--updated-custom-modules-constraints-for-d10",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "bf677bd3a1d8b0e77408bbc810a90a59327a4ed3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/bf677bd3a1d8b0e77408bbc810a90a59327a4ed3",
+                    "reference": "bf677bd3a1d8b0e77408bbc810a90a59327a4ed3",
+                    "shasum": ""
+                },
+                "time": "2023-10-30T20:52:49+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/pco-bcp/dpm_modules--updated-custom-modules-constraints-for-d10"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_modules",
                 "version": "dev-refactor-pm_news_emailer-to-use-pco_emailer-2023-07-18",
                 "version_normalized": "dev-refactor-pm_news_emailer-to-use-pco_emailer-2023-07-18",
                 "source": {

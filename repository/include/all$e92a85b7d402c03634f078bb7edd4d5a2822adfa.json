@@ -402,6 +402,31 @@
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/fix-align-covid-and-ukraine-fields-same_row-2023-08-16"
                 }
             },
+            "dev-pco-bcp/dpm_modules--updated-custom-modules-constraints-for-d10": {
+                "name": "pco-bcp/dpm_modules",
+                "version": "dev-pco-bcp/dpm_modules--updated-custom-modules-constraints-for-d10",
+                "version_normalized": "dev-pco-bcp/dpm_modules--updated-custom-modules-constraints-for-d10",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "bf677bd3a1d8b0e77408bbc810a90a59327a4ed3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/bf677bd3a1d8b0e77408bbc810a90a59327a4ed3",
+                    "reference": "bf677bd3a1d8b0e77408bbc810a90a59327a4ed3",
+                    "shasum": ""
+                },
+                "time": "2023-10-30T20:52:49+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/pco-bcp/dpm_modules--updated-custom-modules-constraints-for-d10"
+                }
+            },
             "dev-refactor-pm_news_emailer-to-use-pco_emailer-2023-07-18": {
                 "name": "pco-bcp/dpm_modules",
                 "version": "dev-refactor-pm_news_emailer-to-use-pco_emailer-2023-07-18",
@@ -3668,22 +3693,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "79eb52bcf6ad106caf1d5aed7ba4499fe4f2620a"
+                    "reference": "e335bbe725493d2ab34a6abdb07ce6640c77b416"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/79eb52bcf6ad106caf1d5aed7ba4499fe4f2620a",
-                    "reference": "79eb52bcf6ad106caf1d5aed7ba4499fe4f2620a",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e335bbe725493d2ab34a6abdb07ce6640c77b416",
+                    "reference": "e335bbe725493d2ab34a6abdb07ce6640c77b416",
                     "shasum": ""
                 },
-                "time": "2023-08-17T17:46:09+00:00",
+                "time": "2023-10-30T21:03:54+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.1.0"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
                 }
             },
             "dev-fix--update-pm_cron-to-point-to-pco_subscribe-2023-08-03": {
