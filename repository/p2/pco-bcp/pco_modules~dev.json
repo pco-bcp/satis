@@ -34,22 +34,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "117a5c2efd37717f6a1f645353bcb55956a008ad"
+                    "reference": "1fa0e642a48135dc6033b506ab10eacb3932f402"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/117a5c2efd37717f6a1f645353bcb55956a008ad",
-                    "reference": "117a5c2efd37717f6a1f645353bcb55956a008ad",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1fa0e642a48135dc6033b506ab10eacb3932f402",
+                    "reference": "1fa0e642a48135dc6033b506ab10eacb3932f402",
                     "shasum": ""
                 },
-                "time": "2023-09-07T18:25:21+00:00",
+                "time": "2023-11-01T20:01:24+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.0.5"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
                 }
             },
             {
@@ -175,31 +175,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-bcp/pco_modules--added-d10-constraints--30oct2023",
-                "version_normalized": "dev-pco-bcp/pco_modules--added-d10-constraints--30oct2023",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "77f73831f96ac6ba4082c8374f5727268e7a7373"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/77f73831f96ac6ba4082c8374f5727268e7a7373",
-                    "reference": "77f73831f96ac6ba4082c8374f5727268e7a7373",
-                    "shasum": ""
-                },
-                "time": "2023-10-30T17:54:26+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-bcp/pco_modules--added-d10-constraints--30oct2023"
                 }
             }
         ]
