@@ -176,6 +176,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21"
                 }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-pco-bcp/issues#23--update-ckeditor-custom-plugins-2023-11-06",
+                "version_normalized": "dev-pco-bcp/issues#23--update-ckeditor-custom-plugins-2023-11-06",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "8a704dc345367cf057081a3c93db06dfb1aaf66a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/8a704dc345367cf057081a3c93db06dfb1aaf66a",
+                    "reference": "8a704dc345367cf057081a3c93db06dfb1aaf66a",
+                    "shasum": ""
+                },
+                "time": "2023-11-06T18:29:31+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-bcp/issues#23--update-ckeditor-custom-plugins-2023-11-06"
+                }
             }
         ]
     }
