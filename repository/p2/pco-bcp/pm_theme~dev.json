@@ -154,6 +154,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-pco-bcp/issues#66-tweak-WSOD-getHashTag-getBanner-2023-11-07",
+                "version_normalized": "dev-pco-bcp/issues#66-tweak-WSOD-getHashTag-getBanner-2023-11-07",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "ee04c71f6d21be32d7561327c307cd2285396640"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ee04c71f6d21be32d7561327c307cd2285396640",
+                    "reference": "ee04c71f6d21be32d7561327c307cd2285396640",
+                    "shasum": ""
+                },
+                "time": "2023-11-07T12:26:00+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/pco-bcp/issues#66-tweak-WSOD-getHashTag-getBanner-2023-11-07"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-pco-bcp/pm_theme--fix-indent-2023-08-30",
                 "version_normalized": "dev-pco-bcp/pm_theme--fix-indent-2023-08-30",
                 "source": {
