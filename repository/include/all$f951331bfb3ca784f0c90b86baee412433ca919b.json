@@ -3240,15 +3240,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "bac947abc9824e5a1edd29fcacade8d686199728"
+                    "reference": "88b2108932b993e0d7a56547f7957d46a483be14"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/bac947abc9824e5a1edd29fcacade8d686199728",
-                    "reference": "bac947abc9824e5a1edd29fcacade8d686199728",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/88b2108932b993e0d7a56547f7957d46a483be14",
+                    "reference": "88b2108932b993e0d7a56547f7957d46a483be14",
                     "shasum": ""
                 },
-                "time": "2023-10-31T12:24:32+00:00",
+                "time": "2023-11-09T12:12:11+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -3256,6 +3256,31 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-pco-greetings"
+                }
+            },
+            "dev-74-fix-drupal-check-issues-in-pco-subscribe-admin": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-74-fix-drupal-check-issues-in-pco-subscribe-admin",
+                "version_normalized": "dev-74-fix-drupal-check-issues-in-pco-subscribe-admin",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "433c23ed5b3d445d44c9f0b5fb26b1a0f444ece7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/433c23ed5b3d445d44c9f0b5fb26b1a0f444ece7",
+                    "reference": "433c23ed5b3d445d44c9f0b5fb26b1a0f444ece7",
+                    "shasum": ""
+                },
+                "time": "2023-11-09T13:06:17+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/74-fix-drupal-check-issues-in-pco-subscribe-admin"
                 }
             },
             "dev-74-fix-drupal-check-issues-in-pco_subscribe": {
