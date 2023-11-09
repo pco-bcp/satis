@@ -3190,15 +3190,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "d8782129a9b887fe4a398b30f40276a3fabf78c6"
+                    "reference": "1c453a72e08a23acb7cef17d95c490dbb42d1ffc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d8782129a9b887fe4a398b30f40276a3fabf78c6",
-                    "reference": "d8782129a9b887fe4a398b30f40276a3fabf78c6",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1c453a72e08a23acb7cef17d95c490dbb42d1ffc",
+                    "reference": "1c453a72e08a23acb7cef17d95c490dbb42d1ffc",
                     "shasum": ""
                 },
-                "time": "2023-10-24T11:16:34+00:00",
+                "time": "2023-11-09T12:11:15+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -3215,15 +3215,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "8b32c446b75fa326affcfdadac605a86e5a252f6"
+                    "reference": "d7fe7824f74c749c4e6e5e89d3407bca06b4f985"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/8b32c446b75fa326affcfdadac605a86e5a252f6",
-                    "reference": "8b32c446b75fa326affcfdadac605a86e5a252f6",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d7fe7824f74c749c4e6e5e89d3407bca06b4f985",
+                    "reference": "d7fe7824f74c749c4e6e5e89d3407bca06b4f985",
                     "shasum": ""
                 },
-                "time": "2023-10-26T10:38:24+00:00",
+                "time": "2023-11-09T12:11:38+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -3256,31 +3256,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-pco-greetings"
-                }
-            },
-            "dev-74-fix-drupal-check-issues-in-pco_modules": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-74-fix-drupal-check-issues-in-pco_modules",
-                "version_normalized": "dev-74-fix-drupal-check-issues-in-pco_modules",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "4b9e6a0a25fbc2f2d2a5fcd7885f249e1e7ffc40"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4b9e6a0a25fbc2f2d2a5fcd7885f249e1e7ffc40",
-                    "reference": "4b9e6a0a25fbc2f2d2a5fcd7885f249e1e7ffc40",
-                    "shasum": ""
-                },
-                "time": "2023-11-08T19:19:06+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
                 }
             },
             "dev-74-fix-drupal-check-issues-in-pco_subscribe": {
