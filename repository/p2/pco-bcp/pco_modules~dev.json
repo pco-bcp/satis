@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a149fb531dc9c03ae265c3bf179562e569283edb"
+                    "reference": "829d08dbfe42ec6a198f18df3575d170a961b4eb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a149fb531dc9c03ae265c3bf179562e569283edb",
-                    "reference": "a149fb531dc9c03ae265c3bf179562e569283edb",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/829d08dbfe42ec6a198f18df3575d170a961b4eb",
+                    "reference": "829d08dbfe42ec6a198f18df3575d170a961b4eb",
                     "shasum": ""
                 },
-                "time": "2023-11-09T13:36:29+00:00",
+                "time": "2023-11-09T18:21:23+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -150,31 +150,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-pco-greetings"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-74-fix-drupal-check-issues-in-pco-subscribe-admin",
-                "version_normalized": "dev-74-fix-drupal-check-issues-in-pco-subscribe-admin",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "c34d78ed2deb5eec2bed29f64f1a940fc9cf7739"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c34d78ed2deb5eec2bed29f64f1a940fc9cf7739",
-                    "reference": "c34d78ed2deb5eec2bed29f64f1a940fc9cf7739",
-                    "shasum": ""
-                },
-                "time": "2023-11-09T17:20:57+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/74-fix-drupal-check-issues-in-pco-subscribe-admin"
                 }
             },
             {
