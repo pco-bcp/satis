@@ -292,7 +292,6 @@
                     "shasum": ""
                 },
                 "time": "2023-08-16T19:33:36+00:00",
-                "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -318,6 +317,7 @@
                     "shasum": ""
                 },
                 "time": "2023-08-16T19:33:36+00:00",
+                "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -3123,7 +3123,6 @@
                     "shasum": ""
                 },
                 "time": "2023-09-07T18:25:21+00:00",
-                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -3149,6 +3148,7 @@
                     "shasum": ""
                 },
                 "time": "2023-11-08T19:19:06+00:00",
+                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -3256,6 +3256,31 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-pco-greetings"
+                }
+            },
+            "dev-74-fix-drupal-check-issues-in-pco_modules": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-74-fix-drupal-check-issues-in-pco_modules",
+                "version_normalized": "dev-74-fix-drupal-check-issues-in-pco_modules",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "4b9e6a0a25fbc2f2d2a5fcd7885f249e1e7ffc40"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4b9e6a0a25fbc2f2d2a5fcd7885f249e1e7ffc40",
+                    "reference": "4b9e6a0a25fbc2f2d2a5fcd7885f249e1e7ffc40",
+                    "shasum": ""
+                },
+                "time": "2023-11-08T19:19:06+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
@@ -3676,7 +3701,6 @@
                     "shasum": ""
                 },
                 "time": "2023-08-17T17:46:09+00:00",
-                "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -3702,6 +3726,7 @@
                     "shasum": ""
                 },
                 "time": "2023-11-08T21:20:42+00:00",
+                "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -4179,7 +4204,6 @@
                     "shasum": ""
                 },
                 "time": "2023-10-19T14:49:09+00:00",
-                "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
@@ -4205,6 +4229,7 @@
                     "shasum": ""
                 },
                 "time": "2023-11-08T13:40:02+00:00",
+                "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
