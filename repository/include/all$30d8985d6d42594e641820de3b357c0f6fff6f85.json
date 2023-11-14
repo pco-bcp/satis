@@ -3139,15 +3139,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "829d08dbfe42ec6a198f18df3575d170a961b4eb"
+                    "reference": "ca4d98554572e2c6f34d63e6cbfcbd1bd4066ded"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/829d08dbfe42ec6a198f18df3575d170a961b4eb",
-                    "reference": "829d08dbfe42ec6a198f18df3575d170a961b4eb",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/ca4d98554572e2c6f34d63e6cbfcbd1bd4066ded",
+                    "reference": "ca4d98554572e2c6f34d63e6cbfcbd1bd4066ded",
                     "shasum": ""
                 },
-                "time": "2023-11-09T18:21:23+00:00",
+                "time": "2023-11-14T16:53:22+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -3281,31 +3281,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21"
-                }
-            },
-            "dev-pco-bcp/issues#23--update-ckeditor-custom-plugins-2023-11-06": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-bcp/issues#23--update-ckeditor-custom-plugins-2023-11-06",
-                "version_normalized": "dev-pco-bcp/issues#23--update-ckeditor-custom-plugins-2023-11-06",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "e96ae01c1272dd9de0b870a36cfee2879c72dc35"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/e96ae01c1272dd9de0b870a36cfee2879c72dc35",
-                    "reference": "e96ae01c1272dd9de0b870a36cfee2879c72dc35",
-                    "shasum": ""
-                },
-                "time": "2023-11-09T14:58:19+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-bcp/issues#23--update-ckeditor-custom-plugins-2023-11-06"
                 }
             }
         },
