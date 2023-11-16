@@ -3139,15 +3139,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "ca4d98554572e2c6f34d63e6cbfcbd1bd4066ded"
+                    "reference": "2f4250f3cb6c3826d4916c6a0e83b5e13d5c0136"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/ca4d98554572e2c6f34d63e6cbfcbd1bd4066ded",
-                    "reference": "ca4d98554572e2c6f34d63e6cbfcbd1bd4066ded",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2f4250f3cb6c3826d4916c6a0e83b5e13d5c0136",
+                    "reference": "2f4250f3cb6c3826d4916c6a0e83b5e13d5c0136",
                     "shasum": ""
                 },
-                "time": "2023-11-14T16:53:22+00:00",
+                "time": "2023-11-16T16:46:57+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -3256,31 +3256,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-pco-greetings"
-                }
-            },
-            "dev-74-fix-drupal-check-issues-in-pco-metrics": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-74-fix-drupal-check-issues-in-pco-metrics",
-                "version_normalized": "dev-74-fix-drupal-check-issues-in-pco-metrics",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "9756484773379b9e73b17ad8c1334424fddc2080"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/9756484773379b9e73b17ad8c1334424fddc2080",
-                    "reference": "9756484773379b9e73b17ad8c1334424fddc2080",
-                    "shasum": ""
-                },
-                "time": "2023-11-16T16:34:34+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/74-fix-drupal-check-issues-in-pco-metrics"
                 }
             },
             "dev-74-fix-drupal-check-issues-in-pco-news-emailer": {
