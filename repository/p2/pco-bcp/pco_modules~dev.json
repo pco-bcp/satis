@@ -154,6 +154,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-74-fix-drupal-check-issues-in-pco-metrics",
+                "version_normalized": "dev-74-fix-drupal-check-issues-in-pco-metrics",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "a701d4bab2bd8f7055941e45fd63b376b17772de"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a701d4bab2bd8f7055941e45fd63b376b17772de",
+                    "reference": "a701d4bab2bd8f7055941e45fd63b376b17772de",
+                    "shasum": ""
+                },
+                "time": "2023-11-16T11:44:23+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/74-fix-drupal-check-issues-in-pco-metrics"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-74-fix-drupal-check-issues-in-pco-news-emailer",
                 "version_normalized": "dev-74-fix-drupal-check-issues-in-pco-news-emailer",
                 "source": {
