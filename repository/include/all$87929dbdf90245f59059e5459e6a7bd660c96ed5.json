@@ -3190,22 +3190,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "898a5e02e9d1a3cf4b3e07e8f87c503a674eb752"
+                    "reference": "56c6643c69bd33d4a8865ddf7c4bb4bf283ee7b4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/898a5e02e9d1a3cf4b3e07e8f87c503a674eb752",
-                    "reference": "898a5e02e9d1a3cf4b3e07e8f87c503a674eb752",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/56c6643c69bd33d4a8865ddf7c4bb4bf283ee7b4",
+                    "reference": "56c6643c69bd33d4a8865ddf7c4bb4bf283ee7b4",
                     "shasum": ""
                 },
-                "time": "2023-11-16T14:38:01+00:00",
+                "time": "2023-11-16T16:22:20+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-bcp/issues#23--fix-phpcs-issues-2023-11-16"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/23--fix-phpcs-issues-2023-11-16"
                 }
             },
             "dev-26-es6-javascript-conversions-ckeditor": {
