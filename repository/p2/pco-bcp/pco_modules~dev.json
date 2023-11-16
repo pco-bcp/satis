@@ -79,6 +79,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-23--fix-phpcs-issues-2023-11-16",
+                "version_normalized": "dev-23--fix-phpcs-issues-2023-11-16",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "898a5e02e9d1a3cf4b3e07e8f87c503a674eb752"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/898a5e02e9d1a3cf4b3e07e8f87c503a674eb752",
+                    "reference": "898a5e02e9d1a3cf4b3e07e8f87c503a674eb752",
+                    "shasum": ""
+                },
+                "time": "2023-11-16T14:38:01+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-bcp/issues#23--fix-phpcs-issues-2023-11-16"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-26-es6-javascript-conversions-ckeditor",
                 "version_normalized": "dev-26-es6-javascript-conversions-ckeditor",
                 "source": {
@@ -225,6 +250,31 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-pco-bcp/issues#23--fix-phpcs-issues-2023-11-16",
+                "version_normalized": "dev-pco-bcp/issues#23--fix-phpcs-issues-2023-11-16",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "898a5e02e9d1a3cf4b3e07e8f87c503a674eb752"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/898a5e02e9d1a3cf4b3e07e8f87c503a674eb752",
+                    "reference": "898a5e02e9d1a3cf4b3e07e8f87c503a674eb752",
+                    "shasum": ""
+                },
+                "time": "2023-11-16T14:38:01+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-bcp/issues#23--fix-phpcs-issues-2023-11-16"
                 }
             }
         ]
