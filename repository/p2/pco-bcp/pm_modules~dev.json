@@ -84,22 +84,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "85d45abb71769728e0d49d590eb7f3bdf1d38eb3"
+                    "reference": "7eb94d27faea014e9978ca97b4488cf2cadada8f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/85d45abb71769728e0d49d590eb7f3bdf1d38eb3",
-                    "reference": "85d45abb71769728e0d49d590eb7f3bdf1d38eb3",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7eb94d27faea014e9978ca97b4488cf2cadada8f",
+                    "reference": "7eb94d27faea014e9978ca97b4488cf2cadada8f",
                     "shasum": ""
                 },
-                "time": "2023-11-08T21:20:42+00:00",
+                "time": "2023-11-21T10:39:40+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/99-es6-conversion-for-pm_photo"
                 }
             },
             {
