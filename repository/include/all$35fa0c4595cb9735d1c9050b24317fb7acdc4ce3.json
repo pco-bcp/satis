@@ -3761,6 +3761,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
                 }
             },
+            "dev-99-es6-conversion-for-pm_photo": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-99-es6-conversion-for-pm_photo",
+                "version_normalized": "dev-99-es6-conversion-for-pm_photo",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "85d45abb71769728e0d49d590eb7f3bdf1d38eb3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/85d45abb71769728e0d49d590eb7f3bdf1d38eb3",
+                    "reference": "85d45abb71769728e0d49d590eb7f3bdf1d38eb3",
+                    "shasum": ""
+                },
+                "time": "2023-11-08T21:20:42+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
+                }
+            },
             "dev-fix--update-pm_cron-to-point-to-pco_subscribe-2023-08-03": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-fix--update-pm_cron-to-point-to-pco_subscribe-2023-08-03",
