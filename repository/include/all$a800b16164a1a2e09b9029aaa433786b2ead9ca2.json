@@ -3743,22 +3743,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "3b2289ef47b0d5553d320a094f6bd1648646aa9c"
+                    "reference": "dc208c0d4c1f022172d2ac7eaf62588ab70d2a11"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3b2289ef47b0d5553d320a094f6bd1648646aa9c",
-                    "reference": "3b2289ef47b0d5553d320a094f6bd1648646aa9c",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/dc208c0d4c1f022172d2ac7eaf62588ab70d2a11",
+                    "reference": "dc208c0d4c1f022172d2ac7eaf62588ab70d2a11",
                     "shasum": ""
                 },
-                "time": "2023-11-24T17:00:30+00:00",
+                "time": "2023-11-24T17:11:42+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/101-change-all-tabs-to-spaces-in-pm_adminjs"
                 }
             },
             "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16": {
