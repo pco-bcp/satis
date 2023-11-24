@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "85d45abb71769728e0d49d590eb7f3bdf1d38eb3"
+                    "reference": "3b2289ef47b0d5553d320a094f6bd1648646aa9c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/85d45abb71769728e0d49d590eb7f3bdf1d38eb3",
-                    "reference": "85d45abb71769728e0d49d590eb7f3bdf1d38eb3",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3b2289ef47b0d5553d320a094f6bd1648646aa9c",
+                    "reference": "3b2289ef47b0d5553d320a094f6bd1648646aa9c",
                     "shasum": ""
                 },
-                "time": "2023-11-08T21:20:42+00:00",
+                "time": "2023-11-24T17:00:30+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -74,32 +74,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-71-fix-flickr_thumbnails-2023-11-22",
-                "version_normalized": "dev-71-fix-flickr_thumbnails-2023-11-22",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "778867a7e8fd1f046af5232155c80a78589843f2"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/778867a7e8fd1f046af5232155c80a78589843f2",
-                    "reference": "778867a7e8fd1f046af5232155c80a78589843f2",
-                    "shasum": ""
-                },
-                "time": "2023-11-24T16:20:26+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/71-fix-flickr_thumbnails-2023-11-22"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/23--fix-drupal-check-issues-in-pm_modules-2023-11-16"
                 }
             },
             {
