@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "2f4250f3cb6c3826d4916c6a0e83b5e13d5c0136"
+                    "reference": "192c6c56b633b2672085998cc2f10e21acb46e9d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2f4250f3cb6c3826d4916c6a0e83b5e13d5c0136",
-                    "reference": "2f4250f3cb6c3826d4916c6a0e83b5e13d5c0136",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/192c6c56b633b2672085998cc2f10e21acb46e9d",
+                    "reference": "192c6c56b633b2672085998cc2f10e21acb46e9d",
                     "shasum": ""
                 },
-                "time": "2023-11-16T16:46:57+00:00",
+                "time": "2023-11-27T15:51:55+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -225,31 +225,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/pco-bcp/issues#23--fix-phpcs-issues-2023-11-16"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-remove-console-outputs-in-ckeditor-plugins-2023-11-27",
-                "version_normalized": "dev-remove-console-outputs-in-ckeditor-plugins-2023-11-27",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "ce065c4f387cadf7480de52ecda942688259fbe9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/ce065c4f387cadf7480de52ecda942688259fbe9",
-                    "reference": "ce065c4f387cadf7480de52ecda942688259fbe9",
-                    "shasum": ""
-                },
-                "time": "2023-11-27T15:44:05+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/remove-console-outputs-in-ckeditor-plugins-2023-11-27"
                 }
             }
         ]
