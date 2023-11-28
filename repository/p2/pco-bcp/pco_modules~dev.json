@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "192c6c56b633b2672085998cc2f10e21acb46e9d"
+                    "reference": "59afdfe24f768e7f1f6e1185449cd3cde155c7eb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/192c6c56b633b2672085998cc2f10e21acb46e9d",
-                    "reference": "192c6c56b633b2672085998cc2f10e21acb46e9d",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/59afdfe24f768e7f1f6e1185449cd3cde155c7eb",
+                    "reference": "59afdfe24f768e7f1f6e1185449cd3cde155c7eb",
                     "shasum": ""
                 },
-                "time": "2023-11-27T15:51:55+00:00",
+                "time": "2023-11-28T18:11:12+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -150,31 +150,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-pco-greetings"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-74-fix-drupal-check-issues-in-pco-news-emailer",
-                "version_normalized": "dev-74-fix-drupal-check-issues-in-pco-news-emailer",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "eb07bb0252e802d0732f485347597a52055326b3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/eb07bb0252e802d0732f485347597a52055326b3",
-                    "reference": "eb07bb0252e802d0732f485347597a52055326b3",
-                    "shasum": ""
-                },
-                "time": "2023-11-15T13:21:12+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/74-fix-drupal-check-issues-in-pco-news-emailer"
                 }
             },
             {
