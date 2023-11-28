@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "cd16933962b7e5db5b9007d966c70f718f780d5a"
+                    "reference": "53e1f39e52bd2ca474f058459073390fb6d40976"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/cd16933962b7e5db5b9007d966c70f718f780d5a",
-                    "reference": "cd16933962b7e5db5b9007d966c70f718f780d5a",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/53e1f39e52bd2ca474f058459073390fb6d40976",
+                    "reference": "53e1f39e52bd2ca474f058459073390fb6d40976",
                     "shasum": ""
                 },
-                "time": "2023-11-27T14:32:49+00:00",
+                "time": "2023-11-28T17:36:44+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-103-fix-flick-image-save-2023-11-27",
-                "version_normalized": "dev-103-fix-flick-image-save-2023-11-27",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "6033324663e82e680c22ae232672a14f0660730a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6033324663e82e680c22ae232672a14f0660730a",
-                    "reference": "6033324663e82e680c22ae232672a14f0660730a",
-                    "shasum": ""
-                },
-                "time": "2023-11-28T17:16:34+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/103-fix-flick-image-save-2023-11-27"
                 }
             },
             {
