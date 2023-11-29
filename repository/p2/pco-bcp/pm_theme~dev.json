@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-106-fix-H2-media-page-2023-11-29",
+                "version_normalized": "dev-106-fix-H2-media-page-2023-11-29",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "a4ee506ebf1a9fe28dbe14acace8d149b0891dc0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a4ee506ebf1a9fe28dbe14acace8d149b0891dc0",
+                    "reference": "a4ee506ebf1a9fe28dbe14acace8d149b0891dc0",
+                    "shasum": ""
+                },
+                "time": "2023-11-29T17:48:33+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/106-fix-H2-media-page-2023-11-29"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
