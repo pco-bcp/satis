@@ -4221,15 +4221,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "cbc459b0a26c4942a9fea7e80023255ae332758a"
+                    "reference": "c8380f7433d8294552d070932ef0e2b9406ed074"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/cbc459b0a26c4942a9fea7e80023255ae332758a",
-                    "reference": "cbc459b0a26c4942a9fea7e80023255ae332758a",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c8380f7433d8294552d070932ef0e2b9406ed074",
+                    "reference": "c8380f7433d8294552d070932ef0e2b9406ed074",
                     "shasum": ""
                 },
-                "time": "2023-11-29T18:24:44+00:00",
+                "time": "2023-11-29T19:23:59+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
