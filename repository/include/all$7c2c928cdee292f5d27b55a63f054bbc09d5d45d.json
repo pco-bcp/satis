@@ -3165,15 +3165,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "988e9b0e8d50da418553268812289cd58404c7b9"
+                    "reference": "51456951f60448714fa83767fddaa413e7297677"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/988e9b0e8d50da418553268812289cd58404c7b9",
-                    "reference": "988e9b0e8d50da418553268812289cd58404c7b9",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/51456951f60448714fa83767fddaa413e7297677",
+                    "reference": "51456951f60448714fa83767fddaa413e7297677",
                     "shasum": ""
                 },
-                "time": "2023-12-04T17:15:46+00:00",
+                "time": "2023-12-04T17:23:08+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -3206,31 +3206,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-ckeditor"
-                }
-            },
-            "dev-26-es6-javascript-conversions-entitiesadditional": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-26-es6-javascript-conversions-entitiesadditional",
-                "version_normalized": "dev-26-es6-javascript-conversions-entitiesadditional",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "b7727881ae72b36602e8248abdd540fe02ccdef9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b7727881ae72b36602e8248abdd540fe02ccdef9",
-                    "reference": "b7727881ae72b36602e8248abdd540fe02ccdef9",
-                    "shasum": ""
-                },
-                "time": "2023-12-04T17:08:00+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-entitiesadditional"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
