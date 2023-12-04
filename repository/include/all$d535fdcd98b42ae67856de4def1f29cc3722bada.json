@@ -4195,15 +4195,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a33bf9d1a2746644d347f2ec601ff35b4edf0647"
+                    "reference": "4d73a5dd7c09cfb27e20cf8e2891424944bdd7d0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a33bf9d1a2746644d347f2ec601ff35b4edf0647",
-                    "reference": "a33bf9d1a2746644d347f2ec601ff35b4edf0647",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4d73a5dd7c09cfb27e20cf8e2891424944bdd7d0",
+                    "reference": "4d73a5dd7c09cfb27e20cf8e2891424944bdd7d0",
                     "shasum": ""
                 },
-                "time": "2023-11-08T13:40:02+00:00",
+                "time": "2023-12-04T16:08:53+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -4212,31 +4212,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
-                }
-            },
-            "dev-106-fix-H2-media-page-2023-11-29": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-106-fix-H2-media-page-2023-11-29",
-                "version_normalized": "dev-106-fix-H2-media-page-2023-11-29",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d8fe83574717ae2ac3654e1847273fc2b6e1a68a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d8fe83574717ae2ac3654e1847273fc2b6e1a68a",
-                    "reference": "d8fe83574717ae2ac3654e1847273fc2b6e1a68a",
-                    "shasum": ""
-                },
-                "time": "2023-12-01T21:32:14+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/106-fix-H2-media-page-2023-11-29"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
