@@ -3158,6 +3158,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
                 }
             },
+            "dev-105-create-find-and-replace-p-and-br-plugins-2023-11-29": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-105-create-find-and-replace-p-and-br-plugins-2023-11-29",
+                "version_normalized": "dev-105-create-find-and-replace-p-and-br-plugins-2023-11-29",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "d9e1a7f79194f630ec6f016791e4f2d0fdf2c872"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d9e1a7f79194f630ec6f016791e4f2d0fdf2c872",
+                    "reference": "d9e1a7f79194f630ec6f016791e4f2d0fdf2c872",
+                    "shasum": ""
+                },
+                "time": "2023-12-04T16:36:41+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/105-create-find-and-replace-p-and-br-plugins-2023-11-29"
+                }
+            },
             "dev-26-es6-javascript-conversions-ckeditor": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-26-es6-javascript-conversions-ckeditor",
