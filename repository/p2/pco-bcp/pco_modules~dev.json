@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "d671c915b67a6338c7685554c48b64b85b359c2d"
+                    "reference": "6d4495da7c1f12a5451b988835235dee4935f6cf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d671c915b67a6338c7685554c48b64b85b359c2d",
-                    "reference": "d671c915b67a6338c7685554c48b64b85b359c2d",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/6d4495da7c1f12a5451b988835235dee4935f6cf",
+                    "reference": "6d4495da7c1f12a5451b988835235dee4935f6cf",
                     "shasum": ""
                 },
-                "time": "2023-11-28T21:33:35+00:00",
+                "time": "2023-12-04T18:56:15+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-102-roman-numerals-css-emails",
-                "version_normalized": "dev-102-roman-numerals-css-emails",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "ef0d64c46745da796147a32f72c84ee55a459be0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/ef0d64c46745da796147a32f72c84ee55a459be0",
-                    "reference": "ef0d64c46745da796147a32f72c84ee55a459be0",
-                    "shasum": ""
-                },
-                "time": "2023-12-04T18:50:23+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/102-roman-numerals-css-emails"
                 }
             },
             {
