@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-125--fix-css-spacing-mandate-letters-2023-12-14",
+                "version_normalized": "dev-125--fix-css-spacing-mandate-letters-2023-12-14",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e0c405c2ba1c352185065a3dec9a57806bd7a196"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e0c405c2ba1c352185065a3dec9a57806bd7a196",
+                    "reference": "e0c405c2ba1c352185065a3dec9a57806bd7a196",
+                    "shasum": ""
+                },
+                "time": "2023-12-14T15:12:39+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/125--fix-css-spacing-mandate-letters-2023-12-14"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
