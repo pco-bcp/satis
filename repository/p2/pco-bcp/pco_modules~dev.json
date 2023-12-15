@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "6d4495da7c1f12a5451b988835235dee4935f6cf"
+                    "reference": "651f20c63f9e095829e44d6483c9845134fcc203"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/6d4495da7c1f12a5451b988835235dee4935f6cf",
-                    "reference": "6d4495da7c1f12a5451b988835235dee4935f6cf",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/651f20c63f9e095829e44d6483c9845134fcc203",
+                    "reference": "651f20c63f9e095829e44d6483c9845134fcc203",
                     "shasum": ""
                 },
-                "time": "2023-12-04T18:56:15+00:00",
+                "time": "2023-12-15T19:31:45+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-105-create-find-and-replace-p-and-br-plugins-2023-11-29",
-                "version_normalized": "dev-105-create-find-and-replace-p-and-br-plugins-2023-11-29",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "766846192f80029407886196b8db9ed8a9f197bd"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/766846192f80029407886196b8db9ed8a9f197bd",
-                    "reference": "766846192f80029407886196b8db9ed8a9f197bd",
-                    "shasum": ""
-                },
-                "time": "2023-12-14T21:02:47+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/105-create-find-and-replace-p-and-br-plugins-2023-11-29"
                 }
             },
             {
