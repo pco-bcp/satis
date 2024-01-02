@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4d73a5dd7c09cfb27e20cf8e2891424944bdd7d0"
+                    "reference": "aa690e862d00674d2933e0706f9a2c57b380fa76"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4d73a5dd7c09cfb27e20cf8e2891424944bdd7d0",
-                    "reference": "4d73a5dd7c09cfb27e20cf8e2891424944bdd7d0",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/aa690e862d00674d2933e0706f9a2c57b380fa76",
+                    "reference": "aa690e862d00674d2933e0706f9a2c57b380fa76",
                     "shasum": ""
                 },
-                "time": "2023-12-04T16:08:53+00:00",
+                "time": "2024-01-02T21:20:29+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -75,31 +75,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/125--fix-css-spacing-mandate-letters-2023-12-14"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-134--udjust-custom-style-CKEditor5-2023-01-02",
-                "version_normalized": "dev-134--udjust-custom-style-CKEditor5-2023-01-02",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "7ef9938a35720a9268cbc16da3542f1fff071a32"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7ef9938a35720a9268cbc16da3542f1fff071a32",
-                    "reference": "7ef9938a35720a9268cbc16da3542f1fff071a32",
-                    "shasum": ""
-                },
-                "time": "2024-01-02T20:18:39+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/134--udjust-custom-style-CKEditor5-2023-01-02"
                 }
             },
             {
