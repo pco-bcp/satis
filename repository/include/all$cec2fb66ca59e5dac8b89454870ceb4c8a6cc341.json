@@ -4357,6 +4357,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/125--fix-css-spacing-mandate-letters-2023-12-14"
                 }
             },
+            "dev-134--udjust-custom-style-CKEditor5-2023-01-02": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-134--udjust-custom-style-CKEditor5-2023-01-02",
+                "version_normalized": "dev-134--udjust-custom-style-CKEditor5-2023-01-02",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "006a6c319b9cc9ebfef168e5804e28fe0d925380"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/006a6c319b9cc9ebfef168e5804e28fe0d925380",
+                    "reference": "006a6c319b9cc9ebfef168e5804e28fe0d925380",
+                    "shasum": ""
+                },
+                "time": "2024-01-02T19:58:25+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/134--udjust-custom-style-CKEditor5-2023-01-02"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
