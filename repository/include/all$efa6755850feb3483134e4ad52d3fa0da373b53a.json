@@ -4313,15 +4313,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "aa690e862d00674d2933e0706f9a2c57b380fa76"
+                    "reference": "295482bcade05604febdcecfb24c9415e4f26f37"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/aa690e862d00674d2933e0706f9a2c57b380fa76",
-                    "reference": "aa690e862d00674d2933e0706f9a2c57b380fa76",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/295482bcade05604febdcecfb24c9415e4f26f37",
+                    "reference": "295482bcade05604febdcecfb24c9415e4f26f37",
                     "shasum": ""
                 },
-                "time": "2024-01-02T21:20:29+00:00",
+                "time": "2024-01-02T21:32:37+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -4330,31 +4330,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
-                }
-            },
-            "dev-125--fix-css-spacing-mandate-letters-2023-12-14": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-125--fix-css-spacing-mandate-letters-2023-12-14",
-                "version_normalized": "dev-125--fix-css-spacing-mandate-letters-2023-12-14",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "89097bc44535f7e2594714bb596f2a918485e25f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/89097bc44535f7e2594714bb596f2a918485e25f",
-                    "reference": "89097bc44535f7e2594714bb596f2a918485e25f",
-                    "shasum": ""
-                },
-                "time": "2023-12-14T17:13:16+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/125--fix-css-spacing-mandate-letters-2023-12-14"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
