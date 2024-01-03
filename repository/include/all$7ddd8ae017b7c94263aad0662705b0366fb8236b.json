@@ -3779,6 +3779,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
                 }
             },
+            "dev-136--fix-CSS-for-content_view_filter-2023-02-02": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-136--fix-CSS-for-content_view_filter-2023-02-02",
+                "version_normalized": "dev-136--fix-CSS-for-content_view_filter-2023-02-02",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "3d5617f5f3474ade83d10960f823aa6e7eda0733"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3d5617f5f3474ade83d10960f823aa6e7eda0733",
+                    "reference": "3d5617f5f3474ade83d10960f823aa6e7eda0733",
+                    "shasum": ""
+                },
+                "time": "2024-01-03T18:08:30+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/136--fix-CSS-for-content_view_filter-2023-02-02"
+                }
+            },
             "dev-144-css-fixes-using-etuf-in-gin-01-03-2024": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-144-css-fixes-using-etuf-in-gin-01-03-2024",
@@ -3786,15 +3811,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "0e2264292d6e92ff41939faf0e2f1bcb972029e8"
+                    "reference": "310d5a026aa2824ffac445667f76c5bc68b466f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0e2264292d6e92ff41939faf0e2f1bcb972029e8",
-                    "reference": "0e2264292d6e92ff41939faf0e2f1bcb972029e8",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/310d5a026aa2824ffac445667f76c5bc68b466f9",
+                    "reference": "310d5a026aa2824ffac445667f76c5bc68b466f9",
                     "shasum": ""
                 },
-                "time": "2024-01-03T14:50:51+00:00",
+                "time": "2024-01-03T18:07:35+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
