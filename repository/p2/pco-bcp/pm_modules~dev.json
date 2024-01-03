@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "53e1f39e52bd2ca474f058459073390fb6d40976"
+                    "reference": "229478d1c19ada1b5d0dfa845438517c32db4e09"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/53e1f39e52bd2ca474f058459073390fb6d40976",
-                    "reference": "53e1f39e52bd2ca474f058459073390fb6d40976",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/229478d1c19ada1b5d0dfa845438517c32db4e09",
+                    "reference": "229478d1c19ada1b5d0dfa845438517c32db4e09",
                     "shasum": ""
                 },
-                "time": "2023-11-28T17:36:44+00:00",
+                "time": "2024-01-03T20:38:14+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -50,56 +50,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-136--fix-CSS-for-content_view_filter-2023-02-02",
-                "version_normalized": "dev-136--fix-CSS-for-content_view_filter-2023-02-02",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "3d5617f5f3474ade83d10960f823aa6e7eda0733"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3d5617f5f3474ade83d10960f823aa6e7eda0733",
-                    "reference": "3d5617f5f3474ade83d10960f823aa6e7eda0733",
-                    "shasum": ""
-                },
-                "time": "2024-01-03T18:08:30+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/136--fix-CSS-for-content_view_filter-2023-02-02"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-144-css-fixes-using-etuf-in-gin-01-03-2024",
-                "version_normalized": "dev-144-css-fixes-using-etuf-in-gin-01-03-2024",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "5c682800cc511fd45de4cab33734b4ebe109fd94"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5c682800cc511fd45de4cab33734b4ebe109fd94",
-                    "reference": "5c682800cc511fd45de4cab33734b4ebe109fd94",
-                    "shasum": ""
-                },
-                "time": "2024-01-03T18:42:09+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/144-css-fixes-using-etuf-in-gin-01-03-2024"
                 }
             },
             {
