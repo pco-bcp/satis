@@ -4332,6 +4332,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
+            "dev-151--fix-modal-search-layout-2023-01-05": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-151--fix-modal-search-layout-2023-01-05",
+                "version_normalized": "dev-151--fix-modal-search-layout-2023-01-05",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "3fb37b44a9d45e9bed4ffa2fdba4c1031fc554d5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3fb37b44a9d45e9bed4ffa2fdba4c1031fc554d5",
+                    "reference": "3fb37b44a9d45e9bed4ffa2fdba4c1031fc554d5",
+                    "shasum": ""
+                },
+                "time": "2024-01-05T17:08:44+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/151--fix-modal-search-layout-2023-01-05"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
