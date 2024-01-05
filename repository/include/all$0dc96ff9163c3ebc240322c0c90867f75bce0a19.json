@@ -3760,15 +3760,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "229478d1c19ada1b5d0dfa845438517c32db4e09"
+                    "reference": "370456af73b870d380ad8f34fd24b8f3485cd78b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/229478d1c19ada1b5d0dfa845438517c32db4e09",
-                    "reference": "229478d1c19ada1b5d0dfa845438517c32db4e09",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/370456af73b870d380ad8f34fd24b8f3485cd78b",
+                    "reference": "370456af73b870d380ad8f34fd24b8f3485cd78b",
                     "shasum": ""
                 },
-                "time": "2024-01-03T20:38:14+00:00",
+                "time": "2024-01-05T16:30:51+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -3777,31 +3777,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
-                }
-            },
-            "dev-151-add-pco-icon-in-admin-toolbar-2024-01-05": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-151-add-pco-icon-in-admin-toolbar-2024-01-05",
-                "version_normalized": "dev-151-add-pco-icon-in-admin-toolbar-2024-01-05",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "dc18e68a823e0682b7c05837166a4d484d38ce65"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/dc18e68a823e0682b7c05837166a4d484d38ce65",
-                    "reference": "dc18e68a823e0682b7c05837166a4d484d38ce65",
-                    "shasum": ""
-                },
-                "time": "2024-01-05T16:16:30+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/151-add-pco-icon-in-admin-toolbar-2024-01-05"
                 }
             },
             "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16": {
