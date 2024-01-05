@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "295482bcade05604febdcecfb24c9415e4f26f37"
+                    "reference": "8a19493fee9a6de5056890344dcd965a55aa01b2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/295482bcade05604febdcecfb24c9415e4f26f37",
-                    "reference": "295482bcade05604febdcecfb24c9415e4f26f37",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8a19493fee9a6de5056890344dcd965a55aa01b2",
+                    "reference": "8a19493fee9a6de5056890344dcd965a55aa01b2",
                     "shasum": ""
                 },
-                "time": "2024-01-02T21:32:37+00:00",
+                "time": "2024-01-05T14:12:00+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-148--fix-footer-custom-style-ckeditor5-2023-01-04",
-                "version_normalized": "dev-148--fix-footer-custom-style-ckeditor5-2023-01-04",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "208b72be09e395d95b02c1ce788c1a79404b069e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/208b72be09e395d95b02c1ce788c1a79404b069e",
-                    "reference": "208b72be09e395d95b02c1ce788c1a79404b069e",
-                    "shasum": ""
-                },
-                "time": "2024-01-04T20:45:15+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/148--fix-footer-custom-style-ckeditor5-2023-01-04"
                 }
             },
             {
