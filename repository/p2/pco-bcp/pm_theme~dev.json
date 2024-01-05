@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-151-add-pco-icon-in-admin-toolbar-2024-01-05",
+                "version_normalized": "dev-151-add-pco-icon-in-admin-toolbar-2024-01-05",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "9f13c3a098587211277e589c779f20a76ad3a62c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9f13c3a098587211277e589c779f20a76ad3a62c",
+                    "reference": "9f13c3a098587211277e589c779f20a76ad3a62c",
+                    "shasum": ""
+                },
+                "time": "2024-01-05T15:59:59+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/151-add-pco-icon-in-admin-toolbar-2024-01-05"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
