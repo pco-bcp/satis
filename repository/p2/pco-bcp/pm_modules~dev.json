@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-144--fix-video-side-by-side-2023-01-08",
+                "version_normalized": "dev-144--fix-video-side-by-side-2023-01-08",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "8f0ef412750090c08d022c9f42422a975f3783ee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8f0ef412750090c08d022c9f42422a975f3783ee",
+                    "reference": "8f0ef412750090c08d022c9f42422a975f3783ee",
+                    "shasum": ""
+                },
+                "time": "2024-01-08T14:27:00+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/144--fix-video-side-by-side-2023-01-08"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16",
                 "version_normalized": "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16",
                 "source": {
