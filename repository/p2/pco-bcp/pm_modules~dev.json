@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "370456af73b870d380ad8f34fd24b8f3485cd78b"
+                    "reference": "10bb8480f1753a8c505689b601a10dd5c7997cb2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/370456af73b870d380ad8f34fd24b8f3485cd78b",
-                    "reference": "370456af73b870d380ad8f34fd24b8f3485cd78b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/10bb8480f1753a8c505689b601a10dd5c7997cb2",
+                    "reference": "10bb8480f1753a8c505689b601a10dd5c7997cb2",
                     "shasum": ""
                 },
-                "time": "2024-01-05T16:30:51+00:00",
+                "time": "2024-01-09T14:12:57+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-144--fix-video-side-by-side-2023-01-08",
-                "version_normalized": "dev-144--fix-video-side-by-side-2023-01-08",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "cf0202e09a8d0b3e54bbeee482ce58b3a5fe2a85"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/cf0202e09a8d0b3e54bbeee482ce58b3a5fe2a85",
-                    "reference": "cf0202e09a8d0b3e54bbeee482ce58b3a5fe2a85",
-                    "shasum": ""
-                },
-                "time": "2024-01-08T15:25:42+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/144--fix-video-side-by-side-2023-01-08"
                 }
             },
             {
