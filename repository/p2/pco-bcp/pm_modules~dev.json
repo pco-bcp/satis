@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-147-fix-main-menu-viewing-content-preview-2024-01-10",
+                "version_normalized": "dev-147-fix-main-menu-viewing-content-preview-2024-01-10",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "dfb7e2c016c3c647f35b496385738456c390bed7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/dfb7e2c016c3c647f35b496385738456c390bed7",
+                    "reference": "dfb7e2c016c3c647f35b496385738456c390bed7",
+                    "shasum": ""
+                },
+                "time": "2024-01-10T14:18:49+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/147-fix-main-menu-viewing-content-preview-2024-01-10"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16",
                 "version_normalized": "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16",
                 "source": {
