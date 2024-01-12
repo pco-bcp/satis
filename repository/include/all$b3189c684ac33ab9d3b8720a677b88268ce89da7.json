@@ -3735,15 +3735,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "10bb8480f1753a8c505689b601a10dd5c7997cb2"
+                    "reference": "a6366bf3e88070b7cc06aadc56fa6a1988ba1378"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/10bb8480f1753a8c505689b601a10dd5c7997cb2",
-                    "reference": "10bb8480f1753a8c505689b601a10dd5c7997cb2",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a6366bf3e88070b7cc06aadc56fa6a1988ba1378",
+                    "reference": "a6366bf3e88070b7cc06aadc56fa6a1988ba1378",
                     "shasum": ""
                 },
-                "time": "2024-01-09T14:12:57+00:00",
+                "time": "2024-01-12T16:55:06+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -3752,31 +3752,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
-                }
-            },
-            "dev-147-fix-main-menu-viewing-content-preview-2024-01-10": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-147-fix-main-menu-viewing-content-preview-2024-01-10",
-                "version_normalized": "dev-147-fix-main-menu-viewing-content-preview-2024-01-10",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "bdb01a4d0515c99013fcef258fdcf1dfb2581f87"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/bdb01a4d0515c99013fcef258fdcf1dfb2581f87",
-                    "reference": "bdb01a4d0515c99013fcef258fdcf1dfb2581f87",
-                    "shasum": ""
-                },
-                "time": "2024-01-12T14:29:46+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/147-fix-main-menu-viewing-content-preview-2024-01-10"
                 }
             },
             "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16": {
