@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "9a86dba6400ee7fea79daaab13ab066bddff7c32"
+                    "reference": "2bc808d1b420c5bdf0e1ea7ab78ec29d8bca3d79"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/9a86dba6400ee7fea79daaab13ab066bddff7c32",
-                    "reference": "9a86dba6400ee7fea79daaab13ab066bddff7c32",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2bc808d1b420c5bdf0e1ea7ab78ec29d8bca3d79",
+                    "reference": "2bc808d1b420c5bdf0e1ea7ab78ec29d8bca3d79",
                     "shasum": ""
                 },
-                "time": "2024-01-09T20:16:27+00:00",
+                "time": "2024-01-17T14:49:53+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-141-d9-hide-ministry-node-pages-with-event-subscriber",
-                "version_normalized": "dev-141-d9-hide-ministry-node-pages-with-event-subscriber",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a49a15d24be46bd52d95fa07d3c5576b732c0c5b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a49a15d24be46bd52d95fa07d3c5576b732c0c5b",
-                    "reference": "a49a15d24be46bd52d95fa07d3c5576b732c0c5b",
-                    "shasum": ""
-                },
-                "time": "2024-01-10T19:10:39+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/141-d9-hide-ministry-node-pages-with-event-subscriber"
                 }
             },
             {
