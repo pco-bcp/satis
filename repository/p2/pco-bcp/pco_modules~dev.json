@@ -104,6 +104,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-issues#161-customer-insights",
+                "version_normalized": "dev-issues#161-customer-insights",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "50d8d643233796c350fc6a58d76aff799ffd149b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/50d8d643233796c350fc6a58d76aff799ffd149b",
+                    "reference": "50d8d643233796c350fc6a58d76aff799ffd149b",
+                    "shasum": ""
+                },
+                "time": "2024-01-18T21:30:03+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/issues#161-customer-insights"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-pco-bcp/issues#23--fix-phpcs-issues-2023-11-16",
                 "version_normalized": "dev-pco-bcp/issues#23--fix-phpcs-issues-2023-11-16",
                 "source": {
