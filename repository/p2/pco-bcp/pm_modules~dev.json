@@ -79,6 +79,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-157--fix-popup_window-on-save-2024-01-16",
+                "version_normalized": "dev-157--fix-popup_window-on-save-2024-01-16",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "54b254a57c77d22160f814f79ed6e003fb36a6b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/54b254a57c77d22160f814f79ed6e003fb36a6b6",
+                    "reference": "54b254a57c77d22160f814f79ed6e003fb36a6b6",
+                    "shasum": ""
+                },
+                "time": "2024-01-18T13:08:52+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/157--fix-popup_window-on-save-2024-01-16"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16",
                 "version_normalized": "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16",
                 "source": {

@@ -3754,6 +3754,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/145-fix-phpcs-error-empty-return_statement-2023-01-17"
                 }
             },
+            "dev-157--fix-popup_window-on-save-2024-01-16": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-157--fix-popup_window-on-save-2024-01-16",
+                "version_normalized": "dev-157--fix-popup_window-on-save-2024-01-16",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "54b254a57c77d22160f814f79ed6e003fb36a6b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/54b254a57c77d22160f814f79ed6e003fb36a6b6",
+                    "reference": "54b254a57c77d22160f814f79ed6e003fb36a6b6",
+                    "shasum": ""
+                },
+                "time": "2024-01-18T13:08:52+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/157--fix-popup_window-on-save-2024-01-16"
+                }
+            },
             "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16",
@@ -16442,12 +16467,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "2be03119967e34fe146fe4233a5619105a4188ab"
+                    "reference": "f970ca8a63eadabc8e891c60ccd392dd14591219"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/2be03119967e34fe146fe4233a5619105a4188ab",
-                    "reference": "2be03119967e34fe146fe4233a5619105a4188ab",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/f970ca8a63eadabc8e891c60ccd392dd14591219",
+                    "reference": "f970ca8a63eadabc8e891c60ccd392dd14591219",
                     "shasum": ""
                 },
                 "require": {
@@ -16505,7 +16530,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2024-01-05T20:07:54+00:00",
+                "time": "2024-01-18T00:27:47+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
