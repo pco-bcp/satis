@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "866d5e022171dcf2c90ba53530d74fc534752acd"
+                    "reference": "e4fb1ea5fed328563022bfc1bf81a810e0ad57e5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/866d5e022171dcf2c90ba53530d74fc534752acd",
-                    "reference": "866d5e022171dcf2c90ba53530d74fc534752acd",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e4fb1ea5fed328563022bfc1bf81a810e0ad57e5",
+                    "reference": "e4fb1ea5fed328563022bfc1bf81a810e0ad57e5",
                     "shasum": ""
                 },
-                "time": "2024-01-16T21:54:34+00:00",
+                "time": "2024-01-18T14:01:25+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-158-fix-access-unpub-clipboard-link-2024-01-18",
-                "version_normalized": "dev-158-fix-access-unpub-clipboard-link-2024-01-18",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "9931b8ada7839320d82d3a7ab5c67702d79def03"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9931b8ada7839320d82d3a7ab5c67702d79def03",
-                    "reference": "9931b8ada7839320d82d3a7ab5c67702d79def03",
-                    "shasum": ""
-                },
-                "time": "2024-01-18T13:46:15+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/158-fix-access-unpub-clipboard-link-2024-01-18"
                 }
             },
             {
