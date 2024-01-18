@@ -3710,15 +3710,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "a6e6a409cd9e75fa386f0aa0d3c588c413b3fd36"
+                    "reference": "01638927c9007ba7f20f092de4e7670c5874139e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a6e6a409cd9e75fa386f0aa0d3c588c413b3fd36",
-                    "reference": "a6e6a409cd9e75fa386f0aa0d3c588c413b3fd36",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/01638927c9007ba7f20f092de4e7670c5874139e",
+                    "reference": "01638927c9007ba7f20f092de4e7670c5874139e",
                     "shasum": ""
                 },
-                "time": "2024-01-16T22:41:36+00:00",
+                "time": "2024-01-18T14:26:46+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -3752,31 +3752,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/145-fix-phpcs-error-empty-return_statement-2023-01-17"
-                }
-            },
-            "dev-157--fix-popup_window-on-save-2024-01-16": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-157--fix-popup_window-on-save-2024-01-16",
-                "version_normalized": "dev-157--fix-popup_window-on-save-2024-01-16",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "54b254a57c77d22160f814f79ed6e003fb36a6b6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/54b254a57c77d22160f814f79ed6e003fb36a6b6",
-                    "reference": "54b254a57c77d22160f814f79ed6e003fb36a6b6",
-                    "shasum": ""
-                },
-                "time": "2024-01-18T13:08:52+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/157--fix-popup_window-on-save-2024-01-16"
                 }
             },
             "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16": {
