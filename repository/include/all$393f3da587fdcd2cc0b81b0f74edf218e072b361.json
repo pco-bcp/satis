@@ -3276,6 +3276,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.0"
                 }
             },
+            "dev-163-fix-ckeditor-error-with-json-files-2024-01-22": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-163-fix-ckeditor-error-with-json-files-2024-01-22",
+                "version_normalized": "dev-163-fix-ckeditor-error-with-json-files-2024-01-22",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "4f43ec875bb3fb310e15c17e5edffb72a124b3bb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4f43ec875bb3fb310e15c17e5edffb72a124b3bb",
+                    "reference": "4f43ec875bb3fb310e15c17e5edffb72a124b3bb",
+                    "shasum": ""
+                },
+                "time": "2024-01-22T21:19:44+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/163-fix-ckeditor-error-with-json-files-2024-01-22"
+                }
+            },
             "dev-26-es6-javascript-conversions-ckeditor": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-26-es6-javascript-conversions-ckeditor",
