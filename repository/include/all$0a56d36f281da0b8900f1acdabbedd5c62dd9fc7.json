@@ -4363,15 +4363,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e4fb1ea5fed328563022bfc1bf81a810e0ad57e5"
+                    "reference": "ae2873b8521f5bfb5a9ebc946dabeea1a305926b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e4fb1ea5fed328563022bfc1bf81a810e0ad57e5",
-                    "reference": "e4fb1ea5fed328563022bfc1bf81a810e0ad57e5",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ae2873b8521f5bfb5a9ebc946dabeea1a305926b",
+                    "reference": "ae2873b8521f5bfb5a9ebc946dabeea1a305926b",
                     "shasum": ""
                 },
-                "time": "2024-01-18T14:01:25+00:00",
+                "time": "2024-01-23T15:28:58+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -4379,7 +4379,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.0"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
@@ -16517,12 +16517,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "8b1b64059ce5102247b383c30a6b180e1cf9e04c"
+                    "reference": "790500636cd3af916a9edba9fca5dd4569e7ba13"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/8b1b64059ce5102247b383c30a6b180e1cf9e04c",
-                    "reference": "8b1b64059ce5102247b383c30a6b180e1cf9e04c",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/790500636cd3af916a9edba9fca5dd4569e7ba13",
+                    "reference": "790500636cd3af916a9edba9fca5dd4569e7ba13",
                     "shasum": ""
                 },
                 "require": {
@@ -16580,7 +16580,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2024-01-18T21:25:24+00:00",
+                "time": "2024-01-23T02:09:04+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
