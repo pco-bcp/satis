@@ -3250,6 +3250,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.0"
                 }
             },
+            "2.0.1": {
+                "name": "pco-bcp/pco_modules",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "18ec444f31e0d7831e14621c5265f6c0b0e59245"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/18ec444f31e0d7831e14621c5265f6c0b0e59245",
+                    "reference": "18ec444f31e0d7831e14621c5265f6c0b0e59245",
+                    "shasum": ""
+                },
+                "time": "2024-01-22T21:37:01+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.1"
+                }
+            },
             "2.x-dev": {
                 "name": "pco-bcp/pco_modules",
                 "version": "2.x-dev",
@@ -3273,7 +3298,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.1"
                 }
             },
             "dev-26-es6-javascript-conversions-ckeditor": {
