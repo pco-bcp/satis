@@ -4438,15 +4438,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "c14b6cc3b61f610506b27546e1fbef53be0b3dfa"
+                    "reference": "802dcfc7eab56ea1e194104e4dab2fa9500f4f1a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c14b6cc3b61f610506b27546e1fbef53be0b3dfa",
-                    "reference": "c14b6cc3b61f610506b27546e1fbef53be0b3dfa",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/802dcfc7eab56ea1e194104e4dab2fa9500f4f1a",
+                    "reference": "802dcfc7eab56ea1e194104e4dab2fa9500f4f1a",
                     "shasum": ""
                 },
-                "time": "2024-01-25T17:08:13+00:00",
+                "time": "2024-01-25T17:41:53+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -4455,31 +4455,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
-                }
-            },
-            "dev-169--fix-blockquote-font-style-in-ckeditor5-2024-01-25": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-169--fix-blockquote-font-style-in-ckeditor5-2024-01-25",
-                "version_normalized": "dev-169--fix-blockquote-font-style-in-ckeditor5-2024-01-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "1a091e8b9680755d29b9d72c11ab5a3d3fcdf81d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1a091e8b9680755d29b9d72c11ab5a3d3fcdf81d",
-                    "reference": "1a091e8b9680755d29b9d72c11ab5a3d3fcdf81d",
-                    "shasum": ""
-                },
-                "time": "2024-01-25T16:36:30+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/169--fix-blockquote-font-style-in-ckeditor5-2024-01-25"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
