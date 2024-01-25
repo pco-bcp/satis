@@ -4438,15 +4438,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ae2873b8521f5bfb5a9ebc946dabeea1a305926b"
+                    "reference": "c14b6cc3b61f610506b27546e1fbef53be0b3dfa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ae2873b8521f5bfb5a9ebc946dabeea1a305926b",
-                    "reference": "ae2873b8521f5bfb5a9ebc946dabeea1a305926b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c14b6cc3b61f610506b27546e1fbef53be0b3dfa",
+                    "reference": "c14b6cc3b61f610506b27546e1fbef53be0b3dfa",
                     "shasum": ""
                 },
-                "time": "2024-01-23T15:28:58+00:00",
+                "time": "2024-01-25T17:08:13+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -4454,7 +4454,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.1"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
             "dev-169--fix-blockquote-font-style-in-ckeditor5-2024-01-25": {
@@ -4480,31 +4480,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/169--fix-blockquote-font-style-in-ckeditor5-2024-01-25"
-                }
-            },
-            "dev-170-mandate-letter-indent-issue-2024-01-25": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-170-mandate-letter-indent-issue-2024-01-25",
-                "version_normalized": "dev-170-mandate-letter-indent-issue-2024-01-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "505f4ba953df7845915566c2bbe825f56241ac9d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/505f4ba953df7845915566c2bbe825f56241ac9d",
-                    "reference": "505f4ba953df7845915566c2bbe825f56241ac9d",
-                    "shasum": ""
-                },
-                "time": "2024-01-25T16:49:37+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/170-mandate-letter-indent-issue-2024-01-25"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
