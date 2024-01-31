@@ -4482,6 +4482,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/172-bullets-do-not-indent-with-the-text"
                 }
             },
+            "dev-178-fix-blockquote-size-in-cke-2024-01-31": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-178-fix-blockquote-size-in-cke-2024-01-31",
+                "version_normalized": "dev-178-fix-blockquote-size-in-cke-2024-01-31",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "397225866bafde0281b8d8c7596f9843dd19c064"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/397225866bafde0281b8d8c7596f9843dd19c064",
+                    "reference": "397225866bafde0281b8d8c7596f9843dd19c064",
+                    "shasum": ""
+                },
+                "time": "2024-01-31T16:16:21+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/178-fix-blockquote-size-in-cke-2024-01-31"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
