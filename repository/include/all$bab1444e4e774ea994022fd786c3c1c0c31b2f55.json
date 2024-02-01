@@ -4438,15 +4438,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "802dcfc7eab56ea1e194104e4dab2fa9500f4f1a"
+                    "reference": "e6f82484317f3d5c7de343a79813b924279e6cf5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/802dcfc7eab56ea1e194104e4dab2fa9500f4f1a",
-                    "reference": "802dcfc7eab56ea1e194104e4dab2fa9500f4f1a",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e6f82484317f3d5c7de343a79813b924279e6cf5",
+                    "reference": "e6f82484317f3d5c7de343a79813b924279e6cf5",
                     "shasum": ""
                 },
-                "time": "2024-01-25T17:41:53+00:00",
+                "time": "2024-02-01T14:09:47+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -4480,31 +4480,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/172-bullets-do-not-indent-with-the-text"
-                }
-            },
-            "dev-178-fix-blockquote-size-in-cke-2024-01-31": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-178-fix-blockquote-size-in-cke-2024-01-31",
-                "version_normalized": "dev-178-fix-blockquote-size-in-cke-2024-01-31",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "397225866bafde0281b8d8c7596f9843dd19c064"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/397225866bafde0281b8d8c7596f9843dd19c064",
-                    "reference": "397225866bafde0281b8d8c7596f9843dd19c064",
-                    "shasum": ""
-                },
-                "time": "2024-01-31T16:16:21+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/178-fix-blockquote-size-in-cke-2024-01-31"
                 }
             },
             "dev-179--ckeditor-H2-style-matching-front-end-2024-01-31": {
