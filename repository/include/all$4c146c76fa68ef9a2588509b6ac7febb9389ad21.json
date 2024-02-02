@@ -4438,15 +4438,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "bb51935463d08106bfe9ad8643934acc5b7202a1"
+                    "reference": "fc279da99939329ebe9975bb1bafb17a55420d22"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/bb51935463d08106bfe9ad8643934acc5b7202a1",
-                    "reference": "bb51935463d08106bfe9ad8643934acc5b7202a1",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/fc279da99939329ebe9975bb1bafb17a55420d22",
+                    "reference": "fc279da99939329ebe9975bb1bafb17a55420d22",
                     "shasum": ""
                 },
-                "time": "2024-02-01T14:21:06+00:00",
+                "time": "2024-02-02T20:34:00+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -4455,31 +4455,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
-                }
-            },
-            "dev-172-bullets-do-not-indent-with-the-text": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-172-bullets-do-not-indent-with-the-text",
-                "version_normalized": "dev-172-bullets-do-not-indent-with-the-text",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2bcba16557a32fc7a11f17eb149ba5f218c8187d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2bcba16557a32fc7a11f17eb149ba5f218c8187d",
-                    "reference": "2bcba16557a32fc7a11f17eb149ba5f218c8187d",
-                    "shasum": ""
-                },
-                "time": "2024-02-02T18:46:29+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/172-bullets-do-not-indent-with-the-text"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
