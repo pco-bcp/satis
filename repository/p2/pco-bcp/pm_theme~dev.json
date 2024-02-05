@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-184--fix-margins-for-indented-list-CK5-2024-02-05",
+                "version_normalized": "dev-184--fix-margins-for-indented-list-CK5-2024-02-05",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "096cee13fb40313a90d4a2cd149a9630df3f8d35"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/096cee13fb40313a90d4a2cd149a9630df3f8d35",
+                    "reference": "096cee13fb40313a90d4a2cd149a9630df3f8d35",
+                    "shasum": ""
+                },
+                "time": "2024-02-05T15:14:28+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/184--fix-margins-for-indented-list-CK5-2024-02-05"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
