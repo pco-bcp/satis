@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "4790ca9f542f6a908e97bd13e540e160e8a83911"
+                    "reference": "ab673eeadacec63dbfb9e818dc645acb254a896e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/4790ca9f542f6a908e97bd13e540e160e8a83911",
-                    "reference": "4790ca9f542f6a908e97bd13e540e160e8a83911",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/ab673eeadacec63dbfb9e818dc645acb254a896e",
+                    "reference": "ab673eeadacec63dbfb9e818dc645acb254a896e",
                     "shasum": ""
                 },
                 "require": {
@@ -24,7 +24,7 @@
                     "drush/drush": ">=9.7",
                     "pco-bcp/impact_bootstrap": "^2.4"
                 },
-                "time": "2024-02-08T21:44:01+00:00",
+                "time": "2024-02-09T03:03:37+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
