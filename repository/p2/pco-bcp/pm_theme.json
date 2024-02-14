@@ -325,6 +325,56 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.1"
                 }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "fc279da99939329ebe9975bb1bafb17a55420d22"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/fc279da99939329ebe9975bb1bafb17a55420d22",
+                    "reference": "fc279da99939329ebe9975bb1bafb17a55420d22",
+                    "shasum": ""
+                },
+                "time": "2024-02-02T20:34:00+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.2"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "bf8af84ed6815296bbeb2617bcb4a01183e6c495"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/bf8af84ed6815296bbeb2617bcb4a01183e6c495",
+                    "reference": "bf8af84ed6815296bbeb2617bcb4a01183e6c495",
+                    "shasum": ""
+                },
+                "time": "2024-02-06T14:35:28+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.3"
+                }
             }
         ]
     }
