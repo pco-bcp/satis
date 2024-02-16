@@ -4935,15 +4935,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ebca82944536da08fbb2a76acc03d2fcec5d1ffe"
+                    "reference": "7283b118609a411ee90d97ab2abce69d1e9b37b2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ebca82944536da08fbb2a76acc03d2fcec5d1ffe",
-                    "reference": "ebca82944536da08fbb2a76acc03d2fcec5d1ffe",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7283b118609a411ee90d97ab2abce69d1e9b37b2",
+                    "reference": "7283b118609a411ee90d97ab2abce69d1e9b37b2",
                     "shasum": ""
                 },
-                "time": "2024-02-16T15:18:06+00:00",
+                "time": "2024-02-16T15:32:45+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -4952,31 +4952,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
-                }
-            },
-            "dev-162--bullet-indent-fix": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-162--bullet-indent-fix",
-                "version_normalized": "dev-162--bullet-indent-fix",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a7433f49356ac04542964eb9df426a26ead860b3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a7433f49356ac04542964eb9df426a26ead860b3",
-                    "reference": "a7433f49356ac04542964eb9df426a26ead860b3",
-                    "shasum": ""
-                },
-                "time": "2024-02-16T15:13:57+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/162--bullet-indent-fix"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
