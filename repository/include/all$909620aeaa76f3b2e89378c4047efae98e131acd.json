@@ -4979,6 +4979,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/170--resolve-regression-w-mandate-header-indent-2024-02-16"
                 }
             },
+            "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16_v2": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16_v2",
+                "version_normalized": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16_v2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "06df2cd34df4974d46864485a6da1d2f748389ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/06df2cd34df4974d46864485a6da1d2f748389ce",
+                    "reference": "06df2cd34df4974d46864485a6da1d2f748389ce",
+                    "shasum": ""
+                },
+                "time": "2024-02-16T15:01:29+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/170--resolve-regression-w-mandate-header-indent-2024-02-16_v2"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
