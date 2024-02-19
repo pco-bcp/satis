@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-192--fix-duplicated-photos-flick-page-logged-in-2023-02-19",
+                "version_normalized": "dev-192--fix-duplicated-photos-flick-page-logged-in-2023-02-19",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "80010ee5f5a52e752a196e846aeffbe6ddd5f7df"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/80010ee5f5a52e752a196e846aeffbe6ddd5f7df",
+                    "reference": "80010ee5f5a52e752a196e846aeffbe6ddd5f7df",
+                    "shasum": ""
+                },
+                "time": "2024-02-19T13:33:49+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/192--fix-duplicated-photos-flick-page-logged-in-2023-02-19"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-193--fix-duplicated-videos-logged-in-2023-02-19",
                 "version_normalized": "dev-193--fix-duplicated-videos-logged-in-2023-02-19",
                 "source": {
