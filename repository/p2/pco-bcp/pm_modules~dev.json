@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "4a83264b2e8d3c0604e3598b83a287c3cd979bfb"
+                    "reference": "b7ccff288d13df3a38f2bf1ba02bd6c1134f8487"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4a83264b2e8d3c0604e3598b83a287c3cd979bfb",
-                    "reference": "4a83264b2e8d3c0604e3598b83a287c3cd979bfb",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b7ccff288d13df3a38f2bf1ba02bd6c1134f8487",
+                    "reference": "b7ccff288d13df3a38f2bf1ba02bd6c1134f8487",
                     "shasum": ""
                 },
-                "time": "2024-01-25T13:53:59+00:00",
+                "time": "2024-02-19T14:46:47+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.2"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
                 }
             },
             {
@@ -75,31 +75,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/192--fix-duplicated-photos-flick-page-logged-in-2023-02-19"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-193--fix-duplicated-videos-logged-in-2023-02-19",
-                "version_normalized": "dev-193--fix-duplicated-videos-logged-in-2023-02-19",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2f0db303e16ff98dea0c97d32cef8b57d9bff73e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2f0db303e16ff98dea0c97d32cef8b57d9bff73e",
-                    "reference": "2f0db303e16ff98dea0c97d32cef8b57d9bff73e",
-                    "shasum": ""
-                },
-                "time": "2024-02-19T13:18:42+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/193--fix-duplicated-videos-logged-in-2023-02-19"
                 }
             },
             {
