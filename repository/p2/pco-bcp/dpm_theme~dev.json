@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-198--update-twitter-logo-2024-02-20",
+                "version_normalized": "dev-198--update-twitter-logo-2024-02-20",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "39ed0d8e9fa113ded0259e02c65552c2f9f7cbec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/39ed0d8e9fa113ded0259e02c65552c2f9f7cbec",
+                    "reference": "39ed0d8e9fa113ded0259e02c65552c2f9f7cbec",
+                    "shasum": ""
+                },
+                "time": "2024-02-20T21:39:44+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/198--update-twitter-logo-2024-02-20"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
