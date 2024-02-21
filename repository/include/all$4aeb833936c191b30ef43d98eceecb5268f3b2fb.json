@@ -661,15 +661,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "73c345941b59df7abd1883710fdce1f9a59d7ccf"
+                    "reference": "f865b99d43dc01ee2297047d397ae5b4b5f36067"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/73c345941b59df7abd1883710fdce1f9a59d7ccf",
-                    "reference": "73c345941b59df7abd1883710fdce1f9a59d7ccf",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/f865b99d43dc01ee2297047d397ae5b4b5f36067",
+                    "reference": "f865b99d43dc01ee2297047d397ae5b4b5f36067",
                     "shasum": ""
                 },
-                "time": "2023-10-19T14:30:46+00:00",
+                "time": "2024-02-21T13:03:36+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -702,32 +702,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/1.x"
-                }
-            },
-            "dev-198--update-twitter-logo-2024-02-20": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-198--update-twitter-logo-2024-02-20",
-                "version_normalized": "dev-198--update-twitter-logo-2024-02-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "c23aa4f7648b9f0fb99b02c35ae2c573bca60ec5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/c23aa4f7648b9f0fb99b02c35ae2c573bca60ec5",
-                    "reference": "c23aa4f7648b9f0fb99b02c35ae2c573bca60ec5",
-                    "shasum": ""
-                },
-                "time": "2024-02-20T23:24:18+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/198--update-twitter-logo-2024-02-20"
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
