@@ -5054,6 +5054,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/198--add-hover-on-x-follow-button"
                 }
             },
+            "dev-198--fix-Size-Twitter-new-logo-2024-02-21": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-198--fix-Size-Twitter-new-logo-2024-02-21",
+                "version_normalized": "dev-198--fix-Size-Twitter-new-logo-2024-02-21",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "afb9a64ad5663af0044870daf931d00e1a480b67"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/afb9a64ad5663af0044870daf931d00e1a480b67",
+                    "reference": "afb9a64ad5663af0044870daf931d00e1a480b67",
+                    "shasum": ""
+                },
+                "time": "2024-02-21T18:14:16+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/198--fix-Size-Twitter-new-logo-2024-02-21"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
