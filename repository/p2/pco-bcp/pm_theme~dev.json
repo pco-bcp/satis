@@ -79,6 +79,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-198--add-hover-on-x-follow-button",
+                "version_normalized": "dev-198--add-hover-on-x-follow-button",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "6bac520eb67ce9e4c57e5da554a1fda640d8e787"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6bac520eb67ce9e4c57e5da554a1fda640d8e787",
+                    "reference": "6bac520eb67ce9e4c57e5da554a1fda640d8e787",
+                    "shasum": ""
+                },
+                "time": "2024-02-21T18:06:57+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/198--add-hover-on-x-follow-button"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
