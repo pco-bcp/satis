@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "7283b118609a411ee90d97ab2abce69d1e9b37b2"
+                    "reference": "4cc48163871dcbbe92aa6843f10d66383f7d5f2e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7283b118609a411ee90d97ab2abce69d1e9b37b2",
-                    "reference": "7283b118609a411ee90d97ab2abce69d1e9b37b2",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4cc48163871dcbbe92aa6843f10d66383f7d5f2e",
+                    "reference": "4cc48163871dcbbe92aa6843f10d66383f7d5f2e",
                     "shasum": ""
                 },
-                "time": "2024-02-16T15:32:45+00:00",
+                "time": "2024-02-21T13:02:14+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.4"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
             {
@@ -75,31 +75,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/170--resolve-regression-w-mandate-header-indent-2024-02-16"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-198--update-twitter-logo-2024-02-20",
-                "version_normalized": "dev-198--update-twitter-logo-2024-02-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "503d1b05af25b6ffda799ee6a258ed382ebb1f0b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/503d1b05af25b6ffda799ee6a258ed382ebb1f0b",
-                    "reference": "503d1b05af25b6ffda799ee6a258ed382ebb1f0b",
-                    "shasum": ""
-                },
-                "time": "2024-02-21T07:32:53+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/198--update-twitter-logo-2024-02-20"
                 }
             },
             {
