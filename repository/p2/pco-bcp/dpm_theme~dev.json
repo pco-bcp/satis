@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "5dad9a498551a99f1a3b1020544e8e4b17bb8c94"
+                    "reference": "528d250fd9cc7be099b87862b62f1b5fd3030572"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/5dad9a498551a99f1a3b1020544e8e4b17bb8c94",
-                    "reference": "5dad9a498551a99f1a3b1020544e8e4b17bb8c94",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/528d250fd9cc7be099b87862b62f1b5fd3030572",
+                    "reference": "528d250fd9cc7be099b87862b62f1b5fd3030572",
                     "shasum": ""
                 },
-                "time": "2024-02-21T20:15:36+00:00",
+                "time": "2024-02-22T14:43:03+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-198-change-follow-button-to-purple-2024-02-22",
-                "version_normalized": "dev-198-change-follow-button-to-purple-2024-02-22",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "66ede31c6643c207d48d9d3b91699087a597167d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/66ede31c6643c207d48d9d3b91699087a597167d",
-                    "reference": "66ede31c6643c207d48d9d3b91699087a597167d",
-                    "shasum": ""
-                },
-                "time": "2024-02-22T13:56:43+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/198-change-follow-button-to-purple-2024-02-22"
                 }
             },
             {
