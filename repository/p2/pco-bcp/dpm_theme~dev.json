@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-198--more-space-added-after-follow-button-2024-02-22",
+                "version_normalized": "dev-198--more-space-added-after-follow-button-2024-02-22",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "d96c98c40d3724f9d80c197b4401e8760916f688"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/d96c98c40d3724f9d80c197b4401e8760916f688",
+                    "reference": "d96c98c40d3724f9d80c197b4401e8760916f688",
+                    "shasum": ""
+                },
+                "time": "2024-02-22T16:47:39+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/198--more-space-added-after-follow-button-2024-02-22"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
