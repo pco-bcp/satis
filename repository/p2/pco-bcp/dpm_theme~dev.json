@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "528d250fd9cc7be099b87862b62f1b5fd3030572"
+                    "reference": "7a3079d5edb731d7dc98a42648cb06c727d7a215"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/528d250fd9cc7be099b87862b62f1b5fd3030572",
-                    "reference": "528d250fd9cc7be099b87862b62f1b5fd3030572",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/7a3079d5edb731d7dc98a42648cb06c727d7a215",
+                    "reference": "7a3079d5edb731d7dc98a42648cb06c727d7a215",
                     "shasum": ""
                 },
-                "time": "2024-02-22T14:43:03+00:00",
+                "time": "2024-02-22T16:51:05+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-198--more-space-added-after-follow-button-2024-02-22",
-                "version_normalized": "dev-198--more-space-added-after-follow-button-2024-02-22",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "d96c98c40d3724f9d80c197b4401e8760916f688"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/d96c98c40d3724f9d80c197b4401e8760916f688",
-                    "reference": "d96c98c40d3724f9d80c197b4401e8760916f688",
-                    "shasum": ""
-                },
-                "time": "2024-02-22T16:47:39+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/198--more-space-added-after-follow-button-2024-02-22"
                 }
             },
             {
