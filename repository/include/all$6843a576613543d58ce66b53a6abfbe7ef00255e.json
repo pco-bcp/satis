@@ -687,15 +687,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "73c345941b59df7abd1883710fdce1f9a59d7ccf"
+                    "reference": "5cec5014dc2903069d7d05e565869e8c069a5a98"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/73c345941b59df7abd1883710fdce1f9a59d7ccf",
-                    "reference": "73c345941b59df7abd1883710fdce1f9a59d7ccf",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/5cec5014dc2903069d7d05e565869e8c069a5a98",
+                    "reference": "5cec5014dc2903069d7d05e565869e8c069a5a98",
                     "shasum": ""
                 },
-                "time": "2023-10-19T14:30:46+00:00",
+                "time": "2024-02-23T16:12:19+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
@@ -703,31 +703,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            "dev-41-sync-2.x-branch-with-twitter-x-changes-2024-02-23": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-41-sync-2.x-branch-with-twitter-x-changes-2024-02-23",
-                "version_normalized": "dev-41-sync-2.x-branch-with-twitter-x-changes-2024-02-23",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "b4eb7cced745052490859804fea86cc8ed8f6108"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/b4eb7cced745052490859804fea86cc8ed8f6108",
-                    "reference": "b4eb7cced745052490859804fea86cc8ed8f6108",
-                    "shasum": ""
-                },
-                "time": "2024-02-23T15:54:23+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/41-sync-2.x-branch-with-twitter-x-changes-2024-02-23"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
