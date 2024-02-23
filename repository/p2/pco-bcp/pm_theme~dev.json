@@ -104,6 +104,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-201-adjust-X-logo-in-mobile-2024-02-23",
+                "version_normalized": "dev-201-adjust-X-logo-in-mobile-2024-02-23",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "ee9e0913f9cc3071ceaf454aef942fa1f9b7b937"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ee9e0913f9cc3071ceaf454aef942fa1f9b7b937",
+                    "reference": "ee9e0913f9cc3071ceaf454aef942fa1f9b7b937",
+                    "shasum": ""
+                },
+                "time": "2024-02-23T18:30:44+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/201-adjust-X-logo-in-mobile-2024-02-23"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
