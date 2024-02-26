@@ -661,15 +661,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "7a3079d5edb731d7dc98a42648cb06c727d7a215"
+                    "reference": "fa7227497a4f2f81b0932f42c97223b4a8611f89"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/7a3079d5edb731d7dc98a42648cb06c727d7a215",
-                    "reference": "7a3079d5edb731d7dc98a42648cb06c727d7a215",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/fa7227497a4f2f81b0932f42c97223b4a8611f89",
+                    "reference": "fa7227497a4f2f81b0932f42c97223b4a8611f89",
                     "shasum": ""
                 },
-                "time": "2024-02-22T16:51:05+00:00",
+                "time": "2024-02-26T14:39:13+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -703,31 +703,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            "dev-201-adjust-X-logo-in-mobile-D9-2024-02-24": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-201-adjust-X-logo-in-mobile-D9-2024-02-24",
-                "version_normalized": "dev-201-adjust-X-logo-in-mobile-D9-2024-02-24",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "3806c2ec484419873421d8c586acafdc1ecd0874"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/3806c2ec484419873421d8c586acafdc1ecd0874",
-                    "reference": "3806c2ec484419873421d8c586acafdc1ecd0874",
-                    "shasum": ""
-                },
-                "time": "2024-02-26T13:37:04+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/201-adjust-X-logo-in-mobile-D9-2024-02-24"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
