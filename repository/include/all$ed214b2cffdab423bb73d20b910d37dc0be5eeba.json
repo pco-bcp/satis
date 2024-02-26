@@ -705,6 +705,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
+            "dev-201-adjust-X-logo-in-mobile-D9-2024-02-24": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-201-adjust-X-logo-in-mobile-D9-2024-02-24",
+                "version_normalized": "dev-201-adjust-X-logo-in-mobile-D9-2024-02-24",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "3806c2ec484419873421d8c586acafdc1ecd0874"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/3806c2ec484419873421d8c586acafdc1ecd0874",
+                    "reference": "3806c2ec484419873421d8c586acafdc1ecd0874",
+                    "shasum": ""
+                },
+                "time": "2024-02-26T13:37:04+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/201-adjust-X-logo-in-mobile-D9-2024-02-24"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
