@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "38095e8e9685604c68ce12eda6e74e5e56e8e152"
+                    "reference": "d2a45b35ea43c83e577775325b4d91c7c68515e8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/38095e8e9685604c68ce12eda6e74e5e56e8e152",
-                    "reference": "38095e8e9685604c68ce12eda6e74e5e56e8e152",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d2a45b35ea43c83e577775325b4d91c7c68515e8",
+                    "reference": "d2a45b35ea43c83e577775325b4d91c7c68515e8",
                     "shasum": ""
                 },
-                "time": "2024-02-21T20:00:10+00:00",
+                "time": "2024-02-26T13:45:36+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -100,31 +100,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/198--add-hover-on-x-follow-button"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-201-adjust-X-logo-in-mobile-2024-02-23",
-                "version_normalized": "dev-201-adjust-X-logo-in-mobile-2024-02-23",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ee9e0913f9cc3071ceaf454aef942fa1f9b7b937"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ee9e0913f9cc3071ceaf454aef942fa1f9b7b937",
-                    "reference": "ee9e0913f9cc3071ceaf454aef942fa1f9b7b937",
-                    "shasum": ""
-                },
-                "time": "2024-02-23T18:30:44+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/201-adjust-X-logo-in-mobile-2024-02-23"
                 }
             },
             {
