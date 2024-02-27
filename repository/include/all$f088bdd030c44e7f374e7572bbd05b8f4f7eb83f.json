@@ -687,15 +687,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "fa676ca81a4e306d21ae903f26b2d1557666ca18"
+                    "reference": "ab16a2297627a3ae4b21b15dd65ab226885c78e7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/fa676ca81a4e306d21ae903f26b2d1557666ca18",
-                    "reference": "fa676ca81a4e306d21ae903f26b2d1557666ca18",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/ab16a2297627a3ae4b21b15dd65ab226885c78e7",
+                    "reference": "ab16a2297627a3ae4b21b15dd65ab226885c78e7",
                     "shasum": ""
                 },
-                "time": "2024-02-23T19:22:59+00:00",
+                "time": "2024-02-27T16:41:19+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
@@ -703,31 +703,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            "dev-41-update-info-file-for-d10-compat-2024-02-27": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-41-update-info-file-for-d10-compat-2024-02-27",
-                "version_normalized": "dev-41-update-info-file-for-d10-compat-2024-02-27",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "72d7f2faa1f0db1f9643aa413a4ab69bd1a8eb99"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/72d7f2faa1f0db1f9643aa413a4ab69bd1a8eb99",
-                    "reference": "72d7f2faa1f0db1f9643aa413a4ab69bd1a8eb99",
-                    "shasum": ""
-                },
-                "time": "2024-02-27T15:18:01+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/41-update-info-file-for-d10-compat-2024-02-27"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
