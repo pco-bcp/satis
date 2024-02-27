@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_modules",
+                "version": "dev-43-dpm-upgrade-custom-dpm_modules-to-10x",
+                "version_normalized": "dev-43-dpm-upgrade-custom-dpm_modules-to-10x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "f5269db1d73a3eec9c25f4a3ddfe8a856cd3f260"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/f5269db1d73a3eec9c25f4a3ddfe8a856cd3f260",
+                    "reference": "f5269db1d73a3eec9c25f4a3ddfe8a856cd3f260",
+                    "shasum": ""
+                },
+                "time": "2024-02-27T18:44:04+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/43-dpm-upgrade-custom-dpm_modules-to-10x"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_modules",
                 "version": "dev-fix--deprecated-function-on-pm_admin-2023-07-24",
                 "version_normalized": "dev-fix--deprecated-function-on-pm_admin-2023-07-24",
                 "source": {
