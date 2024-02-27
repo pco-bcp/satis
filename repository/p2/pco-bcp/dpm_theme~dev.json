@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-41-update-info-file-for-d10-compat-2024-02-27",
+                "version_normalized": "dev-41-update-info-file-for-d10-compat-2024-02-27",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "72d7f2faa1f0db1f9643aa413a4ab69bd1a8eb99"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/72d7f2faa1f0db1f9643aa413a4ab69bd1a8eb99",
+                    "reference": "72d7f2faa1f0db1f9643aa413a4ab69bd1a8eb99",
+                    "shasum": ""
+                },
+                "time": "2024-02-27T15:18:01+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/41-update-info-file-for-d10-compat-2024-02-27"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
