@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_modules.git",
-                    "reference": "345ffa56fbbc6e9d486a111dd9a5186be288aced"
+                    "reference": "2efc9c3a1dba203b8e4a17dbb46a8ada158adf00"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/345ffa56fbbc6e9d486a111dd9a5186be288aced",
-                    "reference": "345ffa56fbbc6e9d486a111dd9a5186be288aced",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/2efc9c3a1dba203b8e4a17dbb46a8ada158adf00",
+                    "reference": "2efc9c3a1dba203b8e4a17dbb46a8ada158adf00",
                     "shasum": ""
                 },
-                "time": "2023-08-16T19:33:36+00:00",
+                "time": "2024-02-27T21:12:20+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "DPM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.1.0"
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/2.x"
                 }
             },
             {
