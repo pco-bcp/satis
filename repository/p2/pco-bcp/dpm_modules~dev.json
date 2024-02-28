@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_modules.git",
-                    "reference": "b2328a24c8d0bccf54bcec4a725838a1fdc50305"
+                    "reference": "106e1aa2df22593fe12ff80d88f9319979c4d48f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/b2328a24c8d0bccf54bcec4a725838a1fdc50305",
-                    "reference": "b2328a24c8d0bccf54bcec4a725838a1fdc50305",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/106e1aa2df22593fe12ff80d88f9319979c4d48f",
+                    "reference": "106e1aa2df22593fe12ff80d88f9319979c4d48f",
                     "shasum": ""
                 },
-                "time": "2024-02-28T16:56:54+00:00",
+                "time": "2024-02-28T21:59:23+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -50,6 +50,31 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/2.x"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_modules",
+                "version": "dev-203--fix-news-landing-page-2024-02-28",
+                "version_normalized": "dev-203--fix-news-landing-page-2024-02-28",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "72da06d3dddebbdd207c8dbe857e1d19f3e6de8e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/72da06d3dddebbdd207c8dbe857e1d19f3e6de8e",
+                    "reference": "72da06d3dddebbdd207c8dbe857e1d19f3e6de8e",
+                    "shasum": ""
+                },
+                "time": "2024-02-28T21:42:52+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/203--fix-news-landing-page-2024-02-28"
                 }
             },
             {
