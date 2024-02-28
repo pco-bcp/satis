@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_modules",
+                "version": "dev-41--update-custom-modules-D10-2024-02-28",
+                "version_normalized": "dev-41--update-custom-modules-D10-2024-02-28",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "e611531b75d581a643efd0cabe28606a4765f4d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/e611531b75d581a643efd0cabe28606a4765f4d4",
+                    "reference": "e611531b75d581a643efd0cabe28606a4765f4d4",
+                    "shasum": ""
+                },
+                "time": "2024-02-28T16:24:28+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/41--update-custom-modules-D10-2024-02-28"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_modules",
                 "version": "dev-43-dpm-upgrade-custom-dpm_modules-to-10x",
                 "version_normalized": "dev-43-dpm-upgrade-custom-dpm_modules-to-10x",
                 "source": {
