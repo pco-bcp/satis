@@ -34,15 +34,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "ab16a2297627a3ae4b21b15dd65ab226885c78e7"
+                    "reference": "f655d0cc310d42ac9298f533b1652addca9faa58"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/ab16a2297627a3ae4b21b15dd65ab226885c78e7",
-                    "reference": "ab16a2297627a3ae4b21b15dd65ab226885c78e7",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/f655d0cc310d42ac9298f533b1652addca9faa58",
+                    "reference": "f655d0cc310d42ac9298f533b1652addca9faa58",
                     "shasum": ""
                 },
-                "time": "2024-02-27T16:41:19+00:00",
+                "time": "2024-02-28T20:00:27+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-41-fix-getBanner-issue-2024-02-28",
-                "version_normalized": "dev-41-fix-getBanner-issue-2024-02-28",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "f3230e8e0d2a006ea293fc5c8f114b14395e76e5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/f3230e8e0d2a006ea293fc5c8f114b14395e76e5",
-                    "reference": "f3230e8e0d2a006ea293fc5c8f114b14395e76e5",
-                    "shasum": ""
-                },
-                "time": "2024-02-28T19:49:15+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/41-fix-getBanner-issue-2024-02-28"
                 }
             },
             {
