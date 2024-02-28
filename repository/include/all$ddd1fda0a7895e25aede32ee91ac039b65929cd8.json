@@ -755,6 +755,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
+            "dev-41-sync-cke5-stylesheet-with-pm-2024-02-28": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-41-sync-cke5-stylesheet-with-pm-2024-02-28",
+                "version_normalized": "dev-41-sync-cke5-stylesheet-with-pm-2024-02-28",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "1f4b3b392de88a1f0146d8b8c62bff760025ec38"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/1f4b3b392de88a1f0146d8b8c62bff760025ec38",
+                    "reference": "1f4b3b392de88a1f0146d8b8c62bff760025ec38",
+                    "shasum": ""
+                },
+                "time": "2024-02-28T21:41:40+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/41-sync-cke5-stylesheet-with-pm-2024-02-28"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
