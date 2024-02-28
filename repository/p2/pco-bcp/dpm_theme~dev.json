@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-41-fix-getBanner-issue-2024-02-28",
+                "version_normalized": "dev-41-fix-getBanner-issue-2024-02-28",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "6c6ee4d2215fa59dc1ec20f49f0c114a1d8a1b2b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/6c6ee4d2215fa59dc1ec20f49f0c114a1d8a1b2b",
+                    "reference": "6c6ee4d2215fa59dc1ec20f49f0c114a1d8a1b2b",
+                    "shasum": ""
+                },
+                "time": "2024-02-28T17:29:51+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/41-fix-getBanner-issue-2024-02-28"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
