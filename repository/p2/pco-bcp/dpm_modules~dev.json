@@ -79,6 +79,31 @@
             },
             {
                 "name": "pco-bcp/dpm_modules",
+                "version": "dev-204--update-side-by-side-using-gin-admin-theme-2024-03-01",
+                "version_normalized": "dev-204--update-side-by-side-using-gin-admin-theme-2024-03-01",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "7e79bb3522834b98f0f812a4fc9b628328456a57"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/7e79bb3522834b98f0f812a4fc9b628328456a57",
+                    "reference": "7e79bb3522834b98f0f812a4fc9b628328456a57",
+                    "shasum": ""
+                },
+                "time": "2024-03-04T17:27:34+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/204--update-side-by-side-using-gin-admin-theme-2024-03-01"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_modules",
                 "version": "dev-41--update-custom-modules-D10-2024-02-28",
                 "version_normalized": "dev-41--update-custom-modules-D10-2024-02-28",
                 "source": {
