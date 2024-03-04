@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_modules.git",
-                    "reference": "a590b4563b1734a0f0ade89994d995529a662838"
+                    "reference": "066e9274f69d776f267f27155e38ec110a890b3e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/a590b4563b1734a0f0ade89994d995529a662838",
-                    "reference": "a590b4563b1734a0f0ade89994d995529a662838",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/066e9274f69d776f267f27155e38ec110a890b3e",
+                    "reference": "066e9274f69d776f267f27155e38ec110a890b3e",
                     "shasum": ""
                 },
-                "time": "2024-03-04T19:27:25+00:00",
+                "time": "2024-03-04T20:57:54+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
