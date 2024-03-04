@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-162--fix-default_bullets-indent-front-end-2024-03-04",
+                "version_normalized": "dev-162--fix-default_bullets-indent-front-end-2024-03-04",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "f4717dc349a32d3a09a1b677a76d2d79b0e0f336"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/f4717dc349a32d3a09a1b677a76d2d79b0e0f336",
+                    "reference": "f4717dc349a32d3a09a1b677a76d2d79b0e0f336",
+                    "shasum": ""
+                },
+                "time": "2024-03-04T20:11:24+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/162--fix-default_bullets-indent-front-end-2024-03-04"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-41-sync-cke5-stylesheet-with-pm-2024-02-28",
                 "version_normalized": "dev-41-sync-cke5-stylesheet-with-pm-2024-02-28",
                 "source": {
