@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-16--search-modal-when-logged-in-2024-03-05",
+                "version_normalized": "dev-16--search-modal-when-logged-in-2024-03-05",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "4c0f972436d6469c95871d6344f79f877b6c54b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/4c0f972436d6469c95871d6344f79f877b6c54b6",
+                    "reference": "4c0f972436d6469c95871d6344f79f877b6c54b6",
+                    "shasum": ""
+                },
+                "time": "2024-03-05T14:50:15+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/16--search-modal-when-logged-in-2024-03-05"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
