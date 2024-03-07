@@ -2835,23 +2835,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "e80227a95494d2eebf1290a328b0719301018a0c"
+                    "reference": "7b80f87ae7d2ca92e3c9b99717ca38ac334c7423"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/e80227a95494d2eebf1290a328b0719301018a0c",
-                    "reference": "e80227a95494d2eebf1290a328b0719301018a0c",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/7b80f87ae7d2ca92e3c9b99717ca38ac334c7423",
+                    "reference": "7b80f87ae7d2ca92e3c9b99717ca38ac334c7423",
                     "shasum": ""
                 },
                 "require": {
                     "cweagans/composer-patches": "^1.7.3",
                     "drupal/core-composer-scaffold": "*",
                     "drupal/mailgun": "^2.0.0",
-                    "drupalwxt/wxt": "5.2.1",
+                    "drupalwxt/wxt": "5.1.1",
                     "drush/drush": "^12.4.3",
                     "pco-bcp/impact_bootstrap": "^2.4"
                 },
-                "time": "2024-03-07T23:12:46+00:00",
+                "time": "2024-03-07T23:21:28+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
