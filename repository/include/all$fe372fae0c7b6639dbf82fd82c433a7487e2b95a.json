@@ -2835,23 +2835,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "fcd4948cb18efadf6a4636c772baa848e22922ca"
+                    "reference": "0340b09540e7d3ab77ee0c6e2f8031919902187c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/fcd4948cb18efadf6a4636c772baa848e22922ca",
-                    "reference": "fcd4948cb18efadf6a4636c772baa848e22922ca",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/0340b09540e7d3ab77ee0c6e2f8031919902187c",
+                    "reference": "0340b09540e7d3ab77ee0c6e2f8031919902187c",
                     "shasum": ""
                 },
                 "require": {
-                    "cweagans/composer-patches": "^1.6.4",
+                    "cweagans/composer-patches": "^1.7.3",
                     "drupal/core-composer-scaffold": "*",
-                    "drupal/mailgun": "^1.0",
-                    "drupalwxt/wxt": "4.5.2",
-                    "drush/drush": ">=9.7",
+                    "drupal/mailgun": "^2.0.0",
+                    "drupalwxt/wxt": "5.2.1",
+                    "drush/drush": "^12.4.3",
                     "pco-bcp/impact_bootstrap": "^2.4"
                 },
-                "time": "2024-03-01T15:37:26+00:00",
+                "time": "2024-03-07T20:50:48+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -2918,7 +2918,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/2.5.5"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/24-upgrade-to-drupal-10-wxt-500-ici"
                 }
             },
             "dev-3.1.x-1.0.x": {
