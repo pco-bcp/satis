@@ -377,6 +377,31 @@
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/151-add-leaf-icon-gin-toolbar-2024-03-04"
                 }
             },
+            "dev-157--add-confirmation_popup-to-publish-2024-03-08": {
+                "name": "pco-bcp/dpm_modules",
+                "version": "dev-157--add-confirmation_popup-to-publish-2024-03-08",
+                "version_normalized": "dev-157--add-confirmation_popup-to-publish-2024-03-08",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "810eabf0f8b70d19edea45d9d9e439dcb1a08cf1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/810eabf0f8b70d19edea45d9d9e439dcb1a08cf1",
+                    "reference": "810eabf0f8b70d19edea45d9d9e439dcb1a08cf1",
+                    "shasum": ""
+                },
+                "time": "2024-03-08T18:42:21+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/157--add-confirmation_popup-to-publish-2024-03-08"
+                }
+            },
             "dev-203--fix-news-landing-page-2024-02-28": {
                 "name": "pco-bcp/dpm_modules",
                 "version": "dev-203--fix-news-landing-page-2024-02-28",
