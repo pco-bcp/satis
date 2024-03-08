@@ -886,15 +886,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "5120d753ae2cc0bd39748f8401b6a23b61ced0b3"
+                    "reference": "ad1f6d124950f242c7e85958a73ea5122f243380"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/5120d753ae2cc0bd39748f8401b6a23b61ced0b3",
-                    "reference": "5120d753ae2cc0bd39748f8401b6a23b61ced0b3",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/ad1f6d124950f242c7e85958a73ea5122f243380",
+                    "reference": "ad1f6d124950f242c7e85958a73ea5122f243380",
                     "shasum": ""
                 },
-                "time": "2024-03-04T20:17:49+00:00",
+                "time": "2024-03-08T13:23:39+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -902,32 +902,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.1"
-                }
-            },
-            "dev-16--search-modal-when-logged-in-2024-03-05": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-16--search-modal-when-logged-in-2024-03-05",
-                "version_normalized": "dev-16--search-modal-when-logged-in-2024-03-05",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "5bff7d5063c77b1e5e97fd746ca812bf89f4a10b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/5bff7d5063c77b1e5e97fd746ca812bf89f4a10b",
-                    "reference": "5bff7d5063c77b1e5e97fd746ca812bf89f4a10b",
-                    "shasum": ""
-                },
-                "time": "2024-03-05T15:09:54+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/16--search-modal-when-logged-in-2024-03-05"
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
