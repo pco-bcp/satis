@@ -96,8 +96,8 @@
             },
             {
                 "name": "pco-bcp/pco_cities",
-                "version": "dev-24-upgrade-to-drupal-10-wxt-500-ici_5.2.1",
-                "version_normalized": "dev-24-upgrade-to-drupal-10-wxt-500-ici_5.2.1",
+                "version": "dev-24-upgrade-to-drupal-10-wxt-500-ici_5-2-1",
+                "version_normalized": "dev-24-upgrade-to-drupal-10-wxt-500-ici_5-2-1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
@@ -184,7 +184,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/24-upgrade-to-drupal-10-wxt-500-ici_5.2.1"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/24-upgrade-to-drupal-10-wxt-500-ici_5-2-1"
                 }
             },
             {
