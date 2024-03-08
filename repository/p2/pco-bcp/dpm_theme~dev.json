@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "ad1f6d124950f242c7e85958a73ea5122f243380"
+                    "reference": "4f09c25a85b77d0611e61a2eee245befbc75d617"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/ad1f6d124950f242c7e85958a73ea5122f243380",
-                    "reference": "ad1f6d124950f242c7e85958a73ea5122f243380",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/4f09c25a85b77d0611e61a2eee245befbc75d617",
+                    "reference": "4f09c25a85b77d0611e61a2eee245befbc75d617",
                     "shasum": ""
                 },
-                "time": "2024-03-08T13:23:39+00:00",
+                "time": "2024-03-08T18:55:07+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -49,32 +49,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.2"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-219--bullet-fix",
-                "version_normalized": "dev-219--bullet-fix",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "d26fa28877637d1e49d0d677c1e15d2c13d2dd15"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/d26fa28877637d1e49d0d677c1e15d2c13d2dd15",
-                    "reference": "d26fa28877637d1e49d0d677c1e15d2c13d2dd15",
-                    "shasum": ""
-                },
-                "time": "2024-03-08T18:43:48+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/219--bullet-fix"
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
             {
