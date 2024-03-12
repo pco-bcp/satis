@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "4f09c25a85b77d0611e61a2eee245befbc75d617"
+                    "reference": "84c7ff1cf3ae308d65a38b12251c29b803378424"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/4f09c25a85b77d0611e61a2eee245befbc75d617",
-                    "reference": "4f09c25a85b77d0611e61a2eee245befbc75d617",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/84c7ff1cf3ae308d65a38b12251c29b803378424",
+                    "reference": "84c7ff1cf3ae308d65a38b12251c29b803378424",
                     "shasum": ""
                 },
-                "time": "2024-03-08T18:55:07+00:00",
+                "time": "2024-03-12T12:48:54+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -49,32 +49,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.3"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-220-update-subscribe-button-to-purple-DPM-2024-03-12",
-                "version_normalized": "dev-220-update-subscribe-button-to-purple-DPM-2024-03-12",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "ab4b90e03ec08d0f1d37815bcb6a1387c17497f1"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/ab4b90e03ec08d0f1d37815bcb6a1387c17497f1",
-                    "reference": "ab4b90e03ec08d0f1d37815bcb6a1387c17497f1",
-                    "shasum": ""
-                },
-                "time": "2024-03-12T12:34:13+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/220-update-subscribe-button-to-purple-DPM-2024-03-12"
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
             {
