@@ -961,15 +961,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "84c7ff1cf3ae308d65a38b12251c29b803378424"
+                    "reference": "e2a835c6965ae2b61232a9428dca7686360565c0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/84c7ff1cf3ae308d65a38b12251c29b803378424",
-                    "reference": "84c7ff1cf3ae308d65a38b12251c29b803378424",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/e2a835c6965ae2b61232a9428dca7686360565c0",
+                    "reference": "e2a835c6965ae2b61232a9428dca7686360565c0",
                     "shasum": ""
                 },
-                "time": "2024-03-12T12:48:54+00:00",
+                "time": "2024-03-12T13:41:15+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -1003,31 +1003,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/date-released-twig-display-timezone-2023-09-05"
-                }
-            },
-            "dev-fix-subscribe-button-style-on-right-side-2024-03-12": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-fix-subscribe-button-style-on-right-side-2024-03-12",
-                "version_normalized": "dev-fix-subscribe-button-style-on-right-side-2024-03-12",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "66f219aceae2e2198a631c0812ae3bd17d561f78"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/66f219aceae2e2198a631c0812ae3bd17d561f78",
-                    "reference": "66f219aceae2e2198a631c0812ae3bd17d561f78",
-                    "shasum": ""
-                },
-                "time": "2024-03-12T13:34:30+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/fix-subscribe-button-style-on-right-side-2024-03-12"
                 }
             },
             "dev-pco-bcp/dpm_theme--fix-indent-2023-08-30": {
