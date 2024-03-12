@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-220-update-subscribe-button-to-purple-DPM-2024-03-12",
+                "version_normalized": "dev-220-update-subscribe-button-to-purple-DPM-2024-03-12",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "ab4b90e03ec08d0f1d37815bcb6a1387c17497f1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/ab4b90e03ec08d0f1d37815bcb6a1387c17497f1",
+                    "reference": "ab4b90e03ec08d0f1d37815bcb6a1387c17497f1",
+                    "shasum": ""
+                },
+                "time": "2024-03-12T12:34:13+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/220-update-subscribe-button-to-purple-DPM-2024-03-12"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
