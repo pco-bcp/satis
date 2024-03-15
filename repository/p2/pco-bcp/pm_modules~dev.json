@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-222--pm-cron-d-check",
+                "version_normalized": "dev-222--pm-cron-d-check",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "8f56beaf4505c4e3b84b440ec3e0bd4c45caf66f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8f56beaf4505c4e3b84b440ec3e0bd4c45caf66f",
+                    "reference": "8f56beaf4505c4e3b84b440ec3e0bd4c45caf66f",
+                    "shasum": ""
+                },
+                "time": "2024-03-15T14:30:14+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/222--pm-cron-d-check"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16",
                 "version_normalized": "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16",
                 "source": {

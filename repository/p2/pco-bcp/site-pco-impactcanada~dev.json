@@ -3453,12 +3453,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "b6ae46add528428600d090de57f71e908775629f"
+                    "reference": "1415c2be1531694cbe391f6ab6e1a4d0c7c7bbf4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/b6ae46add528428600d090de57f71e908775629f",
-                    "reference": "b6ae46add528428600d090de57f71e908775629f",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/1415c2be1531694cbe391f6ab6e1a4d0c7c7bbf4",
+                    "reference": "1415c2be1531694cbe391f6ab6e1a4d0c7c7bbf4",
                     "shasum": ""
                 },
                 "require": {
@@ -3516,7 +3516,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2024-03-01T16:09:04+00:00",
+                "time": "2024-03-13T19:18:04+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -3579,7 +3579,7 @@
                             "Readme issue on help page": "https://www.drupal.org/files/issues/2022-12-16/3327553-4.patch"
                         },
                         "drupal/restrict_role_login_by_ip": {
-                            "Fix foreach() argument must be of type array error": "https://www.drupal.org/files/issues/2019-08-13/invalid-argument-supplied-for-foreach-3074588-2.patch"
+                            "Fix Header Check and foreach() argument must be of type array error": "https://gist.githubusercontent.com/dlatifa/e9fdccfa56f68edf8f998e6949195143/raw/a035f4c4c77ffe0b23f9cdd6a6bb7039dbcdcc10/fix-header-check-restrict-role-login-by-ip.patch"
                         }
                     },
                     "patches-ignore": {
@@ -3622,7 +3622,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.43"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.46"
                 }
             },
             {
