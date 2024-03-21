@@ -4955,6 +4955,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/222--pm-cron-d-check"
                 }
             },
+            "dev-222-d-check-pm_minister_order_admin-19MAR2024": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-222-d-check-pm_minister_order_admin-19MAR2024",
+                "version_normalized": "dev-222-d-check-pm_minister_order_admin-19MAR2024",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "f7f7340165dff7adda6d72268b9980f8d600e77e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f7f7340165dff7adda6d72268b9980f8d600e77e",
+                    "reference": "f7f7340165dff7adda6d72268b9980f8d600e77e",
+                    "shasum": ""
+                },
+                "time": "2024-03-21T19:29:38+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/222-d-check-pm_minister_order_admin-19MAR2024"
+                }
+            },
             "dev-222-drupal-check-pm_ml-2024-03-18": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-222-drupal-check-pm_ml-2024-03-18",
