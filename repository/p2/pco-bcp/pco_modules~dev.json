@@ -79,6 +79,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-222-d-check-pco_subscribe",
+                "version_normalized": "dev-222-d-check-pco_subscribe",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "48d7655d81f6a640c755386addd61b5e601babcd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/48d7655d81f6a640c755386addd61b5e601babcd",
+                    "reference": "48d7655d81f6a640c755386addd61b5e601babcd",
+                    "shasum": ""
+                },
+                "time": "2024-03-27T18:24:02+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-pco_subscribe"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-222-nbreakhy-d-check-fixes-2024-03-27",
                 "version_normalized": "dev-222-nbreakhy-d-check-fixes-2024-03-27",
                 "source": {
