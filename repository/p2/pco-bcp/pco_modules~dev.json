@@ -129,6 +129,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-222-nobrtag-d-check-fixes-2024-03-27",
+                "version_normalized": "dev-222-nobrtag-d-check-fixes-2024-03-27",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "5708c700cb736996b0d83e45f4cc23852c5a8e24"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/5708c700cb736996b0d83e45f4cc23852c5a8e24",
+                    "reference": "5708c700cb736996b0d83e45f4cc23852c5a8e24",
+                    "shasum": ""
+                },
+                "time": "2024-03-27T19:26:54+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-nobrtag-d-check-fixes-2024-03-27"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-26-es6-javascript-conversions-ckeditor",
                 "version_normalized": "dev-26-es6-javascript-conversions-ckeditor",
                 "source": {
