@@ -4470,6 +4470,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-citation-d-check-fixes-2024-03-27"
                 }
             },
+            "dev-222-nbreakhy-d-check-fixes-2024-03-27": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-222-nbreakhy-d-check-fixes-2024-03-27",
+                "version_normalized": "dev-222-nbreakhy-d-check-fixes-2024-03-27",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "0d04b5f782ff1a709049fad505cb3bd47d99a03b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/0d04b5f782ff1a709049fad505cb3bd47d99a03b",
+                    "reference": "0d04b5f782ff1a709049fad505cb3bd47d99a03b",
+                    "shasum": ""
+                },
+                "time": "2024-03-27T15:08:36+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-nbreakhy-d-check-fixes-2024-03-27"
+                }
+            },
             "dev-26-es6-javascript-conversions-ckeditor": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-26-es6-javascript-conversions-ckeditor",
