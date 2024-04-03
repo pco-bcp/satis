@@ -84,22 +84,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "18ec444f31e0d7831e14621c5265f6c0b0e59245"
+                    "reference": "52a3cd29ec8e01d568e19fc7fb0e9989402d1eed"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/18ec444f31e0d7831e14621c5265f6c0b0e59245",
-                    "reference": "18ec444f31e0d7831e14621c5265f6c0b0e59245",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/52a3cd29ec8e01d568e19fc7fb0e9989402d1eed",
+                    "reference": "52a3cd29ec8e01d568e19fc7fb0e9989402d1eed",
                     "shasum": ""
                 },
-                "time": "2024-01-22T21:37:01+00:00",
+                "time": "2024-04-03T14:03:08+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.2"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-fixes-for-pco_metrics-2024-04-02"
                 }
             },
             {
@@ -209,15 +209,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "ed606c22cfbd20a0c6c55e6cb0751092a864079a"
+                    "reference": "28a0b3beb75099ebb3f358a020c2d9c0ad9e20e1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/ed606c22cfbd20a0c6c55e6cb0751092a864079a",
-                    "reference": "ed606c22cfbd20a0c6c55e6cb0751092a864079a",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/28a0b3beb75099ebb3f358a020c2d9c0ad9e20e1",
+                    "reference": "28a0b3beb75099ebb3f358a020c2d9c0ad9e20e1",
                     "shasum": ""
                 },
-                "time": "2024-04-02T14:06:04+00:00",
+                "time": "2024-04-03T14:39:02+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
