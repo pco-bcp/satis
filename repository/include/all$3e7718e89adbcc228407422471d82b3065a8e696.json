@@ -4563,6 +4563,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-citation-d-check-fixes-2024-03-27"
                 }
             },
+            "dev-222-d-check-fixes-for-pco_metrics-2024-04-02": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-222-d-check-fixes-for-pco_metrics-2024-04-02",
+                "version_normalized": "dev-222-d-check-fixes-for-pco_metrics-2024-04-02",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "18ec444f31e0d7831e14621c5265f6c0b0e59245"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/18ec444f31e0d7831e14621c5265f6c0b0e59245",
+                    "reference": "18ec444f31e0d7831e14621c5265f6c0b0e59245",
+                    "shasum": ""
+                },
+                "time": "2024-01-22T21:37:01+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.2"
+                }
+            },
             "dev-222-d-check-pco_subscribe": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-222-d-check-pco_subscribe",
