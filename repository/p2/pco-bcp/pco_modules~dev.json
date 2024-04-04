@@ -204,6 +204,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-222-pco_greetings-d-check-issues-2024-04-04",
+                "version_normalized": "dev-222-pco_greetings-d-check-issues-2024-04-04",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "7923714f51fc36080ebc32b99b7c83c1fe6fe3a5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7923714f51fc36080ebc32b99b7c83c1fe6fe3a5",
+                    "reference": "7923714f51fc36080ebc32b99b7c83c1fe6fe3a5",
+                    "shasum": ""
+                },
+                "time": "2024-04-04T19:30:56+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-pco_greetings-d-check-issues-2024-04-04"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-222-pm_alias_d-check-issues-2024-04-02",
                 "version_normalized": "dev-222-pm_alias_d-check-issues-2024-04-02",
                 "source": {
