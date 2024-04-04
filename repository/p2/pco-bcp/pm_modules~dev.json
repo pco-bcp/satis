@@ -154,6 +154,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-222-fix-drupal-check-errors-pm_video-2024-04-04",
+                "version_normalized": "dev-222-fix-drupal-check-errors-pm_video-2024-04-04",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "e8f9e4aee9bb4cf284f242dbd2162f9b6754997b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e8f9e4aee9bb4cf284f242dbd2162f9b6754997b",
+                    "reference": "e8f9e4aee9bb4cf284f242dbd2162f9b6754997b",
+                    "shasum": ""
+                },
+                "time": "2024-04-04T17:39:53+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/222-fix-drupal-check-errors-pm_video-2024-04-04"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16",
                 "version_normalized": "dev-23--fix-drupal-check-issues-in-pm_modules-2023-11-16",
                 "source": {
