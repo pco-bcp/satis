@@ -6319,6 +6319,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/292--fix-wcag-expandable_main_menu-are-not-annouced-2024-04-04"
                 }
             },
+            "dev-293--fix-wcag-issue-focus-not-visible-expanded_menus-2024-04-05": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-293--fix-wcag-issue-focus-not-visible-expanded_menus-2024-04-05",
+                "version_normalized": "dev-293--fix-wcag-issue-focus-not-visible-expanded_menus-2024-04-05",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "a1a11f75cc9671b4987b32ddf94be781d6767485"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a1a11f75cc9671b4987b32ddf94be781d6767485",
+                    "reference": "a1a11f75cc9671b4987b32ddf94be781d6767485",
+                    "shasum": ""
+                },
+                "time": "2024-04-05T14:05:56+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/293--fix-wcag-issue-focus-not-visible-expanded_menus-2024-04-05"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
