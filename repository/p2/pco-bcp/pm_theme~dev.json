@@ -129,6 +129,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-292--fix-wcag-expandable_main_menu-are-not-annouced-2024-04-04",
+                "version_normalized": "dev-292--fix-wcag-expandable_main_menu-are-not-annouced-2024-04-04",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "49afd8c0669f3723d38330348f647de1f574e441"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/49afd8c0669f3723d38330348f647de1f574e441",
+                    "reference": "49afd8c0669f3723d38330348f647de1f574e441",
+                    "shasum": ""
+                },
+                "time": "2024-04-05T10:41:36+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/292--fix-wcag-expandable_main_menu-are-not-annouced-2024-04-04"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
