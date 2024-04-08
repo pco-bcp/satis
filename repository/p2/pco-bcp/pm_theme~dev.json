@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "1663337ad5cd390b0a60fe0b838594af151d3809"
+                    "reference": "3758735cf6ed4b21b7a3021e2f8168177e85db07"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1663337ad5cd390b0a60fe0b838594af151d3809",
-                    "reference": "1663337ad5cd390b0a60fe0b838594af151d3809",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3758735cf6ed4b21b7a3021e2f8168177e85db07",
+                    "reference": "3758735cf6ed4b21b7a3021e2f8168177e85db07",
                     "shasum": ""
                 },
-                "time": "2024-03-06T15:37:12+00:00",
+                "time": "2024-04-08T15:10:24+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.7"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
             {
@@ -150,31 +150,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/292--fix-wcag-expandable_main_menu-are-not-annouced-2024-04-04"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-293--fix-wcag-issue-focus-not-visible-expanded_menus-2024-04-05",
-                "version_normalized": "dev-293--fix-wcag-issue-focus-not-visible-expanded_menus-2024-04-05",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "06c9eae5d0f7e079926c82910b5b76a1e4e583dc"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/06c9eae5d0f7e079926c82910b5b76a1e4e583dc",
-                    "reference": "06c9eae5d0f7e079926c82910b5b76a1e4e583dc",
-                    "shasum": ""
-                },
-                "time": "2024-04-05T14:42:37+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/293--fix-wcag-issue-focus-not-visible-expanded_menus-2024-04-05"
                 }
             },
             {
