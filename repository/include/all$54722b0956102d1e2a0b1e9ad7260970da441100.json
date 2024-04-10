@@ -6225,15 +6225,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "174c998decfbe918020d7415c55edc30735060ff"
+                    "reference": "db8cccb0c261ac3db813890d97d88efaea2f446b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/174c998decfbe918020d7415c55edc30735060ff",
-                    "reference": "174c998decfbe918020d7415c55edc30735060ff",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/db8cccb0c261ac3db813890d97d88efaea2f446b",
+                    "reference": "db8cccb0c261ac3db813890d97d88efaea2f446b",
                     "shasum": ""
                 },
-                "time": "2024-04-08T18:19:36+00:00",
+                "time": "2024-04-10T13:18:12+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -6292,31 +6292,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/198--add-hover-on-x-follow-button"
-                }
-            },
-            "dev-284--trudeau-headshot": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-284--trudeau-headshot",
-                "version_normalized": "dev-284--trudeau-headshot",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "0a9313bc63b609cf55c0b0f90b76acfff5846206"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0a9313bc63b609cf55c0b0f90b76acfff5846206",
-                    "reference": "0a9313bc63b609cf55c0b0f90b76acfff5846206",
-                    "shasum": ""
-                },
-                "time": "2024-03-26T15:01:59+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/284--trudeau-headshot"
                 }
             },
             "dev-298--fix-wcag_issue_skip_to_main_content-2024-04-08": {
