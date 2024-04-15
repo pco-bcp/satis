@@ -104,6 +104,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-297--fix-wcag-issue-link_unsupported_browser_link-receives-focus-all-users-2024-04-09",
+                "version_normalized": "dev-297--fix-wcag-issue-link_unsupported_browser_link-receives-focus-all-users-2024-04-09",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "6fbd418b26348e307a5bd7757800df47a61891ad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6fbd418b26348e307a5bd7757800df47a61891ad",
+                    "reference": "6fbd418b26348e307a5bd7757800df47a61891ad",
+                    "shasum": ""
+                },
+                "time": "2024-04-15T13:51:42+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/297--fix-wcag-issue-link_unsupported_browser_link-receives-focus-all-users-2024-04-09"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-298--fix-wcag_issue_skip_to_main_content-2024-04-08",
                 "version_normalized": "dev-298--fix-wcag_issue_skip_to_main_content-2024-04-08",
                 "source": {
