@@ -4774,6 +4774,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-fixes-for-pco_metrics-2024-04-02"
                 }
             },
+            "dev-222-d-check-pco_emailer": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-222-d-check-pco_emailer",
+                "version_normalized": "dev-222-d-check-pco_emailer",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "33c3b73ffcd9b659e5048a1344e982b591f79be2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/33c3b73ffcd9b659e5048a1344e982b591f79be2",
+                    "reference": "33c3b73ffcd9b659e5048a1344e982b591f79be2",
+                    "shasum": ""
+                },
+                "time": "2024-04-18T16:17:07+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-pco_emailer"
+                }
+            },
             "dev-222-d-check-pco_news_emailer": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-222-d-check-pco_news_emailer",
