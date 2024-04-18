@@ -104,6 +104,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-222-d-check-pco_news_emailer",
+                "version_normalized": "dev-222-d-check-pco_news_emailer",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "32edd2c438da5105fa9954db16e901d3e231c228"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/32edd2c438da5105fa9954db16e901d3e231c228",
+                    "reference": "32edd2c438da5105fa9954db16e901d3e231c228",
+                    "shasum": ""
+                },
+                "time": "2024-04-18T15:55:08+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-pco_news_emailer"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-222-d-check-pco_subscribe",
                 "version_normalized": "dev-222-d-check-pco_subscribe",
                 "source": {
