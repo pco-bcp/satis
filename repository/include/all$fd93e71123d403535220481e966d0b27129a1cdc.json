@@ -3512,99 +3512,6 @@
                     "source": "https://github.com/pco-bcp/pco_cities/tree/1.0.0"
                 }
             },
-            "dev-337-fix-fellowship-display-apps": {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-337-fix-fellowship-display-apps",
-                "version_normalized": "dev-337-fix-fellowship-display-apps",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "ad91bf1a2ec4aee278039f61bd7c184779390d86"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/ad91bf1a2ec4aee278039f61bd7c184779390d86",
-                    "reference": "ad91bf1a2ec4aee278039f61bd7c184779390d86",
-                    "shasum": ""
-                },
-                "require": {
-                    "cweagans/composer-patches": "^1.6.4",
-                    "drupal/core-composer-scaffold": "*",
-                    "drupal/mailgun": "^1.0",
-                    "drupalwxt/wxt": "4.5.2",
-                    "drush/drush": ">=9.7",
-                    "pco-bcp/impact_bootstrap": "^2.4"
-                },
-                "time": "2024-04-19T01:45:48+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/337-fix-fellowship-display-apps"
-                }
-            },
             "dev-4.0.x-2.0.x": {
                 "name": "pco-bcp/pco_cities",
                 "version": "dev-4.0.x-2.0.x",
@@ -4080,12 +3987,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "bd8b1acae312ba1055e554fb087b97e69e4c8ec6"
+                    "reference": "dfa9da1515f97ea42a6f0d574ea3bb1ba8229396"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/bd8b1acae312ba1055e554fb087b97e69e4c8ec6",
-                    "reference": "bd8b1acae312ba1055e554fb087b97e69e4c8ec6",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/dfa9da1515f97ea42a6f0d574ea3bb1ba8229396",
+                    "reference": "dfa9da1515f97ea42a6f0d574ea3bb1ba8229396",
                     "shasum": ""
                 },
                 "require": {
@@ -4096,7 +4003,7 @@
                     "drush/drush": ">=9.7",
                     "pco-bcp/impact_bootstrap": "^2.4"
                 },
-                "time": "2024-04-11T20:07:56+00:00",
+                "time": "2024-04-19T12:00:59+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -4164,7 +4071,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/2.5.8"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/4.5.x-2.5.x"
                 }
             },
             "dev-7-phpcs-cleanup": {
@@ -21002,12 +20909,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "1989d75a848babe8e2e0f967d8e01d52dd5ad8ec"
+                    "reference": "dd1dc079d8faa3c3b0d9fb3ac4d57c57ee6e5d3e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/1989d75a848babe8e2e0f967d8e01d52dd5ad8ec",
-                    "reference": "1989d75a848babe8e2e0f967d8e01d52dd5ad8ec",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/dd1dc079d8faa3c3b0d9fb3ac4d57c57ee6e5d3e",
+                    "reference": "dd1dc079d8faa3c3b0d9fb3ac4d57c57ee6e5d3e",
                     "shasum": ""
                 },
                 "require": {
@@ -21065,7 +20972,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2024-04-12T14:28:12+00:00",
+                "time": "2024-04-19T12:01:24+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -21171,7 +21078,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.51"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/4.5.x-2.5.x"
                 }
             },
             "dev-4.5.x-2.5.x-BAK": {
