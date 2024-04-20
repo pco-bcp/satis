@@ -5092,6 +5092,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-ckeditor"
                 }
             },
+            "dev-360--console-error-static-page-2024-04-20": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-360--console-error-static-page-2024-04-20",
+                "version_normalized": "dev-360--console-error-static-page-2024-04-20",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "e80346a0b425c44f8ed1474070da06e803d4e80b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/e80346a0b425c44f8ed1474070da06e803d4e80b",
+                    "reference": "e80346a0b425c44f8ed1474070da06e803d4e80b",
+                    "shasum": ""
+                },
+                "time": "2024-04-20T13:40:05+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/360--console-error-static-page-2024-04-20"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
