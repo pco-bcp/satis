@@ -6723,6 +6723,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/198--add-hover-on-x-follow-button"
                 }
             },
+            "dev-295--add-news-filter-2024-04-16": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-295--add-news-filter-2024-04-16",
+                "version_normalized": "dev-295--add-news-filter-2024-04-16",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "54ab43d51cca1caa6ccefea43a6cdf055b4b1e58"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/54ab43d51cca1caa6ccefea43a6cdf055b4b1e58",
+                    "reference": "54ab43d51cca1caa6ccefea43a6cdf055b4b1e58",
+                    "shasum": ""
+                },
+                "time": "2024-04-22T14:11:54+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/295--add-news-filter-2024-04-16"
+                }
+            },
             "dev-297--fix-wcag-issue-link_unsupported_browser_link-receives-focus-all-users-2024-04-09": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-297--fix-wcag-issue-link_unsupported_browser_link-receives-focus-all-users-2024-04-09",
