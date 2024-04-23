@@ -129,6 +129,31 @@
             },
             {
                 "name": "pco-bcp/dpm_modules",
+                "version": "dev-222-drupal-check-dpm_cron",
+                "version_normalized": "dev-222-drupal-check-dpm_cron",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "0622bb2e76c0dad27be472d3bb28abbd432990d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/0622bb2e76c0dad27be472d3bb28abbd432990d9",
+                    "reference": "0622bb2e76c0dad27be472d3bb28abbd432990d9",
+                    "shasum": ""
+                },
+                "time": "2024-04-23T13:33:00+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/222-drupal-check-dpm_cron"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_modules",
                 "version": "dev-222-drupal-check-pm_admin-2024-03-18",
                 "version_normalized": "dev-222-drupal-check-pm_admin-2024-03-18",
                 "source": {

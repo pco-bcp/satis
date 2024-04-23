@@ -452,6 +452,31 @@
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/204--update-side-by-side-using-gin-admin-theme-2024-03-01"
                 }
             },
+            "dev-222-drupal-check-dpm_cron": {
+                "name": "pco-bcp/dpm_modules",
+                "version": "dev-222-drupal-check-dpm_cron",
+                "version_normalized": "dev-222-drupal-check-dpm_cron",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "0622bb2e76c0dad27be472d3bb28abbd432990d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/0622bb2e76c0dad27be472d3bb28abbd432990d9",
+                    "reference": "0622bb2e76c0dad27be472d3bb28abbd432990d9",
+                    "shasum": ""
+                },
+                "time": "2024-04-23T13:33:00+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/222-drupal-check-dpm_cron"
+                }
+            },
             "dev-222-drupal-check-pm_admin-2024-03-18": {
                 "name": "pco-bcp/dpm_modules",
                 "version": "dev-222-drupal-check-pm_admin-2024-03-18",
@@ -6721,6 +6746,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/198--add-hover-on-x-follow-button"
+                }
+            },
+            "dev-294--Fix-Overlapping_and_disappearing_content_on_page_reflowed-2024-04-22": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-294--Fix-Overlapping_and_disappearing_content_on_page_reflowed-2024-04-22",
+                "version_normalized": "dev-294--Fix-Overlapping_and_disappearing_content_on_page_reflowed-2024-04-22",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e1c3cae95b796cbb103d9af8c83844555b83d7f7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e1c3cae95b796cbb103d9af8c83844555b83d7f7",
+                    "reference": "e1c3cae95b796cbb103d9af8c83844555b83d7f7",
+                    "shasum": ""
+                },
+                "time": "2024-04-23T20:04:33+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/294--Fix-Overlapping_and_disappearing_content_on_page_reflowed-2024-04-22"
                 }
             },
             "dev-295--add-news-filter-2024-04-16": {

@@ -104,6 +104,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-294--Fix-Overlapping_and_disappearing_content_on_page_reflowed-2024-04-22",
+                "version_normalized": "dev-294--Fix-Overlapping_and_disappearing_content_on_page_reflowed-2024-04-22",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e1c3cae95b796cbb103d9af8c83844555b83d7f7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e1c3cae95b796cbb103d9af8c83844555b83d7f7",
+                    "reference": "e1c3cae95b796cbb103d9af8c83844555b83d7f7",
+                    "shasum": ""
+                },
+                "time": "2024-04-23T20:04:33+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/294--Fix-Overlapping_and_disappearing_content_on_page_reflowed-2024-04-22"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-295--add-news-filter-2024-04-16",
                 "version_normalized": "dev-295--add-news-filter-2024-04-16",
                 "source": {
