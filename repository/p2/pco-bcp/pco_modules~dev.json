@@ -354,6 +354,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-364-fix-email-lits-bullets-2024-04-24",
+                "version_normalized": "dev-364-fix-email-lits-bullets-2024-04-24",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "28c9bad1bf5de0b05379bc5ac859fdebd5ed3ebc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/28c9bad1bf5de0b05379bc5ac859fdebd5ed3ebc",
+                    "reference": "28c9bad1bf5de0b05379bc5ac859fdebd5ed3ebc",
+                    "shasum": ""
+                },
+                "time": "2024-04-24T19:23:43+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/364-fix-email-lits-bullets-2024-04-24"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-365-news-mailouts-d10",
                 "version_normalized": "dev-365-news-mailouts-d10",
                 "source": {
