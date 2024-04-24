@@ -5167,6 +5167,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/360--console-error-static-page-2024-04-20"
                 }
             },
+            "dev-365-news-mailouts-d10": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-365-news-mailouts-d10",
+                "version_normalized": "dev-365-news-mailouts-d10",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "b040aa16efbd5b4aa44c0f5cdd6bbbabef991efe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b040aa16efbd5b4aa44c0f5cdd6bbbabef991efe",
+                    "reference": "b040aa16efbd5b4aa44c0f5cdd6bbbabef991efe",
+                    "shasum": ""
+                },
+                "time": "2024-04-24T16:46:46+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/365-news-mailouts-d10"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
