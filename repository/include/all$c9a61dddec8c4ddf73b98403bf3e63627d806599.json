@@ -4848,15 +4848,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "18ec444f31e0d7831e14621c5265f6c0b0e59245"
+                    "reference": "fc2daf82a1a1ccd68a2dd78d50547677f5f1f35e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/18ec444f31e0d7831e14621c5265f6c0b0e59245",
-                    "reference": "18ec444f31e0d7831e14621c5265f6c0b0e59245",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/fc2daf82a1a1ccd68a2dd78d50547677f5f1f35e",
+                    "reference": "fc2daf82a1a1ccd68a2dd78d50547677f5f1f35e",
                     "shasum": ""
                 },
-                "time": "2024-01-22T21:37:01+00:00",
+                "time": "2024-04-24T19:42:39+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -4864,7 +4864,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.2"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
                 }
             },
             "dev-222-citation-d-check-fixes-2024-03-27": {
@@ -5165,31 +5165,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/360--console-error-static-page-2024-04-20"
-                }
-            },
-            "dev-364-fix-email-lits-bullets-2024-04-24": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-364-fix-email-lits-bullets-2024-04-24",
-                "version_normalized": "dev-364-fix-email-lits-bullets-2024-04-24",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "1465ff17067385aa2be0c1e79c11a0d90738d2ec"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1465ff17067385aa2be0c1e79c11a0d90738d2ec",
-                    "reference": "1465ff17067385aa2be0c1e79c11a0d90738d2ec",
-                    "shasum": ""
-                },
-                "time": "2024-04-24T19:32:26+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/364-fix-email-lits-bullets-2024-04-24"
                 }
             },
             "dev-365-news-mailouts-d10": {
