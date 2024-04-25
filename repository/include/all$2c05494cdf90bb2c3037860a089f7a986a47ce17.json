@@ -5167,29 +5167,29 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/360--console-error-static-page-2024-04-20"
                 }
             },
-            "dev-365-news-mailouts-d10": {
+            "dev-370-footer-tick-missing-in-emails-2024-04-25": {
                 "name": "pco-bcp/pco_modules",
-                "version": "dev-365-news-mailouts-d10",
-                "version_normalized": "dev-365-news-mailouts-d10",
+                "version": "dev-370-footer-tick-missing-in-emails-2024-04-25",
+                "version_normalized": "dev-370-footer-tick-missing-in-emails-2024-04-25",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "6c2fd6e980d9cd733e5ddb82e18fb50042b6bb0a"
+                    "reference": "a5a93955605209ad7c38fffef6f682c65e59396e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/6c2fd6e980d9cd733e5ddb82e18fb50042b6bb0a",
-                    "reference": "6c2fd6e980d9cd733e5ddb82e18fb50042b6bb0a",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a5a93955605209ad7c38fffef6f682c65e59396e",
+                    "reference": "a5a93955605209ad7c38fffef6f682c65e59396e",
                     "shasum": ""
                 },
-                "time": "2024-04-25T15:28:03+00:00",
+                "time": "2024-04-25T16:05:27+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/365-news-mailouts-d10"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/370-footer-tick-missing-in-emails-2024-04-25"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
