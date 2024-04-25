@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "d686001162c764302ff9f43f0176aaf49686e899"
+                    "reference": "e196b78d3a9a255d19bf59fb6437ccf929beb38f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d686001162c764302ff9f43f0176aaf49686e899",
-                    "reference": "d686001162c764302ff9f43f0176aaf49686e899",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/e196b78d3a9a255d19bf59fb6437ccf929beb38f",
+                    "reference": "e196b78d3a9a255d19bf59fb6437ccf929beb38f",
                     "shasum": ""
                 },
-                "time": "2024-04-25T15:33:54+00:00",
+                "time": "2024-04-25T16:18:14+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -350,31 +350,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/360--console-error-static-page-2024-04-20"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-370-footer-tick-missing-in-emails-2024-04-25",
-                "version_normalized": "dev-370-footer-tick-missing-in-emails-2024-04-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a5a93955605209ad7c38fffef6f682c65e59396e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a5a93955605209ad7c38fffef6f682c65e59396e",
-                    "reference": "a5a93955605209ad7c38fffef6f682c65e59396e",
-                    "shasum": ""
-                },
-                "time": "2024-04-25T16:05:27+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/370-footer-tick-missing-in-emails-2024-04-25"
                 }
             },
             {
