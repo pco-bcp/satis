@@ -5192,6 +5192,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/360--console-error-static-page-2024-04-20"
                 }
             },
+            "dev-365-email-css-indent": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-365-email-css-indent",
+                "version_normalized": "dev-365-email-css-indent",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "4fbc868d37ae28005aceda0b2bd6dd74beb26082"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4fbc868d37ae28005aceda0b2bd6dd74beb26082",
+                    "reference": "4fbc868d37ae28005aceda0b2bd6dd74beb26082",
+                    "shasum": ""
+                },
+                "time": "2024-04-28T20:17:14+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/365-email-css-indent"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
