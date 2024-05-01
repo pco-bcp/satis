@@ -229,6 +229,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-346--fix-language-text-2024-04-29",
+                "version_normalized": "dev-346--fix-language-text-2024-04-29",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "93a8a1a3df5b4474fc2895a08308b0cbebb46285"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/93a8a1a3df5b4474fc2895a08308b0cbebb46285",
+                    "reference": "93a8a1a3df5b4474fc2895a08308b0cbebb46285",
+                    "shasum": ""
+                },
+                "time": "2024-05-01T00:07:53+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/346--fix-language-text-2024-04-29"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-360--console-error-static-page-2024-04-20",
                 "version_normalized": "dev-360--console-error-static-page-2024-04-20",
                 "source": {
