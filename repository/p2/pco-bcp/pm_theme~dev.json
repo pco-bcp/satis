@@ -254,6 +254,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-346--fix-language-text-2024-04-29",
+                "version_normalized": "dev-346--fix-language-text-2024-04-29",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "64955a2fb8010a296a657955e78028bff25e2d8d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/64955a2fb8010a296a657955e78028bff25e2d8d",
+                    "reference": "64955a2fb8010a296a657955e78028bff25e2d8d",
+                    "shasum": ""
+                },
+                "time": "2024-05-01T00:15:19+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/346--fix-language-text-2024-04-29"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
