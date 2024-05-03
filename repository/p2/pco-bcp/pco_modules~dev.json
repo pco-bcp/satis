@@ -354,6 +354,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-375-add-cke5-generated-custom-plugins-2024-05-03",
+                "version_normalized": "dev-375-add-cke5-generated-custom-plugins-2024-05-03",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "08926bce7042ec8050b4bb16a3ee91b169c22b89"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/08926bce7042ec8050b4bb16a3ee91b169c22b89",
+                    "reference": "08926bce7042ec8050b4bb16a3ee91b169c22b89",
+                    "shasum": ""
+                },
+                "time": "2024-05-03T17:19:38+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/375-add-cke5-generated-custom-plugins-2024-05-03"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {
