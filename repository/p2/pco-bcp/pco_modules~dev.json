@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "7134a2233acc53bc8685f521efd88917c3f939ec"
+                    "reference": "b783dd265616033a2b1dd9ef358029b7b9092ca3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7134a2233acc53bc8685f521efd88917c3f939ec",
-                    "reference": "7134a2233acc53bc8685f521efd88917c3f939ec",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b783dd265616033a2b1dd9ef358029b7b9092ca3",
+                    "reference": "b783dd265616033a2b1dd9ef358029b7b9092ca3",
                     "shasum": ""
                 },
-                "time": "2024-04-28T20:35:49+00:00",
+                "time": "2024-05-06T18:21:24+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.4"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
                 }
             },
             {
@@ -350,31 +350,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/360--console-error-static-page-2024-04-20"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-367-377--mailout-dates",
-                "version_normalized": "dev-367-377--mailout-dates",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "52b2529e665c93a7fb9679722f19056663dab68f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/52b2529e665c93a7fb9679722f19056663dab68f",
-                    "reference": "52b2529e665c93a7fb9679722f19056663dab68f",
-                    "shasum": ""
-                },
-                "time": "2024-05-06T18:18:47+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/367-377--mailout-dates"
                 }
             },
             {
