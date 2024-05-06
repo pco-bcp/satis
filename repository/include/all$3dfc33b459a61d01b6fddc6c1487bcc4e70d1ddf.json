@@ -6922,15 +6922,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "16ef554ee8f11b6cf05b113210cdfde9891d9daf"
+                    "reference": "259547b9199177888ca29ba150223749446ca9dc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/16ef554ee8f11b6cf05b113210cdfde9891d9daf",
-                    "reference": "16ef554ee8f11b6cf05b113210cdfde9891d9daf",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/259547b9199177888ca29ba150223749446ca9dc",
+                    "reference": "259547b9199177888ca29ba150223749446ca9dc",
                     "shasum": ""
                 },
-                "time": "2024-05-06T18:53:40+00:00",
+                "time": "2024-05-06T19:02:35+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -7014,31 +7014,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/294--Fix-Overlapping_and_disappearing_content_on_page_reflowed-2024-04-22"
-                }
-            },
-            "dev-295--add-news-filter-2024-04-16": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-295--add-news-filter-2024-04-16",
-                "version_normalized": "dev-295--add-news-filter-2024-04-16",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "66addf067ace6a19490146aeaa9943bc612293d1"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/66addf067ace6a19490146aeaa9943bc612293d1",
-                    "reference": "66addf067ace6a19490146aeaa9943bc612293d1",
-                    "shasum": ""
-                },
-                "time": "2024-04-22T14:56:23+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/295--add-news-filter-2024-04-16"
                 }
             },
             "dev-298--fix-wcag_issue_skip_to_main_content-2024-04-08": {
