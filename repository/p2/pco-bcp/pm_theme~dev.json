@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "db8cccb0c261ac3db813890d97d88efaea2f446b"
+                    "reference": "16ef554ee8f11b6cf05b113210cdfde9891d9daf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/db8cccb0c261ac3db813890d97d88efaea2f446b",
-                    "reference": "db8cccb0c261ac3db813890d97d88efaea2f446b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/16ef554ee8f11b6cf05b113210cdfde9891d9daf",
+                    "reference": "16ef554ee8f11b6cf05b113210cdfde9891d9daf",
                     "shasum": ""
                 },
-                "time": "2024-04-10T13:18:12+00:00",
+                "time": "2024-05-06T18:53:40+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.8"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
             {
@@ -150,31 +150,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/295--add-news-filter-2024-04-16"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-297--fix-wcag-issue-link_unsupported_browser_link-receives-focus-all-users-2024-04-09",
-                "version_normalized": "dev-297--fix-wcag-issue-link_unsupported_browser_link-receives-focus-all-users-2024-04-09",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4b0a711552ec972d77b7851563f038d34e3bd8fb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4b0a711552ec972d77b7851563f038d34e3bd8fb",
-                    "reference": "4b0a711552ec972d77b7851563f038d34e3bd8fb",
-                    "shasum": ""
-                },
-                "time": "2024-04-15T16:26:56+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/297--fix-wcag-issue-link_unsupported_browser_link-receives-focus-all-users-2024-04-09"
                 }
             },
             {
