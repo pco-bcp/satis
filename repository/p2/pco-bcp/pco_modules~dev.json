@@ -354,6 +354,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-367-377--mailout-dates",
+                "version_normalized": "dev-367-377--mailout-dates",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "52b2529e665c93a7fb9679722f19056663dab68f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/52b2529e665c93a7fb9679722f19056663dab68f",
+                    "reference": "52b2529e665c93a7fb9679722f19056663dab68f",
+                    "shasum": ""
+                },
+                "time": "2024-05-06T18:18:47+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/367-377--mailout-dates"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-375-add-cke5-generated-custom-plugins-2024-05-03",
                 "version_normalized": "dev-375-add-cke5-generated-custom-plugins-2024-05-03",
                 "source": {
