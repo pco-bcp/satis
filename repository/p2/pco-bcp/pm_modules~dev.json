@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "0947dd8fb78b793cf9c4a140f324fbfadba53999"
+                    "reference": "73bf6d2d832fec3ba384a3b663582216f254cfa1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0947dd8fb78b793cf9c4a140f324fbfadba53999",
-                    "reference": "0947dd8fb78b793cf9c4a140f324fbfadba53999",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/73bf6d2d832fec3ba384a3b663582216f254cfa1",
+                    "reference": "73bf6d2d832fec3ba384a3b663582216f254cfa1",
                     "shasum": ""
                 },
-                "time": "2024-02-19T14:49:57+00:00",
+                "time": "2024-05-07T15:15:33+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.3"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
                 }
             },
             {
@@ -250,31 +250,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/23--fix-drupal-check-issues-in-pm_modules-2023-11-16"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-346--fix-language-text-2024-04-29",
-                "version_normalized": "dev-346--fix-language-text-2024-04-29",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "93a8a1a3df5b4474fc2895a08308b0cbebb46285"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/93a8a1a3df5b4474fc2895a08308b0cbebb46285",
-                    "reference": "93a8a1a3df5b4474fc2895a08308b0cbebb46285",
-                    "shasum": ""
-                },
-                "time": "2024-05-01T00:07:53+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/346--fix-language-text-2024-04-29"
                 }
             },
             {

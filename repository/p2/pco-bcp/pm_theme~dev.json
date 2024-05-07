@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "259547b9199177888ca29ba150223749446ca9dc"
+                    "reference": "8bbe3cf21c3ac6df0cb0c0efb5cedee3d435eaa1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/259547b9199177888ca29ba150223749446ca9dc",
-                    "reference": "259547b9199177888ca29ba150223749446ca9dc",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8bbe3cf21c3ac6df0cb0c0efb5cedee3d435eaa1",
+                    "reference": "8bbe3cf21c3ac6df0cb0c0efb5cedee3d435eaa1",
                     "shasum": ""
                 },
-                "time": "2024-05-06T19:02:35+00:00",
+                "time": "2024-05-07T15:15:50+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -200,31 +200,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/343--fix-link_text-with-embedded_URL-2024-04-23"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-346--fix-language-text-2024-04-29",
-                "version_normalized": "dev-346--fix-language-text-2024-04-29",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "64955a2fb8010a296a657955e78028bff25e2d8d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/64955a2fb8010a296a657955e78028bff25e2d8d",
-                    "reference": "64955a2fb8010a296a657955e78028bff25e2d8d",
-                    "shasum": ""
-                },
-                "time": "2024-05-01T00:15:19+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/346--fix-language-text-2024-04-29"
                 }
             },
             {
