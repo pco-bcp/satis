@@ -204,6 +204,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-351-astrix-not-accessible-2024-05-09",
+                "version_normalized": "dev-351-astrix-not-accessible-2024-05-09",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "efaf0e9de8a2a2dddd3ab98543bfb20395c7b904"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/efaf0e9de8a2a2dddd3ab98543bfb20395c7b904",
+                    "reference": "efaf0e9de8a2a2dddd3ab98543bfb20395c7b904",
+                    "shasum": ""
+                },
+                "time": "2024-05-09T20:08:40+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/351-astrix-not-accessible-2024-05-09"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-353--fixes-content_missed_screen_reader-webform-2024-05-09",
                 "version_normalized": "dev-353--fixes-content_missed_screen_reader-webform-2024-05-09",
                 "source": {
