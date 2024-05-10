@@ -5016,15 +5016,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "b783dd265616033a2b1dd9ef358029b7b9092ca3"
+                    "reference": "0b7756679b251dc24d33e82b0cd33409fa8db5fe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b783dd265616033a2b1dd9ef358029b7b9092ca3",
-                    "reference": "b783dd265616033a2b1dd9ef358029b7b9092ca3",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/0b7756679b251dc24d33e82b0cd33409fa8db5fe",
+                    "reference": "0b7756679b251dc24d33e82b0cd33409fa8db5fe",
                     "shasum": ""
                 },
-                "time": "2024-05-06T18:21:24+00:00",
+                "time": "2024-05-10T14:48:26+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -5333,31 +5333,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/360--console-error-static-page-2024-04-20"
-                }
-            },
-            "dev-370--footer-dashes": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-370--footer-dashes",
-                "version_normalized": "dev-370--footer-dashes",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "2d3f0da176cdb5a1ea8bb2f3647925afc3354289"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2d3f0da176cdb5a1ea8bb2f3647925afc3354289",
-                    "reference": "2d3f0da176cdb5a1ea8bb2f3647925afc3354289",
-                    "shasum": ""
-                },
-                "time": "2024-05-10T14:45:52+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/370--footer-dashes"
                 }
             },
             "dev-375-add-cke5-generated-custom-plugins-2024-05-03": {
