@@ -354,6 +354,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-370--footer-dashes",
+                "version_normalized": "dev-370--footer-dashes",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "2d3f0da176cdb5a1ea8bb2f3647925afc3354289"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2d3f0da176cdb5a1ea8bb2f3647925afc3354289",
+                    "reference": "2d3f0da176cdb5a1ea8bb2f3647925afc3354289",
+                    "shasum": ""
+                },
+                "time": "2024-05-10T14:45:52+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/370--footer-dashes"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-375-add-cke5-generated-custom-plugins-2024-05-03",
                 "version_normalized": "dev-375-add-cke5-generated-custom-plugins-2024-05-03",
                 "source": {
