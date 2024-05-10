@@ -179,6 +179,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-341-change-watermark-link-alt-text-2024-05-10",
+                "version_normalized": "dev-341-change-watermark-link-alt-text-2024-05-10",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "8be070f542d78360bfe15925176328d114f94f01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8be070f542d78360bfe15925176328d114f94f01",
+                    "reference": "8be070f542d78360bfe15925176328d114f94f01",
+                    "shasum": ""
+                },
+                "time": "2024-05-10T18:10:10+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/341-change-watermark-link-alt-text-2024-05-10"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-343--fix-link_text-with-embedded_URL-2024-04-23",
                 "version_normalized": "dev-343--fix-link_text-with-embedded_URL-2024-04-23",
                 "source": {
