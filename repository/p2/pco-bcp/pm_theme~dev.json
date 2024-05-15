@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "860a7b4880335b81ddcefc1a8166af7ee195233f"
+                    "reference": "92fcf6ed167adb3fcde1e3fd55eaa38edef49e02"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/860a7b4880335b81ddcefc1a8166af7ee195233f",
-                    "reference": "860a7b4880335b81ddcefc1a8166af7ee195233f",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/92fcf6ed167adb3fcde1e3fd55eaa38edef49e02",
+                    "reference": "92fcf6ed167adb3fcde1e3fd55eaa38edef49e02",
                     "shasum": ""
                 },
-                "time": "2024-05-13T19:01:52+00:00",
+                "time": "2024-05-15T20:09:21+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.9"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
             {
@@ -175,31 +175,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/341-change-watermark-link-alt-text-2024-05-10"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-343--fix-link_text-with-embedded_URL-2024-04-23",
-                "version_normalized": "dev-343--fix-link_text-with-embedded_URL-2024-04-23",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "1a495f9a53b14be9f9fbe4cf05be51a52f5d0bfd"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1a495f9a53b14be9f9fbe4cf05be51a52f5d0bfd",
-                    "reference": "1a495f9a53b14be9f9fbe4cf05be51a52f5d0bfd",
-                    "shasum": ""
-                },
-                "time": "2024-04-23T21:56:39+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/343--fix-link_text-with-embedded_URL-2024-04-23"
                 }
             },
             {
