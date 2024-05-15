@@ -7065,15 +7065,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "92fcf6ed167adb3fcde1e3fd55eaa38edef49e02"
+                    "reference": "52f5d94f1327d63ef7459d0ca5f01dc6f613d6b4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/92fcf6ed167adb3fcde1e3fd55eaa38edef49e02",
-                    "reference": "92fcf6ed167adb3fcde1e3fd55eaa38edef49e02",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/52f5d94f1327d63ef7459d0ca5f01dc6f613d6b4",
+                    "reference": "52f5d94f1327d63ef7459d0ca5f01dc6f613d6b4",
                     "shasum": ""
                 },
-                "time": "2024-05-15T20:09:21+00:00",
+                "time": "2024-05-15T20:25:18+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -7157,31 +7157,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/298--fix-wcag_issue_skip_to_main_content-2024-04-08"
-                }
-            },
-            "dev-300--fix-wcag-issue-links_visual_cue-2024-04-05": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-300--fix-wcag-issue-links_visual_cue-2024-04-05",
-                "version_normalized": "dev-300--fix-wcag-issue-links_visual_cue-2024-04-05",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2d1a68820d196b7663feec0cfe54709afa36addd"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2d1a68820d196b7663feec0cfe54709afa36addd",
-                    "reference": "2d1a68820d196b7663feec0cfe54709afa36addd",
-                    "shasum": ""
-                },
-                "time": "2024-04-08T14:47:36+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/300--fix-wcag-issue-links_visual_cue-2024-04-05"
                 }
             },
             "dev-341-change-watermark-link-alt-text-2024-05-10": {
