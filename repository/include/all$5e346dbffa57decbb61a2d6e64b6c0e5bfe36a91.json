@@ -6306,6 +6306,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/23--fix-drupal-check-issues-in-pm_modules-2023-11-16"
                 }
             },
+            "dev-353--fixes-content_missed_screen_reader-webform_V2-2024-05-21": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-353--fixes-content_missed_screen_reader-webform_V2-2024-05-21",
+                "version_normalized": "dev-353--fixes-content_missed_screen_reader-webform_V2-2024-05-21",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "fe4b73cd9ee19f5d3ae0afe201c79cf1292ae5b9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/fe4b73cd9ee19f5d3ae0afe201c79cf1292ae5b9",
+                    "reference": "fe4b73cd9ee19f5d3ae0afe201c79cf1292ae5b9",
+                    "shasum": ""
+                },
+                "time": "2024-05-21T19:12:20+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
+                }
+            },
             "dev-360--console-error-static-page-2024-04-20": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-360--console-error-static-page-2024-04-20",
@@ -7316,15 +7341,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "869ce32925d6928caa50b7e308e9c56ef714f9a3"
+                    "reference": "4cf65a4f386d904b88d2d7bfb477e2b0c807507a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/869ce32925d6928caa50b7e308e9c56ef714f9a3",
-                    "reference": "869ce32925d6928caa50b7e308e9c56ef714f9a3",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4cf65a4f386d904b88d2d7bfb477e2b0c807507a",
+                    "reference": "4cf65a4f386d904b88d2d7bfb477e2b0c807507a",
                     "shasum": ""
                 },
-                "time": "2024-05-21T19:10:44+00:00",
+                "time": "2024-05-21T21:38:12+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
