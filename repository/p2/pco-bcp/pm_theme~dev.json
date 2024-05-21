@@ -129,6 +129,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-333-main-menu-item-has-invisible-focus-2024-05-21",
+                "version_normalized": "dev-333-main-menu-item-has-invisible-focus-2024-05-21",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "4e9a0595347de0559df9faa838e97e53a1226981"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4e9a0595347de0559df9faa838e97e53a1226981",
+                    "reference": "4e9a0595347de0559df9faa838e97e53a1226981",
+                    "shasum": ""
+                },
+                "time": "2024-05-21T18:38:36+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/333-main-menu-item-has-invisible-focus-2024-05-21"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-341-change-watermark-link-alt-text-2024-05-10",
                 "version_normalized": "dev-341-change-watermark-link-alt-text-2024-05-10",
                 "source": {
