@@ -7309,6 +7309,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform-2024-05-09"
                 }
             },
+            "dev-353--fixes-content_missed_screen_reader-webform_V2-2024-05-21": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-353--fixes-content_missed_screen_reader-webform_V2-2024-05-21",
+                "version_normalized": "dev-353--fixes-content_missed_screen_reader-webform_V2-2024-05-21",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "869ce32925d6928caa50b7e308e9c56ef714f9a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/869ce32925d6928caa50b7e308e9c56ef714f9a3",
+                    "reference": "869ce32925d6928caa50b7e308e9c56ef714f9a3",
+                    "shasum": ""
+                },
+                "time": "2024-05-21T19:10:44+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
