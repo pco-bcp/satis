@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "9ac4f530e39ae67637c988cfaa66b75e663baf29"
+                    "reference": "239ad9a1044eac0cb9fedce7321c29eb6b95f732"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9ac4f530e39ae67637c988cfaa66b75e663baf29",
-                    "reference": "9ac4f530e39ae67637c988cfaa66b75e663baf29",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/239ad9a1044eac0cb9fedce7321c29eb6b95f732",
+                    "reference": "239ad9a1044eac0cb9fedce7321c29eb6b95f732",
                     "shasum": ""
                 },
-                "time": "2024-05-22T18:43:22+00:00",
+                "time": "2024-05-22T20:47:12+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -175,31 +175,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/333-main-menu-item-has-invisible-focus-2024-05-21"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-341-change-watermark-link-alt-text-2024-05-10",
-                "version_normalized": "dev-341-change-watermark-link-alt-text-2024-05-10",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "18080db60373b1f877beb5567b11a55381b96b2b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/18080db60373b1f877beb5567b11a55381b96b2b",
-                    "reference": "18080db60373b1f877beb5567b11a55381b96b2b",
-                    "shasum": ""
-                },
-                "time": "2024-05-22T14:09:50+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/341-change-watermark-link-alt-text-2024-05-10"
                 }
             },
             {
@@ -425,6 +400,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/pco-bcp/pm_theme--fix-indent-2nd-attempt-2023-09-01"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-revert-45-341-change-watermark-link-alt-text-2024-05-10",
+                "version_normalized": "dev-revert-45-341-change-watermark-link-alt-text-2024-05-10",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "de4ff6532bf384f4cdd535c29d923d0db7e047ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/de4ff6532bf384f4cdd535c29d923d0db7e047ea",
+                    "reference": "de4ff6532bf384f4cdd535c29d923d0db7e047ea",
+                    "shasum": ""
+                },
+                "time": "2024-05-22T20:47:16+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/revert-45-341-change-watermark-link-alt-text-2024-05-10"
                 }
             }
         ]
