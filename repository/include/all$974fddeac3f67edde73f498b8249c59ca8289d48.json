@@ -7259,6 +7259,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/306-focus-indicator-style-not-consistent-2024-05-21"
                 }
             },
+            "dev-332-photos-in-PG-gallery-dont-reflow-2024-05-24": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-332-photos-in-PG-gallery-dont-reflow-2024-05-24",
+                "version_normalized": "dev-332-photos-in-PG-gallery-dont-reflow-2024-05-24",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "6348eb8a208c4715525deeccb550bc596f68a6ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6348eb8a208c4715525deeccb550bc596f68a6ce",
+                    "reference": "6348eb8a208c4715525deeccb550bc596f68a6ce",
+                    "shasum": ""
+                },
+                "time": "2024-05-24T20:00:53+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/332-photos-in-PG-gallery-dont-reflow-2024-05-24"
+                }
+            },
             "dev-333-main-menu-item-has-invisible-focus-2024-05-21": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-333-main-menu-item-has-invisible-focus-2024-05-21",
