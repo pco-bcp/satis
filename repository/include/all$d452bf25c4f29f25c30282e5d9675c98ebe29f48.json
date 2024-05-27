@@ -7140,15 +7140,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "239ad9a1044eac0cb9fedce7321c29eb6b95f732"
+                    "reference": "8036e2102edb3d41dfe67ff873a35a55f537cae3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/239ad9a1044eac0cb9fedce7321c29eb6b95f732",
-                    "reference": "239ad9a1044eac0cb9fedce7321c29eb6b95f732",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8036e2102edb3d41dfe67ff873a35a55f537cae3",
+                    "reference": "8036e2102edb3d41dfe67ff873a35a55f537cae3",
                     "shasum": ""
                 },
-                "time": "2024-05-22T20:47:12+00:00",
+                "time": "2024-05-27T19:01:05+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -7307,31 +7307,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/333-main-menu-item-has-invisible-focus-2024-05-21"
-                }
-            },
-            "dev-338--fix-WCAG-titles-are-not-descriptive-some-pages-2024-05-09": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-338--fix-WCAG-titles-are-not-descriptive-some-pages-2024-05-09",
-                "version_normalized": "dev-338--fix-WCAG-titles-are-not-descriptive-some-pages-2024-05-09",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4413cd4859ec0bf7026ebed58b7d9e579c6b88f4"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4413cd4859ec0bf7026ebed58b7d9e579c6b88f4",
-                    "reference": "4413cd4859ec0bf7026ebed58b7d9e579c6b88f4",
-                    "shasum": ""
-                },
-                "time": "2024-05-27T18:35:22+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/338--fix-WCAG-titles-are-not-descriptive-some-pages-2024-05-09"
                 }
             },
             "dev-351-astrix-not-accessible-2024-05-09": {
