@@ -552,6 +552,31 @@
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/360--console-error-static-page-2024-04-20"
                 }
             },
+            "dev-38--remove-menufilter-module": {
+                "name": "pco-bcp/dpm_modules",
+                "version": "dev-38--remove-menufilter-module",
+                "version_normalized": "dev-38--remove-menufilter-module",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "bbd4c653637c8b392585dd5927f378b1d9ea5313"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/bbd4c653637c8b392585dd5927f378b1d9ea5313",
+                    "reference": "bbd4c653637c8b392585dd5927f378b1d9ea5313",
+                    "shasum": ""
+                },
+                "time": "2024-05-27T14:31:46+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/38--remove-menufilter-module"
+                }
+            },
             "dev-41--update-custom-modules-D10-2024-02-28": {
                 "name": "pco-bcp/dpm_modules",
                 "version": "dev-41--update-custom-modules-D10-2024-02-28",
