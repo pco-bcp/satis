@@ -6037,15 +6037,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "818e62bdbb06e164a871c76f3b8becfaf5b8c15a"
+                    "reference": "d71c2f4aecc18bb0c91de72cff554e5c3a8c129b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/818e62bdbb06e164a871c76f3b8becfaf5b8c15a",
-                    "reference": "818e62bdbb06e164a871c76f3b8becfaf5b8c15a",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d71c2f4aecc18bb0c91de72cff554e5c3a8c129b",
+                    "reference": "d71c2f4aecc18bb0c91de72cff554e5c3a8c129b",
                     "shasum": ""
                 },
-                "time": "2024-05-27T14:33:22+00:00",
+                "time": "2024-05-28T15:44:08+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -6279,31 +6279,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
-            },
-            "dev-360--console-error-static-page-2024-04-20": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-360--console-error-static-page-2024-04-20",
-                "version_normalized": "dev-360--console-error-static-page-2024-04-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "50d751eaeedc174981e2bf038b9a5595db2f017d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/50d751eaeedc174981e2bf038b9a5595db2f017d",
-                    "reference": "50d751eaeedc174981e2bf038b9a5595db2f017d",
-                    "shasum": ""
-                },
-                "time": "2024-04-20T13:34:24+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/360--console-error-static-page-2024-04-20"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
