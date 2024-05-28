@@ -5134,15 +5134,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "0b7756679b251dc24d33e82b0cd33409fa8db5fe"
+                    "reference": "8443f29f3d4886937c1aaf5b1c86ee30f42aaf57"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/0b7756679b251dc24d33e82b0cd33409fa8db5fe",
-                    "reference": "0b7756679b251dc24d33e82b0cd33409fa8db5fe",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/8443f29f3d4886937c1aaf5b1c86ee30f42aaf57",
+                    "reference": "8443f29f3d4886937c1aaf5b1c86ee30f42aaf57",
                     "shasum": ""
                 },
-                "time": "2024-05-10T14:48:26+00:00",
+                "time": "2024-05-28T14:40:35+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -5150,7 +5150,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.5"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
                 }
             },
             "dev-222-citation-d-check-fixes-2024-03-27": {
@@ -5426,31 +5426,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-ckeditor"
-                }
-            },
-            "dev-360--console-error-static-page-2024-04-20": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-360--console-error-static-page-2024-04-20",
-                "version_normalized": "dev-360--console-error-static-page-2024-04-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "e80346a0b425c44f8ed1474070da06e803d4e80b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/e80346a0b425c44f8ed1474070da06e803d4e80b",
-                    "reference": "e80346a0b425c44f8ed1474070da06e803d4e80b",
-                    "shasum": ""
-                },
-                "time": "2024-04-20T13:40:05+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/360--console-error-static-page-2024-04-20"
                 }
             },
             "dev-375-add-cke5-generated-custom-plugins-2024-05-03": {
