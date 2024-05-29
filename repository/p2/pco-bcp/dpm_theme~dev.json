@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "e2a835c6965ae2b61232a9428dca7686360565c0"
+                    "reference": "2fe9b9c6799b3644afa1ccf0f393e3823ab79291"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/e2a835c6965ae2b61232a9428dca7686360565c0",
-                    "reference": "e2a835c6965ae2b61232a9428dca7686360565c0",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/2fe9b9c6799b3644afa1ccf0f393e3823ab79291",
+                    "reference": "2fe9b9c6799b3644afa1ccf0f393e3823ab79291",
                     "shasum": ""
                 },
-                "time": "2024-03-12T13:41:15+00:00",
+                "time": "2024-05-29T18:36:14+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -49,32 +49,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.4"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-427--2-dimension-menu",
-                "version_normalized": "dev-427--2-dimension-menu",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "de51c118812cf1f0a7f574bb8f2287917fa2b4a7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/de51c118812cf1f0a7f574bb8f2287917fa2b4a7",
-                    "reference": "de51c118812cf1f0a7f574bb8f2287917fa2b4a7",
-                    "shasum": ""
-                },
-                "time": "2024-05-29T16:18:30+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/427--2-dimension-menu"
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
             {
