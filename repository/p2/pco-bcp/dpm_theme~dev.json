@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-427--2-dimension-menu",
+                "version_normalized": "dev-427--2-dimension-menu",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "de51c118812cf1f0a7f574bb8f2287917fa2b4a7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/de51c118812cf1f0a7f574bb8f2287917fa2b4a7",
+                    "reference": "de51c118812cf1f0a7f574bb8f2287917fa2b4a7",
+                    "shasum": ""
+                },
+                "time": "2024-05-29T16:18:30+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/427--2-dimension-menu"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
