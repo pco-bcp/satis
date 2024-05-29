@@ -179,6 +179,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-340-incorrect-focus-order-for-open-images-in-PG-2024-05-29",
+                "version_normalized": "dev-340-incorrect-focus-order-for-open-images-in-PG-2024-05-29",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "93acb6bba5f3040dc9dd72a7c0c44eb7b59bec37"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/93acb6bba5f3040dc9dd72a7c0c44eb7b59bec37",
+                    "reference": "93acb6bba5f3040dc9dd72a7c0c44eb7b59bec37",
+                    "shasum": ""
+                },
+                "time": "2024-05-29T19:20:11+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/340-incorrect-focus-order-for-open-images-in-PG-2024-05-29"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-351-astrix-not-accessible-2024-05-09",
                 "version_normalized": "dev-351-astrix-not-accessible-2024-05-09",
                 "source": {
