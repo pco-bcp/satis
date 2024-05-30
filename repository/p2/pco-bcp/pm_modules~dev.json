@@ -254,6 +254,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-340-incorrect-focus-order-for-open-images-in-PG-2024-05-29",
+                "version_normalized": "dev-340-incorrect-focus-order-for-open-images-in-PG-2024-05-29",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "c73fccf0b216cbd0fa57b0a5f8a6ce7049e53475"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c73fccf0b216cbd0fa57b0a5f8a6ce7049e53475",
+                    "reference": "c73fccf0b216cbd0fa57b0a5f8a6ce7049e53475",
+                    "shasum": ""
+                },
+                "time": "2024-05-30T17:57:08+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/340-incorrect-focus-order-for-open-images-in-PG-2024-05-29"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-353--fixes-content_missed_screen_reader-webform_V2-2024-05-21",
                 "version_normalized": "dev-353--fixes-content_missed_screen_reader-webform_V2-2024-05-21",
                 "source": {
