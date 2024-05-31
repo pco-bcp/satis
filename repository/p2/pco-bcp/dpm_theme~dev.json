@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-423--expandable-menu-announcement",
+                "version_normalized": "dev-423--expandable-menu-announcement",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "970ff7791c88bc56e1ffab34efa1c686ff5bb6dd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/970ff7791c88bc56e1ffab34efa1c686ff5bb6dd",
+                    "reference": "970ff7791c88bc56e1ffab34efa1c686ff5bb6dd",
+                    "shasum": ""
+                },
+                "time": "2024-05-31T19:08:49+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/423--expandable-menu-announcement"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-467--alt-text-describe-functionality",
                 "version_normalized": "dev-467--alt-text-describe-functionality",
                 "source": {
