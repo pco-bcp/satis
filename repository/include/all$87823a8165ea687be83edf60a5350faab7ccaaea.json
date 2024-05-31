@@ -1061,15 +1061,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "43de5df7f41005d2932fe5bfd639ff90ca2beb4a"
+                    "reference": "3eb5c7b9b6b4eeb0e2dbcff2663b16ae6585f6e4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/43de5df7f41005d2932fe5bfd639ff90ca2beb4a",
-                    "reference": "43de5df7f41005d2932fe5bfd639ff90ca2beb4a",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/3eb5c7b9b6b4eeb0e2dbcff2663b16ae6585f6e4",
+                    "reference": "3eb5c7b9b6b4eeb0e2dbcff2663b16ae6585f6e4",
                     "shasum": ""
                 },
-                "time": "2024-05-31T15:19:33+00:00",
+                "time": "2024-05-31T20:23:18+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -1078,31 +1078,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            "dev-423--expandable-menu-announcement": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-423--expandable-menu-announcement",
-                "version_normalized": "dev-423--expandable-menu-announcement",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "a13ad30d7a9106451962171f0daf71398703f46a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/a13ad30d7a9106451962171f0daf71398703f46a",
-                    "reference": "a13ad30d7a9106451962171f0daf71398703f46a",
-                    "shasum": ""
-                },
-                "time": "2024-05-31T20:12:27+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/423--expandable-menu-announcement"
                 }
             },
             "dev-467--alt-text-describe-functionality": {
