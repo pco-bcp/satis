@@ -1061,15 +1061,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "3eb5c7b9b6b4eeb0e2dbcff2663b16ae6585f6e4"
+                    "reference": "df324ec4edc69e4276b240916ad98ff3dc71acfb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/3eb5c7b9b6b4eeb0e2dbcff2663b16ae6585f6e4",
-                    "reference": "3eb5c7b9b6b4eeb0e2dbcff2663b16ae6585f6e4",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/df324ec4edc69e4276b240916ad98ff3dc71acfb",
+                    "reference": "df324ec4edc69e4276b240916ad98ff3dc71acfb",
                     "shasum": ""
                 },
-                "time": "2024-05-31T20:23:18+00:00",
+                "time": "2024-06-03T19:22:54+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -1078,56 +1078,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            "dev-467--alt-text-describe-functionality": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-467--alt-text-describe-functionality",
-                "version_normalized": "dev-467--alt-text-describe-functionality",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "3bf5e4185a6dae103e40af0c994410087d742b50"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/3bf5e4185a6dae103e40af0c994410087d742b50",
-                    "reference": "3bf5e4185a6dae103e40af0c994410087d742b50",
-                    "shasum": ""
-                },
-                "time": "2024-05-31T17:58:18+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/467--alt-text-describe-functionality"
-                }
-            },
-            "dev-469--contrast-ratio": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-469--contrast-ratio",
-                "version_normalized": "dev-469--contrast-ratio",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "9baf29285f8c1483a1b1250f267e16899e98c9ad"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/9baf29285f8c1483a1b1250f267e16899e98c9ad",
-                    "reference": "9baf29285f8c1483a1b1250f267e16899e98c9ad",
-                    "shasum": ""
-                },
-                "time": "2024-06-03T15:37:52+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/469--contrast-ratio"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
