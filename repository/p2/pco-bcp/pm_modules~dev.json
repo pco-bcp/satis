@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "d71c2f4aecc18bb0c91de72cff554e5c3a8c129b"
+                    "reference": "0075a436d86fb7d702fbe3e48485ec3fd58ad281"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d71c2f4aecc18bb0c91de72cff554e5c3a8c129b",
-                    "reference": "d71c2f4aecc18bb0c91de72cff554e5c3a8c129b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0075a436d86fb7d702fbe3e48485ec3fd58ad281",
+                    "reference": "0075a436d86fb7d702fbe3e48485ec3fd58ad281",
                     "shasum": ""
                 },
-                "time": "2024-05-28T15:44:08+00:00",
+                "time": "2024-06-04T13:33:25+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -250,31 +250,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/23--fix-drupal-check-issues-in-pm_modules-2023-11-16"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-340-incorrect-focus-order-for-open-images-in-PG-2024-05-29",
-                "version_normalized": "dev-340-incorrect-focus-order-for-open-images-in-PG-2024-05-29",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "c73fccf0b216cbd0fa57b0a5f8a6ce7049e53475"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c73fccf0b216cbd0fa57b0a5f8a6ce7049e53475",
-                    "reference": "c73fccf0b216cbd0fa57b0a5f8a6ce7049e53475",
-                    "shasum": ""
-                },
-                "time": "2024-05-30T17:57:08+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/340-incorrect-focus-order-for-open-images-in-PG-2024-05-29"
                 }
             },
             {

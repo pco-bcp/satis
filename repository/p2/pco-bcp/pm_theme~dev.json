@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a4add5aa3cf87b22533bf07027da13740e2d409f"
+                    "reference": "1d3a80e1cc569ef1f9fa6f781c122954625d17dc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a4add5aa3cf87b22533bf07027da13740e2d409f",
-                    "reference": "a4add5aa3cf87b22533bf07027da13740e2d409f",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1d3a80e1cc569ef1f9fa6f781c122954625d17dc",
+                    "reference": "1d3a80e1cc569ef1f9fa6f781c122954625d17dc",
                     "shasum": ""
                 },
-                "time": "2024-05-27T19:21:45+00:00",
+                "time": "2024-06-04T13:34:26+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -175,31 +175,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/333-main-menu-item-has-invisible-focus-2024-05-21"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-340-incorrect-focus-order-for-open-images-in-PG-2024-05-29",
-                "version_normalized": "dev-340-incorrect-focus-order-for-open-images-in-PG-2024-05-29",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "93acb6bba5f3040dc9dd72a7c0c44eb7b59bec37"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/93acb6bba5f3040dc9dd72a7c0c44eb7b59bec37",
-                    "reference": "93acb6bba5f3040dc9dd72a7c0c44eb7b59bec37",
-                    "shasum": ""
-                },
-                "time": "2024-05-29T19:20:11+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/340-incorrect-focus-order-for-open-images-in-PG-2024-05-29"
                 }
             },
             {
