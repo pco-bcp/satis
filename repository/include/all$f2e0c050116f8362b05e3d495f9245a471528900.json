@@ -7115,15 +7115,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "1d3a80e1cc569ef1f9fa6f781c122954625d17dc"
+                    "reference": "f74c0c24d2e7dd6812740810c0b15fac0927c5b6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1d3a80e1cc569ef1f9fa6f781c122954625d17dc",
-                    "reference": "1d3a80e1cc569ef1f9fa6f781c122954625d17dc",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f74c0c24d2e7dd6812740810c0b15fac0927c5b6",
+                    "reference": "f74c0c24d2e7dd6812740810c0b15fac0927c5b6",
                     "shasum": ""
                 },
-                "time": "2024-06-04T13:34:26+00:00",
+                "time": "2024-06-04T17:16:58+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -7282,31 +7282,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/351-astrix-not-accessible-2024-05-09"
-                }
-            },
-            "dev-353--fix-susbcribe_email_updates-webform-for-screen-reader-2024-06-03": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-353--fix-susbcribe_email_updates-webform-for-screen-reader-2024-06-03",
-                "version_normalized": "dev-353--fix-susbcribe_email_updates-webform-for-screen-reader-2024-06-03",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b6355b81887c7e9e7fa215c445479ab129df0da7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b6355b81887c7e9e7fa215c445479ab129df0da7",
-                    "reference": "b6355b81887c7e9e7fa215c445479ab129df0da7",
-                    "shasum": ""
-                },
-                "time": "2024-06-03T20:46:27+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/353--fix-susbcribe_email_updates-webform-for-screen-reader-2024-06-03"
                 }
             },
             "dev-353--fixes-content_missed_screen_reader-webform-2024-05-09": {
