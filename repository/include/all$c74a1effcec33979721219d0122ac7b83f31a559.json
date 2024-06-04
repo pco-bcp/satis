@@ -1061,15 +1061,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "99fbc362c8690948ddc5ae20fb3d432fb91073ab"
+                    "reference": "c7dbf859268b323841ec7b467b3ef1a105ab5069"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/99fbc362c8690948ddc5ae20fb3d432fb91073ab",
-                    "reference": "99fbc362c8690948ddc5ae20fb3d432fb91073ab",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/c7dbf859268b323841ec7b467b3ef1a105ab5069",
+                    "reference": "c7dbf859268b323841ec7b467b3ef1a105ab5069",
                     "shasum": ""
                 },
-                "time": "2024-06-04T16:58:48+00:00",
+                "time": "2024-06-04T19:56:32+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -1103,31 +1103,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/424--visible-focus-indicator"
-                }
-            },
-            "dev-431--fix-underline-instance": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-431--fix-underline-instance",
-                "version_normalized": "dev-431--fix-underline-instance",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "e3bb65d03e765eb615bca595ade4f6b08d5159be"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/e3bb65d03e765eb615bca595ade4f6b08d5159be",
-                    "reference": "e3bb65d03e765eb615bca595ade4f6b08d5159be",
-                    "shasum": ""
-                },
-                "time": "2024-06-04T19:25:09+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/431--fix-underline-instance"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
