@@ -354,6 +354,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-545--fix-french-accents-drupal-message-when-sending-forms",
+                "version_normalized": "dev-545--fix-french-accents-drupal-message-when-sending-forms",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "80bcdc4bc73491305614899560ea56d9d2954df3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/80bcdc4bc73491305614899560ea56d9d2954df3",
+                    "reference": "80bcdc4bc73491305614899560ea56d9d2954df3",
+                    "shasum": ""
+                },
+                "time": "2024-06-04T15:11:50+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/545--fix-french-accents-drupal-message-when-sending-forms"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {
