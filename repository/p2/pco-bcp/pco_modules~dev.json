@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "365217f45a0b21e9faa37b4bb8e52c1019b1b941"
+                    "reference": "d11b2ea20effb8dd69aa86fa690bc0381804086a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/365217f45a0b21e9faa37b4bb8e52c1019b1b941",
-                    "reference": "365217f45a0b21e9faa37b4bb8e52c1019b1b941",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d11b2ea20effb8dd69aa86fa690bc0381804086a",
+                    "reference": "d11b2ea20effb8dd69aa86fa690bc0381804086a",
                     "shasum": ""
                 },
-                "time": "2024-06-05T18:48:19+00:00",
+                "time": "2024-06-05T19:15:53+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -375,31 +375,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/375-add-cke5-generated-custom-plugins-2024-05-03"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-546--update-subs-french",
-                "version_normalized": "dev-546--update-subs-french",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "b2c00938a441958aaabffaf2cf2e63c9dfd24298"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b2c00938a441958aaabffaf2cf2e63c9dfd24298",
-                    "reference": "b2c00938a441958aaabffaf2cf2e63c9dfd24298",
-                    "shasum": ""
-                },
-                "time": "2024-06-05T18:30:45+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/546--update-subs-french"
                 }
             },
             {
