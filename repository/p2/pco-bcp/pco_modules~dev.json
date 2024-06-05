@@ -379,6 +379,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-546--update-subs-french",
+                "version_normalized": "dev-546--update-subs-french",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "b2c00938a441958aaabffaf2cf2e63c9dfd24298"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b2c00938a441958aaabffaf2cf2e63c9dfd24298",
+                    "reference": "b2c00938a441958aaabffaf2cf2e63c9dfd24298",
+                    "shasum": ""
+                },
+                "time": "2024-06-05T18:30:45+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/546--update-subs-french"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-547-fr-resub-email-link-broken-2024-06-05",
                 "version_normalized": "dev-547-fr-resub-email-link-broken-2024-06-05",
                 "source": {
