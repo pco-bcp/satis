@@ -5153,6 +5153,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
                 }
             },
+            "dev-137--unsubscribe-double-js-confirm": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-137--unsubscribe-double-js-confirm",
+                "version_normalized": "dev-137--unsubscribe-double-js-confirm",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "1b8f5955973d3e3e34a372eb771617726d0246b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1b8f5955973d3e3e34a372eb771617726d0246b0",
+                    "reference": "1b8f5955973d3e3e34a372eb771617726d0246b0",
+                    "shasum": ""
+                },
+                "time": "2024-06-05T20:20:22+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/137--unsubscribe-double-js-confirm"
+                }
+            },
             "dev-222-citation-d-check-fixes-2024-03-27": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-222-citation-d-check-fixes-2024-03-27",
