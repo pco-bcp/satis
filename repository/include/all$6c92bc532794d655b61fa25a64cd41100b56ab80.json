@@ -5134,15 +5134,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "8443f29f3d4886937c1aaf5b1c86ee30f42aaf57"
+                    "reference": "6c27887ed357abf3d846d0eee44b68f5d602c409"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/8443f29f3d4886937c1aaf5b1c86ee30f42aaf57",
-                    "reference": "8443f29f3d4886937c1aaf5b1c86ee30f42aaf57",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/6c27887ed357abf3d846d0eee44b68f5d602c409",
+                    "reference": "6c27887ed357abf3d846d0eee44b68f5d602c409",
                     "shasum": ""
                 },
-                "time": "2024-05-28T14:40:35+00:00",
+                "time": "2024-06-05T13:51:02+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -5476,31 +5476,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/375-add-cke5-generated-custom-plugins-2024-05-03"
-                }
-            },
-            "dev-545--fix-french-accents-drupal-message-when-sending-forms": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-545--fix-french-accents-drupal-message-when-sending-forms",
-                "version_normalized": "dev-545--fix-french-accents-drupal-message-when-sending-forms",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "7d00115fe89220c2efd9251f54c0e2d29e464680"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7d00115fe89220c2efd9251f54c0e2d29e464680",
-                    "reference": "7d00115fe89220c2efd9251f54c0e2d29e464680",
-                    "shasum": ""
-                },
-                "time": "2024-06-04T15:50:59+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/545--fix-french-accents-drupal-message-when-sending-forms"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
