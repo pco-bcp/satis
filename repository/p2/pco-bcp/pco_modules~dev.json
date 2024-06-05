@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "6c27887ed357abf3d846d0eee44b68f5d602c409"
+                    "reference": "365217f45a0b21e9faa37b4bb8e52c1019b1b941"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/6c27887ed357abf3d846d0eee44b68f5d602c409",
-                    "reference": "6c27887ed357abf3d846d0eee44b68f5d602c409",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/365217f45a0b21e9faa37b4bb8e52c1019b1b941",
+                    "reference": "365217f45a0b21e9faa37b4bb8e52c1019b1b941",
                     "shasum": ""
                 },
-                "time": "2024-06-05T13:51:02+00:00",
+                "time": "2024-06-05T18:48:19+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -400,31 +400,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/546--update-subs-french"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-547-fr-resub-email-link-broken-2024-06-05",
-                "version_normalized": "dev-547-fr-resub-email-link-broken-2024-06-05",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "3a0c91703fb884f2d5c948a733b81a9c6c726931"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/3a0c91703fb884f2d5c948a733b81a9c6c726931",
-                    "reference": "3a0c91703fb884f2d5c948a733b81a9c6c726931",
-                    "shasum": ""
-                },
-                "time": "2024-06-05T14:13:51+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/547-fr-resub-email-link-broken-2024-06-05"
                 }
             },
             {
