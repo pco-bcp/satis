@@ -379,6 +379,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-547-fr-resub-email-link-broken-2024-06-05",
+                "version_normalized": "dev-547-fr-resub-email-link-broken-2024-06-05",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "3a0c91703fb884f2d5c948a733b81a9c6c726931"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/3a0c91703fb884f2d5c948a733b81a9c6c726931",
+                    "reference": "3a0c91703fb884f2d5c948a733b81a9c6c726931",
+                    "shasum": ""
+                },
+                "time": "2024-06-05T14:13:51+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/547-fr-resub-email-link-broken-2024-06-05"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {
