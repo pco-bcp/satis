@@ -5134,15 +5134,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "d11b2ea20effb8dd69aa86fa690bc0381804086a"
+                    "reference": "d31a56aa09a1bdcd4ab3eddd2ed5eab529703c59"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d11b2ea20effb8dd69aa86fa690bc0381804086a",
-                    "reference": "d11b2ea20effb8dd69aa86fa690bc0381804086a",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d31a56aa09a1bdcd4ab3eddd2ed5eab529703c59",
+                    "reference": "d31a56aa09a1bdcd4ab3eddd2ed5eab529703c59",
                     "shasum": ""
                 },
-                "time": "2024-06-05T19:15:53+00:00",
+                "time": "2024-06-05T20:28:29+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -5151,31 +5151,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
-                }
-            },
-            "dev-137--unsubscribe-double-js-confirm": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-137--unsubscribe-double-js-confirm",
-                "version_normalized": "dev-137--unsubscribe-double-js-confirm",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "1b8f5955973d3e3e34a372eb771617726d0246b0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1b8f5955973d3e3e34a372eb771617726d0246b0",
-                    "reference": "1b8f5955973d3e3e34a372eb771617726d0246b0",
-                    "shasum": ""
-                },
-                "time": "2024-06-05T20:20:22+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/137--unsubscribe-double-js-confirm"
                 }
             },
             "dev-222-citation-d-check-fixes-2024-03-27": {
