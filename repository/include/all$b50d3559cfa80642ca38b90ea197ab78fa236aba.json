@@ -1105,6 +1105,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/424--visible-focus-indicator"
                 }
             },
+            "dev-425--overflowing-content": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-425--overflowing-content",
+                "version_normalized": "dev-425--overflowing-content",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "5bc76a400442462e5ba3dedd7d2f0b8649160eb5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/5bc76a400442462e5ba3dedd7d2f0b8649160eb5",
+                    "reference": "5bc76a400442462e5ba3dedd7d2f0b8649160eb5",
+                    "shasum": ""
+                },
+                "time": "2024-06-05T20:08:25+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/425--overflowing-content"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
