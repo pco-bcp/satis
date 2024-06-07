@@ -7234,6 +7234,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/306-focus-indicator-style-not-consistent-2024-05-21"
                 }
             },
+            "dev-327-link-contrast-news-items-2024-06-07": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-327-link-contrast-news-items-2024-06-07",
+                "version_normalized": "dev-327-link-contrast-news-items-2024-06-07",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "4b05c5eafac6a6459318d232deddf31021c3495b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4b05c5eafac6a6459318d232deddf31021c3495b",
+                    "reference": "4b05c5eafac6a6459318d232deddf31021c3495b",
+                    "shasum": ""
+                },
+                "time": "2024-06-07T14:41:25+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/327-link-contrast-news-items-2024-06-07"
+                }
+            },
             "dev-333-main-menu-item-has-invisible-focus-2024-05-21": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-333-main-menu-item-has-invisible-focus-2024-05-21",
