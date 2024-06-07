@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "0075a436d86fb7d702fbe3e48485ec3fd58ad281"
+                    "reference": "4ec6eacd613f5b2c0c7fabf2324bc562633dbdd7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0075a436d86fb7d702fbe3e48485ec3fd58ad281",
-                    "reference": "0075a436d86fb7d702fbe3e48485ec3fd58ad281",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4ec6eacd613f5b2c0c7fabf2324bc562633dbdd7",
+                    "reference": "4ec6eacd613f5b2c0c7fabf2324bc562633dbdd7",
                     "shasum": ""
                 },
-                "time": "2024-06-04T13:33:25+00:00",
+                "time": "2024-06-07T19:14:42+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -300,31 +300,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/545--fix-french-accents-drupal-message-when-sending-forms"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-552--fix-pager-for-photos-2024-06-07",
-                "version_normalized": "dev-552--fix-pager-for-photos-2024-06-07",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "19c18e0d52f8c3106e4d90f3ef456b98cb714d7a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/19c18e0d52f8c3106e4d90f3ef456b98cb714d7a",
-                    "reference": "19c18e0d52f8c3106e4d90f3ef456b98cb714d7a",
-                    "shasum": ""
-                },
-                "time": "2024-06-07T19:09:40+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/552--fix-pager-for-photos-2024-06-07"
                 }
             },
             {
