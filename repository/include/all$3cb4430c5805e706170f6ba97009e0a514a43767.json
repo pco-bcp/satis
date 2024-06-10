@@ -7115,15 +7115,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "f74c0c24d2e7dd6812740810c0b15fac0927c5b6"
+                    "reference": "e127a1801b8478aad9064dc0e2d3dc4bde4e0a71"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f74c0c24d2e7dd6812740810c0b15fac0927c5b6",
-                    "reference": "f74c0c24d2e7dd6812740810c0b15fac0927c5b6",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e127a1801b8478aad9064dc0e2d3dc4bde4e0a71",
+                    "reference": "e127a1801b8478aad9064dc0e2d3dc4bde4e0a71",
                     "shasum": ""
                 },
-                "time": "2024-06-04T17:16:58+00:00",
+                "time": "2024-06-10T14:39:41+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -7232,31 +7232,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/306-focus-indicator-style-not-consistent-2024-05-21"
-                }
-            },
-            "dev-327-link-contrast-news-items-2024-06-07": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-327-link-contrast-news-items-2024-06-07",
-                "version_normalized": "dev-327-link-contrast-news-items-2024-06-07",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "17fcb0259212060718ced5f43f9b15255884b296"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/17fcb0259212060718ced5f43f9b15255884b296",
-                    "reference": "17fcb0259212060718ced5f43f9b15255884b296",
-                    "shasum": ""
-                },
-                "time": "2024-06-10T14:29:18+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/327-link-contrast-news-items-2024-06-07"
                 }
             },
             "dev-333-main-menu-item-has-invisible-focus-2024-05-21": {
