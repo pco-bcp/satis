@@ -1080,6 +1080,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
+            "dev-436--focus-indicator-style": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-436--focus-indicator-style",
+                "version_normalized": "dev-436--focus-indicator-style",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "c0ddc3c6a8e5020c1593754df82efabfb69db88e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/c0ddc3c6a8e5020c1593754df82efabfb69db88e",
+                    "reference": "c0ddc3c6a8e5020c1593754df82efabfb69db88e",
+                    "shasum": ""
+                },
+                "time": "2024-06-10T14:52:18+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/436--focus-indicator-style"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
