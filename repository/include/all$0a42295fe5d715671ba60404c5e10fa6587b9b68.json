@@ -1061,15 +1061,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "eb6dffd1f7a2ed063cf10fd1da617d139371a997"
+                    "reference": "7e80adb0181bd3bece4fcbce7f04209c699045c2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/eb6dffd1f7a2ed063cf10fd1da617d139371a997",
-                    "reference": "eb6dffd1f7a2ed063cf10fd1da617d139371a997",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/7e80adb0181bd3bece4fcbce7f04209c699045c2",
+                    "reference": "7e80adb0181bd3bece4fcbce7f04209c699045c2",
                     "shasum": ""
                 },
-                "time": "2024-06-06T14:30:27+00:00",
+                "time": "2024-06-10T19:25:17+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -1103,31 +1103,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/436--focus-indicator-style"
-                }
-            },
-            "dev-454-link-contrast-news-items-2024-06-10": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-454-link-contrast-news-items-2024-06-10",
-                "version_normalized": "dev-454-link-contrast-news-items-2024-06-10",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "5ffba522280351af1ea5bacbb6c1f45df3f7d645"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/5ffba522280351af1ea5bacbb6c1f45df3f7d645",
-                    "reference": "5ffba522280351af1ea5bacbb6c1f45df3f7d645",
-                    "shasum": ""
-                },
-                "time": "2024-06-10T14:42:13+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/454-link-contrast-news-items-2024-06-10"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
