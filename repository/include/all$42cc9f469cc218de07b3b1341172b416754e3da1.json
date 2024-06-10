@@ -1105,6 +1105,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/436--focus-indicator-style"
                 }
             },
+            "dev-461--page-indicator-color-contrast": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-461--page-indicator-color-contrast",
+                "version_normalized": "dev-461--page-indicator-color-contrast",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "56a28b5dc6c4661bda315a33c9f7094cf50452ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/56a28b5dc6c4661bda315a33c9f7094cf50452ce",
+                    "reference": "56a28b5dc6c4661bda315a33c9f7094cf50452ce",
+                    "shasum": ""
+                },
+                "time": "2024-06-10T19:44:37+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/461--page-indicator-color-contrast"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
