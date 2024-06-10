@@ -7284,6 +7284,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/333-main-menu-item-has-invisible-focus-2024-05-21"
                 }
             },
+            "dev-334-fix-ratio-color-for-pager-2024-06-10": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-334-fix-ratio-color-for-pager-2024-06-10",
+                "version_normalized": "dev-334-fix-ratio-color-for-pager-2024-06-10",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "394a25b53f937b80a4d8959332efc621da5e718d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/394a25b53f937b80a4d8959332efc621da5e718d",
+                    "reference": "394a25b53f937b80a4d8959332efc621da5e718d",
+                    "shasum": ""
+                },
+                "time": "2024-06-10T15:39:34+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/334-fix-ratio-color-for-pager-2024-06-10"
+                }
+            },
             "dev-351-astrix-not-accessible-2024-05-09": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-351-astrix-not-accessible-2024-05-09",
