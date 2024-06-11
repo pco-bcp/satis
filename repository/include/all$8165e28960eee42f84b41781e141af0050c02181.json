@@ -7234,6 +7234,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/298--fix-wcag_issue_skip_to_main_content-2024-04-08"
                 }
             },
+            "dev-310-add-transcript-heading-to-video-page-2024-06-11": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-310-add-transcript-heading-to-video-page-2024-06-11",
+                "version_normalized": "dev-310-add-transcript-heading-to-video-page-2024-06-11",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "8eca4a9643034401a436c99e7a9bced56603147b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8eca4a9643034401a436c99e7a9bced56603147b",
+                    "reference": "8eca4a9643034401a436c99e7a9bced56603147b",
+                    "shasum": ""
+                },
+                "time": "2024-06-11T16:58:36+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/310-add-transcript-heading-to-video-page-2024-06-11"
+                }
+            },
             "dev-333-main-menu-item-has-invisible-focus-2024-05-21": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-333-main-menu-item-has-invisible-focus-2024-05-21",
