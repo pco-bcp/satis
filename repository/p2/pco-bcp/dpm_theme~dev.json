@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "d584b263b2d27855209a57d7f8f610373618d979"
+                    "reference": "9c22bac10662dbbedfe0f3de7013f0d1fe5561d9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/d584b263b2d27855209a57d7f8f610373618d979",
-                    "reference": "d584b263b2d27855209a57d7f8f610373618d979",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/9c22bac10662dbbedfe0f3de7013f0d1fe5561d9",
+                    "reference": "9c22bac10662dbbedfe0f3de7013f0d1fe5561d9",
                     "shasum": ""
                 },
-                "time": "2024-06-10T20:34:12+00:00",
+                "time": "2024-06-11T17:22:37+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-436--focus-indicator-style",
-                "version_normalized": "dev-436--focus-indicator-style",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "7fda8b5bb15e86447f9a8de827a158cadf0c0559"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/7fda8b5bb15e86447f9a8de827a158cadf0c0559",
-                    "reference": "7fda8b5bb15e86447f9a8de827a158cadf0c0559",
-                    "shasum": ""
-                },
-                "time": "2024-06-11T15:18:58+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/436--focus-indicator-style"
                 }
             },
             {
