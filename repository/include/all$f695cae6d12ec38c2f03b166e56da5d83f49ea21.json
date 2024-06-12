@@ -1061,15 +1061,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "1920aa55af1712f1be355a052a5db87bd66607be"
+                    "reference": "160295ce798281720f10e70909830e6145387e33"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/1920aa55af1712f1be355a052a5db87bd66607be",
-                    "reference": "1920aa55af1712f1be355a052a5db87bd66607be",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/160295ce798281720f10e70909830e6145387e33",
+                    "reference": "160295ce798281720f10e70909830e6145387e33",
                     "shasum": ""
                 },
-                "time": "2024-06-12T15:21:11+00:00",
+                "time": "2024-06-12T17:31:20+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -1078,31 +1078,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            "dev-484--fix-heading-hierarchy": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-484--fix-heading-hierarchy",
-                "version_normalized": "dev-484--fix-heading-hierarchy",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "6488599ff2ef4df2b3cf20ee273131792c136776"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/6488599ff2ef4df2b3cf20ee273131792c136776",
-                    "reference": "6488599ff2ef4df2b3cf20ee273131792c136776",
-                    "shasum": ""
-                },
-                "time": "2024-06-12T15:16:16+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/484--fix-heading-hierarchy"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
