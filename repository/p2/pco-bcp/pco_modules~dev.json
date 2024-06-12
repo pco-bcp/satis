@@ -379,6 +379,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-550-dynamics-submit-handler",
+                "version_normalized": "dev-550-dynamics-submit-handler",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "621adac79c038229c16ca0911dee4168f8b46090"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/621adac79c038229c16ca0911dee4168f8b46090",
+                    "reference": "621adac79c038229c16ca0911dee4168f8b46090",
+                    "shasum": ""
+                },
+                "time": "2024-06-11T20:41:47+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/550-dynamics-submit-handler"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {
