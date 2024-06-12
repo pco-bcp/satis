@@ -1080,6 +1080,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
+            "dev-484--fix-heading-hierarchy": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-484--fix-heading-hierarchy",
+                "version_normalized": "dev-484--fix-heading-hierarchy",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "6488599ff2ef4df2b3cf20ee273131792c136776"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/6488599ff2ef4df2b3cf20ee273131792c136776",
+                    "reference": "6488599ff2ef4df2b3cf20ee273131792c136776",
+                    "shasum": ""
+                },
+                "time": "2024-06-12T15:16:16+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/484--fix-heading-hierarchy"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
