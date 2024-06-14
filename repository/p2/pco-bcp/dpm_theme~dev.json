@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "2b9976897b7122b020d77026374544027d44693d"
+                    "reference": "1db3e2f18a720d5b55de6cbc522b0d1d9112a3a7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/2b9976897b7122b020d77026374544027d44693d",
-                    "reference": "2b9976897b7122b020d77026374544027d44693d",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/1db3e2f18a720d5b55de6cbc522b0d1d9112a3a7",
+                    "reference": "1db3e2f18a720d5b55de6cbc522b0d1d9112a3a7",
                     "shasum": ""
                 },
-                "time": "2024-06-14T19:26:55+00:00",
+                "time": "2024-06-14T20:26:03+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-440-add-homepage-image-2024-06-14",
-                "version_normalized": "dev-440-add-homepage-image-2024-06-14",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "d89420d0f1b4e9394a765d18fe79250cfa765a7b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/d89420d0f1b4e9394a765d18fe79250cfa765a7b",
-                    "reference": "d89420d0f1b4e9394a765d18fe79250cfa765a7b",
-                    "shasum": ""
-                },
-                "time": "2024-06-14T20:05:42+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/440-add-homepage-image-2024-06-14"
                 }
             },
             {
