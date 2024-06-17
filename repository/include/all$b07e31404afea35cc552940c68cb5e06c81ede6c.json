@@ -602,6 +602,31 @@
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/43-dpm-upgrade-custom-dpm_modules-to-10x"
                 }
             },
+            "dev-554--add-subscribe-button-only-2024-06-17": {
+                "name": "pco-bcp/dpm_modules",
+                "version": "dev-554--add-subscribe-button-only-2024-06-17",
+                "version_normalized": "dev-554--add-subscribe-button-only-2024-06-17",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "ff7b9916c51be07fe8515036e6a789577a4e7e08"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/ff7b9916c51be07fe8515036e6a789577a4e7e08",
+                    "reference": "ff7b9916c51be07fe8515036e6a789577a4e7e08",
+                    "shasum": ""
+                },
+                "time": "2024-06-17T16:56:04+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/554--add-subscribe-button-only-2024-06-17"
+                }
+            },
             "dev-fix--deprecated-function-on-pm_admin-2023-07-24": {
                 "name": "pco-bcp/dpm_modules",
                 "version": "dev-fix--deprecated-function-on-pm_admin-2023-07-24",
