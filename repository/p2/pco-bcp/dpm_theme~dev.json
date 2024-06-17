@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-554--add-subscribe-button-only-2024-06-17",
+                "version_normalized": "dev-554--add-subscribe-button-only-2024-06-17",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "69ff4c8561e7f770636bf6659ea3e92df74b4e4b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/69ff4c8561e7f770636bf6659ea3e92df74b4e4b",
+                    "reference": "69ff4c8561e7f770636bf6659ea3e92df74b4e4b",
+                    "shasum": ""
+                },
+                "time": "2024-06-17T18:11:19+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/554--add-subscribe-button-only-2024-06-17"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
