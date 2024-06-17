@@ -1111,15 +1111,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "0e66f04d24512c1facc9deefeb67c7dedf0c232d"
+                    "reference": "edf460101d800beafbf9c081c88fa4bc69effb37"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/0e66f04d24512c1facc9deefeb67c7dedf0c232d",
-                    "reference": "0e66f04d24512c1facc9deefeb67c7dedf0c232d",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/edf460101d800beafbf9c081c88fa4bc69effb37",
+                    "reference": "edf460101d800beafbf9c081c88fa4bc69effb37",
                     "shasum": ""
                 },
-                "time": "2024-06-17T18:18:53+00:00",
+                "time": "2024-06-17T19:09:20+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -1128,31 +1128,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            "dev-472-add-alt-to-crest-2024-06-17": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-472-add-alt-to-crest-2024-06-17",
-                "version_normalized": "dev-472-add-alt-to-crest-2024-06-17",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "caeb5b6f4f7c1f26ebc18934e3445946acacecb0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/caeb5b6f4f7c1f26ebc18934e3445946acacecb0",
-                    "reference": "caeb5b6f4f7c1f26ebc18934e3445946acacecb0",
-                    "shasum": ""
-                },
-                "time": "2024-06-17T19:06:11+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/472-add-alt-to-crest-2024-06-17"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
