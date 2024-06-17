@@ -7534,6 +7534,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/358-colour-ratio-issue-in-footer-2024-06-12"
                 }
             },
+            "dev-554-remove-subs-icon-in-mobile-2024-06-17": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-554-remove-subs-icon-in-mobile-2024-06-17",
+                "version_normalized": "dev-554-remove-subs-icon-in-mobile-2024-06-17",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e922e254a959366a68296b9df91f1bca0d274c68"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e922e254a959366a68296b9df91f1bca0d274c68",
+                    "reference": "e922e254a959366a68296b9df91f1bca0d274c68",
+                    "shasum": ""
+                },
+                "time": "2024-06-12T15:11:43+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
