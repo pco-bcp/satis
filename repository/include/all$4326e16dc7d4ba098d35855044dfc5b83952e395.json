@@ -376,6 +376,31 @@
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/2.0.2"
                 }
             },
+            "2.0.3": {
+                "name": "pco-bcp/dpm_modules",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_modules.git",
+                    "reference": "c69435d3d5871b392a65d36bcd9006c31509d1d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_modules/zipball/c69435d3d5871b392a65d36bcd9006c31509d1d3",
+                    "reference": "c69435d3d5871b392a65d36bcd9006c31509d1d3",
+                    "shasum": ""
+                },
+                "time": "2024-06-17T18:16:11+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/2.0.3"
+                }
+            },
             "2.x-dev": {
                 "name": "pco-bcp/dpm_modules",
                 "version": "2.x-dev",
@@ -399,7 +424,7 @@
                 ],
                 "description": "DPM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_modules/tree/2.x"
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/2.0.3"
                 }
             },
             "dev-151-add-leaf-icon-gin-toolbar-2024-03-04": {
