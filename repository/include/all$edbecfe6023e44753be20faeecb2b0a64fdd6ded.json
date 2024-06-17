@@ -1130,6 +1130,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
+            "dev-472-add-alt-to-crest-2024-06-17": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-472-add-alt-to-crest-2024-06-17",
+                "version_normalized": "dev-472-add-alt-to-crest-2024-06-17",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "7505c5c15807552ec84fe160e80f96e4b0075def"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/7505c5c15807552ec84fe160e80f96e4b0075def",
+                    "reference": "7505c5c15807552ec84fe160e80f96e4b0075def",
+                    "shasum": ""
+                },
+                "time": "2024-06-17T18:34:16+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/472-add-alt-to-crest-2024-06-17"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
