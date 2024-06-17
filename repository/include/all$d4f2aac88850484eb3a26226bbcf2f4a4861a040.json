@@ -1136,15 +1136,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "1db3e2f18a720d5b55de6cbc522b0d1d9112a3a7"
+                    "reference": "d173c7cce919b0b59877c9652c1775cc6fe9cd20"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/1db3e2f18a720d5b55de6cbc522b0d1d9112a3a7",
-                    "reference": "1db3e2f18a720d5b55de6cbc522b0d1d9112a3a7",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/d173c7cce919b0b59877c9652c1775cc6fe9cd20",
+                    "reference": "d173c7cce919b0b59877c9652c1775cc6fe9cd20",
                     "shasum": ""
                 },
-                "time": "2024-06-14T20:26:03+00:00",
+                "time": "2024-06-17T17:55:45+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -1152,32 +1152,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.5"
-                }
-            },
-            "dev-554--add-subscribe-button-only-2024-06-17": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-554--add-subscribe-button-only-2024-06-17",
-                "version_normalized": "dev-554--add-subscribe-button-only-2024-06-17",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "3ff2e4c608e259a020105940655be8bb14e8bd2d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/3ff2e4c608e259a020105940655be8bb14e8bd2d",
-                    "reference": "3ff2e4c608e259a020105940655be8bb14e8bd2d",
-                    "shasum": ""
-                },
-                "time": "2024-06-17T16:52:12+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/554--add-subscribe-button-only-2024-06-17"
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
@@ -7265,15 +7240,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e922e254a959366a68296b9df91f1bca0d274c68"
+                    "reference": "0b4d2a8f7e38020e52807bcd7d628b976e6dcf9d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e922e254a959366a68296b9df91f1bca0d274c68",
-                    "reference": "e922e254a959366a68296b9df91f1bca0d274c68",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0b4d2a8f7e38020e52807bcd7d628b976e6dcf9d",
+                    "reference": "0b4d2a8f7e38020e52807bcd7d628b976e6dcf9d",
                     "shasum": ""
                 },
-                "time": "2024-06-12T15:11:43+00:00",
+                "time": "2024-06-17T17:56:32+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
