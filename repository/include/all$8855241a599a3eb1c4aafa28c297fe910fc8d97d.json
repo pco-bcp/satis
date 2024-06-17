@@ -7058,6 +7058,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.10"
                 }
             },
+            "2.0.11": {
+                "name": "pco-bcp/pm_theme",
+                "version": "2.0.11",
+                "version_normalized": "2.0.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "0b4d2a8f7e38020e52807bcd7d628b976e6dcf9d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0b4d2a8f7e38020e52807bcd7d628b976e6dcf9d",
+                    "reference": "0b4d2a8f7e38020e52807bcd7d628b976e6dcf9d",
+                    "shasum": ""
+                },
+                "time": "2024-06-17T17:56:32+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.11"
+                }
+            },
             "2.0.2": {
                 "name": "pco-bcp/pm_theme",
                 "version": "2.0.2",
@@ -7281,7 +7306,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.11"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
