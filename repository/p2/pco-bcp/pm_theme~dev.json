@@ -309,22 +309,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e922e254a959366a68296b9df91f1bca0d274c68"
+                    "reference": "c0f67139df1ed64bbcf193b259dba9816ed38003"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e922e254a959366a68296b9df91f1bca0d274c68",
-                    "reference": "e922e254a959366a68296b9df91f1bca0d274c68",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c0f67139df1ed64bbcf193b259dba9816ed38003",
+                    "reference": "c0f67139df1ed64bbcf193b259dba9816ed38003",
                     "shasum": ""
                 },
-                "time": "2024-06-12T15:11:43+00:00",
+                "time": "2024-06-17T17:27:54+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/554-remove-subs-icon-in-mobile-2024-06-17"
                 }
             },
             {
