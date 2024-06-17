@@ -1104,6 +1104,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.5"
                 }
             },
+            "2.0.6": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "2.0.6",
+                "version_normalized": "2.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "edf460101d800beafbf9c081c88fa4bc69effb37"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/edf460101d800beafbf9c081c88fa4bc69effb37",
+                    "reference": "edf460101d800beafbf9c081c88fa4bc69effb37",
+                    "shasum": ""
+                },
+                "time": "2024-06-17T19:09:20+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.6"
+                }
+            },
             "2.x-dev": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "2.x-dev",
@@ -1127,7 +1152,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.6"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
