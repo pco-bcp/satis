@@ -5603,6 +5603,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/550-dynamics-submit-handler"
                 }
             },
+            "dev-557-update-mailout-media-footer-address": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-557-update-mailout-media-footer-address",
+                "version_normalized": "dev-557-update-mailout-media-footer-address",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "a7f981c5205916dc15d417619ec3f65e699dac8c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a7f981c5205916dc15d417619ec3f65e699dac8c",
+                    "reference": "a7f981c5205916dc15d417619ec3f65e699dac8c",
+                    "shasum": ""
+                },
+                "time": "2024-06-20T16:14:33+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/557-update-mailout-media-footer-address"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
