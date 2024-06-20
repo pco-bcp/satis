@@ -7409,6 +7409,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/298--fix-wcag_issue_skip_to_main_content-2024-04-08"
                 }
             },
+            "dev-309-remove-keyboard-trap-2024-06-20": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-309-remove-keyboard-trap-2024-06-20",
+                "version_normalized": "dev-309-remove-keyboard-trap-2024-06-20",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "d2bc23defa6506761478c6728beb1b7f3b0b3364"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d2bc23defa6506761478c6728beb1b7f3b0b3364",
+                    "reference": "d2bc23defa6506761478c6728beb1b7f3b0b3364",
+                    "shasum": ""
+                },
+                "time": "2024-06-20T14:36:23+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/309-remove-keyboard-trap-2024-06-20"
+                }
+            },
             "dev-310-add-transcript-heading-to-video-page-2024-06-11": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-310-add-transcript-heading-to-video-page-2024-06-11",
