@@ -329,6 +329,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-558-canada-logo-footer-size-2024-06-20",
+                "version_normalized": "dev-558-canada-logo-footer-size-2024-06-20",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "85dab67c0783a7726f66f34b6fe2570246332bf3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/85dab67c0783a7726f66f34b6fe2570246332bf3",
+                    "reference": "85dab67c0783a7726f66f34b6fe2570246332bf3",
+                    "shasum": ""
+                },
+                "time": "2024-06-20T18:12:58+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/558-canada-logo-footer-size-2024-06-20"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {

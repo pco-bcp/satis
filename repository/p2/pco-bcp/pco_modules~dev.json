@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "8f894dbd63c5323bffab0e4f38b6f38d153d04a6"
+                    "reference": "f74324477f8387911c8f4461bb374199424c0929"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/8f894dbd63c5323bffab0e4f38b6f38d153d04a6",
-                    "reference": "8f894dbd63c5323bffab0e4f38b6f38d153d04a6",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/f74324477f8387911c8f4461bb374199424c0929",
+                    "reference": "f74324477f8387911c8f4461bb374199424c0929",
                     "shasum": ""
                 },
-                "time": "2024-06-06T18:06:25+00:00",
+                "time": "2024-06-20T16:15:50+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.6"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
                 }
             },
             {
@@ -400,31 +400,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/550-dynamics-submit-handler"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-557-update-mailout-media-footer-address",
-                "version_normalized": "dev-557-update-mailout-media-footer-address",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a7f981c5205916dc15d417619ec3f65e699dac8c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a7f981c5205916dc15d417619ec3f65e699dac8c",
-                    "reference": "a7f981c5205916dc15d417619ec3f65e699dac8c",
-                    "shasum": ""
-                },
-                "time": "2024-06-20T16:14:33+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/557-update-mailout-media-footer-address"
                 }
             },
             {
