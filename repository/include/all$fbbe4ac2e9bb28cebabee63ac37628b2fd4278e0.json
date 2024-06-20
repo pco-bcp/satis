@@ -1180,6 +1180,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.6"
                 }
             },
+            "dev-480--remove-tooltip": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-480--remove-tooltip",
+                "version_normalized": "dev-480--remove-tooltip",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "c811e17bd8e111cba010ec8933afc68d00b35c43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/c811e17bd8e111cba010ec8933afc68d00b35c43",
+                    "reference": "c811e17bd8e111cba010ec8933afc68d00b35c43",
+                    "shasum": ""
+                },
+                "time": "2024-06-20T17:55:16+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/480--remove-tooltip"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
