@@ -7340,15 +7340,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b2045df165205178b7bd68e7ea0104c4f896c261"
+                    "reference": "99f61dac89580a71afc7fe2398b8bf07038eae5a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b2045df165205178b7bd68e7ea0104c4f896c261",
-                    "reference": "b2045df165205178b7bd68e7ea0104c4f896c261",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/99f61dac89580a71afc7fe2398b8bf07038eae5a",
+                    "reference": "99f61dac89580a71afc7fe2398b8bf07038eae5a",
                     "shasum": ""
                 },
-                "time": "2024-06-21T14:57:40+00:00",
+                "time": "2024-06-21T18:27:46+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -7584,31 +7584,6 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
                 }
             },
-            "dev-358-colour-ratio-issue-in-footer-2024-06-12": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-358-colour-ratio-issue-in-footer-2024-06-12",
-                "version_normalized": "dev-358-colour-ratio-issue-in-footer-2024-06-12",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ce55ffaa378d1a85d9a501bd77827f1f8ef55147"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ce55ffaa378d1a85d9a501bd77827f1f8ef55147",
-                    "reference": "ce55ffaa378d1a85d9a501bd77827f1f8ef55147",
-                    "shasum": ""
-                },
-                "time": "2024-06-13T12:57:08+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/358-colour-ratio-issue-in-footer-2024-06-12"
-                }
-            },
             "dev-558-canada-logo-footer-size-2024-06-20": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-558-canada-logo-footer-size-2024-06-20",
@@ -7632,31 +7607,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/558-canada-logo-footer-size-2024-06-20"
-                }
-            },
-            "dev-559-change-classname-btns-homepage-2024-06-21": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-559-change-classname-btns-homepage-2024-06-21",
-                "version_normalized": "dev-559-change-classname-btns-homepage-2024-06-21",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "1e8cbba7ac808dfc611472144e7a81a6beb82cdb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1e8cbba7ac808dfc611472144e7a81a6beb82cdb",
-                    "reference": "1e8cbba7ac808dfc611472144e7a81a6beb82cdb",
-                    "shasum": ""
-                },
-                "time": "2024-06-21T15:27:32+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/559-change-classname-btns-homepage-2024-06-21"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
