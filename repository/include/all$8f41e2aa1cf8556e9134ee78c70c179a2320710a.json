@@ -7340,15 +7340,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "0b4d2a8f7e38020e52807bcd7d628b976e6dcf9d"
+                    "reference": "b2045df165205178b7bd68e7ea0104c4f896c261"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0b4d2a8f7e38020e52807bcd7d628b976e6dcf9d",
-                    "reference": "0b4d2a8f7e38020e52807bcd7d628b976e6dcf9d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b2045df165205178b7bd68e7ea0104c4f896c261",
+                    "reference": "b2045df165205178b7bd68e7ea0104c4f896c261",
                     "shasum": ""
                 },
-                "time": "2024-06-17T17:56:32+00:00",
+                "time": "2024-06-21T14:57:40+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -7356,7 +7356,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.11"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
@@ -7432,31 +7432,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/298--fix-wcag_issue_skip_to_main_content-2024-04-08"
-                }
-            },
-            "dev-309-remove-keyboard-trap-2024-06-20": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-309-remove-keyboard-trap-2024-06-20",
-                "version_normalized": "dev-309-remove-keyboard-trap-2024-06-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "f230a2f089c481fa93f68add2110103649c13a71"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f230a2f089c481fa93f68add2110103649c13a71",
-                    "reference": "f230a2f089c481fa93f68add2110103649c13a71",
-                    "shasum": ""
-                },
-                "time": "2024-06-20T14:48:41+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/309-remove-keyboard-trap-2024-06-20"
                 }
             },
             "dev-310-add-transcript-heading-to-video-page-2024-06-11": {
