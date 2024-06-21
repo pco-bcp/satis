@@ -7340,15 +7340,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "99f61dac89580a71afc7fe2398b8bf07038eae5a"
+                    "reference": "a926cb7e23773b18c6a0e8d6eb7ef1afe1299f22"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/99f61dac89580a71afc7fe2398b8bf07038eae5a",
-                    "reference": "99f61dac89580a71afc7fe2398b8bf07038eae5a",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a926cb7e23773b18c6a0e8d6eb7ef1afe1299f22",
+                    "reference": "a926cb7e23773b18c6a0e8d6eb7ef1afe1299f22",
                     "shasum": ""
                 },
-                "time": "2024-06-21T18:27:46+00:00",
+                "time": "2024-06-21T18:40:15+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -7582,31 +7582,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
-            },
-            "dev-558-canada-logo-footer-size-2024-06-20": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-558-canada-logo-footer-size-2024-06-20",
-                "version_normalized": "dev-558-canada-logo-footer-size-2024-06-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "85dab67c0783a7726f66f34b6fe2570246332bf3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/85dab67c0783a7726f66f34b6fe2570246332bf3",
-                    "reference": "85dab67c0783a7726f66f34b6fe2570246332bf3",
-                    "shasum": ""
-                },
-                "time": "2024-06-20T18:12:58+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/558-canada-logo-footer-size-2024-06-20"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
