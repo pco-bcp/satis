@@ -254,6 +254,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-310-add-transcript-heading-to-video-page-2024-06-24",
+                "version_normalized": "dev-310-add-transcript-heading-to-video-page-2024-06-24",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "649a67d840c6bfdf284e2fc0f795b5ffd906f5b3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/649a67d840c6bfdf284e2fc0f795b5ffd906f5b3",
+                    "reference": "649a67d840c6bfdf284e2fc0f795b5ffd906f5b3",
+                    "shasum": ""
+                },
+                "time": "2024-06-24T19:57:18+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/310-add-transcript-heading-to-video-page-2024-06-24"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-353--fixes-content_missed_screen_reader-webform_V2-2024-05-21",
                 "version_normalized": "dev-353--fixes-content_missed_screen_reader-webform_V2-2024-05-21",
                 "source": {
