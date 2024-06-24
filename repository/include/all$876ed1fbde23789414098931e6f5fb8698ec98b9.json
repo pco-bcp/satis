@@ -1180,6 +1180,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.6"
                 }
             },
+            "dev-442-focus-order": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-442-focus-order",
+                "version_normalized": "dev-442-focus-order",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "e81471e50b05ee671e5f8e04c8e833a14242a913"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/e81471e50b05ee671e5f8e04c8e833a14242a913",
+                    "reference": "e81471e50b05ee671e5f8e04c8e833a14242a913",
+                    "shasum": ""
+                },
+                "time": "2024-06-24T14:29:39+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/442-focus-order"
+                }
+            },
             "dev-480--remove-tooltip": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-480--remove-tooltip",
