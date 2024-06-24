@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "edf460101d800beafbf9c081c88fa4bc69effb37"
+                    "reference": "028801e152c14e20a4ac7da5993b3e65476ef1df"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/edf460101d800beafbf9c081c88fa4bc69effb37",
-                    "reference": "edf460101d800beafbf9c081c88fa4bc69effb37",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/028801e152c14e20a4ac7da5993b3e65476ef1df",
+                    "reference": "028801e152c14e20a4ac7da5993b3e65476ef1df",
                     "shasum": ""
                 },
-                "time": "2024-06-17T19:09:20+00:00",
+                "time": "2024-06-24T15:35:57+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -49,32 +49,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.6"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-442-focus-order",
-                "version_normalized": "dev-442-focus-order",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "d1173b6286204a9d6a759c24980fe7ba760e9034"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/d1173b6286204a9d6a759c24980fe7ba760e9034",
-                    "reference": "d1173b6286204a9d6a759c24980fe7ba760e9034",
-                    "shasum": ""
-                },
-                "time": "2024-06-24T15:13:48+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/442-focus-order"
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
             {
