@@ -7534,6 +7534,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/351-astrix-not-accessible-2024-05-09"
                 }
             },
+            "dev-351-fix-wcag-issue-asterix-not-accessible-2024-06-25": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-351-fix-wcag-issue-asterix-not-accessible-2024-06-25",
+                "version_normalized": "dev-351-fix-wcag-issue-asterix-not-accessible-2024-06-25",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "47a26f0fd3fd725975fe2cf03593501159041d49"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/47a26f0fd3fd725975fe2cf03593501159041d49",
+                    "reference": "47a26f0fd3fd725975fe2cf03593501159041d49",
+                    "shasum": ""
+                },
+                "time": "2024-06-25T14:03:56+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/351-fix-wcag-issue-asterix-not-accessible-2024-06-25"
+                }
+            },
             "dev-353--fix-greetings_webform-for-screen-reader-2024-06-04": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-353--fix-greetings_webform-for-screen-reader-2024-06-04",
