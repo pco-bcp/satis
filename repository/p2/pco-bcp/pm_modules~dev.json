@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "4ec6eacd613f5b2c0c7fabf2324bc562633dbdd7"
+                    "reference": "15673b1fb1c3a0dabba89792b9811e07e9ca0c64"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4ec6eacd613f5b2c0c7fabf2324bc562633dbdd7",
-                    "reference": "4ec6eacd613f5b2c0c7fabf2324bc562633dbdd7",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/15673b1fb1c3a0dabba89792b9811e07e9ca0c64",
+                    "reference": "15673b1fb1c3a0dabba89792b9811e07e9ca0c64",
                     "shasum": ""
                 },
-                "time": "2024-06-07T19:14:42+00:00",
+                "time": "2024-06-25T20:42:06+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.6"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
                 }
             },
             {
@@ -250,31 +250,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/23--fix-drupal-check-issues-in-pm_modules-2023-11-16"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-310-add-transcript-heading-to-video-page-2024-06-24",
-                "version_normalized": "dev-310-add-transcript-heading-to-video-page-2024-06-24",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "0d22408a212eb5e5320d8d26abc1d4f0a25830d3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0d22408a212eb5e5320d8d26abc1d4f0a25830d3",
-                    "reference": "0d22408a212eb5e5320d8d26abc1d4f0a25830d3",
-                    "shasum": ""
-                },
-                "time": "2024-06-25T20:34:14+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/310-add-transcript-heading-to-video-page-2024-06-24"
                 }
             },
             {
