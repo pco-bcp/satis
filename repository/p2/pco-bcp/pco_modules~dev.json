@@ -404,27 +404,27 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
-                "version": "dev-557-update-mailout-media-footer-address-2",
-                "version_normalized": "dev-557-update-mailout-media-footer-address-2",
+                "version": "dev-557-update-mailout-media-footer-address-3",
+                "version_normalized": "dev-557-update-mailout-media-footer-address-3",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "5afa892484d8a09c3af3a72a8dd296988d99e10d"
+                    "reference": "b2fdd896162e4a25980d69b6bc66afe4a4a8c326"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/5afa892484d8a09c3af3a72a8dd296988d99e10d",
-                    "reference": "5afa892484d8a09c3af3a72a8dd296988d99e10d",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b2fdd896162e4a25980d69b6bc66afe4a4a8c326",
+                    "reference": "b2fdd896162e4a25980d69b6bc66afe4a4a8c326",
                     "shasum": ""
                 },
-                "time": "2024-06-25T14:28:37+00:00",
+                "time": "2024-06-25T14:50:50+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/557-update-mailout-media-footer-address-2"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/557-update-mailout-media-footer-address-3"
                 }
             },
             {
