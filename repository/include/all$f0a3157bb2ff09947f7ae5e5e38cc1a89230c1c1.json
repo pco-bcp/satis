@@ -5234,15 +5234,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "f74324477f8387911c8f4461bb374199424c0929"
+                    "reference": "baca97d10da9d2ef90adeeef37e5988441474930"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/f74324477f8387911c8f4461bb374199424c0929",
-                    "reference": "f74324477f8387911c8f4461bb374199424c0929",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/baca97d10da9d2ef90adeeef37e5988441474930",
+                    "reference": "baca97d10da9d2ef90adeeef37e5988441474930",
                     "shasum": ""
                 },
-                "time": "2024-06-20T16:15:50+00:00",
+                "time": "2024-06-25T14:52:37+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -5601,31 +5601,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/550-dynamics-submit-handler"
-                }
-            },
-            "dev-557-update-mailout-media-footer-address-3": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-557-update-mailout-media-footer-address-3",
-                "version_normalized": "dev-557-update-mailout-media-footer-address-3",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "b2fdd896162e4a25980d69b6bc66afe4a4a8c326"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b2fdd896162e4a25980d69b6bc66afe4a4a8c326",
-                    "reference": "b2fdd896162e4a25980d69b6bc66afe4a4a8c326",
-                    "shasum": ""
-                },
-                "time": "2024-06-25T14:50:50+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/557-update-mailout-media-footer-address-3"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
