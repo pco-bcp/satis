@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-451--indicate-mandatory-fields",
+                "version_normalized": "dev-451--indicate-mandatory-fields",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "ec26a7f755e8bb034cc6b8ad9c518eee5e959c1e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/ec26a7f755e8bb034cc6b8ad9c518eee5e959c1e",
+                    "reference": "ec26a7f755e8bb034cc6b8ad9c518eee5e959c1e",
+                    "shasum": ""
+                },
+                "time": "2024-06-25T15:57:09+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/451--indicate-mandatory-fields"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
