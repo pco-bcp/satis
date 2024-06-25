@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a926cb7e23773b18c6a0e8d6eb7ef1afe1299f22"
+                    "reference": "ed30d8e10aefe11fd2b55b73d16a2ff2a53d068b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a926cb7e23773b18c6a0e8d6eb7ef1afe1299f22",
-                    "reference": "a926cb7e23773b18c6a0e8d6eb7ef1afe1299f22",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ed30d8e10aefe11fd2b55b73d16a2ff2a53d068b",
+                    "reference": "ed30d8e10aefe11fd2b55b73d16a2ff2a53d068b",
                     "shasum": ""
                 },
-                "time": "2024-06-21T18:40:15+00:00",
+                "time": "2024-06-25T15:34:19+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -225,31 +225,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/351-astrix-not-accessible-2024-05-09"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-351-fix-wcag-issue-asterix-not-accessible-2024-06-25",
-                "version_normalized": "dev-351-fix-wcag-issue-asterix-not-accessible-2024-06-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "47a26f0fd3fd725975fe2cf03593501159041d49"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/47a26f0fd3fd725975fe2cf03593501159041d49",
-                    "reference": "47a26f0fd3fd725975fe2cf03593501159041d49",
-                    "shasum": ""
-                },
-                "time": "2024-06-25T14:03:56+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/351-fix-wcag-issue-asterix-not-accessible-2024-06-25"
                 }
             },
             {
