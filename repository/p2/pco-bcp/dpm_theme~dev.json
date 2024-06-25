@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "e92d80fd35c1acbe9448674a7ff7d7d279c33ed2"
+                    "reference": "c9d8a65eae372452806f6c86c20235a903733413"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/e92d80fd35c1acbe9448674a7ff7d7d279c33ed2",
-                    "reference": "e92d80fd35c1acbe9448674a7ff7d7d279c33ed2",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/c9d8a65eae372452806f6c86c20235a903733413",
+                    "reference": "c9d8a65eae372452806f6c86c20235a903733413",
                     "shasum": ""
                 },
-                "time": "2024-06-25T13:35:10+00:00",
+                "time": "2024-06-25T18:59:49+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-451--indicate-mandatory-fields",
-                "version_normalized": "dev-451--indicate-mandatory-fields",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "ec26a7f755e8bb034cc6b8ad9c518eee5e959c1e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/ec26a7f755e8bb034cc6b8ad9c518eee5e959c1e",
-                    "reference": "ec26a7f755e8bb034cc6b8ad9c518eee5e959c1e",
-                    "shasum": ""
-                },
-                "time": "2024-06-25T15:57:09+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/451--indicate-mandatory-fields"
                 }
             },
             {
