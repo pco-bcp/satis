@@ -304,6 +304,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-354-remove-tooltip-2024-06-26",
+                "version_normalized": "dev-354-remove-tooltip-2024-06-26",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "b64560349ddfd553990dec9a689753ab9fd3602c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b64560349ddfd553990dec9a689753ab9fd3602c",
+                    "reference": "b64560349ddfd553990dec9a689753ab9fd3602c",
+                    "shasum": ""
+                },
+                "time": "2024-06-26T17:03:46+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/354-remove-tooltip-2024-06-26"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
