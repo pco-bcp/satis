@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-563--associate-text-to-button",
+                "version_normalized": "dev-563--associate-text-to-button",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "f09e70e6b59d3bf2aff717bc239d5b2a579b9309"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/f09e70e6b59d3bf2aff717bc239d5b2a579b9309",
+                    "reference": "f09e70e6b59d3bf2aff717bc239d5b2a579b9309",
+                    "shasum": ""
+                },
+                "time": "2024-06-26T15:07:56+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/563--associate-text-to-button"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
