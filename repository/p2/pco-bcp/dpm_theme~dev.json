@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "f1ad5a817fefad36969abfbabecb580d5a9d2075"
+                    "reference": "a28d9c3525e9d448473baaee003b2aacac3fcad5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/f1ad5a817fefad36969abfbabecb580d5a9d2075",
-                    "reference": "f1ad5a817fefad36969abfbabecb580d5a9d2075",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/a28d9c3525e9d448473baaee003b2aacac3fcad5",
+                    "reference": "a28d9c3525e9d448473baaee003b2aacac3fcad5",
                     "shasum": ""
                 },
-                "time": "2024-06-27T13:58:58+00:00",
+                "time": "2024-06-27T19:01:53+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-564--reflow-subscribe-description",
-                "version_normalized": "dev-564--reflow-subscribe-description",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "7bdf414ec5e8a835e29968e46dbe02a44709d093"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/7bdf414ec5e8a835e29968e46dbe02a44709d093",
-                    "reference": "7bdf414ec5e8a835e29968e46dbe02a44709d093",
-                    "shasum": ""
-                },
-                "time": "2024-06-27T17:15:22+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/564--reflow-subscribe-description"
                 }
             },
             {
