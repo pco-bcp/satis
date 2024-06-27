@@ -7434,6 +7434,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/298--fix-wcag_issue_skip_to_main_content-2024-04-08"
                 }
             },
+            "dev-306-make-focus-style-consistant-with-dpm-2024-06-27": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-306-make-focus-style-consistant-with-dpm-2024-06-27",
+                "version_normalized": "dev-306-make-focus-style-consistant-with-dpm-2024-06-27",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "f038dd360a60ec1016e97b120de6a0ce1d1e9ade"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f038dd360a60ec1016e97b120de6a0ce1d1e9ade",
+                    "reference": "f038dd360a60ec1016e97b120de6a0ce1d1e9ade",
+                    "shasum": ""
+                },
+                "time": "2024-06-27T18:09:17+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/306-make-focus-style-consistant-with-dpm-2024-06-27"
+                }
+            },
             "dev-310-add-transcript-heading-to-video-page-2024-06-11": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-310-add-transcript-heading-to-video-page-2024-06-11",
