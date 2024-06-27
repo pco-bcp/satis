@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "c9d8a65eae372452806f6c86c20235a903733413"
+                    "reference": "f1ad5a817fefad36969abfbabecb580d5a9d2075"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/c9d8a65eae372452806f6c86c20235a903733413",
-                    "reference": "c9d8a65eae372452806f6c86c20235a903733413",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/f1ad5a817fefad36969abfbabecb580d5a9d2075",
+                    "reference": "f1ad5a817fefad36969abfbabecb580d5a9d2075",
                     "shasum": ""
                 },
-                "time": "2024-06-25T18:59:49+00:00",
+                "time": "2024-06-27T13:58:58+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-563--associate-text-to-button",
-                "version_normalized": "dev-563--associate-text-to-button",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "f09e70e6b59d3bf2aff717bc239d5b2a579b9309"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/f09e70e6b59d3bf2aff717bc239d5b2a579b9309",
-                    "reference": "f09e70e6b59d3bf2aff717bc239d5b2a579b9309",
-                    "shasum": ""
-                },
-                "time": "2024-06-26T15:07:56+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/563--associate-text-to-button"
                 }
             },
             {
