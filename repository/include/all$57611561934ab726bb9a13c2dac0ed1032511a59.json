@@ -1180,6 +1180,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
+            "dev-564--reflow-subscribe-description": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-564--reflow-subscribe-description",
+                "version_normalized": "dev-564--reflow-subscribe-description",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "7bdf414ec5e8a835e29968e46dbe02a44709d093"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/7bdf414ec5e8a835e29968e46dbe02a44709d093",
+                    "reference": "7bdf414ec5e8a835e29968e46dbe02a44709d093",
+                    "shasum": ""
+                },
+                "time": "2024-06-27T17:15:22+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/564--reflow-subscribe-description"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
