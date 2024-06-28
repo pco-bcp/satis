@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "a28d9c3525e9d448473baaee003b2aacac3fcad5"
+                    "reference": "2492af19f7b97537fc3905cc7fa486220520f95a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/a28d9c3525e9d448473baaee003b2aacac3fcad5",
-                    "reference": "a28d9c3525e9d448473baaee003b2aacac3fcad5",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/2492af19f7b97537fc3905cc7fa486220520f95a",
+                    "reference": "2492af19f7b97537fc3905cc7fa486220520f95a",
                     "shasum": ""
                 },
-                "time": "2024-06-27T19:01:53+00:00",
+                "time": "2024-06-28T15:10:54+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-555--header-banner-fix",
-                "version_normalized": "dev-555--header-banner-fix",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "bf21e115cff046abce0069b317e054f590cab75c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/bf21e115cff046abce0069b317e054f590cab75c",
-                    "reference": "bf21e115cff046abce0069b317e054f590cab75c",
-                    "shasum": ""
-                },
-                "time": "2024-06-27T19:50:46+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/555--header-banner-fix"
                 }
             },
             {
