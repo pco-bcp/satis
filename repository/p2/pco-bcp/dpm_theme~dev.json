@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-567-city-field-not-lined-up-2024-06-28",
+                "version_normalized": "dev-567-city-field-not-lined-up-2024-06-28",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "10e046a987c8b8f9b29b0a85feb033c36804d4a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/10e046a987c8b8f9b29b0a85feb033c36804d4a3",
+                    "reference": "10e046a987c8b8f9b29b0a85feb033c36804d4a3",
+                    "shasum": ""
+                },
+                "time": "2024-06-28T17:42:21+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/567-city-field-not-lined-up-2024-06-28"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
