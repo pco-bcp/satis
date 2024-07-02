@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "2492af19f7b97537fc3905cc7fa486220520f95a"
+                    "reference": "93fb4424990fd418eb8a1ff5d6016efef8ec3ab6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/2492af19f7b97537fc3905cc7fa486220520f95a",
-                    "reference": "2492af19f7b97537fc3905cc7fa486220520f95a",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/93fb4424990fd418eb8a1ff5d6016efef8ec3ab6",
+                    "reference": "93fb4424990fd418eb8a1ff5d6016efef8ec3ab6",
                     "shasum": ""
                 },
-                "time": "2024-06-28T15:10:54+00:00",
+                "time": "2024-07-02T15:44:33+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-567-city-field-not-lined-up-2024-06-28",
-                "version_normalized": "dev-567-city-field-not-lined-up-2024-06-28",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "8643038bb70af51be3a847b5f1b62bfe16d91bd3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/8643038bb70af51be3a847b5f1b62bfe16d91bd3",
-                    "reference": "8643038bb70af51be3a847b5f1b62bfe16d91bd3",
-                    "shasum": ""
-                },
-                "time": "2024-07-02T15:21:43+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/567-city-field-not-lined-up-2024-06-28"
                 }
             },
             {
