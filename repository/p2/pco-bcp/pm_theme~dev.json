@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "eb97f4bb00f471d0205309e4585706a5c9024acf"
+                    "reference": "302c83cb06df325c63c4ced923c06966ce611ba5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/eb97f4bb00f471d0205309e4585706a5c9024acf",
-                    "reference": "eb97f4bb00f471d0205309e4585706a5c9024acf",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/302c83cb06df325c63c4ced923c06966ce611ba5",
+                    "reference": "302c83cb06df325c63c4ced923c06966ce611ba5",
                     "shasum": ""
                 },
-                "time": "2024-06-28T21:06:36+00:00",
+                "time": "2024-07-02T19:51:33+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -225,31 +225,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/351-astrix-not-accessible-2024-05-09"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-353--fix-greetings_webform-for-screen-reader-2024-06-04",
-                "version_normalized": "dev-353--fix-greetings_webform-for-screen-reader-2024-06-04",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "17f1b7221972271ee6594ec46035b0befc3f63ce"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/17f1b7221972271ee6594ec46035b0befc3f63ce",
-                    "reference": "17f1b7221972271ee6594ec46035b0befc3f63ce",
-                    "shasum": ""
-                },
-                "time": "2024-06-24T15:43:07+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/353--fix-greetings_webform-for-screen-reader-2024-06-04"
                 }
             },
             {

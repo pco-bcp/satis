@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "baca97d10da9d2ef90adeeef37e5988441474930"
+                    "reference": "3a38ed5c539502571540d10a48ca0271ea4596b1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/baca97d10da9d2ef90adeeef37e5988441474930",
-                    "reference": "baca97d10da9d2ef90adeeef37e5988441474930",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/3a38ed5c539502571540d10a48ca0271ea4596b1",
+                    "reference": "3a38ed5c539502571540d10a48ca0271ea4596b1",
                     "shasum": ""
                 },
-                "time": "2024-06-25T14:52:37+00:00",
+                "time": "2024-07-02T19:50:53+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -325,31 +325,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-ckeditor"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-353--fix-greetings_webform-for-screen-reader-2024-06-04",
-                "version_normalized": "dev-353--fix-greetings_webform-for-screen-reader-2024-06-04",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "713dbe31408c2fc96fe3cd9416573fd6f35e56fb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/713dbe31408c2fc96fe3cd9416573fd6f35e56fb",
-                    "reference": "713dbe31408c2fc96fe3cd9416573fd6f35e56fb",
-                    "shasum": ""
-                },
-                "time": "2024-06-28T17:30:38+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/353--fix-greetings_webform-for-screen-reader-2024-06-04"
                 }
             },
             {
