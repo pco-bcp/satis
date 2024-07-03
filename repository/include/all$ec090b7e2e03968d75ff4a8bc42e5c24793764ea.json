@@ -7484,6 +7484,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/310-add-transcript-heading-to-video-page-2024-06-24"
                 }
             },
+            "dev-324-remove-tooltip-2024-07-03": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-324-remove-tooltip-2024-07-03",
+                "version_normalized": "dev-324-remove-tooltip-2024-07-03",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "38e9ae5b50660dc5ef0dab86020fdda5464f805b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/38e9ae5b50660dc5ef0dab86020fdda5464f805b",
+                    "reference": "38e9ae5b50660dc5ef0dab86020fdda5464f805b",
+                    "shasum": ""
+                },
+                "time": "2024-07-03T20:08:39+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/324-remove-tooltip-2024-07-03"
+                }
+            },
             "dev-333-main-menu-item-has-invisible-focus-2024-05-21": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-333-main-menu-item-has-invisible-focus-2024-05-21",
