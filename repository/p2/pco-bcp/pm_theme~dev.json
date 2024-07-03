@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "302c83cb06df325c63c4ced923c06966ce611ba5"
+                    "reference": "ea4cf2cfc2e2c14d012800aef6c8bd03130340fa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/302c83cb06df325c63c4ced923c06966ce611ba5",
-                    "reference": "302c83cb06df325c63c4ced923c06966ce611ba5",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ea4cf2cfc2e2c14d012800aef6c8bd03130340fa",
+                    "reference": "ea4cf2cfc2e2c14d012800aef6c8bd03130340fa",
                     "shasum": ""
                 },
-                "time": "2024-07-02T19:51:33+00:00",
+                "time": "2024-07-03T15:34:53+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -275,31 +275,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-354-remove-tooltip-2024-06-26",
-                "version_normalized": "dev-354-remove-tooltip-2024-06-26",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b64560349ddfd553990dec9a689753ab9fd3602c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b64560349ddfd553990dec9a689753ab9fd3602c",
-                    "reference": "b64560349ddfd553990dec9a689753ab9fd3602c",
-                    "shasum": ""
-                },
-                "time": "2024-06-26T17:03:46+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/354-remove-tooltip-2024-06-26"
                 }
             },
             {
