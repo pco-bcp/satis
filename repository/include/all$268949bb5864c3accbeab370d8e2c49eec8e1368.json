@@ -7340,15 +7340,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ea4cf2cfc2e2c14d012800aef6c8bd03130340fa"
+                    "reference": "dc18a1ab62a405f09fa9e3e112f81ba1226fefdd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ea4cf2cfc2e2c14d012800aef6c8bd03130340fa",
-                    "reference": "ea4cf2cfc2e2c14d012800aef6c8bd03130340fa",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/dc18a1ab62a405f09fa9e3e112f81ba1226fefdd",
+                    "reference": "dc18a1ab62a405f09fa9e3e112f81ba1226fefdd",
                     "shasum": ""
                 },
-                "time": "2024-07-03T15:34:53+00:00",
+                "time": "2024-07-03T20:51:18+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -7457,31 +7457,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/310-add-transcript-heading-to-video-page-2024-06-11"
-                }
-            },
-            "dev-310-add-transcript-heading-to-video-page-2024-06-24": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-310-add-transcript-heading-to-video-page-2024-06-24",
-                "version_normalized": "dev-310-add-transcript-heading-to-video-page-2024-06-24",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e27b49c00fbdd0e524426126b7837945d8967e34"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e27b49c00fbdd0e524426126b7837945d8967e34",
-                    "reference": "e27b49c00fbdd0e524426126b7837945d8967e34",
-                    "shasum": ""
-                },
-                "time": "2024-06-24T20:14:43+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/310-add-transcript-heading-to-video-page-2024-06-24"
                 }
             },
             "dev-324-remove-tooltip-2024-07-03": {
