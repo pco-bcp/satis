@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "dc18a1ab62a405f09fa9e3e112f81ba1226fefdd"
+                    "reference": "f9c578f0b0bebffbdd6c217a2066f2c4fa894b4e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/dc18a1ab62a405f09fa9e3e112f81ba1226fefdd",
-                    "reference": "dc18a1ab62a405f09fa9e3e112f81ba1226fefdd",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f9c578f0b0bebffbdd6c217a2066f2c4fa894b4e",
+                    "reference": "f9c578f0b0bebffbdd6c217a2066f2c4fa894b4e",
                     "shasum": ""
                 },
-                "time": "2024-07-03T20:51:18+00:00",
+                "time": "2024-07-04T15:26:43+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -150,31 +150,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/310-add-transcript-heading-to-video-page-2024-06-11"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-324-remove-tooltip-2024-07-03",
-                "version_normalized": "dev-324-remove-tooltip-2024-07-03",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "c677664e9515a79df897879f9f9640346436987c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c677664e9515a79df897879f9f9640346436987c",
-                    "reference": "c677664e9515a79df897879f9f9640346436987c",
-                    "shasum": ""
-                },
-                "time": "2024-07-04T15:18:16+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/324-remove-tooltip-2024-07-03"
                 }
             },
             {
