@@ -4295,12 +4295,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "6b904782bc168a6a8c323713b115384374321da9"
+                    "reference": "b9fcd9ed049398fd957371510461e9d8b4c83caa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/6b904782bc168a6a8c323713b115384374321da9",
-                    "reference": "6b904782bc168a6a8c323713b115384374321da9",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/b9fcd9ed049398fd957371510461e9d8b4c83caa",
+                    "reference": "b9fcd9ed049398fd957371510461e9d8b4c83caa",
                     "shasum": ""
                 },
                 "require": {
@@ -4358,7 +4358,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2024-07-02T20:07:25+00:00",
+                "time": "2024-07-04T12:24:50+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
