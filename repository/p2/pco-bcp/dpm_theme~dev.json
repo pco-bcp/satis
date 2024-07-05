@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-324--remove-tooltips",
+                "version_normalized": "dev-324--remove-tooltips",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "39dfb0caa225320e1ecb9da7832c027f926df229"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/39dfb0caa225320e1ecb9da7832c027f926df229",
+                    "reference": "39dfb0caa225320e1ecb9da7832c027f926df229",
+                    "shasum": ""
+                },
+                "time": "2024-07-05T13:08:32+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/324--remove-tooltips"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-476-form-errors-theme",
                 "version_normalized": "dev-476-form-errors-theme",
                 "source": {
