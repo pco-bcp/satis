@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "396dbe5bf4608d35c08c94e5cc7f309ef340ded2"
+                    "reference": "317174fcba6e048138069f259a001d9ee5d20d06"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/396dbe5bf4608d35c08c94e5cc7f309ef340ded2",
-                    "reference": "396dbe5bf4608d35c08c94e5cc7f309ef340ded2",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/317174fcba6e048138069f259a001d9ee5d20d06",
+                    "reference": "317174fcba6e048138069f259a001d9ee5d20d06",
                     "shasum": ""
                 },
-                "time": "2024-07-05T12:57:41+00:00",
+                "time": "2024-07-05T19:00:14+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-324--remove-tooltips",
-                "version_normalized": "dev-324--remove-tooltips",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "39dfb0caa225320e1ecb9da7832c027f926df229"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/39dfb0caa225320e1ecb9da7832c027f926df229",
-                    "reference": "39dfb0caa225320e1ecb9da7832c027f926df229",
-                    "shasum": ""
-                },
-                "time": "2024-07-05T13:08:32+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/324--remove-tooltips"
                 }
             },
             {
