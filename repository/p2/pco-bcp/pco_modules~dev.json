@@ -329,6 +329,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-357--contact-webform-validation-errors-2024-07-04",
+                "version_normalized": "dev-357--contact-webform-validation-errors-2024-07-04",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "2dfedad10ea67e6c6be4313026e6f73c00ef956f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2dfedad10ea67e6c6be4313026e6f73c00ef956f",
+                    "reference": "2dfedad10ea67e6c6be4313026e6f73c00ef956f",
+                    "shasum": ""
+                },
+                "time": "2024-07-05T21:09:21+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/357--contact-webform-validation-errors-2024-07-04"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-375-add-cke5-generated-custom-plugins-2024-05-03",
                 "version_normalized": "dev-375-add-cke5-generated-custom-plugins-2024-05-03",
                 "source": {
