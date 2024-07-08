@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "317174fcba6e048138069f259a001d9ee5d20d06"
+                    "reference": "a15cd9d8f24616e3834f9a60a44155c57e1f2f1d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/317174fcba6e048138069f259a001d9ee5d20d06",
-                    "reference": "317174fcba6e048138069f259a001d9ee5d20d06",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/a15cd9d8f24616e3834f9a60a44155c57e1f2f1d",
+                    "reference": "a15cd9d8f24616e3834f9a60a44155c57e1f2f1d",
                     "shasum": ""
                 },
-                "time": "2024-07-05T19:00:14+00:00",
+                "time": "2024-07-08T15:42:38+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -75,31 +75,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/476-form-errors-theme"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-572--cheveron-select-field-fix",
-                "version_normalized": "dev-572--cheveron-select-field-fix",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "99583a0e44a44453db95dbb5ebe72182f7d2a528"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/99583a0e44a44453db95dbb5ebe72182f7d2a528",
-                    "reference": "99583a0e44a44453db95dbb5ebe72182f7d2a528",
-                    "shasum": ""
-                },
-                "time": "2024-07-03T17:28:38+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/572--cheveron-select-field-fix"
                 }
             },
             {
