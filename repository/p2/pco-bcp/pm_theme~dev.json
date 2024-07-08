@@ -259,22 +259,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "f9c578f0b0bebffbdd6c217a2066f2c4fa894b4e"
+                    "reference": "74e9ca56a6c9daef0ec9f3c44e4d73e451a6f340"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f9c578f0b0bebffbdd6c217a2066f2c4fa894b4e",
-                    "reference": "f9c578f0b0bebffbdd6c217a2066f2c4fa894b4e",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/74e9ca56a6c9daef0ec9f3c44e4d73e451a6f340",
+                    "reference": "74e9ca56a6c9daef0ec9f3c44e4d73e451a6f340",
                     "shasum": ""
                 },
-                "time": "2024-07-04T15:26:43+00:00",
+                "time": "2024-07-08T14:39:25+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/571-fix-wrapping-text-that-has-manditory-star-2024-07-08"
                 }
             },
             {
