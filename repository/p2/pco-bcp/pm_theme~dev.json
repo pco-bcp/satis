@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ce1407a77f2f9a1b5597d0f4154f17a3aa14ee63"
+                    "reference": "de6a2350945bc4e9ad547722bcc8175bad0a2fa9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ce1407a77f2f9a1b5597d0f4154f17a3aa14ee63",
-                    "reference": "ce1407a77f2f9a1b5597d0f4154f17a3aa14ee63",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/de6a2350945bc4e9ad547722bcc8175bad0a2fa9",
+                    "reference": "de6a2350945bc4e9ad547722bcc8175bad0a2fa9",
                     "shasum": ""
                 },
-                "time": "2024-07-10T16:39:05+00:00",
+                "time": "2024-07-10T16:55:37+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -275,31 +275,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/357--fix-error-messages-website-feedback-2024-07-08"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-572--cheveron-select-field-fix",
-                "version_normalized": "dev-572--cheveron-select-field-fix",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "fd8c2d5a638cb03c074721772d4e654813ec1356"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/fd8c2d5a638cb03c074721772d4e654813ec1356",
-                    "reference": "fd8c2d5a638cb03c074721772d4e654813ec1356",
-                    "shasum": ""
-                },
-                "time": "2024-07-08T17:21:40+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/572--cheveron-select-field-fix"
                 }
             },
             {
