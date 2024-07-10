@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "a15cd9d8f24616e3834f9a60a44155c57e1f2f1d"
+                    "reference": "79de6227f1ef912bb089d198e74b733f58a1126f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/a15cd9d8f24616e3834f9a60a44155c57e1f2f1d",
-                    "reference": "a15cd9d8f24616e3834f9a60a44155c57e1f2f1d",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/79de6227f1ef912bb089d198e74b733f58a1126f",
+                    "reference": "79de6227f1ef912bb089d198e74b733f58a1126f",
                     "shasum": ""
                 },
-                "time": "2024-07-08T15:42:38+00:00",
+                "time": "2024-07-10T14:05:45+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -75,31 +75,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/476-form-errors-theme"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-571--fix-long-text-with-star",
-                "version_normalized": "dev-571--fix-long-text-with-star",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "3af5fa119a2c8324a5c56b023dd021656a3a56e6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/3af5fa119a2c8324a5c56b023dd021656a3a56e6",
-                    "reference": "3af5fa119a2c8324a5c56b023dd021656a3a56e6",
-                    "shasum": ""
-                },
-                "time": "2024-07-08T22:23:04+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/571--fix-long-text-with-star"
                 }
             },
             {
