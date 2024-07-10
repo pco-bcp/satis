@@ -1205,6 +1205,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/476-form-errors-theme"
                 }
             },
+            "dev-476-webform-errors": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-476-webform-errors",
+                "version_normalized": "dev-476-webform-errors",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "70d2f3dcd7fc864d1933ed50de2c2d45fc242967"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/70d2f3dcd7fc864d1933ed50de2c2d45fc242967",
+                    "reference": "70d2f3dcd7fc864d1933ed50de2c2d45fc242967",
+                    "shasum": ""
+                },
+                "time": "2024-07-10T17:47:45+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/476-webform-errors"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
