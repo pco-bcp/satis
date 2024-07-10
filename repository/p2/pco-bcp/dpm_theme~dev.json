@@ -79,6 +79,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-571--fix-long-text-with-star",
+                "version_normalized": "dev-571--fix-long-text-with-star",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "3af5fa119a2c8324a5c56b023dd021656a3a56e6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/3af5fa119a2c8324a5c56b023dd021656a3a56e6",
+                    "reference": "3af5fa119a2c8324a5c56b023dd021656a3a56e6",
+                    "shasum": ""
+                },
+                "time": "2024-07-08T22:23:04+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/571--fix-long-text-with-star"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
