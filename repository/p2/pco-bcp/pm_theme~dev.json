@@ -254,6 +254,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-357--fix-error-messages-website-feedback-2024-07-08",
+                "version_normalized": "dev-357--fix-error-messages-website-feedback-2024-07-08",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "b457929bce9cc9ccacfe877fdc5b5c8677955c1a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b457929bce9cc9ccacfe877fdc5b5c8677955c1a",
+                    "reference": "b457929bce9cc9ccacfe877fdc5b5c8677955c1a",
+                    "shasum": ""
+                },
+                "time": "2024-07-10T11:31:41+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/357--fix-error-messages-website-feedback-2024-07-08"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-571-fix-wrapping-text-that-has-manditory-star-2024-07-08",
                 "version_normalized": "dev-571-fix-wrapping-text-that-has-manditory-star-2024-07-08",
                 "source": {
