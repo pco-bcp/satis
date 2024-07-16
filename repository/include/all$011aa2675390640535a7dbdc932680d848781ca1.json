@@ -5402,15 +5402,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "3a38ed5c539502571540d10a48ca0271ea4596b1"
+                    "reference": "a53493a598175754451c8e5c70b7043df2226ee0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/3a38ed5c539502571540d10a48ca0271ea4596b1",
-                    "reference": "3a38ed5c539502571540d10a48ca0271ea4596b1",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a53493a598175754451c8e5c70b7043df2226ee0",
+                    "reference": "a53493a598175754451c8e5c70b7043df2226ee0",
                     "shasum": ""
                 },
-                "time": "2024-07-02T19:50:53+00:00",
+                "time": "2024-07-16T19:49:05+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -5694,31 +5694,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-ckeditor"
-                }
-            },
-            "dev-357--contact-webform-validation-errors-2024-07-04": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-357--contact-webform-validation-errors-2024-07-04",
-                "version_normalized": "dev-357--contact-webform-validation-errors-2024-07-04",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "9cca0c4abc8e78414a734c06bf005d5f2aa9a142"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/9cca0c4abc8e78414a734c06bf005d5f2aa9a142",
-                    "reference": "9cca0c4abc8e78414a734c06bf005d5f2aa9a142",
-                    "shasum": ""
-                },
-                "time": "2024-07-15T17:34:23+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/357--contact-webform-validation-errors-2024-07-04"
                 }
             },
             "dev-375-add-cke5-generated-custom-plugins-2024-05-03": {
