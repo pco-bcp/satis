@@ -6373,6 +6373,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.6"
                 }
             },
+            "2.0.7": {
+                "name": "pco-bcp/pm_modules",
+                "version": "2.0.7",
+                "version_normalized": "2.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "15673b1fb1c3a0dabba89792b9811e07e9ca0c64"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/15673b1fb1c3a0dabba89792b9811e07e9ca0c64",
+                    "reference": "15673b1fb1c3a0dabba89792b9811e07e9ca0c64",
+                    "shasum": ""
+                },
+                "time": "2024-06-25T20:42:06+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.7"
+                }
+            },
             "2.x-dev": {
                 "name": "pco-bcp/pm_modules",
                 "version": "2.x-dev",
@@ -6396,7 +6421,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.7"
                 }
             },
             "dev-222--pm-cron-d-check": {
