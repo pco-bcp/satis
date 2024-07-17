@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "3d904b89e60a46956505c9e8a4c1dba1940c60e8"
+                    "reference": "f4333a2d768253d8f6dfba52d4076b11e212cdcf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/3d904b89e60a46956505c9e8a4c1dba1940c60e8",
-                    "reference": "3d904b89e60a46956505c9e8a4c1dba1940c60e8",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/f4333a2d768253d8f6dfba52d4076b11e212cdcf",
+                    "reference": "f4333a2d768253d8f6dfba52d4076b11e212cdcf",
                     "shasum": ""
                 },
-                "time": "2024-07-16T17:57:57+00:00",
+                "time": "2024-07-17T14:22:07+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-445-replace-font-bitter",
-                "version_normalized": "dev-445-replace-font-bitter",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "96d8ab76b02140601c298eb8e34d1343d416bfdd"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/96d8ab76b02140601c298eb8e34d1343d416bfdd",
-                    "reference": "96d8ab76b02140601c298eb8e34d1343d416bfdd",
-                    "shasum": ""
-                },
-                "time": "2024-07-17T13:47:53+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/445-replace-font-bitter"
                 }
             },
             {
