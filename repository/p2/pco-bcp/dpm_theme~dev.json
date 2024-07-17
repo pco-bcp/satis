@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-355-adjust-block-of-err-messages",
+                "version_normalized": "dev-355-adjust-block-of-err-messages",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "b2395424196050c6c6cbfe4d4553c49f2bac7be9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/b2395424196050c6c6cbfe4d4553c49f2bac7be9",
+                    "reference": "b2395424196050c6c6cbfe4d4553c49f2bac7be9",
+                    "shasum": ""
+                },
+                "time": "2024-07-17T14:58:10+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/355-adjust-block-of-err-messages"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-476-form-errors-theme",
                 "version_normalized": "dev-476-form-errors-theme",
                 "source": {
