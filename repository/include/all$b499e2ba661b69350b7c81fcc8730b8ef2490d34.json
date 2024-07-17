@@ -7577,6 +7577,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/310-add-transcript-heading-to-video-page-2024-06-11"
                 }
             },
+            "dev-313--replace-font-bitter": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-313--replace-font-bitter",
+                "version_normalized": "dev-313--replace-font-bitter",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "179ba8f938b94b5a9e3cc7d75d377f48df75a997"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/179ba8f938b94b5a9e3cc7d75d377f48df75a997",
+                    "reference": "179ba8f938b94b5a9e3cc7d75d377f48df75a997",
+                    "shasum": ""
+                },
+                "time": "2024-07-17T13:30:48+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/313--replace-font-bitter"
+                }
+            },
             "dev-333-main-menu-item-has-invisible-focus-2024-05-21": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-333-main-menu-item-has-invisible-focus-2024-05-21",
