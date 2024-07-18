@@ -154,6 +154,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-311--fix-color-ratio-submit-button-2024-07-18",
+                "version_normalized": "dev-311--fix-color-ratio-submit-button-2024-07-18",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e7a0f1b853b75eced109cdef1a5aa8a7b633de6e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e7a0f1b853b75eced109cdef1a5aa8a7b633de6e",
+                    "reference": "e7a0f1b853b75eced109cdef1a5aa8a7b633de6e",
+                    "shasum": ""
+                },
+                "time": "2024-07-18T17:21:09+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/311--fix-color-ratio-submit-button-2024-07-18"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-333-main-menu-item-has-invisible-focus-2024-05-21",
                 "version_normalized": "dev-333-main-menu-item-has-invisible-focus-2024-05-21",
                 "source": {
