@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "20d62a636e79c1bc8d6d99e6dbd62533d0fb84ec"
+                    "reference": "6ec2e89147f06de6992c2f319fa4912b611c22dd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/20d62a636e79c1bc8d6d99e6dbd62533d0fb84ec",
-                    "reference": "20d62a636e79c1bc8d6d99e6dbd62533d0fb84ec",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/6ec2e89147f06de6992c2f319fa4912b611c22dd",
+                    "reference": "6ec2e89147f06de6992c2f319fa4912b611c22dd",
                     "shasum": ""
                 },
-                "time": "2024-07-17T15:06:24+00:00",
+                "time": "2024-07-19T17:41:47+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -49,32 +49,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.7"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-445--edit-heading-sizes",
-                "version_normalized": "dev-445--edit-heading-sizes",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "ceea0bd52464e3f64917830bbf5cc3f61dfbea70"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/ceea0bd52464e3f64917830bbf5cc3f61dfbea70",
-                    "reference": "ceea0bd52464e3f64917830bbf5cc3f61dfbea70",
-                    "shasum": ""
-                },
-                "time": "2024-07-19T17:07:31+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/445--edit-heading-sizes"
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
             {
