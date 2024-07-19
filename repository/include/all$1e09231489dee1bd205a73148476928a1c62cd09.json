@@ -7558,15 +7558,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "9d042bc83b6f803329ed179557e0202e2c34fec5"
+                    "reference": "4d399531b47f32edb04c1dd42640d9a854c018e4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9d042bc83b6f803329ed179557e0202e2c34fec5",
-                    "reference": "9d042bc83b6f803329ed179557e0202e2c34fec5",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4d399531b47f32edb04c1dd42640d9a854c018e4",
+                    "reference": "4d399531b47f32edb04c1dd42640d9a854c018e4",
                     "shasum": ""
                 },
-                "time": "2024-07-17T13:59:52+00:00",
+                "time": "2024-07-19T14:57:20+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -7574,7 +7574,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.12"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
@@ -7675,31 +7675,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/310-add-transcript-heading-to-video-page-2024-06-11"
-                }
-            },
-            "dev-311--fix-color-ratio-submit-button-2024-07-18": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-311--fix-color-ratio-submit-button-2024-07-18",
-                "version_normalized": "dev-311--fix-color-ratio-submit-button-2024-07-18",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "56f87871654a3874a28af4e0f5a6439f03ce8b1a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/56f87871654a3874a28af4e0f5a6439f03ce8b1a",
-                    "reference": "56f87871654a3874a28af4e0f5a6439f03ce8b1a",
-                    "shasum": ""
-                },
-                "time": "2024-07-19T14:53:19+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/311--fix-color-ratio-submit-button-2024-07-18"
                 }
             },
             "dev-333-main-menu-item-has-invisible-focus-2024-05-21": {
