@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "821036e827c0c46dffebe72489872278f7f9a056"
+                    "reference": "e3aa61fc98afc85b6c0e360d61824acde879085e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/821036e827c0c46dffebe72489872278f7f9a056",
-                    "reference": "821036e827c0c46dffebe72489872278f7f9a056",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e3aa61fc98afc85b6c0e360d61824acde879085e",
+                    "reference": "e3aa61fc98afc85b6c0e360d61824acde879085e",
                     "shasum": ""
                 },
-                "time": "2024-07-19T15:06:47+00:00",
+                "time": "2024-07-19T16:59:18+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -300,31 +300,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/545--fix-french-accents-drupal-message-when-sending-forms"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-587--fix-transcript-title-with-sup_tags-2024-07-19",
-                "version_normalized": "dev-587--fix-transcript-title-with-sup_tags-2024-07-19",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "5d8fa581b1e93c57a3bd4dfeb2afdc9070ee0be9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5d8fa581b1e93c57a3bd4dfeb2afdc9070ee0be9",
-                    "reference": "5d8fa581b1e93c57a3bd4dfeb2afdc9070ee0be9",
-                    "shasum": ""
-                },
-                "time": "2024-07-19T16:16:23+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/587--fix-transcript-title-with-sup_tags-2024-07-19"
                 }
             },
             {
