@@ -304,6 +304,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-587--fix-transcript-title-with-sup_tags-2024-07-19",
+                "version_normalized": "dev-587--fix-transcript-title-with-sup_tags-2024-07-19",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "5d8fa581b1e93c57a3bd4dfeb2afdc9070ee0be9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5d8fa581b1e93c57a3bd4dfeb2afdc9070ee0be9",
+                    "reference": "5d8fa581b1e93c57a3bd4dfeb2afdc9070ee0be9",
+                    "shasum": ""
+                },
+                "time": "2024-07-19T16:16:23+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/587--fix-transcript-title-with-sup_tags-2024-07-19"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
                 "version_normalized": "dev-99-es6-conversion-for-pm_photo",
                 "source": {
