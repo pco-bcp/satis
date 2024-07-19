@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4d399531b47f32edb04c1dd42640d9a854c018e4"
+                    "reference": "1983df510a8eba58af68b3e900b2df6e4e2f1ce0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4d399531b47f32edb04c1dd42640d9a854c018e4",
-                    "reference": "4d399531b47f32edb04c1dd42640d9a854c018e4",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1983df510a8eba58af68b3e900b2df6e4e2f1ce0",
+                    "reference": "1983df510a8eba58af68b3e900b2df6e4e2f1ce0",
                     "shasum": ""
                 },
-                "time": "2024-07-19T14:57:20+00:00",
+                "time": "2024-07-19T17:03:57+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -150,31 +150,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/310-add-transcript-heading-to-video-page-2024-06-11"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-313--replace-font-bitter",
-                "version_normalized": "dev-313--replace-font-bitter",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "aaf8b184b3f6c62f0a27f819d35ccf3173a00f0b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/aaf8b184b3f6c62f0a27f819d35ccf3173a00f0b",
-                    "reference": "aaf8b184b3f6c62f0a27f819d35ccf3173a00f0b",
-                    "shasum": ""
-                },
-                "time": "2024-07-19T15:24:53+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/313--replace-font-bitter"
                 }
             },
             {
