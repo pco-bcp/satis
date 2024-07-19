@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "15673b1fb1c3a0dabba89792b9811e07e9ca0c64"
+                    "reference": "821036e827c0c46dffebe72489872278f7f9a056"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/15673b1fb1c3a0dabba89792b9811e07e9ca0c64",
-                    "reference": "15673b1fb1c3a0dabba89792b9811e07e9ca0c64",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/821036e827c0c46dffebe72489872278f7f9a056",
+                    "reference": "821036e827c0c46dffebe72489872278f7f9a056",
                     "shasum": ""
                 },
-                "time": "2024-06-25T20:42:06+00:00",
+                "time": "2024-07-19T15:06:47+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.7"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
                 }
             },
             {
@@ -250,31 +250,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/23--fix-drupal-check-issues-in-pm_modules-2023-11-16"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-310-add-style-for-transcript-header-2024-07-19",
-                "version_normalized": "dev-310-add-style-for-transcript-header-2024-07-19",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "c186aa56ac4eb9b0c3e1937cc0ae21c907652ac6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c186aa56ac4eb9b0c3e1937cc0ae21c907652ac6",
-                    "reference": "c186aa56ac4eb9b0c3e1937cc0ae21c907652ac6",
-                    "shasum": ""
-                },
-                "time": "2024-07-19T13:45:31+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/310-add-style-for-transcript-header-2024-07-19"
                 }
             },
             {
