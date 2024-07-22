@@ -330,6 +330,28 @@
                     "GPL-2.0+"
                 ],
                 "description": "DPM Theme"
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
+                "version": "2.0.8",
+                "version_normalized": "2.0.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "d3cbf1f67bfb543aeb6d009e0d74aaef1bb11673"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/d3cbf1f67bfb543aeb6d009e0d74aaef1bb11673",
+                    "reference": "d3cbf1f67bfb543aeb6d009e0d74aaef1bb11673",
+                    "shasum": ""
+                },
+                "time": "2024-07-22T18:03:23+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme"
             }
         ]
     }
