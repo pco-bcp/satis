@@ -329,6 +329,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-368--fix-searc-result-2024-07-22",
+                "version_normalized": "dev-368--fix-searc-result-2024-07-22",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "1e3087e0327a4393ba8b9fceb472677c62a17ede"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1e3087e0327a4393ba8b9fceb472677c62a17ede",
+                    "reference": "1e3087e0327a4393ba8b9fceb472677c62a17ede",
+                    "shasum": ""
+                },
+                "time": "2024-07-22T12:49:47+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/368--fix-searc-result-2024-07-22"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-375-add-cke5-generated-custom-plugins-2024-05-03",
                 "version_normalized": "dev-375-add-cke5-generated-custom-plugins-2024-05-03",
                 "source": {
