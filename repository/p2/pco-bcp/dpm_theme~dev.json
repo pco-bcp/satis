@@ -104,6 +104,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-549--add-titles-to-confirmation-subscriber-pages-2024-07-22",
+                "version_normalized": "dev-549--add-titles-to-confirmation-subscriber-pages-2024-07-22",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "975ecbbfda9ebf52dc0648dbca317dafeb1b7255"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/975ecbbfda9ebf52dc0648dbca317dafeb1b7255",
+                    "reference": "975ecbbfda9ebf52dc0648dbca317dafeb1b7255",
+                    "shasum": ""
+                },
+                "time": "2024-07-22T17:46:22+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/549--add-titles-to-confirmation-subscriber-pages-2024-07-22"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
