@@ -164,10 +164,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 8 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1.0.0"
-                }
+                "description": "Project template for Drupal 8 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -331,10 +328,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 8 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1.1.0"
-                }
+                "description": "Project template for Drupal 8 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -516,10 +510,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.0.0"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -727,10 +718,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.1.0"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -928,10 +916,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.2.0"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -1093,10 +1078,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.4.0"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -1258,10 +1240,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.4.1"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -1422,10 +1401,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.4.2"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -1586,10 +1562,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.4.3"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -1747,10 +1720,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.0"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -1908,10 +1878,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.1"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -2082,10 +2049,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.10"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -2260,10 +2224,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.11"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -2438,10 +2399,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.12"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -2616,10 +2574,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.14"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -2794,10 +2749,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.14"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -2972,10 +2924,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.15"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -3150,10 +3099,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.16"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -3328,10 +3274,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.17"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -3506,10 +3449,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.18"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -3684,10 +3624,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.19"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -3857,10 +3794,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.2"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -4035,10 +3969,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.20"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -4213,10 +4144,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.21"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -4391,10 +4319,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.22"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -4569,10 +4494,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.23"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -4747,10 +4669,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.24"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -4925,10 +4844,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.25"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -5103,10 +5019,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.26"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -5281,10 +5194,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.27"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -5459,10 +5369,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.28"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -5637,10 +5544,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.30"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -5810,10 +5714,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.3"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -5988,10 +5889,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.30"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -6166,10 +6064,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.34"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -6344,10 +6239,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.34"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -6522,10 +6414,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.34"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -6700,10 +6589,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.34"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -6878,10 +6764,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.35"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -7056,10 +6939,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.36"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -7234,10 +7114,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.37"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -7412,10 +7289,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.38"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -7590,10 +7464,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.39"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -7763,10 +7634,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.4"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -7941,10 +7809,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.40"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -8119,10 +7984,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.41"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -8297,10 +8159,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.42"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -8475,10 +8334,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.43"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -8653,10 +8509,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.44"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -8831,10 +8684,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.45"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -9009,10 +8859,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.46"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -9187,10 +9034,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.47"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -9365,10 +9209,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.48"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -9543,10 +9384,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.49"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -9716,10 +9554,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.5"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -9894,10 +9729,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.50"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -10072,10 +9904,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.51"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -10250,10 +10079,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.52"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -10428,10 +10254,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.53"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -10606,10 +10429,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.54"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -10784,10 +10604,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.55"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -10962,10 +10779,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.56"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -11140,10 +10954,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.57"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -11313,10 +11124,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.6"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -11486,10 +11294,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.7"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -11659,10 +11464,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.8"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
@@ -11832,10 +11634,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.9"
-                }
+                "description": "Project template for Drupal 9 sites built with the WxT distribution."
             }
         ]
     }
