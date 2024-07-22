@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a53493a598175754451c8e5c70b7043df2226ee0"
+                    "reference": "7ed6aa0a589ea5d84a6422527ca1f7729eae7889"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a53493a598175754451c8e5c70b7043df2226ee0",
-                    "reference": "a53493a598175754451c8e5c70b7043df2226ee0",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7ed6aa0a589ea5d84a6422527ca1f7729eae7889",
+                    "reference": "7ed6aa0a589ea5d84a6422527ca1f7729eae7889",
                     "shasum": ""
                 },
-                "time": "2024-07-16T19:49:05+00:00",
+                "time": "2024-07-22T13:43:42+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.7"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
                 }
             },
             {
@@ -325,31 +325,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-ckeditor"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-368--fix-searc-result-2024-07-22",
-                "version_normalized": "dev-368--fix-searc-result-2024-07-22",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "1e3087e0327a4393ba8b9fceb472677c62a17ede"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1e3087e0327a4393ba8b9fceb472677c62a17ede",
-                    "reference": "1e3087e0327a4393ba8b9fceb472677c62a17ede",
-                    "shasum": ""
-                },
-                "time": "2024-07-22T12:49:47+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/368--fix-searc-result-2024-07-22"
                 }
             },
             {
