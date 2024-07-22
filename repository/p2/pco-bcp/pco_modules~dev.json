@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "7ed6aa0a589ea5d84a6422527ca1f7729eae7889"
+                    "reference": "fb4fac67b3be5ccd450ffbe2bdbbbb0bdda4b187"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7ed6aa0a589ea5d84a6422527ca1f7729eae7889",
-                    "reference": "7ed6aa0a589ea5d84a6422527ca1f7729eae7889",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/fb4fac67b3be5ccd450ffbe2bdbbbb0bdda4b187",
+                    "reference": "fb4fac67b3be5ccd450ffbe2bdbbbb0bdda4b187",
                     "shasum": ""
                 },
-                "time": "2024-07-22T13:43:42+00:00",
+                "time": "2024-07-22T18:00:38+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -350,31 +350,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/375-add-cke5-generated-custom-plugins-2024-05-03"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-549--add-titles-to-confirmation-subscriber-pages-2024-07-22",
-                "version_normalized": "dev-549--add-titles-to-confirmation-subscriber-pages-2024-07-22",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "1be4c9b59586a4854893ac5da61b4c4b9366ed77"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1be4c9b59586a4854893ac5da61b4c4b9366ed77",
-                    "reference": "1be4c9b59586a4854893ac5da61b4c4b9366ed77",
-                    "shasum": ""
-                },
-                "time": "2024-07-22T15:09:53+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/549--add-titles-to-confirmation-subscriber-pages-2024-07-22"
                 }
             },
             {
