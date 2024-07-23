@@ -21,7 +21,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Theme"
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/1.x"
+                }
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -44,7 +47,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Theme"
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.8"
+                }
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -66,7 +72,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Theme"
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/450--reorganized-page-landmarks"
+                }
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -88,7 +97,35 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Theme"
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/476-form-errors-theme"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-577--fix-main-menu-covering-content",
+                "version_normalized": "dev-577--fix-main-menu-covering-content",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "d43f3db703c5f7508a2f948fd09a2b20472b9849"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/d43f3db703c5f7508a2f948fd09a2b20472b9849",
+                    "reference": "d43f3db703c5f7508a2f948fd09a2b20472b9849",
+                    "shasum": ""
+                },
+                "time": "2024-07-23T15:28:25+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/577--fix-main-menu-covering-content"
+                }
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -110,7 +147,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Theme"
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/date-released-twig-display-timezone-2023-09-05"
+                }
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -132,7 +172,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Theme"
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/pco-bcp/dpm_theme--fix-indent-2023-08-30"
+                }
             }
         ]
     }

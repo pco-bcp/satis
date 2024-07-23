@@ -21,7 +21,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.0"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -43,7 +46,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.1"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -65,7 +71,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.10"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -87,7 +96,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.11"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -109,7 +121,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.1.0"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -131,7 +146,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.2"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -153,7 +171,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.3"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -175,7 +196,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.4"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -197,7 +221,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.5"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -219,7 +246,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.6"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -241,7 +271,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.7"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -263,7 +296,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.8"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -285,7 +321,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.0.9"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -307,7 +346,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.1.0"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -329,7 +371,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.0"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -351,7 +396,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.2"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -373,7 +421,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.2"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -395,7 +446,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.3"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -417,7 +471,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.5"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -439,7 +496,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.5"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -461,7 +521,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.6"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -483,7 +546,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.7"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -505,7 +571,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.8"
+                }
             }
         ]
     }
