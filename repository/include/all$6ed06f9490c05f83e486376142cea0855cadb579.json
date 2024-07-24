@@ -7658,15 +7658,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "f1e4646dd77742358aa93c4054592a64db1048f5"
+                    "reference": "d5a23e82f51f99d6b76b44088d33b61262df8b93"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f1e4646dd77742358aa93c4054592a64db1048f5",
-                    "reference": "f1e4646dd77742358aa93c4054592a64db1048f5",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d5a23e82f51f99d6b76b44088d33b61262df8b93",
+                    "reference": "d5a23e82f51f99d6b76b44088d33b61262df8b93",
                     "shasum": ""
                 },
-                "time": "2024-07-22T18:01:35+00:00",
+                "time": "2024-07-24T19:32:36+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -7674,7 +7674,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.13"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
@@ -7775,31 +7775,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/310-add-transcript-heading-to-video-page-2024-06-11"
-                }
-            },
-            "dev-323-restructure-top-level-landmarks": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-323-restructure-top-level-landmarks",
-                "version_normalized": "dev-323-restructure-top-level-landmarks",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "196cfb164f959367d803a81d56cf844878914a7b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/196cfb164f959367d803a81d56cf844878914a7b",
-                    "reference": "196cfb164f959367d803a81d56cf844878914a7b",
-                    "shasum": ""
-                },
-                "time": "2024-07-24T14:16:22+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/323-restructure-top-level-landmarks"
                 }
             },
             "dev-333-main-menu-item-has-invisible-focus-2024-05-21": {
