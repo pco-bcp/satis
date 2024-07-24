@@ -7777,6 +7777,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/310-add-transcript-heading-to-video-page-2024-06-11"
                 }
             },
+            "dev-323-restructure-top-level-landmarks": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-323-restructure-top-level-landmarks",
+                "version_normalized": "dev-323-restructure-top-level-landmarks",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "196cfb164f959367d803a81d56cf844878914a7b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/196cfb164f959367d803a81d56cf844878914a7b",
+                    "reference": "196cfb164f959367d803a81d56cf844878914a7b",
+                    "shasum": ""
+                },
+                "time": "2024-07-24T14:16:22+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/323-restructure-top-level-landmarks"
+                }
+            },
             "dev-333-main-menu-item-has-invisible-focus-2024-05-21": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-333-main-menu-item-has-invisible-focus-2024-05-21",
