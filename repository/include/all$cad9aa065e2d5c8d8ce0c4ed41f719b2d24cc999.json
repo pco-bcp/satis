@@ -1211,15 +1211,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "d3cbf1f67bfb543aeb6d009e0d74aaef1bb11673"
+                    "reference": "a63a72bab0c3ee2472eb951bc19ea067e1b3cd00"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/d3cbf1f67bfb543aeb6d009e0d74aaef1bb11673",
-                    "reference": "d3cbf1f67bfb543aeb6d009e0d74aaef1bb11673",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/a63a72bab0c3ee2472eb951bc19ea067e1b3cd00",
+                    "reference": "a63a72bab0c3ee2472eb951bc19ea067e1b3cd00",
                     "shasum": ""
                 },
-                "time": "2024-07-22T18:03:23+00:00",
+                "time": "2024-07-24T13:29:16+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -1227,32 +1227,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.8"
-                }
-            },
-            "dev-450--reorganized-page-landmarks": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-450--reorganized-page-landmarks",
-                "version_normalized": "dev-450--reorganized-page-landmarks",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "e42cffb1f92090fa8050f0762325231084a3d438"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/e42cffb1f92090fa8050f0762325231084a3d438",
-                    "reference": "e42cffb1f92090fa8050f0762325231084a3d438",
-                    "shasum": ""
-                },
-                "time": "2024-07-22T15:01:59+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/450--reorganized-page-landmarks"
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
             "dev-476-form-errors-theme": {
