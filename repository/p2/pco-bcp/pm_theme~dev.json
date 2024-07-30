@@ -279,6 +279,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-590--fix-access-denied-link-webform-2024-07-30",
+                "version_normalized": "dev-590--fix-access-denied-link-webform-2024-07-30",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "5c8eff21c21a142e4e6dcdea9e55f3a684c0b4dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5c8eff21c21a142e4e6dcdea9e55f3a684c0b4dc",
+                    "reference": "5c8eff21c21a142e4e6dcdea9e55f3a684c0b4dc",
+                    "shasum": ""
+                },
+                "time": "2024-07-30T14:14:02+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/590--fix-access-denied-link-webform-2024-07-30"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
