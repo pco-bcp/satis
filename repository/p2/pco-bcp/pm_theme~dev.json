@@ -254,6 +254,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-358--fix-wcag-screen-read-user-testing-greetings-2024-07-29",
+                "version_normalized": "dev-358--fix-wcag-screen-read-user-testing-greetings-2024-07-29",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "13bbb0522b2279e0f10afb01e311812e84ab6273"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/13bbb0522b2279e0f10afb01e311812e84ab6273",
+                    "reference": "13bbb0522b2279e0f10afb01e311812e84ab6273",
+                    "shasum": ""
+                },
+                "time": "2024-07-30T11:40:14+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/358--fix-wcag-screen-read-user-testing-greetings-2024-07-29"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
