@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d5a23e82f51f99d6b76b44088d33b61262df8b93"
+                    "reference": "aff183671dfd15e49dc970e3dd7afb8d3574b458"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d5a23e82f51f99d6b76b44088d33b61262df8b93",
-                    "reference": "d5a23e82f51f99d6b76b44088d33b61262df8b93",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/aff183671dfd15e49dc970e3dd7afb8d3574b458",
+                    "reference": "aff183671dfd15e49dc970e3dd7afb8d3574b458",
                     "shasum": ""
                 },
-                "time": "2024-07-24T19:32:36+00:00",
+                "time": "2024-07-30T16:00:45+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -275,31 +275,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/358--fix-wcag-screen-read-user-testing-greetings-2024-07-29"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-590--fix-access-denied-link-webform-2024-07-30",
-                "version_normalized": "dev-590--fix-access-denied-link-webform-2024-07-30",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "5c8eff21c21a142e4e6dcdea9e55f3a684c0b4dc"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5c8eff21c21a142e4e6dcdea9e55f3a684c0b4dc",
-                    "reference": "5c8eff21c21a142e4e6dcdea9e55f3a684c0b4dc",
-                    "shasum": ""
-                },
-                "time": "2024-07-30T14:14:02+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/590--fix-access-denied-link-webform-2024-07-30"
                 }
             },
             {
