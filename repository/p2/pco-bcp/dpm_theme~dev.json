@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "a63a72bab0c3ee2472eb951bc19ea067e1b3cd00"
+                    "reference": "3034a3b24bfc7eaaf159908a5a5db31d695eb77f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/a63a72bab0c3ee2472eb951bc19ea067e1b3cd00",
-                    "reference": "a63a72bab0c3ee2472eb951bc19ea067e1b3cd00",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/3034a3b24bfc7eaaf159908a5a5db31d695eb77f",
+                    "reference": "3034a3b24bfc7eaaf159908a5a5db31d695eb77f",
                     "shasum": ""
                 },
-                "time": "2024-07-24T13:29:16+00:00",
+                "time": "2024-07-31T12:53:30+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -100,31 +100,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/577--fix-main-menu-covering-content"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-590-add-node-html-twig-file-2024-07-30",
-                "version_normalized": "dev-590-add-node-html-twig-file-2024-07-30",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "62e46d2a686b7504b8112195c9dc741d820663ac"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/62e46d2a686b7504b8112195c9dc741d820663ac",
-                    "reference": "62e46d2a686b7504b8112195c9dc741d820663ac",
-                    "shasum": ""
-                },
-                "time": "2024-07-31T11:42:10+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/590-add-node-html-twig-file-2024-07-30"
                 }
             },
             {
