@@ -7927,6 +7927,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/358--fix-wcag-screen-read-user-testing-greetings-2024-07-29"
                 }
             },
+            "dev-590-add-override-access_denied-twig-file-2024-07-31": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-590-add-override-access_denied-twig-file-2024-07-31",
+                "version_normalized": "dev-590-add-override-access_denied-twig-file-2024-07-31",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "dac2cd096247e7875f70edf2091b6be57c423946"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/dac2cd096247e7875f70edf2091b6be57c423946",
+                    "reference": "dac2cd096247e7875f70edf2091b6be57c423946",
+                    "shasum": ""
+                },
+                "time": "2024-07-31T11:37:49+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/590-add-override-access_denied-twig-file-2024-07-31"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
