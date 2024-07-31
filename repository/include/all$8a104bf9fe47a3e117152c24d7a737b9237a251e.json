@@ -7658,15 +7658,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b4058cac7e47b379c855460b0a57c1b203306837"
+                    "reference": "8c6c50ab9c2869eef8600c54070599cb77619a1e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b4058cac7e47b379c855460b0a57c1b203306837",
-                    "reference": "b4058cac7e47b379c855460b0a57c1b203306837",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8c6c50ab9c2869eef8600c54070599cb77619a1e",
+                    "reference": "8c6c50ab9c2869eef8600c54070599cb77619a1e",
                     "shasum": ""
                 },
-                "time": "2024-07-31T12:50:57+00:00",
+                "time": "2024-07-31T17:22:02+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -7875,31 +7875,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
-            },
-            "dev-358--fix-wcag-screen-read-user-testing-greetings-2024-07-29": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-358--fix-wcag-screen-read-user-testing-greetings-2024-07-29",
-                "version_normalized": "dev-358--fix-wcag-screen-read-user-testing-greetings-2024-07-29",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "36137c9791c2cab33c0131514404fb55be682484"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/36137c9791c2cab33c0131514404fb55be682484",
-                    "reference": "36137c9791c2cab33c0131514404fb55be682484",
-                    "shasum": ""
-                },
-                "time": "2024-07-31T14:06:43+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/358--fix-wcag-screen-read-user-testing-greetings-2024-07-29"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
