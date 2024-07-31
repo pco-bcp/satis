@@ -1280,6 +1280,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/577--fix-main-menu-covering-content"
                 }
             },
+            "dev-593--fix-search-contrast-ratio-color-2024-07-31": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-593--fix-search-contrast-ratio-color-2024-07-31",
+                "version_normalized": "dev-593--fix-search-contrast-ratio-color-2024-07-31",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "eb3ef8208e2c5a43008886506d6adffd92bea01f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/eb3ef8208e2c5a43008886506d6adffd92bea01f",
+                    "reference": "eb3ef8208e2c5a43008886506d6adffd92bea01f",
+                    "shasum": ""
+                },
+                "time": "2024-07-31T18:50:50+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/593--fix-search-contrast-ratio-color-2024-07-31"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
