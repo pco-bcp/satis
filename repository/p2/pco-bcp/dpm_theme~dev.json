@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "3034a3b24bfc7eaaf159908a5a5db31d695eb77f"
+                    "reference": "66bb51b8a9c23d35b97a0e81693f7bcdf96febee"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/3034a3b24bfc7eaaf159908a5a5db31d695eb77f",
-                    "reference": "3034a3b24bfc7eaaf159908a5a5db31d695eb77f",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/66bb51b8a9c23d35b97a0e81693f7bcdf96febee",
+                    "reference": "66bb51b8a9c23d35b97a0e81693f7bcdf96febee",
                     "shasum": ""
                 },
-                "time": "2024-07-31T12:53:30+00:00",
+                "time": "2024-07-31T19:24:54+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -100,31 +100,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/577--fix-main-menu-covering-content"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-593--fix-search-contrast-ratio-color-2024-07-31",
-                "version_normalized": "dev-593--fix-search-contrast-ratio-color-2024-07-31",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "eb3ef8208e2c5a43008886506d6adffd92bea01f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/eb3ef8208e2c5a43008886506d6adffd92bea01f",
-                    "reference": "eb3ef8208e2c5a43008886506d6adffd92bea01f",
-                    "shasum": ""
-                },
-                "time": "2024-07-31T18:50:50+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/593--fix-search-contrast-ratio-color-2024-07-31"
                 }
             },
             {
