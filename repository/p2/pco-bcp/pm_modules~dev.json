@@ -254,6 +254,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-305-wcag-metatag",
+                "version_normalized": "dev-305-wcag-metatag",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "eb6bb0134ccfa60874c6823a4170824d47f62490"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/eb6bb0134ccfa60874c6823a4170824d47f62490",
+                    "reference": "eb6bb0134ccfa60874c6823a4170824d47f62490",
+                    "shasum": ""
+                },
+                "time": "2024-08-01T16:32:13+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/305-wcag-metatag"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-353--fixes-content_missed_screen_reader-webform_V2-2024-05-21",
                 "version_normalized": "dev-353--fixes-content_missed_screen_reader-webform_V2-2024-05-21",
                 "source": {
