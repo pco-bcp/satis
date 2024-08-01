@@ -7501,6 +7501,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.13"
                 }
             },
+            "2.0.14": {
+                "name": "pco-bcp/pm_theme",
+                "version": "2.0.14",
+                "version_normalized": "2.0.14.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e0ac6f7295c6d10655d71f9ca2e697562a513a78"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e0ac6f7295c6d10655d71f9ca2e697562a513a78",
+                    "reference": "e0ac6f7295c6d10655d71f9ca2e697562a513a78",
+                    "shasum": ""
+                },
+                "time": "2024-07-31T20:02:03+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.14"
+                }
+            },
             "2.0.2": {
                 "name": "pco-bcp/pm_theme",
                 "version": "2.0.2",
@@ -7724,7 +7749,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.14"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
