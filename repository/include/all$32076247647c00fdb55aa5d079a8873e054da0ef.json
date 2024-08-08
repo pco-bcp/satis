@@ -1236,15 +1236,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "66bb51b8a9c23d35b97a0e81693f7bcdf96febee"
+                    "reference": "c7e6ba502bdb2fb0bd84535531e661fffb6841a5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/66bb51b8a9c23d35b97a0e81693f7bcdf96febee",
-                    "reference": "66bb51b8a9c23d35b97a0e81693f7bcdf96febee",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/c7e6ba502bdb2fb0bd84535531e661fffb6841a5",
+                    "reference": "c7e6ba502bdb2fb0bd84535531e661fffb6841a5",
                     "shasum": ""
                 },
-                "time": "2024-07-31T19:24:54+00:00",
+                "time": "2024-08-08T20:46:31+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -1252,7 +1252,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.9"
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
             "dev-476-form-errors-theme": {
@@ -1303,31 +1303,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/577--fix-main-menu-covering-content"
-                }
-            },
-            "dev-595--fix-search-form-keyboard-accessibility-and-NVDA-2024-08-08": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-595--fix-search-form-keyboard-accessibility-and-NVDA-2024-08-08",
-                "version_normalized": "dev-595--fix-search-form-keyboard-accessibility-and-NVDA-2024-08-08",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "8eab0c930def8b3918e00712079ff32cb2e2458e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/8eab0c930def8b3918e00712079ff32cb2e2458e",
-                    "reference": "8eab0c930def8b3918e00712079ff32cb2e2458e",
-                    "shasum": ""
-                },
-                "time": "2024-08-08T20:16:30+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/595--fix-search-form-keyboard-accessibility-and-NVDA-2024-08-08"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
