@@ -1236,15 +1236,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "c7e6ba502bdb2fb0bd84535531e661fffb6841a5"
+                    "reference": "b1a8b120caa2318508c5e662ec42304df7587a24"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/c7e6ba502bdb2fb0bd84535531e661fffb6841a5",
-                    "reference": "c7e6ba502bdb2fb0bd84535531e661fffb6841a5",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/b1a8b120caa2318508c5e662ec42304df7587a24",
+                    "reference": "b1a8b120caa2318508c5e662ec42304df7587a24",
                     "shasum": ""
                 },
-                "time": "2024-08-08T20:46:31+00:00",
+                "time": "2024-08-15T20:54:54+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -1303,31 +1303,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/577--fix-main-menu-covering-content"
-                }
-            },
-            "dev-596-dcsearch-terms": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-596-dcsearch-terms",
-                "version_normalized": "dev-596-dcsearch-terms",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "4d8c17deb4d5fbe4f095e7adcce008f9d0e77aca"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/4d8c17deb4d5fbe4f095e7adcce008f9d0e77aca",
-                    "reference": "4d8c17deb4d5fbe4f095e7adcce008f9d0e77aca",
-                    "shasum": ""
-                },
-                "time": "2024-08-15T20:06:27+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/596-dcsearch-terms"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
