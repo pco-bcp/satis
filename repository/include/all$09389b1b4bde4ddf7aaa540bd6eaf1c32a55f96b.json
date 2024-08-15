@@ -7851,15 +7851,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "9afcbce90c0368800541ebf204773933dbc71d43"
+                    "reference": "1546501c3babc5af30a224a94256ccb1d69559ff"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9afcbce90c0368800541ebf204773933dbc71d43",
-                    "reference": "9afcbce90c0368800541ebf204773933dbc71d43",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1546501c3babc5af30a224a94256ccb1d69559ff",
+                    "reference": "1546501c3babc5af30a224a94256ccb1d69559ff",
                     "shasum": ""
                 },
-                "time": "2024-08-08T19:56:09+00:00",
+                "time": "2024-08-15T20:23:04+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -8068,31 +8068,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
-            },
-            "dev-596-dcsearch-terms": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-596-dcsearch-terms",
-                "version_normalized": "dev-596-dcsearch-terms",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "0b0966c0638d80ebac4d6c2f703ce796670dbe04"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0b0966c0638d80ebac4d6c2f703ce796670dbe04",
-                    "reference": "0b0966c0638d80ebac4d6c2f703ce796670dbe04",
-                    "shasum": ""
-                },
-                "time": "2024-08-15T19:57:31+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/596-dcsearch-terms"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
