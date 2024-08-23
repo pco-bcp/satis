@@ -5025,10 +5025,10 @@
                     "source": "https://github.com/pco-bcp/pco_cities/tree/7-phpcs-cleanup"
                 }
             },
-            "dev-pco-bcp/issues#185-new-challenges-module": {
+            "dev-pco-bcp/issues+185-new-challenges-module": {
                 "name": "pco-bcp/pco_cities",
-                "version": "dev-pco-bcp/issues#185-new-challenges-module",
-                "version_normalized": "dev-pco-bcp/issues#185-new-challenges-module",
+                "version": "dev-pco-bcp/issues+185-new-challenges-module",
+                "version_normalized": "dev-pco-bcp/issues+185-new-challenges-module",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
@@ -5946,15 +5946,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "621adac79c038229c16ca0911dee4168f8b46090"
+                    "reference": "21531b43c2a4c90b97cb13c1f6204578564ed9b3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/621adac79c038229c16ca0911dee4168f8b46090",
-                    "reference": "621adac79c038229c16ca0911dee4168f8b46090",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/21531b43c2a4c90b97cb13c1f6204578564ed9b3",
+                    "reference": "21531b43c2a4c90b97cb13c1f6204578564ed9b3",
                     "shasum": ""
                 },
-                "time": "2024-06-11T20:41:47+00:00",
+                "time": "2024-08-13T17:24:32+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -5989,10 +5989,10 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21"
                 }
             },
-            "dev-issues#161-customer-insights": {
+            "dev-issues+161-customer-insights": {
                 "name": "pco-bcp/pco_modules",
-                "version": "dev-issues#161-customer-insights",
-                "version_normalized": "dev-issues#161-customer-insights",
+                "version": "dev-issues+161-customer-insights",
+                "version_normalized": "dev-issues+161-customer-insights",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
@@ -6014,10 +6014,10 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/issues#161-customer-insights"
                 }
             },
-            "dev-pco-bcp/issues#23--fix-phpcs-issues-2023-11-16": {
+            "dev-pco-bcp/issues+23--fix-phpcs-issues-2023-11-16": {
                 "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-bcp/issues#23--fix-phpcs-issues-2023-11-16",
-                "version_normalized": "dev-pco-bcp/issues#23--fix-phpcs-issues-2023-11-16",
+                "version": "dev-pco-bcp/issues+23--fix-phpcs-issues-2023-11-16",
+                "version_normalized": "dev-pco-bcp/issues+23--fix-phpcs-issues-2023-11-16",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
@@ -26624,10 +26624,10 @@
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/issue-121"
                 }
             },
-            "dev-pco-bcp/asg-web#463--update-wxt-to-4.4.2-2023-03-06": {
+            "dev-pco-bcp/asg-web+463--update-wxt-to-4.4.2-2023-03-06": {
                 "name": "pco-bcp/site-pco-impactcanada",
-                "version": "dev-pco-bcp/asg-web#463--update-wxt-to-4.4.2-2023-03-06",
-                "version_normalized": "dev-pco-bcp/asg-web#463--update-wxt-to-4.4.2-2023-03-06",
+                "version": "dev-pco-bcp/asg-web+463--update-wxt-to-4.4.2-2023-03-06",
+                "version_normalized": "dev-pco-bcp/asg-web+463--update-wxt-to-4.4.2-2023-03-06",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
@@ -26786,10 +26786,10 @@
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/pco-bcp/asg-web#463--update-wxt-to-4.4.2-2023-03-06"
                 }
             },
-            "dev-pco-bcp/issues#180--new-module-for-challenges": {
+            "dev-pco-bcp/issues+180--new-module-for-challenges": {
                 "name": "pco-bcp/site-pco-impactcanada",
-                "version": "dev-pco-bcp/issues#180--new-module-for-challenges",
-                "version_normalized": "dev-pco-bcp/issues#180--new-module-for-challenges",
+                "version": "dev-pco-bcp/issues+180--new-module-for-challenges",
+                "version_normalized": "dev-pco-bcp/issues+180--new-module-for-challenges",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
@@ -26964,10 +26964,10 @@
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/pco-bcp/issues#180--new-module-for-challenges"
                 }
             },
-            "dev-pco-bcp/issues#180--new-module-install": {
+            "dev-pco-bcp/issues+180--new-module-install": {
                 "name": "pco-bcp/site-pco-impactcanada",
-                "version": "dev-pco-bcp/issues#180--new-module-install",
-                "version_normalized": "dev-pco-bcp/issues#180--new-module-install",
+                "version": "dev-pco-bcp/issues+180--new-module-install",
+                "version_normalized": "dev-pco-bcp/issues+180--new-module-install",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
@@ -27142,10 +27142,10 @@
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/pco-bcp/issues#180--new-module-install"
                 }
             },
-            "dev-pco-bcp/issues#23--testing-first-commit-by-mike-2023nov16": {
+            "dev-pco-bcp/issues+23--testing-first-commit-by-mike-2023nov16": {
                 "name": "pco-bcp/site-pco-impactcanada",
-                "version": "dev-pco-bcp/issues#23--testing-first-commit-by-mike-2023nov16",
-                "version_normalized": "dev-pco-bcp/issues#23--testing-first-commit-by-mike-2023nov16",
+                "version": "dev-pco-bcp/issues+23--testing-first-commit-by-mike-2023nov16",
+                "version_normalized": "dev-pco-bcp/issues+23--testing-first-commit-by-mike-2023nov16",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
@@ -27320,10 +27320,10 @@
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/pco-bcp/issues#23--testing-first-commit-by-mike-2023nov16"
                 }
             },
-            "dev-pco-bcp/issues#23--testing-first-commit-by-mike-2023nov3": {
+            "dev-pco-bcp/issues+23--testing-first-commit-by-mike-2023nov3": {
                 "name": "pco-bcp/site-pco-impactcanada",
-                "version": "dev-pco-bcp/issues#23--testing-first-commit-by-mike-2023nov3",
-                "version_normalized": "dev-pco-bcp/issues#23--testing-first-commit-by-mike-2023nov3",
+                "version": "dev-pco-bcp/issues+23--testing-first-commit-by-mike-2023nov3",
+                "version_normalized": "dev-pco-bcp/issues+23--testing-first-commit-by-mike-2023nov3",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
@@ -27498,10 +27498,10 @@
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/pco-bcp/issues#23--testing-first-commit-by-mike-2023nov3"
                 }
             },
-            "dev-pco-bcp/issues#9--add-role-by-ip-module-2023-09-19": {
+            "dev-pco-bcp/issues+9--add-role-by-ip-module-2023-09-19": {
                 "name": "pco-bcp/site-pco-impactcanada",
-                "version": "dev-pco-bcp/issues#9--add-role-by-ip-module-2023-09-19",
-                "version_normalized": "dev-pco-bcp/issues#9--add-role-by-ip-module-2023-09-19",
+                "version": "dev-pco-bcp/issues+9--add-role-by-ip-module-2023-09-19",
+                "version_normalized": "dev-pco-bcp/issues+9--add-role-by-ip-module-2023-09-19",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",

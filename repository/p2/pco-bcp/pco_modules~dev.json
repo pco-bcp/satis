@@ -359,15 +359,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "621adac79c038229c16ca0911dee4168f8b46090"
+                    "reference": "21531b43c2a4c90b97cb13c1f6204578564ed9b3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/621adac79c038229c16ca0911dee4168f8b46090",
-                    "reference": "621adac79c038229c16ca0911dee4168f8b46090",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/21531b43c2a4c90b97cb13c1f6204578564ed9b3",
+                    "reference": "21531b43c2a4c90b97cb13c1f6204578564ed9b3",
                     "shasum": ""
                 },
-                "time": "2024-06-11T20:41:47+00:00",
+                "time": "2024-08-13T17:24:32+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -404,8 +404,8 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
-                "version": "dev-issues#161-customer-insights",
-                "version_normalized": "dev-issues#161-customer-insights",
+                "version": "dev-issues+161-customer-insights",
+                "version_normalized": "dev-issues+161-customer-insights",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
@@ -429,8 +429,8 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
-                "version": "dev-pco-bcp/issues#23--fix-phpcs-issues-2023-11-16",
-                "version_normalized": "dev-pco-bcp/issues#23--fix-phpcs-issues-2023-11-16",
+                "version": "dev-pco-bcp/issues+23--fix-phpcs-issues-2023-11-16",
+                "version_normalized": "dev-pco-bcp/issues+23--fix-phpcs-issues-2023-11-16",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",

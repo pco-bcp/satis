@@ -1031,8 +1031,8 @@
             },
             {
                 "name": "pco-bcp/pco_cities",
-                "version": "dev-pco-bcp/issues#185-new-challenges-module",
-                "version_normalized": "dev-pco-bcp/issues#185-new-challenges-module",
+                "version": "dev-pco-bcp/issues+185-new-challenges-module",
+                "version_normalized": "dev-pco-bcp/issues+185-new-challenges-module",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
