@@ -201,6 +201,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/582-ici-version-3"
                 }
+            },
+            {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-621-theme-charting-update",
+                "version_normalized": "dev-621-theme-charting-update",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "914b870d52d1cbb0fac7bc0e50cd273e7eef1f20"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/914b870d52d1cbb0fac7bc0e50cd273e7eef1f20",
+                    "reference": "914b870d52d1cbb0fac7bc0e50cd273e7eef1f20",
+                    "shasum": ""
+                },
+                "time": "2024-09-03T19:12:18+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/621-theme-charting-update"
+                }
             }
         ]
     }
