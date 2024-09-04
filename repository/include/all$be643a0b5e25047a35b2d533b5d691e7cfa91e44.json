@@ -1739,15 +1739,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "369f3518730427a80310ab01748eae40f2add9eb"
+                    "reference": "4c44be0776a5bbfabe94810c589aa7ab4f84d7d7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/369f3518730427a80310ab01748eae40f2add9eb",
-                    "reference": "369f3518730427a80310ab01748eae40f2add9eb",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/4c44be0776a5bbfabe94810c589aa7ab4f84d7d7",
+                    "reference": "4c44be0776a5bbfabe94810c589aa7ab4f84d7d7",
                     "shasum": ""
                 },
-                "time": "2024-08-29T18:45:58+00:00",
+                "time": "2024-09-04T15:39:14+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -1755,7 +1755,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.3"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.4.x-2.4.x"
                 }
             },
             "dev-582-ici-version-3": {
@@ -24450,12 +24450,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "4fed2c9aa24e06f46732eaa449b58450dfd841eb"
+                    "reference": "5917f308ab6f24933d512958d994a34e94d05fc8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/4fed2c9aa24e06f46732eaa449b58450dfd841eb",
-                    "reference": "4fed2c9aa24e06f46732eaa449b58450dfd841eb",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/5917f308ab6f24933d512958d994a34e94d05fc8",
+                    "reference": "5917f308ab6f24933d512958d994a34e94d05fc8",
                     "shasum": ""
                 },
                 "require": {
@@ -24513,7 +24513,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2024-08-30T12:11:02+00:00",
+                "time": "2024-09-04T15:39:54+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
