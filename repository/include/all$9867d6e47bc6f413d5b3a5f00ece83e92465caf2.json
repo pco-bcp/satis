@@ -1305,6 +1305,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/577--fix-main-menu-covering-content"
                 }
             },
+            "dev-617--add-new-list-style-2024-09-03": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-617--add-new-list-style-2024-09-03",
+                "version_normalized": "dev-617--add-new-list-style-2024-09-03",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "9ba9c09ef93786e03047d0237c6d9d56f88cf0d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/9ba9c09ef93786e03047d0237c6d9d56f88cf0d4",
+                    "reference": "9ba9c09ef93786e03047d0237c6d9d56f88cf0d4",
+                    "shasum": ""
+                },
+                "time": "2024-09-05T17:41:23+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/617--add-new-list-style-2024-09-03"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
