@@ -8170,6 +8170,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/617--add-new-list-style-2024-09-03"
                 }
             },
+            "dev-618--add-unstyled-unordered-list-2024-09-05": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-618--add-unstyled-unordered-list-2024-09-05",
+                "version_normalized": "dev-618--add-unstyled-unordered-list-2024-09-05",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "cb7f4a717d337deb9a552f32659dde0e8184949a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/cb7f4a717d337deb9a552f32659dde0e8184949a",
+                    "reference": "cb7f4a717d337deb9a552f32659dde0e8184949a",
+                    "shasum": ""
+                },
+                "time": "2024-09-05T19:00:56+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/618--add-unstyled-unordered-list-2024-09-05"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
