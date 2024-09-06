@@ -104,6 +104,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-618--add-unstyled-unordered-list-2024-09-05",
+                "version_normalized": "dev-618--add-unstyled-unordered-list-2024-09-05",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "0474ff21427367ebf42cd10dbae791fd0110097d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/0474ff21427367ebf42cd10dbae791fd0110097d",
+                    "reference": "0474ff21427367ebf42cd10dbae791fd0110097d",
+                    "shasum": ""
+                },
+                "time": "2024-09-06T15:33:14+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/618--add-unstyled-unordered-list-2024-09-05"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
