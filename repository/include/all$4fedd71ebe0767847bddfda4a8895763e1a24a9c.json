@@ -7901,15 +7901,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "26525ae69c3ca9d6aea023a6d75dbb3eac6c3eb1"
+                    "reference": "7c20ecc1fe553ff768c805f88aa175a7c32a88ef"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/26525ae69c3ca9d6aea023a6d75dbb3eac6c3eb1",
-                    "reference": "26525ae69c3ca9d6aea023a6d75dbb3eac6c3eb1",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7c20ecc1fe553ff768c805f88aa175a7c32a88ef",
+                    "reference": "7c20ecc1fe553ff768c805f88aa175a7c32a88ef",
                     "shasum": ""
                 },
-                "time": "2024-09-06T14:45:31+00:00",
+                "time": "2024-09-06T14:51:54+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -8118,31 +8118,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
-            },
-            "dev-618--add-unstyled-unordered-list-2024-09-05": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-618--add-unstyled-unordered-list-2024-09-05",
-                "version_normalized": "dev-618--add-unstyled-unordered-list-2024-09-05",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "cb7f4a717d337deb9a552f32659dde0e8184949a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/cb7f4a717d337deb9a552f32659dde0e8184949a",
-                    "reference": "cb7f4a717d337deb9a552f32659dde0e8184949a",
-                    "shasum": ""
-                },
-                "time": "2024-09-05T19:00:56+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/618--add-unstyled-unordered-list-2024-09-05"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
