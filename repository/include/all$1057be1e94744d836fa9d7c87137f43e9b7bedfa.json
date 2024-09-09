@@ -1305,6 +1305,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/577--fix-main-menu-covering-content"
                 }
             },
+            "dev-618--fix-margin-for-unstyled-unordered-list-2024-09-09": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-618--fix-margin-for-unstyled-unordered-list-2024-09-09",
+                "version_normalized": "dev-618--fix-margin-for-unstyled-unordered-list-2024-09-09",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "2c811a27be4cf3fa261e255c1a583be7bf880353"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/2c811a27be4cf3fa261e255c1a583be7bf880353",
+                    "reference": "2c811a27be4cf3fa261e255c1a583be7bf880353",
+                    "shasum": ""
+                },
+                "time": "2024-09-09T16:09:29+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/618--fix-margin-for-unstyled-unordered-list-2024-09-09"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
