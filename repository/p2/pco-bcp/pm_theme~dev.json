@@ -254,6 +254,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-618--fix-margin-for-unstyled-unordered-list-2024-09-09",
+                "version_normalized": "dev-618--fix-margin-for-unstyled-unordered-list-2024-09-09",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "6b1b0996da05ab3182696c6b676692ebc883b234"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6b1b0996da05ab3182696c6b676692ebc883b234",
+                    "reference": "6b1b0996da05ab3182696c6b676692ebc883b234",
+                    "shasum": ""
+                },
+                "time": "2024-09-09T16:19:43+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/618--fix-margin-for-unstyled-unordered-list-2024-09-09"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
