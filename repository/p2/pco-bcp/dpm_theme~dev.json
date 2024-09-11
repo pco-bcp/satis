@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-319-sublists",
+                "version_normalized": "dev-319-sublists",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "d1a373a98f566ef500b49ff7046b1835ba89fce3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/d1a373a98f566ef500b49ff7046b1835ba89fce3",
+                    "reference": "d1a373a98f566ef500b49ff7046b1835ba89fce3",
+                    "shasum": ""
+                },
+                "time": "2024-09-11T21:20:25+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/319-sublists"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-476-form-errors-theme",
                 "version_normalized": "dev-476-form-errors-theme",
                 "source": {
