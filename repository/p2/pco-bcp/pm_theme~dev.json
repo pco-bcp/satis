@@ -154,6 +154,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-319-sublists",
+                "version_normalized": "dev-319-sublists",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "2a52d41b9578f723b80188f08994c3cc3c445c8a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2a52d41b9578f723b80188f08994c3cc3c445c8a",
+                    "reference": "2a52d41b9578f723b80188f08994c3cc3c445c8a",
+                    "shasum": ""
+                },
+                "time": "2024-09-11T20:56:22+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/319-sublists"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-333-main-menu-item-has-invisible-focus-2024-05-21",
                 "version_normalized": "dev-333-main-menu-item-has-invisible-focus-2024-05-21",
                 "source": {
