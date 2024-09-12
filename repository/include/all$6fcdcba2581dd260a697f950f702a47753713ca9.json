@@ -8019,15 +8019,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "67ac06d8fba48ba3a7419397d5a3472d76688086"
+                    "reference": "1dc069d654e29b0124bfb1d8578aecc9b9567787"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/67ac06d8fba48ba3a7419397d5a3472d76688086",
-                    "reference": "67ac06d8fba48ba3a7419397d5a3472d76688086",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1dc069d654e29b0124bfb1d8578aecc9b9567787",
+                    "reference": "1dc069d654e29b0124bfb1d8578aecc9b9567787",
                     "shasum": ""
                 },
-                "time": "2024-09-12T14:47:03+00:00",
+                "time": "2024-09-12T15:18:30+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
