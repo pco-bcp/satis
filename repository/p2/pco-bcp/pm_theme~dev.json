@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "1dc069d654e29b0124bfb1d8578aecc9b9567787"
+                    "reference": "7c316e3803921fdea7428d2b28ada42341466c7d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1dc069d654e29b0124bfb1d8578aecc9b9567787",
-                    "reference": "1dc069d654e29b0124bfb1d8578aecc9b9567787",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7c316e3803921fdea7428d2b28ada42341466c7d",
+                    "reference": "7c316e3803921fdea7428d2b28ada42341466c7d",
                     "shasum": ""
                 },
-                "time": "2024-09-12T15:18:30+00:00",
+                "time": "2024-09-12T15:44:11+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -250,31 +250,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-618--fix-margin-for-unstyled-unordered-list-2024-09-09",
-                "version_normalized": "dev-618--fix-margin-for-unstyled-unordered-list-2024-09-09",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "01833b84ebb3697fbfce179c7c8514cfb43e4e2c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/01833b84ebb3697fbfce179c7c8514cfb43e4e2c",
-                    "reference": "01833b84ebb3697fbfce179c7c8514cfb43e4e2c",
-                    "shasum": ""
-                },
-                "time": "2024-09-10T10:47:49+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/618--fix-margin-for-unstyled-unordered-list-2024-09-09"
                 }
             },
             {
