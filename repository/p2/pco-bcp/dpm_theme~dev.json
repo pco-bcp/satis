@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "e72538266de1966da790b4174c927a108c5c0aeb"
+                    "reference": "e4c73fb6bd1bde3271eb942fe5fa72654292a782"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/e72538266de1966da790b4174c927a108c5c0aeb",
-                    "reference": "e72538266de1966da790b4174c927a108c5c0aeb",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/e4c73fb6bd1bde3271eb942fe5fa72654292a782",
+                    "reference": "e4c73fb6bd1bde3271eb942fe5fa72654292a782",
                     "shasum": ""
                 },
-                "time": "2024-09-09T20:16:03+00:00",
+                "time": "2024-09-12T15:54:09+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-319-sublists",
-                "version_normalized": "dev-319-sublists",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "41cb05fc326afb481c351dd52b300d6891925227"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/41cb05fc326afb481c351dd52b300d6891925227",
-                    "reference": "41cb05fc326afb481c351dd52b300d6891925227",
-                    "shasum": ""
-                },
-                "time": "2024-09-12T15:48:18+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/319-sublists"
                 }
             },
             {
