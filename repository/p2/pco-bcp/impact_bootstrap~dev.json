@@ -179,6 +179,31 @@
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-536--fix-wcag-alt-text-of-logo-2024-09-17",
+                "version_normalized": "dev-536--fix-wcag-alt-text-of-logo-2024-09-17",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "188ed1caec50b6defb5cba58bda753a03827789f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/188ed1caec50b6defb5cba58bda753a03827789f",
+                    "reference": "188ed1caec50b6defb5cba58bda753a03827789f",
+                    "shasum": ""
+                },
+                "time": "2024-09-17T19:18:12+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/536--fix-wcag-alt-text-of-logo-2024-09-17"
+                }
+            },
+            {
+                "name": "pco-bcp/impact_bootstrap",
                 "version": "dev-582-ici-version-3",
                 "version_normalized": "dev-582-ici-version-3",
                 "source": {
