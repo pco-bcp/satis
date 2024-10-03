@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "fb4fac67b3be5ccd450ffbe2bdbbbb0bdda4b187"
+                    "reference": "c35766bcec4b8acc8aa1000d1fcc04a5f3363528"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/fb4fac67b3be5ccd450ffbe2bdbbbb0bdda4b187",
-                    "reference": "fb4fac67b3be5ccd450ffbe2bdbbbb0bdda4b187",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c35766bcec4b8acc8aa1000d1fcc04a5f3363528",
+                    "reference": "c35766bcec4b8acc8aa1000d1fcc04a5f3363528",
                     "shasum": ""
                 },
-                "time": "2024-07-22T18:00:38+00:00",
+                "time": "2024-10-03T15:41:27+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -49,7 +49,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.8"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
                 }
             },
             {
@@ -375,31 +375,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/550-dynamics-submit-handler"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-630-twitter-alt-tag-meta",
-                "version_normalized": "dev-630-twitter-alt-tag-meta",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "84d8e881da39e6e59433f3e72e68cfceac46b75d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/84d8e881da39e6e59433f3e72e68cfceac46b75d",
-                    "reference": "84d8e881da39e6e59433f3e72e68cfceac46b75d",
-                    "shasum": ""
-                },
-                "time": "2024-10-03T15:32:24+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/630-twitter-alt-tag-meta"
                 }
             },
             {
