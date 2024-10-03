@@ -1657,6 +1657,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.6"
                 }
             },
+            "2.4.7": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "2.4.7",
+                "version_normalized": "2.4.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "24afb8c2804d511aa13927399e71e8ffae9293f8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/24afb8c2804d511aa13927399e71e8ffae9293f8",
+                    "reference": "24afb8c2804d511aa13927399e71e8ffae9293f8",
+                    "shasum": ""
+                },
+                "time": "2024-10-03T13:36:45+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.7"
+                }
+            },
             "dev-24-upgrade-to-drupal-10": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "dev-24-upgrade-to-drupal-10",
@@ -1830,7 +1855,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.4.x-2.4.x"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.7"
                 }
             },
             "dev-536--fix-wcag-alt-text-of-logo-2024-09-17": {
