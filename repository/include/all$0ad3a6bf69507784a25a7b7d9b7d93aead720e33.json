@@ -6450,6 +6450,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/550-dynamics-submit-handler"
                 }
             },
+            "dev-635-check-if-twitter-img-is-null-2024-10-07": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-635-check-if-twitter-img-is-null-2024-10-07",
+                "version_normalized": "dev-635-check-if-twitter-img-is-null-2024-10-07",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "781f340a05764e7233fbb42ebc7e4d04f018a666"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/781f340a05764e7233fbb42ebc7e4d04f018a666",
+                    "reference": "781f340a05764e7233fbb42ebc7e4d04f018a666",
+                    "shasum": ""
+                },
+                "time": "2024-10-07T18:31:07+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/635-check-if-twitter-img-is-null-2024-10-07"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
