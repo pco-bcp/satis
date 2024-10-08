@@ -6475,6 +6475,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/550-dynamics-submit-handler"
                 }
             },
+            "dev-630-twitter-image-override-error-checking": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-630-twitter-image-override-error-checking",
+                "version_normalized": "dev-630-twitter-image-override-error-checking",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "ad3698d8d03422bf739712d32cb513146e168247"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/ad3698d8d03422bf739712d32cb513146e168247",
+                    "reference": "ad3698d8d03422bf739712d32cb513146e168247",
+                    "shasum": ""
+                },
+                "time": "2024-10-08T21:18:05+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/630-twitter-image-override-error-checking"
+                }
+            },
             "dev-635-check-if-twitter-img-is-null-2024-10-07": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-635-check-if-twitter-img-is-null-2024-10-07",
