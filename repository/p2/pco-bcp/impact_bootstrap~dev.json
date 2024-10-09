@@ -376,6 +376,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/636-fix-migration-of-css-to-scss-2024-10-08"
                 }
+            },
+            {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-638--fix-css-regression-photos-home-page-2024-10-09",
+                "version_normalized": "dev-638--fix-css-regression-photos-home-page-2024-10-09",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "37e6e3783605a7bc29a43e127a74a12eddcd6460"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/37e6e3783605a7bc29a43e127a74a12eddcd6460",
+                    "reference": "37e6e3783605a7bc29a43e127a74a12eddcd6460",
+                    "shasum": ""
+                },
+                "time": "2024-10-09T15:30:31+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/638--fix-css-regression-photos-home-page-2024-10-09"
+                }
             }
         ]
     }
