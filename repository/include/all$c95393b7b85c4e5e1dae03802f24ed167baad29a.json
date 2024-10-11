@@ -8412,15 +8412,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "7f310a540cac886262e736f1f6023991335c4a04"
+                    "reference": "ece0d8af46c44ccb468d277bfdf428708ca14d44"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7f310a540cac886262e736f1f6023991335c4a04",
-                    "reference": "7f310a540cac886262e736f1f6023991335c4a04",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ece0d8af46c44ccb468d277bfdf428708ca14d44",
+                    "reference": "ece0d8af46c44ccb468d277bfdf428708ca14d44",
                     "shasum": ""
                 },
-                "time": "2024-10-03T18:14:50+00:00",
+                "time": "2024-10-11T21:03:04+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -8428,7 +8428,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.15"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
@@ -8629,31 +8629,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
-            },
-            "dev-632--fix-youtube-social-icon-2024-10-11": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-632--fix-youtube-social-icon-2024-10-11",
-                "version_normalized": "dev-632--fix-youtube-social-icon-2024-10-11",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "6220ff4f9e25c1addb349f6e7977ba4736a04192"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6220ff4f9e25c1addb349f6e7977ba4736a04192",
-                    "reference": "6220ff4f9e25c1addb349f6e7977ba4736a04192",
-                    "shasum": ""
-                },
-                "time": "2024-10-11T19:49:35+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/632--fix-youtube-social-icon-2024-10-11"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
