@@ -1858,6 +1858,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.4.x-2.4.x"
                 }
             },
+            "dev-528-css-video-player-wcag": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-528-css-video-player-wcag",
+                "version_normalized": "dev-528-css-video-player-wcag",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "c3c2569c266b8e3743bd12705cd3bcae27add485"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/c3c2569c266b8e3743bd12705cd3bcae27add485",
+                    "reference": "c3c2569c266b8e3743bd12705cd3bcae27add485",
+                    "shasum": ""
+                },
+                "time": "2024-10-15T17:12:40+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/528-css-video-player-wcag"
+                }
+            },
             "dev-536--fix-wcag-alt-text-of-logo-2024-09-17": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "dev-536--fix-wcag-alt-text-of-logo-2024-09-17",
