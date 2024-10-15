@@ -254,6 +254,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-632--fix-youtube-social-icon-2024-10-15",
+                "version_normalized": "dev-632--fix-youtube-social-icon-2024-10-15",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "f62c3a01583ab0b30c4d617ff70e0b1c53c43f5a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f62c3a01583ab0b30c4d617ff70e0b1c53c43f5a",
+                    "reference": "f62c3a01583ab0b30c4d617ff70e0b1c53c43f5a",
+                    "shasum": ""
+                },
+                "time": "2024-10-15T13:28:40+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/632--fix-youtube-social-icon-2024-10-15"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
