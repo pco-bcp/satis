@@ -8530,15 +8530,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ece0d8af46c44ccb468d277bfdf428708ca14d44"
+                    "reference": "60305aa89aead534b197d82f1d87f972a6f253ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ece0d8af46c44ccb468d277bfdf428708ca14d44",
-                    "reference": "ece0d8af46c44ccb468d277bfdf428708ca14d44",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/60305aa89aead534b197d82f1d87f972a6f253ce",
+                    "reference": "60305aa89aead534b197d82f1d87f972a6f253ce",
                     "shasum": ""
                 },
-                "time": "2024-10-11T21:03:04+00:00",
+                "time": "2024-10-15T15:07:38+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -8747,31 +8747,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
-            },
-            "dev-632--fix-youtube-social-icon-2024-10-15": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-632--fix-youtube-social-icon-2024-10-15",
-                "version_normalized": "dev-632--fix-youtube-social-icon-2024-10-15",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "c50be767c97809e933a781c7b2e8094df3363b67"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c50be767c97809e933a781c7b2e8094df3363b67",
-                    "reference": "c50be767c97809e933a781c7b2e8094df3363b67",
-                    "shasum": ""
-                },
-                "time": "2024-10-15T14:54:16+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/632--fix-youtube-social-icon-2024-10-15"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
