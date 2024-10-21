@@ -1858,6 +1858,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.4.x-2.4.x"
                 }
             },
+            "dev-524--fix-wcag-contrast-of-text-against-bg-2024-10-21": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-524--fix-wcag-contrast-of-text-against-bg-2024-10-21",
+                "version_normalized": "dev-524--fix-wcag-contrast-of-text-against-bg-2024-10-21",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "c2ab1489b8fb337dddbbb7d2f995a59702df327f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/c2ab1489b8fb337dddbbb7d2f995a59702df327f",
+                    "reference": "c2ab1489b8fb337dddbbb7d2f995a59702df327f",
+                    "shasum": ""
+                },
+                "time": "2024-10-21T16:43:34+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/524--fix-wcag-contrast-of-text-against-bg-2024-10-21"
+                }
+            },
             "dev-528-css-video-player-wcag": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "dev-528-css-video-player-wcag",
