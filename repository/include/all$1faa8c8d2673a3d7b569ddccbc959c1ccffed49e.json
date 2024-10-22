@@ -1255,6 +1255,31 @@
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
+            "dev-319--nested-list-inside-unordered-list": {
+                "name": "pco-bcp/dpm_theme",
+                "version": "dev-319--nested-list-inside-unordered-list",
+                "version_normalized": "dev-319--nested-list-inside-unordered-list",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "a11040162ac3686692e7c89fc7409c5e2512c04b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/a11040162ac3686692e7c89fc7409c5e2512c04b",
+                    "reference": "a11040162ac3686692e7c89fc7409c5e2512c04b",
+                    "shasum": ""
+                },
+                "time": "2024-10-22T15:59:46+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/319--nested-list-inside-unordered-list"
+                }
+            },
             "dev-476-form-errors-theme": {
                 "name": "pco-bcp/dpm_theme",
                 "version": "dev-476-form-errors-theme",
