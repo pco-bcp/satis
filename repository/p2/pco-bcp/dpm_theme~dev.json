@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "e4c73fb6bd1bde3271eb942fe5fa72654292a782"
+                    "reference": "369cf39d4e5415fbfd6076ffef9db67bf5238a89"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/e4c73fb6bd1bde3271eb942fe5fa72654292a782",
-                    "reference": "e4c73fb6bd1bde3271eb942fe5fa72654292a782",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/369cf39d4e5415fbfd6076ffef9db67bf5238a89",
+                    "reference": "369cf39d4e5415fbfd6076ffef9db67bf5238a89",
                     "shasum": ""
                 },
-                "time": "2024-09-12T15:54:09+00:00",
+                "time": "2024-10-22T16:54:01+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -50,31 +50,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-319--nested-list-inside-unordered-list",
-                "version_normalized": "dev-319--nested-list-inside-unordered-list",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "a11040162ac3686692e7c89fc7409c5e2512c04b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/a11040162ac3686692e7c89fc7409c5e2512c04b",
-                    "reference": "a11040162ac3686692e7c89fc7409c5e2512c04b",
-                    "shasum": ""
-                },
-                "time": "2024-10-22T15:59:46+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/319--nested-list-inside-unordered-list"
                 }
             },
             {
