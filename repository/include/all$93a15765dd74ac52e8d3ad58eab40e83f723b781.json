@@ -8630,15 +8630,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "60305aa89aead534b197d82f1d87f972a6f253ce"
+                    "reference": "6e3a89aebb194fa5caa3212c60ecc46ba5971606"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/60305aa89aead534b197d82f1d87f972a6f253ce",
-                    "reference": "60305aa89aead534b197d82f1d87f972a6f253ce",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6e3a89aebb194fa5caa3212c60ecc46ba5971606",
+                    "reference": "6e3a89aebb194fa5caa3212c60ecc46ba5971606",
                     "shasum": ""
                 },
-                "time": "2024-10-15T15:07:38+00:00",
+                "time": "2024-10-22T16:25:24+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -8747,31 +8747,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/310-add-transcript-heading-to-video-page-2024-06-11"
-                }
-            },
-            "dev-319--nested-list-inside-unordered-list": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-319--nested-list-inside-unordered-list",
-                "version_normalized": "dev-319--nested-list-inside-unordered-list",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "51ed57e045713fe092c35f98521d29ed8aa9b17a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/51ed57e045713fe092c35f98521d29ed8aa9b17a",
-                    "reference": "51ed57e045713fe092c35f98521d29ed8aa9b17a",
-                    "shasum": ""
-                },
-                "time": "2024-10-22T11:36:44+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/319--nested-list-inside-unordered-list"
                 }
             },
             "dev-333-main-menu-item-has-invisible-focus-2024-05-21": {
