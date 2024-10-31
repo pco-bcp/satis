@@ -849,12 +849,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "cebca5c02b136ac70c25f205f270001bf015f48a"
+                    "reference": "63f369625b50b9b481796b391af8141bcfd806b1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/cebca5c02b136ac70c25f205f270001bf015f48a",
-                    "reference": "cebca5c02b136ac70c25f205f270001bf015f48a",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/63f369625b50b9b481796b391af8141bcfd806b1",
+                    "reference": "63f369625b50b9b481796b391af8141bcfd806b1",
                     "shasum": ""
                 },
                 "require": {
@@ -865,7 +865,7 @@
                     "drush/drush": ">=9.7",
                     "pco-bcp/impact_bootstrap": "^2.4"
                 },
-                "time": "2024-10-28T15:50:07+00:00",
+                "time": "2024-10-31T19:06:51+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -933,7 +933,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/2.5.16"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/4.5.x-2.5.x"
                 }
             },
             {
