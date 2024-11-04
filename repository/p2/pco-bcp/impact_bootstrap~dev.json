@@ -229,6 +229,31 @@
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-532-added-tabindex-iframe",
+                "version_normalized": "dev-532-added-tabindex-iframe",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "978f1c7000657e4882230df68cbb9b0fa3ec17c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/978f1c7000657e4882230df68cbb9b0fa3ec17c9",
+                    "reference": "978f1c7000657e4882230df68cbb9b0fa3ec17c9",
+                    "shasum": ""
+                },
+                "time": "2024-11-04T19:42:24+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/532-added-tabindex-iframe"
+                }
+            },
+            {
+                "name": "pco-bcp/impact_bootstrap",
                 "version": "dev-536--fix-wcag-alt-text-of-logo-2024-09-17",
                 "version_normalized": "dev-536--fix-wcag-alt-text-of-logo-2024-09-17",
                 "source": {
