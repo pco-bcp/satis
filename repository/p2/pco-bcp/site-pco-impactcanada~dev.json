@@ -3453,12 +3453,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "464301c34b8ad184549d4f6da247d5fbf899d279"
+                    "reference": "cde9b500b9d79479275ebcfce1f44addce0077b9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/464301c34b8ad184549d4f6da247d5fbf899d279",
-                    "reference": "464301c34b8ad184549d4f6da247d5fbf899d279",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/cde9b500b9d79479275ebcfce1f44addce0077b9",
+                    "reference": "cde9b500b9d79479275ebcfce1f44addce0077b9",
                     "shasum": ""
                 },
                 "require": {
@@ -3485,6 +3485,7 @@
                     "drupal/honeypot": "^2.1",
                     "drupal/login_security": "^2.0",
                     "drupal/mailsystem": "^4.3",
+                    "drupal/menu_link_attributes": "^1.5",
                     "drupal/moderation_dashboard": "^1.0",
                     "drupal/openapi_jsonapi": "^3.0",
                     "drupal/password_policy": "4.0.0 as 3.2.0",
@@ -3519,7 +3520,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2024-10-30T20:50:19+00:00",
+                "time": "2024-11-05T23:48:21+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -3625,7 +3626,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.69"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/4.5.x-2.5.x"
                 }
             },
             {
