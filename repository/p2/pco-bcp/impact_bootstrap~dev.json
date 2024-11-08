@@ -158,15 +158,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "0a089f47e423bf7dc50dbd90c350644062f6c1cd"
+                    "reference": "ba388aa1dcbada5734da268b3cd3574804634266"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/0a089f47e423bf7dc50dbd90c350644062f6c1cd",
-                    "reference": "0a089f47e423bf7dc50dbd90c350644062f6c1cd",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/ba388aa1dcbada5734da268b3cd3574804634266",
+                    "reference": "ba388aa1dcbada5734da268b3cd3574804634266",
                     "shasum": ""
                 },
-                "time": "2024-11-04T19:45:26+00:00",
+                "time": "2024-11-08T21:06:49+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -500,31 +500,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/641-batch-updates"
-                }
-            },
-            {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-652-updated-challenge-node-template",
-                "version_normalized": "dev-652-updated-challenge-node-template",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "1c40a53a78a7c054792b952d7b128a0fb9d62e3d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/1c40a53a78a7c054792b952d7b128a0fb9d62e3d",
-                    "reference": "1c40a53a78a7c054792b952d7b128a0fb9d62e3d",
-                    "shasum": ""
-                },
-                "time": "2024-11-05T18:01:02+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/652-updated-challenge-node-template"
                 }
             }
         ]
