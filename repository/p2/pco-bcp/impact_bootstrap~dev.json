@@ -158,15 +158,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "ba388aa1dcbada5734da268b3cd3574804634266"
+                    "reference": "6b6a3c0e2bdaa39ec10a43b560f44515dfff9a66"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/ba388aa1dcbada5734da268b3cd3574804634266",
-                    "reference": "ba388aa1dcbada5734da268b3cd3574804634266",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/6b6a3c0e2bdaa39ec10a43b560f44515dfff9a66",
+                    "reference": "6b6a3c0e2bdaa39ec10a43b560f44515dfff9a66",
                     "shasum": ""
                 },
-                "time": "2024-11-08T21:06:49+00:00",
+                "time": "2024-11-12T23:48:48+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -225,56 +225,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/528-css-video-player-wcag"
-                }
-            },
-            {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-534-challenge-page-titles",
-                "version_normalized": "dev-534-challenge-page-titles",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "b1375ef5a918b101d768cfb18e7c4ba5128a2b77"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/b1375ef5a918b101d768cfb18e7c4ba5128a2b77",
-                    "reference": "b1375ef5a918b101d768cfb18e7c4ba5128a2b77",
-                    "shasum": ""
-                },
-                "time": "2024-11-12T13:22:26+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/534-challenge-page-titles"
-                }
-            },
-            {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-534-title-fix-challenge-and-fellowship",
-                "version_normalized": "dev-534-title-fix-challenge-and-fellowship",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "ee1fd7c17d07f019fd944b0717563d7737906c43"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/ee1fd7c17d07f019fd944b0717563d7737906c43",
-                    "reference": "ee1fd7c17d07f019fd944b0717563d7737906c43",
-                    "shasum": ""
-                },
-                "time": "2024-11-12T17:04:41+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/534-title-fix-challenge-and-fellowship"
                 }
             },
             {
