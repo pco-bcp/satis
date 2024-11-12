@@ -2058,6 +2058,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/534-challenge-page-titles"
                 }
             },
+            "dev-534-title-fix-challenge-and-fellowship": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-534-title-fix-challenge-and-fellowship",
+                "version_normalized": "dev-534-title-fix-challenge-and-fellowship",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "ee1fd7c17d07f019fd944b0717563d7737906c43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/ee1fd7c17d07f019fd944b0717563d7737906c43",
+                    "reference": "ee1fd7c17d07f019fd944b0717563d7737906c43",
+                    "shasum": ""
+                },
+                "time": "2024-11-12T17:04:41+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/534-title-fix-challenge-and-fellowship"
+                }
+            },
             "dev-536--fix-wcag-alt-text-of-logo-2024-09-17": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "dev-536--fix-wcag-alt-text-of-logo-2024-09-17",
@@ -5699,12 +5724,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "ed3d0a9648a1b2c73ff53f6e5ec936fef94175cc"
+                    "reference": "3eab998eb43a0cc25b48346538750a0a3188250f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/ed3d0a9648a1b2c73ff53f6e5ec936fef94175cc",
-                    "reference": "ed3d0a9648a1b2c73ff53f6e5ec936fef94175cc",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/3eab998eb43a0cc25b48346538750a0a3188250f",
+                    "reference": "3eab998eb43a0cc25b48346538750a0a3188250f",
                     "shasum": ""
                 },
                 "require": {
@@ -5715,7 +5740,7 @@
                     "drush/drush": ">=9.7",
                     "pco-bcp/impact_bootstrap": "^2.4"
                 },
-                "time": "2024-11-08T21:06:05+00:00",
+                "time": "2024-11-12T18:49:43+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -5877,99 +5902,6 @@
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/534-challenge-page-titles"
-                }
-            },
-            "dev-651-fellowship-module-update": {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-651-fellowship-module-update",
-                "version_normalized": "dev-651-fellowship-module-update",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "e6a6b4281d2bb3f339e9b0ba5b12026911fd7961"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/e6a6b4281d2bb3f339e9b0ba5b12026911fd7961",
-                    "reference": "e6a6b4281d2bb3f339e9b0ba5b12026911fd7961",
-                    "shasum": ""
-                },
-                "require": {
-                    "cweagans/composer-patches": "^1.6.4",
-                    "drupal/core-composer-scaffold": "*",
-                    "drupal/mailgun": "^1.0",
-                    "drupalwxt/wxt": "4.5.2",
-                    "drush/drush": ">=9.7",
-                    "pco-bcp/impact_bootstrap": "^2.4"
-                },
-                "time": "2024-11-12T17:02:33+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/651-fellowship-module-update"
                 }
             },
             "dev-7-phpcs-cleanup": {
