@@ -104,6 +104,31 @@
             },
             {
                 "name": "pco-bcp/dpm_theme",
+                "version": "dev-658-fix-font-size-h3-heading-for-accordion-pages-2024-11-14",
+                "version_normalized": "dev-658-fix-font-size-h3-heading-for-accordion-pages-2024-11-14",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/dpm_theme.git",
+                    "reference": "8eca925b8cab2fdb790e9eb5815e82285845421b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/8eca925b8cab2fdb790e9eb5815e82285845421b",
+                    "reference": "8eca925b8cab2fdb790e9eb5815e82285845421b",
+                    "shasum": ""
+                },
+                "time": "2024-11-14T14:20:16+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/658-fix-font-size-h3-heading-for-accordion-pages-2024-11-14"
+                }
+            },
+            {
+                "name": "pco-bcp/dpm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
