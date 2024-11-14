@@ -1311,15 +1311,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "369cf39d4e5415fbfd6076ffef9db67bf5238a89"
+                    "reference": "a3154c06ff01ef0347345a0c6a187e7d1cf57722"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/369cf39d4e5415fbfd6076ffef9db67bf5238a89",
-                    "reference": "369cf39d4e5415fbfd6076ffef9db67bf5238a89",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/a3154c06ff01ef0347345a0c6a187e7d1cf57722",
+                    "reference": "a3154c06ff01ef0347345a0c6a187e7d1cf57722",
                     "shasum": ""
                 },
-                "time": "2024-10-22T16:54:01+00:00",
+                "time": "2024-11-14T18:20:20+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -1327,7 +1327,7 @@
                 ],
                 "description": "DPM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.10"
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.x"
                 }
             },
             "dev-476-form-errors-theme": {
@@ -1378,31 +1378,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/577--fix-main-menu-covering-content"
-                }
-            },
-            "dev-658-fix-font-size-h3-heading-for-accordion-pages-2024-11-14": {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-658-fix-font-size-h3-heading-for-accordion-pages-2024-11-14",
-                "version_normalized": "dev-658-fix-font-size-h3-heading-for-accordion-pages-2024-11-14",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "8eca925b8cab2fdb790e9eb5815e82285845421b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/8eca925b8cab2fdb790e9eb5815e82285845421b",
-                    "reference": "8eca925b8cab2fdb790e9eb5815e82285845421b",
-                    "shasum": ""
-                },
-                "time": "2024-11-14T14:20:16+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/658-fix-font-size-h3-heading-for-accordion-pages-2024-11-14"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
