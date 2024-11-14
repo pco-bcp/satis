@@ -9041,15 +9041,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "6e3a89aebb194fa5caa3212c60ecc46ba5971606"
+                    "reference": "2a3d9b3e4434c932a32116d80a24cf0e7d183757"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6e3a89aebb194fa5caa3212c60ecc46ba5971606",
-                    "reference": "6e3a89aebb194fa5caa3212c60ecc46ba5971606",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2a3d9b3e4434c932a32116d80a24cf0e7d183757",
+                    "reference": "2a3d9b3e4434c932a32116d80a24cf0e7d183757",
                     "shasum": ""
                 },
-                "time": "2024-10-22T16:25:24+00:00",
+                "time": "2024-11-14T18:14:49+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -9057,7 +9057,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.16"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
@@ -9258,31 +9258,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
-            },
-            "dev-658-fix-font-size-h3-heading-for-accordion-pages-2024-11-14": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-658-fix-font-size-h3-heading-for-accordion-pages-2024-11-14",
-                "version_normalized": "dev-658-fix-font-size-h3-heading-for-accordion-pages-2024-11-14",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "59e2be292b06a103352c1b252651a3546ca0836d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/59e2be292b06a103352c1b252651a3546ca0836d",
-                    "reference": "59e2be292b06a103352c1b252651a3546ca0836d",
-                    "shasum": ""
-                },
-                "time": "2024-11-14T14:25:54+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/658-fix-font-size-h3-heading-for-accordion-pages-2024-11-14"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
