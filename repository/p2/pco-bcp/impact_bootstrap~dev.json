@@ -158,15 +158,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "6bed9a25b974b25a39acea5fda499f5adec72790"
+                    "reference": "d643e602f4e90f2e8dbf30eddac5de09d32e0548"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/6bed9a25b974b25a39acea5fda499f5adec72790",
-                    "reference": "6bed9a25b974b25a39acea5fda499f5adec72790",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/d643e602f4e90f2e8dbf30eddac5de09d32e0548",
+                    "reference": "d643e602f4e90f2e8dbf30eddac5de09d32e0548",
                     "shasum": ""
                 },
-                "time": "2024-11-15T19:36:54+00:00",
+                "time": "2024-11-25T15:27:02+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -174,7 +174,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.11"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.4.x-2.4.x"
                 }
             },
             {
@@ -500,31 +500,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/641-batch-updates"
-                }
-            },
-            {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-660-theme-updates-for-challenge-update",
-                "version_normalized": "dev-660-theme-updates-for-challenge-update",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "4be83cf399b182800c2a4e6c9af79c435b2834ed"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/4be83cf399b182800c2a4e6c9af79c435b2834ed",
-                    "reference": "4be83cf399b182800c2a4e6c9af79c435b2834ed",
-                    "shasum": ""
-                },
-                "time": "2024-11-21T16:45:29+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/660-theme-updates-for-challenge-update"
                 }
             }
         ]
