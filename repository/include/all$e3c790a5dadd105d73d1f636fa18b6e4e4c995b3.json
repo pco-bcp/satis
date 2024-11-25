@@ -1657,6 +1657,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.11"
                 }
             },
+            "2.4.12": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "2.4.12",
+                "version_normalized": "2.4.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "d643e602f4e90f2e8dbf30eddac5de09d32e0548"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/d643e602f4e90f2e8dbf30eddac5de09d32e0548",
+                    "reference": "d643e602f4e90f2e8dbf30eddac5de09d32e0548",
+                    "shasum": ""
+                },
+                "time": "2024-11-25T15:27:02+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.12"
+                }
+            },
             "2.4.2": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "2.4.2",
@@ -2030,7 +2055,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.4.x-2.4.x"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.12"
                 }
             },
             "dev-524--fix-wcag-contrast-of-text-against-bg-2024-10-21": {
@@ -27416,12 +27441,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "3a80f4cf488c593e263dec375a162b8af5710891"
+                    "reference": "3a9586cfe69534e0eea83f9d7bd264352a15208e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/3a80f4cf488c593e263dec375a162b8af5710891",
-                    "reference": "3a80f4cf488c593e263dec375a162b8af5710891",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/3a9586cfe69534e0eea83f9d7bd264352a15208e",
+                    "reference": "3a9586cfe69534e0eea83f9d7bd264352a15208e",
                     "shasum": ""
                 },
                 "require": {
@@ -27431,7 +27456,7 @@
                     "drupal/autologout": "^1.4",
                     "drupal/blazy": "^2.7",
                     "drupal/cache_control_override": "^1.0@alpha",
-                    "drupal/captcha": "^1.10",
+                    "drupal/captcha": "^2.0",
                     "drupal/config_filter": "^1.5",
                     "drupal/config_split": "^1.4",
                     "drupal/config_update": "^1.7",
@@ -27454,6 +27479,7 @@
                     "drupal/password_policy": "4.0.0 as 3.2.0",
                     "drupal/phpmailer_smtp": "^2.1",
                     "drupal/real_aes": "^2.4",
+                    "drupal/recaptcha": "^3.2",
                     "drupal/restrict_role_login_by_ip": "^2.0",
                     "drupal/scheduled_updates": "dev-3172330-module-is-not",
                     "drupal/search_api": "1.27.0 as 1.26.0",
@@ -27483,7 +27509,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2024-11-25T15:28:17+00:00",
+                "time": "2024-11-25T17:17:51+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
