@@ -6760,15 +6760,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "1dca7927dc887733b2a85030280f7540e46cb726"
+                    "reference": "b10f90be74b0d69c2147212c880374a02a8b5a1f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1dca7927dc887733b2a85030280f7540e46cb726",
-                    "reference": "1dca7927dc887733b2a85030280f7540e46cb726",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b10f90be74b0d69c2147212c880374a02a8b5a1f",
+                    "reference": "b10f90be74b0d69c2147212c880374a02a8b5a1f",
                     "shasum": ""
                 },
-                "time": "2024-10-09T13:43:23+00:00",
+                "time": "2024-11-26T18:51:16+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -6776,7 +6776,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.10"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
                 }
             },
             "dev-222-citation-d-check-fixes-2024-03-27": {
@@ -7127,31 +7127,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/635-check-if-twitter-img-is-null-2024-10-07"
-                }
-            },
-            "dev-670-subscribe-pages-typo": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-670-subscribe-pages-typo",
-                "version_normalized": "dev-670-subscribe-pages-typo",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "adf61435e169b7eed59e47bba520479d4685c3fd"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/adf61435e169b7eed59e47bba520479d4685c3fd",
-                    "reference": "adf61435e169b7eed59e47bba520479d4685c3fd",
-                    "shasum": ""
-                },
-                "time": "2024-11-26T16:48:56+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/670-subscribe-pages-typo"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
