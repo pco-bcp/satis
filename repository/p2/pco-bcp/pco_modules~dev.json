@@ -59,22 +59,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "b10f90be74b0d69c2147212c880374a02a8b5a1f"
+                    "reference": "f9bdee8ba12b4c3e60789e89a73ecc14beb19f75"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b10f90be74b0d69c2147212c880374a02a8b5a1f",
-                    "reference": "b10f90be74b0d69c2147212c880374a02a8b5a1f",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/f9bdee8ba12b4c3e60789e89a73ecc14beb19f75",
+                    "reference": "f9bdee8ba12b4c3e60789e89a73ecc14beb19f75",
                     "shasum": ""
                 },
-                "time": "2024-11-26T18:51:16+00:00",
+                "time": "2024-11-26T22:42:49+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.x"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/3.x"
                 }
             },
             {
@@ -350,31 +350,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-ckeditor"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-375-add-cke5-generated-custom-plugins-2024-05-03",
-                "version_normalized": "dev-375-add-cke5-generated-custom-plugins-2024-05-03",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "08926bce7042ec8050b4bb16a3ee91b169c22b89"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/08926bce7042ec8050b4bb16a3ee91b169c22b89",
-                    "reference": "08926bce7042ec8050b4bb16a3ee91b169c22b89",
-                    "shasum": ""
-                },
-                "time": "2024-05-03T17:19:38+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/375-add-cke5-generated-custom-plugins-2024-05-03"
                 }
             },
             {
