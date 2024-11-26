@@ -404,6 +404,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-670-subscribe-pages-typo",
+                "version_normalized": "dev-670-subscribe-pages-typo",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "adf61435e169b7eed59e47bba520479d4685c3fd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/adf61435e169b7eed59e47bba520479d4685c3fd",
+                    "reference": "adf61435e169b7eed59e47bba520479d4685c3fd",
+                    "shasum": ""
+                },
+                "time": "2024-11-26T16:48:56+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/670-subscribe-pages-typo"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {
