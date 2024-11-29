@@ -9066,15 +9066,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2a3d9b3e4434c932a32116d80a24cf0e7d183757"
+                    "reference": "6e2dca71c738fa629ff933d771d7c5735f9beb76"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2a3d9b3e4434c932a32116d80a24cf0e7d183757",
-                    "reference": "2a3d9b3e4434c932a32116d80a24cf0e7d183757",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6e2dca71c738fa629ff933d771d7c5735f9beb76",
+                    "reference": "6e2dca71c738fa629ff933d771d7c5735f9beb76",
                     "shasum": ""
                 },
-                "time": "2024-11-14T18:14:49+00:00",
+                "time": "2024-11-29T18:25:08+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -9283,31 +9283,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
-            },
-            "dev-659--fix-regression-for-unstyled-lists-2024-11-29": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-659--fix-regression-for-unstyled-lists-2024-11-29",
-                "version_normalized": "dev-659--fix-regression-for-unstyled-lists-2024-11-29",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e2d726f8d85f16f234e758f908f58bef956a3b1a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e2d726f8d85f16f234e758f908f58bef956a3b1a",
-                    "reference": "e2d726f8d85f16f234e758f908f58bef956a3b1a",
-                    "shasum": ""
-                },
-                "time": "2024-11-29T14:10:23+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/659--fix-regression-for-unstyled-lists-2024-11-29"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
