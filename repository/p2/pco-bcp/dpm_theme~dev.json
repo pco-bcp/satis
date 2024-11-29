@@ -33,15 +33,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "a3154c06ff01ef0347345a0c6a187e7d1cf57722"
+                    "reference": "cbe3a5e2f123b8704fd3f32c6d0584a25d93334a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/a3154c06ff01ef0347345a0c6a187e7d1cf57722",
-                    "reference": "a3154c06ff01ef0347345a0c6a187e7d1cf57722",
+                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/cbe3a5e2f123b8704fd3f32c6d0584a25d93334a",
+                    "reference": "cbe3a5e2f123b8704fd3f32c6d0584a25d93334a",
                     "shasum": ""
                 },
-                "time": "2024-11-14T18:20:20+00:00",
+                "time": "2024-11-29T20:31:08+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -100,31 +100,6 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/577--fix-main-menu-covering-content"
-                }
-            },
-            {
-                "name": "pco-bcp/dpm_theme",
-                "version": "dev-659--fix-regression-unstyled-list-2024-11-28",
-                "version_normalized": "dev-659--fix-regression-unstyled-list-2024-11-28",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/dpm_theme.git",
-                    "reference": "1fa957ca72391fa959f8e4cb1920c05d30f6652d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/dpm_theme/zipball/1fa957ca72391fa959f8e4cb1920c05d30f6652d",
-                    "reference": "1fa957ca72391fa959f8e4cb1920c05d30f6652d",
-                    "shasum": ""
-                },
-                "time": "2024-11-29T20:08:45+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "DPM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/dpm_theme/tree/659--fix-regression-unstyled-list-2024-11-28"
                 }
             },
             {
