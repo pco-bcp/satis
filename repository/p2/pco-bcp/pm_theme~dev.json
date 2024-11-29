@@ -254,6 +254,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-659--fix-regression-for-unstyled-lists-2024-11-29",
+                "version_normalized": "dev-659--fix-regression-for-unstyled-lists-2024-11-29",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e2d726f8d85f16f234e758f908f58bef956a3b1a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e2d726f8d85f16f234e758f908f58bef956a3b1a",
+                    "reference": "e2d726f8d85f16f234e758f908f58bef956a3b1a",
+                    "shasum": ""
+                },
+                "time": "2024-11-29T14:10:23+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/659--fix-regression-for-unstyled-lists-2024-11-29"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
