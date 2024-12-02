@@ -2382,6 +2382,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/641-batch-updates"
                 }
+            },
+            "dev-665-tfa-email-css": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-665-tfa-email-css",
+                "version_normalized": "dev-665-tfa-email-css",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "634e33891713f2c8ca917392386d6b99b1f15ced"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/634e33891713f2c8ca917392386d6b99b1f15ced",
+                    "reference": "634e33891713f2c8ca917392386d6b99b1f15ced",
+                    "shasum": ""
+                },
+                "time": "2024-12-02T19:25:57+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/665-tfa-email-css"
+                }
             }
         },
         "pco-bcp/pco_cities": {
@@ -27624,12 +27649,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "22bb0a8484543dd9fe864210253f311274e4a483"
+                    "reference": "eead012af87b48d48bc58d47486d0eb7c23904aa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/22bb0a8484543dd9fe864210253f311274e4a483",
-                    "reference": "22bb0a8484543dd9fe864210253f311274e4a483",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/eead012af87b48d48bc58d47486d0eb7c23904aa",
+                    "reference": "eead012af87b48d48bc58d47486d0eb7c23904aa",
                     "shasum": ""
                 },
                 "require": {
@@ -27645,12 +27670,12 @@
                     "drupal/config_update": "^1.7",
                     "drupal/content_access": "^2.0@RC",
                     "drupal/core-composer-scaffold": "*",
+                    "drupal/email_tfa": "^2.0",
                     "drupal/entity_browser": "2.9.0 as 2.8.0",
                     "drupal/fast404": "^3.3",
                     "drupal/features": "^3.12",
                     "drupal/features_ui": "^3.12",
                     "drupal/field_permissions": "^1.1",
-                    "drupal/ga_login": "^1.0@alpha",
                     "drupal/google_analytics": "^4.0",
                     "drupal/hacked": "^2.0@beta",
                     "drupal/honeypot": "^2.1",
@@ -27669,7 +27694,6 @@
                     "drupal/seckit": "^2.0",
                     "drupal/simple_oauth": "^5.2",
                     "drupal/simple_sitemap": "^3.8",
-                    "drupal/tfa": "^1.0@alpha",
                     "drupal/upgrade_status": "^3.14",
                     "drupal/webform_views": "^5.0@beta",
                     "drush/drush": "^11",
@@ -27692,7 +27716,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2024-11-25T17:27:03+00:00",
+                "time": "2024-12-02T19:28:50+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -27798,7 +27822,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.73"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/4.5.x-2.5.x"
                 }
             },
             "dev-4.5.x-2.5.x-BAK": {
