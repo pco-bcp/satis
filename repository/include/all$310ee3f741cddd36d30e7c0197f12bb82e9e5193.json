@@ -1682,6 +1682,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.12"
                 }
             },
+            "2.4.13": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "2.4.13",
+                "version_normalized": "2.4.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "8873b5c2e0645fb0d2bbf8a143e2cee10854d78e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/8873b5c2e0645fb0d2bbf8a143e2cee10854d78e",
+                    "reference": "8873b5c2e0645fb0d2bbf8a143e2cee10854d78e",
+                    "shasum": ""
+                },
+                "time": "2024-12-02T19:28:55+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.13"
+                }
+            },
             "2.4.2": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "2.4.2",
@@ -2039,15 +2064,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "d643e602f4e90f2e8dbf30eddac5de09d32e0548"
+                    "reference": "8873b5c2e0645fb0d2bbf8a143e2cee10854d78e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/d643e602f4e90f2e8dbf30eddac5de09d32e0548",
-                    "reference": "d643e602f4e90f2e8dbf30eddac5de09d32e0548",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/8873b5c2e0645fb0d2bbf8a143e2cee10854d78e",
+                    "reference": "8873b5c2e0645fb0d2bbf8a143e2cee10854d78e",
                     "shasum": ""
                 },
-                "time": "2024-11-25T15:27:02+00:00",
+                "time": "2024-12-02T19:28:55+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -2055,7 +2080,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.12"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.13"
                 }
             },
             "dev-524--fix-wcag-contrast-of-text-against-bg-2024-10-21": {
@@ -2381,31 +2406,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/641-batch-updates"
-                }
-            },
-            "dev-665-tfa-email-css": {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-665-tfa-email-css",
-                "version_normalized": "dev-665-tfa-email-css",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "634e33891713f2c8ca917392386d6b99b1f15ced"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/634e33891713f2c8ca917392386d6b99b1f15ced",
-                    "reference": "634e33891713f2c8ca917392386d6b99b1f15ced",
-                    "shasum": ""
-                },
-                "time": "2024-12-02T19:25:57+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/665-tfa-email-css"
                 }
             }
         },
