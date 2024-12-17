@@ -2490,15 +2490,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "f1a59a3de8984eaf34ee5031f6f71096c7478f90"
+                    "reference": "cd1663b350d18a3eda06acc825e1d62df57abc74"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/f1a59a3de8984eaf34ee5031f6f71096c7478f90",
-                    "reference": "f1a59a3de8984eaf34ee5031f6f71096c7478f90",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/cd1663b350d18a3eda06acc825e1d62df57abc74",
+                    "reference": "cd1663b350d18a3eda06acc825e1d62df57abc74",
                     "shasum": ""
                 },
-                "time": "2024-12-16T23:32:56+00:00",
+                "time": "2024-12-17T21:06:36+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -30763,12 +30763,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "bdf5788a29ecef98de424e1079a298564f80ca44"
+                    "reference": "aa337cf5b256726897da18338d086318ed07d22c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/bdf5788a29ecef98de424e1079a298564f80ca44",
-                    "reference": "bdf5788a29ecef98de424e1079a298564f80ca44",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/aa337cf5b256726897da18338d086318ed07d22c",
+                    "reference": "aa337cf5b256726897da18338d086318ed07d22c",
                     "shasum": ""
                 },
                 "require": {
@@ -30806,6 +30806,7 @@
                     "drupal/scheduled_updates": "dev-3172330-module-is-not",
                     "drupal/search_api": "1.27.0 as 1.26.0",
                     "drupal/seckit": "^2.0",
+                    "drupal/security_review": "^2.0",
                     "drupal/simple_oauth": "^5.2",
                     "drupal/simple_sitemap": "^3.8",
                     "drupal/upgrade_status": "^3.14",
@@ -30830,7 +30831,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2024-12-16T23:30:49+00:00",
+                "time": "2024-12-17T21:09:02+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
@@ -30893,6 +30894,9 @@
                         },
                         "drupal/restrict_role_login_by_ip": {
                             "Fix Header Check and foreach() argument must be of type array error": "https://gist.githubusercontent.com/dlatifa/e9fdccfa56f68edf8f998e6949195143/raw/a035f4c4c77ffe0b23f9cdd6a6bb7039dbcdcc10/fix-header-check-restrict-role-login-by-ip.patch"
+                        },
+                        "drupal/security_review": {
+                            "review check titled 'Unsafe file extensions are allowed in uploads' - clicking details gives WSOD.": "https://www.drupal.org/files/issues/2023-06-16/hush-known-risky-extensions-3338061-3.patch"
                         }
                     },
                     "patches-ignore": {
