@@ -304,6 +304,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-661-youtube-cron-job-pm-video-module",
+                "version_normalized": "dev-661-youtube-cron-job-pm-video-module",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "56f7f6a0921df6dac86e9a8d6721377226e6e087"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/56f7f6a0921df6dac86e9a8d6721377226e6e087",
+                    "reference": "56f7f6a0921df6dac86e9a8d6721377226e6e087",
+                    "shasum": ""
+                },
+                "time": "2024-12-20T19:02:23+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/661-youtube-cron-job-pm-video-module"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
                 "version_normalized": "dev-99-es6-conversion-for-pm_photo",
                 "source": {
