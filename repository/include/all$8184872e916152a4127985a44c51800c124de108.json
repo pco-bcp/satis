@@ -6265,6 +6265,99 @@
                     "source": "https://github.com/pco-bcp/pco_cities/tree/2.5.19"
                 }
             },
+            "dev-4.5.x-2.6.x": {
+                "name": "pco-bcp/pco_cities",
+                "version": "dev-4.5.x-2.6.x",
+                "version_normalized": "dev-4.5.x-2.6.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_cities.git",
+                    "reference": "1fd1c1a586ff2eecaf584296f671418cce726b8a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/1fd1c1a586ff2eecaf584296f671418cce726b8a",
+                    "reference": "1fd1c1a586ff2eecaf584296f671418cce726b8a",
+                    "shasum": ""
+                },
+                "require": {
+                    "cweagans/composer-patches": "^1.6.4",
+                    "drupal/core-composer-scaffold": "*",
+                    "drupal/mailgun": "^1.0",
+                    "drupalwxt/wxt": "4.5.4",
+                    "drush/drush": ">=9.7",
+                    "pco-bcp/impact_bootstrap": "^2.4"
+                },
+                "time": "2024-12-23T19:23:55+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/4.5.x-2.6.x"
+                }
+            },
             "dev-534-challenge-page-titles": {
                 "name": "pco-bcp/pco_cities",
                 "version": "dev-534-challenge-page-titles",
