@@ -2490,15 +2490,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "b44bf0e38bdb94458f2fa62d788081629e358e1e"
+                    "reference": "2c44ae1062504944f279bd9e8148a7f879bea08a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/b44bf0e38bdb94458f2fa62d788081629e358e1e",
-                    "reference": "b44bf0e38bdb94458f2fa62d788081629e358e1e",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/2c44ae1062504944f279bd9e8148a7f879bea08a",
+                    "reference": "2c44ae1062504944f279bd9e8148a7f879bea08a",
                     "shasum": ""
                 },
-                "time": "2024-12-19T19:04:15+00:00",
+                "time": "2025-01-06T23:02:45+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -31160,12 +31160,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "c513226b2d032cf6ce57fc756477a63ccdd972f8"
+                    "reference": "5fc34b8d12bc4184e75f666be1a329c4763f21f4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/c513226b2d032cf6ce57fc756477a63ccdd972f8",
-                    "reference": "c513226b2d032cf6ce57fc756477a63ccdd972f8",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/5fc34b8d12bc4184e75f666be1a329c4763f21f4",
+                    "reference": "5fc34b8d12bc4184e75f666be1a329c4763f21f4",
                     "shasum": ""
                 },
                 "require": {
@@ -31228,7 +31228,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2024-12-19T19:06:17+00:00",
+                "time": "2025-01-06T23:01:15+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
