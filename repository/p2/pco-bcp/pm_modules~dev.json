@@ -304,6 +304,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-661-add-proxy-settings-to-pm_video_cron-2025-01-06",
+                "version_normalized": "dev-661-add-proxy-settings-to-pm_video_cron-2025-01-06",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "5b7e7012ace0ce5332798ca9d7686eee7e2cb079"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5b7e7012ace0ce5332798ca9d7686eee7e2cb079",
+                    "reference": "5b7e7012ace0ce5332798ca9d7686eee7e2cb079",
+                    "shasum": ""
+                },
+                "time": "2025-01-07T19:18:11+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/661-add-proxy-settings-to-pm_video_cron-2025-01-06"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
                 "version_normalized": "dev-99-es6-conversion-for-pm_photo",
                 "source": {
