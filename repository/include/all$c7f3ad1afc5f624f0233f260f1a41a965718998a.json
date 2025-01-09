@@ -8342,15 +8342,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "874a3c4019208939f0af8e3ceb832bc79e26b2ef"
+                    "reference": "9e8130a31f6ce2ac44603e1252641959571962b9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/874a3c4019208939f0af8e3ceb832bc79e26b2ef",
-                    "reference": "874a3c4019208939f0af8e3ceb832bc79e26b2ef",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9e8130a31f6ce2ac44603e1252641959571962b9",
+                    "reference": "9e8130a31f6ce2ac44603e1252641959571962b9",
                     "shasum": ""
                 },
-                "time": "2024-12-30T18:22:45+00:00",
+                "time": "2025-01-09T19:16:24+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -8358,7 +8358,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.11"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.x"
                 }
             },
             "dev-222--pm-cron-d-check": {
@@ -8609,31 +8609,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/545--fix-french-accents-drupal-message-when-sending-forms"
-                }
-            },
-            "dev-661-add-proxy-settings-to-pm_video_cron-2025-01-06": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-661-add-proxy-settings-to-pm_video_cron-2025-01-06",
-                "version_normalized": "dev-661-add-proxy-settings-to-pm_video_cron-2025-01-06",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "5b7e7012ace0ce5332798ca9d7686eee7e2cb079"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5b7e7012ace0ce5332798ca9d7686eee7e2cb079",
-                    "reference": "5b7e7012ace0ce5332798ca9d7686eee7e2cb079",
-                    "shasum": ""
-                },
-                "time": "2025-01-07T19:18:11+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/661-add-proxy-settings-to-pm_video_cron-2025-01-06"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
