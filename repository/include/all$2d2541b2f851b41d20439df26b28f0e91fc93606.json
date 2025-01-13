@@ -9570,15 +9570,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "6e2dca71c738fa629ff933d771d7c5735f9beb76"
+                    "reference": "62b404ebc6c70f1ce38818754d30facdd20d3377"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6e2dca71c738fa629ff933d771d7c5735f9beb76",
-                    "reference": "6e2dca71c738fa629ff933d771d7c5735f9beb76",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/62b404ebc6c70f1ce38818754d30facdd20d3377",
+                    "reference": "62b404ebc6c70f1ce38818754d30facdd20d3377",
                     "shasum": ""
                 },
-                "time": "2024-11-29T18:25:08+00:00",
+                "time": "2025-01-13T15:14:41+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -9586,7 +9586,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.17"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
@@ -9787,31 +9787,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
-            },
-            "dev-698-change-position-of-image-in-news-articles-2025-01-11": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-698-change-position-of-image-in-news-articles-2025-01-11",
-                "version_normalized": "dev-698-change-position-of-image-in-news-articles-2025-01-11",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d9daec3896c1d9d81932aa44cd6796004706a88f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d9daec3896c1d9d81932aa44cd6796004706a88f",
-                    "reference": "d9daec3896c1d9d81932aa44cd6796004706a88f",
-                    "shasum": ""
-                },
-                "time": "2025-01-13T13:07:34+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/698-change-position-of-image-in-news-articles-2025-01-11"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
