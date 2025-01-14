@@ -179,8 +179,8 @@
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-4.4.x-2.5.x",
-                "version_normalized": "dev-4.4.x-2.5.x",
+                "version": "dev-4.5.x-2.6.x",
+                "version_normalized": "dev-4.5.x-2.6.x",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
