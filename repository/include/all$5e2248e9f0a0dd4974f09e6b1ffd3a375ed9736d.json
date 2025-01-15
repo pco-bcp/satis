@@ -9481,6 +9481,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.17"
                 }
             },
+            "2.0.18": {
+                "name": "pco-bcp/pm_theme",
+                "version": "2.0.18",
+                "version_normalized": "2.0.18.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "62b404ebc6c70f1ce38818754d30facdd20d3377"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/62b404ebc6c70f1ce38818754d30facdd20d3377",
+                    "reference": "62b404ebc6c70f1ce38818754d30facdd20d3377",
+                    "shasum": ""
+                },
+                "time": "2025-01-13T15:14:41+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.18"
+                }
+            },
             "2.0.2": {
                 "name": "pco-bcp/pm_theme",
                 "version": "2.0.2",
@@ -9704,7 +9729,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.x"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.18"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
@@ -31464,12 +31489,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "e895b7dbde3a03620872f90f9975b99b258aca74"
+                    "reference": "b83f1232b5723e7fdb63a2e4598b5a8265e09b2f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/e895b7dbde3a03620872f90f9975b99b258aca74",
-                    "reference": "e895b7dbde3a03620872f90f9975b99b258aca74",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/b83f1232b5723e7fdb63a2e4598b5a8265e09b2f",
+                    "reference": "b83f1232b5723e7fdb63a2e4598b5a8265e09b2f",
                     "shasum": ""
                 },
                 "require": {
@@ -31532,7 +31557,7 @@
                     "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2025-01-09T21:14:03+00:00",
+                "time": "2025-01-14T21:06:22+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
