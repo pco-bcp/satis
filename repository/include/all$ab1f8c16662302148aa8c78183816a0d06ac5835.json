@@ -2557,6 +2557,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/680-theme-google-charting"
                 }
+            },
+            "dev-695-d10-drupalcheck-deprecations": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-695-d10-drupalcheck-deprecations",
+                "version_normalized": "dev-695-d10-drupalcheck-deprecations",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "b473a40e4085f2a994ab584ca953e80d09da28ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/b473a40e4085f2a994ab584ca953e80d09da28ea",
+                    "reference": "b473a40e4085f2a994ab584ca953e80d09da28ea",
+                    "shasum": ""
+                },
+                "time": "2025-01-20T19:45:07+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
+                }
             }
         },
         "pco-bcp/pco_cities": {
