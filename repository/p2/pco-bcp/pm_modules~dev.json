@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "4.x-dev",
+                "version_normalized": "4.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "9e8130a31f6ce2ac44603e1252641959571962b9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9e8130a31f6ce2ac44603e1252641959571962b9",
+                    "reference": "9e8130a31f6ce2ac44603e1252641959571962b9",
+                    "shasum": ""
+                },
+                "time": "2025-01-09T19:16:24+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.12"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {

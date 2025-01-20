@@ -54,6 +54,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "4.x-dev",
+                "version_normalized": "4.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "62b404ebc6c70f1ce38818754d30facdd20d3377"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/62b404ebc6c70f1ce38818754d30facdd20d3377",
+                    "reference": "62b404ebc6c70f1ce38818754d30facdd20d3377",
+                    "shasum": ""
+                },
+                "time": "2025-01-13T15:14:41+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.18"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "version_normalized": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "source": {
