@@ -59,22 +59,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "9e8130a31f6ce2ac44603e1252641959571962b9"
+                    "reference": "677907928f9fe2ff3b0c29c4ba9c1f7f1fb1483e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9e8130a31f6ce2ac44603e1252641959571962b9",
-                    "reference": "9e8130a31f6ce2ac44603e1252641959571962b9",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/677907928f9fe2ff3b0c29c4ba9c1f7f1fb1483e",
+                    "reference": "677907928f9fe2ff3b0c29c4ba9c1f7f1fb1483e",
                     "shasum": ""
                 },
-                "time": "2025-01-09T19:16:24+00:00",
+                "time": "2025-01-22T21:17:59+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.12"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.x"
                 }
             },
             {
@@ -325,31 +325,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/545--fix-french-accents-drupal-message-when-sending-forms"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-702--fix-photos-are-not-showing-2024-01-20",
-                "version_normalized": "dev-702--fix-photos-are-not-showing-2024-01-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "9bfb85c7fd58c1da14a6c251aec92001e6bf392c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9bfb85c7fd58c1da14a6c251aec92001e6bf392c",
-                    "reference": "9bfb85c7fd58c1da14a6c251aec92001e6bf392c",
-                    "shasum": ""
-                },
-                "time": "2025-01-20T21:43:14+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/702--fix-photos-are-not-showing-2024-01-20"
                 }
             },
             {
