@@ -3453,12 +3453,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "f80ec190cc5d328d080813ca766369ecf6e0b325"
+                    "reference": "5e2dadb5009f168f675689bf7479189e20d6929f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/f80ec190cc5d328d080813ca766369ecf6e0b325",
-                    "reference": "f80ec190cc5d328d080813ca766369ecf6e0b325",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/5e2dadb5009f168f675689bf7479189e20d6929f",
+                    "reference": "5e2dadb5009f168f675689bf7479189e20d6929f",
                     "shasum": ""
                 },
                 "require": {
@@ -3516,12 +3516,11 @@
                     "drupal/drupal-extension": "^4.1.0",
                     "mglaman/drupal-check": "^1.4",
                     "oomphinc/composer-installers-extender": "^1.1 || ^2",
-                    "palantirnet/drupal-rector": "^0.15.1",
+                    "palantirnet/drupal-rector": "^0.20.3",
                     "phpspec/prophecy-phpunit": "^2",
-                    "rector/rector": "~0.15.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2025-01-17T13:42:15+00:00",
+                "time": "2025-01-23T19:14:34+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -3630,7 +3629,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/2.5.83"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/4.5.x-2.5.x"
                 }
             },
             {
