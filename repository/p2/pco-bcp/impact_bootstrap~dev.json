@@ -554,6 +554,31 @@
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-695-d10-d-check-deprecations",
+                "version_normalized": "dev-695-d10-d-check-deprecations",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "654b9257c3134e2e6dd875483049c838407747c3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/654b9257c3134e2e6dd875483049c838407747c3",
+                    "reference": "654b9257c3134e2e6dd875483049c838407747c3",
+                    "shasum": ""
+                },
+                "time": "2025-01-24T20:13:33+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-d-check-deprecations"
+                }
+            },
+            {
+                "name": "pco-bcp/impact_bootstrap",
                 "version": "dev-695-d10-drupalcheck-deprecations",
                 "version_normalized": "dev-695-d10-drupalcheck-deprecations",
                 "source": {
