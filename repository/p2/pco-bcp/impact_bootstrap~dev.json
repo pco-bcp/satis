@@ -174,7 +174,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.4.x-2.4.x"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.16"
                 }
             },
             {

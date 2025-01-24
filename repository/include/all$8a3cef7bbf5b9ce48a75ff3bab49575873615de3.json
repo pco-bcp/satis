@@ -1782,6 +1782,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.15"
                 }
             },
+            "2.4.16": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "2.4.16",
+                "version_normalized": "2.4.16.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "11fb990bd663a438b911543dace0b1f956b8ed3d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/11fb990bd663a438b911543dace0b1f956b8ed3d",
+                    "reference": "11fb990bd663a438b911543dace0b1f956b8ed3d",
+                    "shasum": ""
+                },
+                "time": "2025-01-24T14:55:05+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.16"
+                }
+            },
             "2.4.2": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "2.4.2",
@@ -2155,7 +2180,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.4.x-2.4.x"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.16"
                 }
             },
             "dev-4.5.x-2.6.x": {
