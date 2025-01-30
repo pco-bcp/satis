@@ -2190,22 +2190,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "c161c02bbbb387ac708a934059b7e0e48be4f36d"
+                    "reference": "cd6117ebf497b7f822b0ec3ff1f143044b07dc7d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/c161c02bbbb387ac708a934059b7e0e48be4f36d",
-                    "reference": "c161c02bbbb387ac708a934059b7e0e48be4f36d",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/cd6117ebf497b7f822b0ec3ff1f143044b07dc7d",
+                    "reference": "cd6117ebf497b7f822b0ec3ff1f143044b07dc7d",
                     "shasum": ""
                 },
-                "time": "2024-12-06T19:48:04+00:00",
+                "time": "2025-01-30T20:22:09+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.4.15"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.5.x-2.6.x"
                 }
             },
             "dev-524--fix-wcag-contrast-of-text-against-bg-2024-10-21": {
@@ -2540,15 +2540,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "9efcaae9e9e2646767f946b746df5a7afb65bd66"
+                    "reference": "c41f968bad2187bb8e84ec367627e80cc12ccf7d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/9efcaae9e9e2646767f946b746df5a7afb65bd66",
-                    "reference": "9efcaae9e9e2646767f946b746df5a7afb65bd66",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/c41f968bad2187bb8e84ec367627e80cc12ccf7d",
+                    "reference": "c41f968bad2187bb8e84ec367627e80cc12ccf7d",
                     "shasum": ""
                 },
-                "time": "2025-01-30T02:24:08+00:00",
+                "time": "2025-01-30T20:22:18+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
