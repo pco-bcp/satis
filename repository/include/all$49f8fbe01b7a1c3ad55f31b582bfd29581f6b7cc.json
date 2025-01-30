@@ -6410,18 +6410,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "ebca1b6205ab33cf768d56762606d474ed721af0"
+                    "reference": "daea84ee045765e503f9f54714ba2762bc303bc3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/ebca1b6205ab33cf768d56762606d474ed721af0",
-                    "reference": "ebca1b6205ab33cf768d56762606d474ed721af0",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/daea84ee045765e503f9f54714ba2762bc303bc3",
+                    "reference": "daea84ee045765e503f9f54714ba2762bc303bc3",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "4.5.4"
                 },
-                "time": "2025-01-23T20:34:18+00:00",
+                "time": "2025-01-30T20:09:34+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -6582,99 +6582,6 @@
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/534-challenge-page-titles"
-                }
-            },
-            "dev-695-rector-fixes": {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-695-rector-fixes",
-                "version_normalized": "dev-695-rector-fixes",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "00cf480fbba0b1f0fa697030260f1cfd82a08396"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/00cf480fbba0b1f0fa697030260f1cfd82a08396",
-                    "reference": "00cf480fbba0b1f0fa697030260f1cfd82a08396",
-                    "shasum": ""
-                },
-                "require": {
-                    "cweagans/composer-patches": "^1.6.4",
-                    "drupal/core-composer-scaffold": "*",
-                    "drupal/mailgun": "^1.0",
-                    "drupalwxt/wxt": "4.5.4",
-                    "drush/drush": ">=9.7",
-                    "pco-bcp/impact_bootstrap": "^2.4"
-                },
-                "time": "2025-01-30T18:30:05+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/695-rector-fixes"
                 }
             },
             "dev-7-phpcs-cleanup": {
