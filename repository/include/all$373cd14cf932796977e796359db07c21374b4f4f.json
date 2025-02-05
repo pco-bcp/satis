@@ -6615,18 +6615,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "daea84ee045765e503f9f54714ba2762bc303bc3"
+                    "reference": "b1ad0726bc1db36c012ad4177ccca9951c64caa0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/daea84ee045765e503f9f54714ba2762bc303bc3",
-                    "reference": "daea84ee045765e503f9f54714ba2762bc303bc3",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/b1ad0726bc1db36c012ad4177ccca9951c64caa0",
+                    "reference": "b1ad0726bc1db36c012ad4177ccca9951c64caa0",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "4.5.4"
                 },
-                "time": "2025-01-30T20:09:34+00:00",
+                "time": "2025-02-05T19:51:15+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -6694,7 +6694,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/2.6.1"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/4.5.x-2.6.x"
                 }
             },
             "dev-5.2.x-3.0.x": {
@@ -6969,94 +6969,6 @@
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/7-phpcs-cleanup"
-                }
-            },
-            "dev-716-webform-url-fix": {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-716-webform-url-fix",
-                "version_normalized": "dev-716-webform-url-fix",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "c913812fd47363a4348c06734f65dd6e3f09fac3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/c913812fd47363a4348c06734f65dd6e3f09fac3",
-                    "reference": "c913812fd47363a4348c06734f65dd6e3f09fac3",
-                    "shasum": ""
-                },
-                "require": {
-                    "drupalwxt/wxt": "4.5.4"
-                },
-                "time": "2025-02-05T19:40:55+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/716-webform-url-fix"
                 }
             },
             "dev-pco-bcp/issues+185-new-challenges-module": {
