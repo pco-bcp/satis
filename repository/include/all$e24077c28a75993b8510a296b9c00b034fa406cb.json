@@ -6615,18 +6615,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "b1ad0726bc1db36c012ad4177ccca9951c64caa0"
+                    "reference": "5eff809a26dfe03ee6e18d268f7d8024db54392e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/b1ad0726bc1db36c012ad4177ccca9951c64caa0",
-                    "reference": "b1ad0726bc1db36c012ad4177ccca9951c64caa0",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/5eff809a26dfe03ee6e18d268f7d8024db54392e",
+                    "reference": "5eff809a26dfe03ee6e18d268f7d8024db54392e",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "4.5.4"
                 },
-                "time": "2025-02-05T19:51:15+00:00",
+                "time": "2025-02-06T15:36:13+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
