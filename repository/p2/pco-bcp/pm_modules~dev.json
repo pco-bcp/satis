@@ -329,6 +329,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-706--fix-deprecated-function-2025-01-31",
+                "version_normalized": "dev-706--fix-deprecated-function-2025-01-31",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "bfad08f712f045f992b191004890c0c39da54a5c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/bfad08f712f045f992b191004890c0c39da54a5c",
+                    "reference": "bfad08f712f045f992b191004890c0c39da54a5c",
+                    "shasum": ""
+                },
+                "time": "2025-02-07T02:45:05+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/706--fix-deprecated-function-2025-01-31"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
                 "version_normalized": "dev-99-es6-conversion-for-pm_photo",
                 "source": {
