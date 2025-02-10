@@ -1042,7 +1042,6 @@
                     "drupalwxt/wxt": "4.5.4"
                 },
                 "time": "2025-02-06T15:36:13+00:00",
-                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -1219,6 +1218,7 @@
                     "drupalwxt/wxt": "5.4.0"
                 },
                 "time": "2025-02-07T23:05:50+00:00",
+                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -1285,7 +1285,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/5.4.x-3.1.x"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.0"
                 }
             },
             {
