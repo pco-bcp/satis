@@ -4665,12 +4665,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "12c63b69f3b53aab89a008852e77da09c85cd107"
+                    "reference": "9d602a007c804be8f8b18ec5e1df10acb3e7ba52"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/12c63b69f3b53aab89a008852e77da09c85cd107",
-                    "reference": "12c63b69f3b53aab89a008852e77da09c85cd107",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/9d602a007c804be8f8b18ec5e1df10acb3e7ba52",
+                    "reference": "9d602a007c804be8f8b18ec5e1df10acb3e7ba52",
                     "shasum": ""
                 },
                 "require": {
@@ -4739,7 +4739,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2025-02-11T21:26:33+00:00",
+                "time": "2025-02-12T16:07:00+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -4787,10 +4787,10 @@
                     },
                     "patches": {
                         "drupal/core": {
-                            "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2021-10-13/2921627-71.patch",
+                            "2921627 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2023-06-22/2921627-84.patch",
                             "Error after saving node drupal 8.7 issue": "https://www.drupal.org/files/issues/2019-02-11/ignore_width_height_on_untranslatable_field_comparision_2941092_8.patch",
                             "str_replace patch": "https://www.drupal.org/files/issues/2022-07-07/3294680-2.patch",
-                            "3266057": "https://www.drupal.org/files/issues/2023-11-30/3266057-120.patch"
+                            "3266057": "https://www.drupal.org/files/issues/2024-11-22/3266057-134.patch"
                         },
                         "drupal/seven": {
                             "seven-admin-theme-add-metatag-for-mixed-content": "custom_patches/seven-admin-theme-add-metatag.patch"
@@ -4805,7 +4805,13 @@
                             "3338061; no longer needed for D10 compat version 3.0.0; remove in D10": "https://www.drupal.org/files/issues/2023-06-16/hush-known-risky-extensions-3338061-3.patch"
                         }
                     },
-                    "patches-ignore": []
+                    "patches-ignore": {
+                        "drupalwxt/wxt": {
+                            "drupal/entity_embed": {
+                                "3481413; wxt patch doesnt apply in d10 5.4.x-3.1.x because profiles/wxt/tests/src/Kernel/UpgradePathTest.php doesnt exist anymore in this version of wxt": "https://www.drupal.org/files/issues/2024-10-17/entity_embed-3481413.patch"
+                            }
+                        }
+                    }
                 },
                 "autoload": {
                     "classmap": [
@@ -4825,7 +4831,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/5.4.x-3.1.x"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/3.1.3"
                 }
             },
             {
