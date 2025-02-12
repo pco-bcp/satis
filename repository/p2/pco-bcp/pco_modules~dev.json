@@ -429,6 +429,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-708--fix-css-regression-greetings-2025-02-12",
+                "version_normalized": "dev-708--fix-css-regression-greetings-2025-02-12",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "dd7406fd24316dbf9e2c1058bb848c0cfa319b93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/dd7406fd24316dbf9e2c1058bb848c0cfa319b93",
+                    "reference": "dd7406fd24316dbf9e2c1058bb848c0cfa319b93",
+                    "shasum": ""
+                },
+                "time": "2025-02-12T13:41:35+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/708--fix-css-regression-greetings-2025-02-12"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {
