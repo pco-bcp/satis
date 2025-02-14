@@ -1206,18 +1206,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "2a3c13bf61a6cbe15a77410dcf46787823557aae"
+                    "reference": "a11a006b92353712071887d6796b7051166f0e79"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/2a3c13bf61a6cbe15a77410dcf46787823557aae",
-                    "reference": "2a3c13bf61a6cbe15a77410dcf46787823557aae",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/a11a006b92353712071887d6796b7051166f0e79",
+                    "reference": "a11a006b92353712071887d6796b7051166f0e79",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "5.4.0"
                 },
-                "time": "2025-02-13T16:05:19+00:00",
+                "time": "2025-02-14T15:23:48+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -1285,7 +1285,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.1"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/5.4.x-3.1.x"
                 }
             },
             {
@@ -1379,94 +1379,6 @@
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/534-challenge-page-titles"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-666-pcocities-drupalcheck-d10andd11-fixes",
-                "version_normalized": "dev-666-pcocities-drupalcheck-d10andd11-fixes",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "5db1e750ca71a64ee845ab665de288c7e289a41a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/5db1e750ca71a64ee845ab665de288c7e289a41a",
-                    "reference": "5db1e750ca71a64ee845ab665de288c7e289a41a",
-                    "shasum": ""
-                },
-                "require": {
-                    "drupalwxt/wxt": "5.4.0"
-                },
-                "time": "2025-02-13T22:14:10+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/666-pcocities-drupalcheck-d10andd11-fixes"
                 }
             },
             {
