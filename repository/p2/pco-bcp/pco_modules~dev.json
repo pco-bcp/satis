@@ -429,6 +429,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-722-envoke-mailouts",
+                "version_normalized": "dev-722-envoke-mailouts",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "0541157e65f6248d5d204dab3b4bad6c5bab9a84"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/0541157e65f6248d5d204dab3b4bad6c5bab9a84",
+                    "reference": "0541157e65f6248d5d204dab3b4bad6c5bab9a84",
+                    "shasum": ""
+                },
+                "time": "2025-02-17T13:37:14+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {
