@@ -1206,18 +1206,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "a11a006b92353712071887d6796b7051166f0e79"
+                    "reference": "d29f01a18618a780050a881cf8e8df2dba60aad3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/a11a006b92353712071887d6796b7051166f0e79",
-                    "reference": "a11a006b92353712071887d6796b7051166f0e79",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/d29f01a18618a780050a881cf8e8df2dba60aad3",
+                    "reference": "d29f01a18618a780050a881cf8e8df2dba60aad3",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "5.4.0"
                 },
-                "time": "2025-02-14T15:23:48+00:00",
+                "time": "2025-02-21T16:20:45+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -1472,94 +1472,6 @@
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/7-phpcs-cleanup"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-741-datatables-error-fix",
-                "version_normalized": "dev-741-datatables-error-fix",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "715a4ea7f771a5f6cbe0508edeab4451b2d1e237"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/715a4ea7f771a5f6cbe0508edeab4451b2d1e237",
-                    "reference": "715a4ea7f771a5f6cbe0508edeab4451b2d1e237",
-                    "shasum": ""
-                },
-                "require": {
-                    "drupalwxt/wxt": "5.4.0"
-                },
-                "time": "2025-02-20T15:53:01+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/741-datatables-error-fix"
                 }
             },
             {
