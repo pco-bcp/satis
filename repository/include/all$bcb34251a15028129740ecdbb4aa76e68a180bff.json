@@ -2107,6 +2107,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.1"
                 }
             },
+            "3.1.2": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "3.1.2",
+                "version_normalized": "3.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "51bbe5d57a26598d9a4478334d81c451c7b6904c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/51bbe5d57a26598d9a4478334d81c451c7b6904c",
+                    "reference": "51bbe5d57a26598d9a4478334d81c451c7b6904c",
+                    "shasum": ""
+                },
+                "time": "2025-02-21T16:20:38+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.2"
+                }
+            },
             "dev-24-upgrade-to-drupal-10": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "dev-24-upgrade-to-drupal-10",
@@ -2330,7 +2355,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/5.4.x-3.1.x"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.2"
                 }
             },
             "dev-524--fix-wcag-contrast-of-text-against-bg-2024-10-21": {
@@ -6013,6 +6038,94 @@
                     "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.1"
                 }
             },
+            "3.1.2": {
+                "name": "pco-bcp/pco_cities",
+                "version": "3.1.2",
+                "version_normalized": "3.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_cities.git",
+                    "reference": "d29f01a18618a780050a881cf8e8df2dba60aad3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/d29f01a18618a780050a881cf8e8df2dba60aad3",
+                    "reference": "d29f01a18618a780050a881cf8e8df2dba60aad3",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupalwxt/wxt": "5.4.0"
+                },
+                "time": "2025-02-21T16:20:45+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.2"
+                }
+            },
             "dev-24--update-to-last-4.5.x": {
                 "name": "pco-bcp/pco_cities",
                 "version": "dev-24--update-to-last-4.5.x",
@@ -7297,7 +7410,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/5.4.x-3.1.x"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.2"
                 }
             },
             "dev-534-challenge-page-titles": {

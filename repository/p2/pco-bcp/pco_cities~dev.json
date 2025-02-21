@@ -1285,7 +1285,7 @@
                 ],
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/5.4.x-3.1.x"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.2"
                 }
             },
             {
