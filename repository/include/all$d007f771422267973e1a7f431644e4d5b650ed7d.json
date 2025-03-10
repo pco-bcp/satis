@@ -8344,15 +8344,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a071a5fc256aa96eb8b488bdb8af1d8770a0bc23"
+                    "reference": "a7fbeb9a23ea4af0c94df149e46170bbbfec4d63"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a071a5fc256aa96eb8b488bdb8af1d8770a0bc23",
-                    "reference": "a071a5fc256aa96eb8b488bdb8af1d8770a0bc23",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a7fbeb9a23ea4af0c94df149e46170bbbfec4d63",
+                    "reference": "a7fbeb9a23ea4af0c94df149e46170bbbfec4d63",
                     "shasum": ""
                 },
-                "time": "2025-02-12T20:32:27+00:00",
+                "time": "2025-03-10T12:06:03+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -8360,7 +8360,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.0.0"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.x"
                 }
             },
             "dev-222-citation-d-check-fixes-2024-03-27": {
@@ -8711,31 +8711,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts"
-                }
-            },
-            "dev-752-fix-citation-plugin-2025-03-04": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-752-fix-citation-plugin-2025-03-04",
-                "version_normalized": "dev-752-fix-citation-plugin-2025-03-04",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "95f02bc440de017067db016806366b624e002b21"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/95f02bc440de017067db016806366b624e002b21",
-                    "reference": "95f02bc440de017067db016806366b624e002b21",
-                    "shasum": ""
-                },
-                "time": "2025-03-07T18:34:23+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/752-fix-citation-plugin-2025-03-04"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
