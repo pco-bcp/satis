@@ -9597,15 +9597,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "d8596ccf856f7fbbbf0257f1a6f5445a246a017b"
+                    "reference": "1eb21d5e6cb34bc00fb005248c7b38a3149fe65b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d8596ccf856f7fbbbf0257f1a6f5445a246a017b",
-                    "reference": "d8596ccf856f7fbbbf0257f1a6f5445a246a017b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1eb21d5e6cb34bc00fb005248c7b38a3149fe65b",
+                    "reference": "1eb21d5e6cb34bc00fb005248c7b38a3149fe65b",
                     "shasum": ""
                 },
-                "time": "2025-03-04T12:26:23+00:00",
+                "time": "2025-03-13T18:24:16+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -9613,7 +9613,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.0.1"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.x"
                 }
             },
             "dev-222--pm-cron-d-check": {
@@ -9914,31 +9914,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
-                }
-            },
-            "dev-761--update-New-PM-transition": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-761--update-New-PM-transition",
-                "version_normalized": "dev-761--update-New-PM-transition",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "10ac9093991045561385266817bf93c322cce53b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/10ac9093991045561385266817bf93c322cce53b",
-                    "reference": "10ac9093991045561385266817bf93c322cce53b",
-                    "shasum": ""
-                },
-                "time": "2025-03-13T17:52:51+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/761--update-New-PM-transition"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
