@@ -10950,15 +10950,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "62b404ebc6c70f1ce38818754d30facdd20d3377"
+                    "reference": "293ef1a62815e7e3427e95b9cfb482cf908dbe43"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/62b404ebc6c70f1ce38818754d30facdd20d3377",
-                    "reference": "62b404ebc6c70f1ce38818754d30facdd20d3377",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/293ef1a62815e7e3427e95b9cfb482cf908dbe43",
+                    "reference": "293ef1a62815e7e3427e95b9cfb482cf908dbe43",
                     "shasum": ""
                 },
-                "time": "2025-01-13T15:14:41+00:00",
+                "time": "2025-03-13T14:27:58+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -10966,7 +10966,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.0"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.x"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
@@ -11242,31 +11242,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            "dev-banner-with-MC-2025-03-13": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-banner-with-MC-2025-03-13",
-                "version_normalized": "dev-banner-with-MC-2025-03-13",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "353d31271a51bbe4ee677d38bf877ee15b005ae8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/353d31271a51bbe4ee677d38bf877ee15b005ae8",
-                    "reference": "353d31271a51bbe4ee677d38bf877ee15b005ae8",
-                    "shasum": ""
-                },
-                "time": "2025-03-13T14:10:58+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/banner-with-MC-2025-03-13"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
