@@ -11194,6 +11194,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/746--fix-indent-nested-list-2025-02-21"
                 }
             },
+            "dev-750--fix-regression-photoswipe-share-2025-03-07": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-750--fix-regression-photoswipe-share-2025-03-07",
+                "version_normalized": "dev-750--fix-regression-photoswipe-share-2025-03-07",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "55890cbb03c7b94e60b5fbd1381ab87a60581991"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/55890cbb03c7b94e60b5fbd1381ab87a60581991",
+                    "reference": "55890cbb03c7b94e60b5fbd1381ab87a60581991",
+                    "shasum": ""
+                },
+                "time": "2025-03-13T03:08:48+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/750--fix-regression-photoswipe-share-2025-03-07"
+                }
+            },
             "dev-751--update-new-header-design-2025-02-25": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-751--update-new-header-design-2025-02-25",
