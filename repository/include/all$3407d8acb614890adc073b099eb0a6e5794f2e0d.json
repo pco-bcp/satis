@@ -9941,6 +9941,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
                 }
             },
+            "dev-763-sync-prod-changes-2025-03-17": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-763-sync-prod-changes-2025-03-17",
+                "version_normalized": "dev-763-sync-prod-changes-2025-03-17",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "2ca1583293cf525aae429f47275a3694838d78b4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2ca1583293cf525aae429f47275a3694838d78b4",
+                    "reference": "2ca1583293cf525aae429f47275a3694838d78b4",
+                    "shasum": ""
+                },
+                "time": "2025-03-18T18:41:51+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/763-sync-prod-changes-2025-03-17"
+                }
+            },
             "dev-99-es6-conversion-for-pm_photo": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
