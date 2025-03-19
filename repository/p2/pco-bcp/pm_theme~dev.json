@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "472823dfed2e91bd71346349a125f4923c550c6d"
+                    "reference": "aa3691596d311fb41e21830d77955d9df1d67dcd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/472823dfed2e91bd71346349a125f4923c550c6d",
-                    "reference": "472823dfed2e91bd71346349a125f4923c550c6d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/aa3691596d311fb41e21830d77955d9df1d67dcd",
+                    "reference": "aa3691596d311fb41e21830d77955d9df1d67dcd",
                     "shasum": ""
                 },
-                "time": "2025-03-19T15:43:12+00:00",
+                "time": "2025-03-19T18:50:20+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -350,31 +350,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-766--fix-display-search-popup-2025-03-20",
-                "version_normalized": "dev-766--fix-display-search-popup-2025-03-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "46529c7edcc9da4a653385f46abe47a02626c4dd"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/46529c7edcc9da4a653385f46abe47a02626c4dd",
-                    "reference": "46529c7edcc9da4a653385f46abe47a02626c4dd",
-                    "shasum": ""
-                },
-                "time": "2025-03-19T17:03:12+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/766--fix-display-search-popup-2025-03-20"
                 }
             },
             {
