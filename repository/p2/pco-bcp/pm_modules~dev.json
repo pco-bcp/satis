@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "1eb21d5e6cb34bc00fb005248c7b38a3149fe65b"
+                    "reference": "764f8d33e134a7ec07edd8173c242719a80d01ed"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1eb21d5e6cb34bc00fb005248c7b38a3149fe65b",
-                    "reference": "1eb21d5e6cb34bc00fb005248c7b38a3149fe65b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/764f8d33e134a7ec07edd8173c242719a80d01ed",
+                    "reference": "764f8d33e134a7ec07edd8173c242719a80d01ed",
                     "shasum": ""
                 },
-                "time": "2025-03-13T18:24:16+00:00",
+                "time": "2025-03-19T15:18:57+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.0.2"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.x"
                 }
             },
             {
@@ -375,56 +375,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-763-sync-prod-changes-2025-03-17",
-                "version_normalized": "dev-763-sync-prod-changes-2025-03-17",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2ca1583293cf525aae429f47275a3694838d78b4"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2ca1583293cf525aae429f47275a3694838d78b4",
-                    "reference": "2ca1583293cf525aae429f47275a3694838d78b4",
-                    "shasum": ""
-                },
-                "time": "2025-03-18T18:41:51+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/763-sync-prod-changes-2025-03-17"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-769--cleanup-old-revision_photo-videos-articles-2025-03-18",
-                "version_normalized": "dev-769--cleanup-old-revision_photo-videos-articles-2025-03-18",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "a8cea1d15230a665753fdbd5d4e19ce2f982b94b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a8cea1d15230a665753fdbd5d4e19ce2f982b94b",
-                    "reference": "a8cea1d15230a665753fdbd5d4e19ce2f982b94b",
-                    "shasum": ""
-                },
-                "time": "2025-03-19T15:10:02+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/769--cleanup-old-revision_photo-videos-articles-2025-03-18"
                 }
             },
             {
