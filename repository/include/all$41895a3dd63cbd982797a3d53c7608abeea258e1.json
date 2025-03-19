@@ -9966,6 +9966,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/763-sync-prod-changes-2025-03-17"
                 }
             },
+            "dev-769--cleanup-old-revision_photo-videos-articles-2025-03-18": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-769--cleanup-old-revision_photo-videos-articles-2025-03-18",
+                "version_normalized": "dev-769--cleanup-old-revision_photo-videos-articles-2025-03-18",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "c2df05a93c351c13ec769143a5c7f2f07ea57ae2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c2df05a93c351c13ec769143a5c7f2f07ea57ae2",
+                    "reference": "c2df05a93c351c13ec769143a5c7f2f07ea57ae2",
+                    "shasum": ""
+                },
+                "time": "2025-03-19T11:59:56+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/769--cleanup-old-revision_photo-videos-articles-2025-03-18"
+                }
+            },
             "dev-99-es6-conversion-for-pm_photo": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
