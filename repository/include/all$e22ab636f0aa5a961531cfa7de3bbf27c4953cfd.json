@@ -11000,15 +11000,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "293ef1a62815e7e3427e95b9cfb482cf908dbe43"
+                    "reference": "472823dfed2e91bd71346349a125f4923c550c6d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/293ef1a62815e7e3427e95b9cfb482cf908dbe43",
-                    "reference": "293ef1a62815e7e3427e95b9cfb482cf908dbe43",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/472823dfed2e91bd71346349a125f4923c550c6d",
+                    "reference": "472823dfed2e91bd71346349a125f4923c550c6d",
                     "shasum": ""
                 },
-                "time": "2025-03-13T14:27:58+00:00",
+                "time": "2025-03-19T15:43:12+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -11016,7 +11016,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.1"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.x"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
@@ -11292,31 +11292,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            "dev-763-sync-prod-changes-2025-03-17": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-763-sync-prod-changes-2025-03-17",
-                "version_normalized": "dev-763-sync-prod-changes-2025-03-17",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "0a2a25f9d20b4a012835f17895de80e37f9a877c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0a2a25f9d20b4a012835f17895de80e37f9a877c",
-                    "reference": "0a2a25f9d20b4a012835f17895de80e37f9a877c",
-                    "shasum": ""
-                },
-                "time": "2025-03-19T15:36:40+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/763-sync-prod-changes-2025-03-17"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
