@@ -11301,15 +11301,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ad9fbcaef26d4cbd1b5d5c0fe956043655034526"
+                    "reference": "0a2a25f9d20b4a012835f17895de80e37f9a877c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ad9fbcaef26d4cbd1b5d5c0fe956043655034526",
-                    "reference": "ad9fbcaef26d4cbd1b5d5c0fe956043655034526",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0a2a25f9d20b4a012835f17895de80e37f9a877c",
+                    "reference": "0a2a25f9d20b4a012835f17895de80e37f9a877c",
                     "shasum": ""
                 },
-                "time": "2025-03-17T18:11:52+00:00",
+                "time": "2025-03-19T15:36:40+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
