@@ -11432,6 +11432,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
                 }
             },
+            "dev-770--fix-sort-order-filter-back-2025-03-20": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-770--fix-sort-order-filter-back-2025-03-20",
+                "version_normalized": "dev-770--fix-sort-order-filter-back-2025-03-20",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "409d783afb0f680a14d29d65baf0e591f295844b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/409d783afb0f680a14d29d65baf0e591f295844b",
+                    "reference": "409d783afb0f680a14d29d65baf0e591f295844b",
+                    "shasum": ""
+                },
+                "time": "2025-03-20T20:46:18+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/770--fix-sort-order-filter-back-2025-03-20"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
