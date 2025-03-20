@@ -83,15 +83,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a7fbeb9a23ea4af0c94df149e46170bbbfec4d63"
+                    "reference": "4e251ec270ed1c09cf3c8f35f27d16b5b13848f8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a7fbeb9a23ea4af0c94df149e46170bbbfec4d63",
-                    "reference": "a7fbeb9a23ea4af0c94df149e46170bbbfec4d63",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4e251ec270ed1c09cf3c8f35f27d16b5b13848f8",
+                    "reference": "4e251ec270ed1c09cf3c8f35f27d16b5b13848f8",
                     "shasum": ""
                 },
-                "time": "2025-03-10T12:06:03+00:00",
+                "time": "2025-03-20T14:25:02+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -450,31 +450,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-752-fix-citation-plugin-2025-03-04",
-                "version_normalized": "dev-752-fix-citation-plugin-2025-03-04",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "1bda16a3a5352dd5cab2364036638fbf6905df3d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1bda16a3a5352dd5cab2364036638fbf6905df3d",
-                    "reference": "1bda16a3a5352dd5cab2364036638fbf6905df3d",
-                    "shasum": ""
-                },
-                "time": "2025-03-11T19:11:31+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/752-fix-citation-plugin-2025-03-04"
                 }
             },
             {
