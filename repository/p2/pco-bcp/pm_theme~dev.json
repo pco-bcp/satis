@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "aa3691596d311fb41e21830d77955d9df1d67dcd"
+                    "reference": "cd020a1409eb3ae7522a8e251247d419d73ab5ee"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/aa3691596d311fb41e21830d77955d9df1d67dcd",
-                    "reference": "aa3691596d311fb41e21830d77955d9df1d67dcd",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/cd020a1409eb3ae7522a8e251247d419d73ab5ee",
+                    "reference": "cd020a1409eb3ae7522a8e251247d419d73ab5ee",
                     "shasum": ""
                 },
-                "time": "2025-03-19T18:50:20+00:00",
+                "time": "2025-03-24T12:26:41+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.2"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.x"
                 }
             },
             {
@@ -350,31 +350,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-770--fix-sort-order-filter-back-2025-03-20",
-                "version_normalized": "dev-770--fix-sort-order-filter-back-2025-03-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "409d783afb0f680a14d29d65baf0e591f295844b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/409d783afb0f680a14d29d65baf0e591f295844b",
-                    "reference": "409d783afb0f680a14d29d65baf0e591f295844b",
-                    "shasum": ""
-                },
-                "time": "2025-03-20T20:46:18+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/770--fix-sort-order-filter-back-2025-03-20"
                 }
             },
             {
