@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "764f8d33e134a7ec07edd8173c242719a80d01ed"
+                    "reference": "a7ba52a7f0b9631a56a12514a693d1697e7400fc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/764f8d33e134a7ec07edd8173c242719a80d01ed",
-                    "reference": "764f8d33e134a7ec07edd8173c242719a80d01ed",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a7ba52a7f0b9631a56a12514a693d1697e7400fc",
+                    "reference": "a7ba52a7f0b9631a56a12514a693d1697e7400fc",
                     "shasum": ""
                 },
-                "time": "2025-03-19T15:18:57+00:00",
+                "time": "2025-03-26T20:29:51+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.0.3"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.x"
                 }
             },
             {
@@ -375,31 +375,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-773--fix-archived-node-feature-2025-03-24",
-                "version_normalized": "dev-773--fix-archived-node-feature-2025-03-24",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "86192a767997b7886918b58ade11b0998b331847"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/86192a767997b7886918b58ade11b0998b331847",
-                    "reference": "86192a767997b7886918b58ade11b0998b331847",
-                    "shasum": ""
-                },
-                "time": "2025-03-26T16:59:26+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/773--fix-archived-node-feature-2025-03-24"
                 }
             },
             {
