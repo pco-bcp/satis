@@ -11131,10 +11131,10 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.2"
                 }
             },
-            "4.0.4": {
+            "4.0.3": {
                 "name": "pco-bcp/pm_theme",
-                "version": "4.0.4",
-                "version_normalized": "4.0.4.0",
+                "version": "4.0.3",
+                "version_normalized": "4.0.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
@@ -11153,7 +11153,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.4"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.3"
                 }
             },
             "4.x-dev": {
@@ -11179,7 +11179,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.4"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.3"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
