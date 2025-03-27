@@ -11131,6 +11131,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.2"
                 }
             },
+            "4.0.4": {
+                "name": "pco-bcp/pm_theme",
+                "version": "4.0.4",
+                "version_normalized": "4.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "1b9289a56e52498ee08706be52c93dcc0be46c8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1b9289a56e52498ee08706be52c93dcc0be46c8f",
+                    "reference": "1b9289a56e52498ee08706be52c93dcc0be46c8f",
+                    "shasum": ""
+                },
+                "time": "2025-03-26T20:33:09+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.4"
+                }
+            },
             "4.x-dev": {
                 "name": "pco-bcp/pm_theme",
                 "version": "4.x-dev",
@@ -11138,15 +11163,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "cd020a1409eb3ae7522a8e251247d419d73ab5ee"
+                    "reference": "1b9289a56e52498ee08706be52c93dcc0be46c8f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/cd020a1409eb3ae7522a8e251247d419d73ab5ee",
-                    "reference": "cd020a1409eb3ae7522a8e251247d419d73ab5ee",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1b9289a56e52498ee08706be52c93dcc0be46c8f",
+                    "reference": "1b9289a56e52498ee08706be52c93dcc0be46c8f",
                     "shasum": ""
                 },
-                "time": "2025-03-24T12:26:41+00:00",
+                "time": "2025-03-26T20:33:09+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -11154,7 +11179,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.x"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.4"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
@@ -11430,31 +11455,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            "dev-773-archive-nodes": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-773-archive-nodes",
-                "version_normalized": "dev-773-archive-nodes",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "44c81c49483e9d0f900ed4bf70a8a5d586efc192"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/44c81c49483e9d0f900ed4bf70a8a5d586efc192",
-                    "reference": "44c81c49483e9d0f900ed4bf70a8a5d586efc192",
-                    "shasum": ""
-                },
-                "time": "2025-03-24T15:48:01+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/773-archive-nodes"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
