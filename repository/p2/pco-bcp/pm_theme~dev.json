@@ -354,6 +354,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-782-mobile-alert-archive",
+                "version_normalized": "dev-782-mobile-alert-archive",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "9d418236237819129dd863e460c428377c6ed13e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9d418236237819129dd863e460c428377c6ed13e",
+                    "reference": "9d418236237819129dd863e460c428377c6ed13e",
+                    "shasum": ""
+                },
+                "time": "2025-03-30T15:04:19+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/782-mobile-alert-archive"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
