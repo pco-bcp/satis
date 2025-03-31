@@ -11188,15 +11188,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ad7d83abc397718fb1ec61afb08090904807b347"
+                    "reference": "441b17d8c3d8d5746c88ec6e87921b8752d0451d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ad7d83abc397718fb1ec61afb08090904807b347",
-                    "reference": "ad7d83abc397718fb1ec61afb08090904807b347",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/441b17d8c3d8d5746c88ec6e87921b8752d0451d",
+                    "reference": "441b17d8c3d8d5746c88ec6e87921b8752d0451d",
                     "shasum": ""
                 },
-                "time": "2025-03-31T14:54:15+00:00",
+                "time": "2025-03-31T15:30:28+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -11480,31 +11480,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            "dev-784-remove-slogan": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-784-remove-slogan",
-                "version_normalized": "dev-784-remove-slogan",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "3853274bd0aefcefed3e205bc0baa09b5aba4231"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3853274bd0aefcefed3e205bc0baa09b5aba4231",
-                    "reference": "3853274bd0aefcefed3e205bc0baa09b5aba4231",
-                    "shasum": ""
-                },
-                "time": "2025-03-31T15:05:27+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/784-remove-slogan"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
