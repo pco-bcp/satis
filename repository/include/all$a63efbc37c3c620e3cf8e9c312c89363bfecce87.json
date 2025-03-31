@@ -11482,6 +11482,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
                 }
             },
+            "dev-784-remove-slogan": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-784-remove-slogan",
+                "version_normalized": "dev-784-remove-slogan",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "3853274bd0aefcefed3e205bc0baa09b5aba4231"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3853274bd0aefcefed3e205bc0baa09b5aba4231",
+                    "reference": "3853274bd0aefcefed3e205bc0baa09b5aba4231",
+                    "shasum": ""
+                },
+                "time": "2025-03-31T15:05:27+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/784-remove-slogan"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
