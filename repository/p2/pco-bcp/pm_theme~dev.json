@@ -354,6 +354,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-783--fix-status-message-gets-focuse-archived-page-2025-03-31",
+                "version_normalized": "dev-783--fix-status-message-gets-focuse-archived-page-2025-03-31",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "cfd97d7b299abac6b2f47c0c175c34381ec76e0c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/cfd97d7b299abac6b2f47c0c175c34381ec76e0c",
+                    "reference": "cfd97d7b299abac6b2f47c0c175c34381ec76e0c",
+                    "shasum": ""
+                },
+                "time": "2025-03-31T13:44:44+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/783--fix-status-message-gets-focuse-archived-page-2025-03-31"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
