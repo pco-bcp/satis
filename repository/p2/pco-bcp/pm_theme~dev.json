@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "3a9aa924fa7e2fd1509ad0cc6f8132e5bb6be4a9"
+                    "reference": "ad7d83abc397718fb1ec61afb08090904807b347"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3a9aa924fa7e2fd1509ad0cc6f8132e5bb6be4a9",
-                    "reference": "3a9aa924fa7e2fd1509ad0cc6f8132e5bb6be4a9",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ad7d83abc397718fb1ec61afb08090904807b347",
+                    "reference": "ad7d83abc397718fb1ec61afb08090904807b347",
                     "shasum": ""
                 },
-                "time": "2025-03-31T12:52:12+00:00",
+                "time": "2025-03-31T14:54:15+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -350,31 +350,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-783--fix-status-message-gets-focuse-archived-page-2025-03-31",
-                "version_normalized": "dev-783--fix-status-message-gets-focuse-archived-page-2025-03-31",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "0f62172e3c980fad91e3466dbaf7b2e58b026663"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0f62172e3c980fad91e3466dbaf7b2e58b026663",
-                    "reference": "0f62172e3c980fad91e3466dbaf7b2e58b026663",
-                    "shasum": ""
-                },
-                "time": "2025-03-31T14:39:46+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/783--fix-status-message-gets-focuse-archived-page-2025-03-31"
                 }
             },
             {
