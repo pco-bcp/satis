@@ -354,6 +354,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-789--adjust-css-text-for-no-content-2025-03-04",
+                "version_normalized": "dev-789--adjust-css-text-for-no-content-2025-03-04",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "73281fddf00640c83f31ac0402dac1be0d406e6d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/73281fddf00640c83f31ac0402dac1be0d406e6d",
+                    "reference": "73281fddf00640c83f31ac0402dac1be0d406e6d",
+                    "shasum": ""
+                },
+                "time": "2025-04-03T19:26:17+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/789--adjust-css-text-for-no-content-2025-03-04"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
