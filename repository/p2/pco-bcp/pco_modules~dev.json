@@ -434,15 +434,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "f152c689ca6000d9a783b0f0d202a6b5e84422cf"
+                    "reference": "057d210d69db55067b27ca962439770340bde4af"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/f152c689ca6000d9a783b0f0d202a6b5e84422cf",
-                    "reference": "f152c689ca6000d9a783b0f0d202a6b5e84422cf",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/057d210d69db55067b27ca962439770340bde4af",
+                    "reference": "057d210d69db55067b27ca962439770340bde4af",
                     "shasum": ""
                 },
-                "time": "2025-04-03T19:57:07+00:00",
+                "time": "2025-04-04T15:00:43+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
