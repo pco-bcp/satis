@@ -9760,15 +9760,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "e121f288fc70a8641808d0608ae9208899b4d5e2"
+                    "reference": "69137011ac90e9d0c7e4c06cf6d78800c0818f92"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e121f288fc70a8641808d0608ae9208899b4d5e2",
-                    "reference": "e121f288fc70a8641808d0608ae9208899b4d5e2",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/69137011ac90e9d0c7e4c06cf6d78800c0818f92",
+                    "reference": "69137011ac90e9d0c7e4c06cf6d78800c0818f92",
                     "shasum": ""
                 },
-                "time": "2025-04-08T13:53:28+00:00",
+                "time": "2025-04-08T15:15:53+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10079,29 +10079,29 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
                 }
             },
-            "dev-792-hide-seo-pager": {
+            "dev-776-no-video-msg": {
                 "name": "pco-bcp/pm_modules",
-                "version": "dev-792-hide-seo-pager",
-                "version_normalized": "dev-792-hide-seo-pager",
+                "version": "dev-776-no-video-msg",
+                "version_normalized": "dev-776-no-video-msg",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "0428848dee786d1cd27367d4d30994dde79a93fb"
+                    "reference": "a8e1d6556743d481149ea9a3e83c3b01125e2ef6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0428848dee786d1cd27367d4d30994dde79a93fb",
-                    "reference": "0428848dee786d1cd27367d4d30994dde79a93fb",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a8e1d6556743d481149ea9a3e83c3b01125e2ef6",
+                    "reference": "a8e1d6556743d481149ea9a3e83c3b01125e2ef6",
                     "shasum": ""
                 },
-                "time": "2025-04-08T15:14:07+00:00",
+                "time": "2025-04-08T16:59:47+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/792-hide-seo-pager"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/776-no-video-msg"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
