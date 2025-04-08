@@ -10079,6 +10079,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
                 }
             },
+            "dev-760--fix-regression-photoswipe-share-button-2025-03-07": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-760--fix-regression-photoswipe-share-button-2025-03-07",
+                "version_normalized": "dev-760--fix-regression-photoswipe-share-button-2025-03-07",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "ad9f3247485d857868d1bcc4563650d763e0b6c7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/ad9f3247485d857868d1bcc4563650d763e0b6c7",
+                    "reference": "ad9f3247485d857868d1bcc4563650d763e0b6c7",
+                    "shasum": ""
+                },
+                "time": "2025-04-08T12:19:54+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/760--fix-regression-photoswipe-share-button-2025-03-07"
+                }
+            },
             "dev-99-es6-conversion-for-pm_photo": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
