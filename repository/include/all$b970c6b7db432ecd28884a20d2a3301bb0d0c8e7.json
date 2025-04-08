@@ -9760,15 +9760,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "a7ba52a7f0b9631a56a12514a693d1697e7400fc"
+                    "reference": "e121f288fc70a8641808d0608ae9208899b4d5e2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a7ba52a7f0b9631a56a12514a693d1697e7400fc",
-                    "reference": "a7ba52a7f0b9631a56a12514a693d1697e7400fc",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e121f288fc70a8641808d0608ae9208899b4d5e2",
+                    "reference": "e121f288fc70a8641808d0608ae9208899b4d5e2",
                     "shasum": ""
                 },
-                "time": "2025-03-26T20:29:51+00:00",
+                "time": "2025-04-08T13:53:28+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -9776,7 +9776,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.0.4"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.x"
                 }
             },
             "dev-222--pm-cron-d-check": {
@@ -10077,31 +10077,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
-                }
-            },
-            "dev-760--fix-regression-photoswipe-share-button-2025-03-07": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-760--fix-regression-photoswipe-share-button-2025-03-07",
-                "version_normalized": "dev-760--fix-regression-photoswipe-share-button-2025-03-07",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "ad9f3247485d857868d1bcc4563650d763e0b6c7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/ad9f3247485d857868d1bcc4563650d763e0b6c7",
-                    "reference": "ad9f3247485d857868d1bcc4563650d763e0b6c7",
-                    "shasum": ""
-                },
-                "time": "2025-04-08T12:19:54+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/760--fix-regression-photoswipe-share-button-2025-03-07"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
@@ -11213,15 +11188,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "09bb959859b456f861ff0b63d377faf7a654269e"
+                    "reference": "5ca14dbd70155093ea3e5b20a7467f5aba661069"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/09bb959859b456f861ff0b63d377faf7a654269e",
-                    "reference": "09bb959859b456f861ff0b63d377faf7a654269e",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5ca14dbd70155093ea3e5b20a7467f5aba661069",
+                    "reference": "5ca14dbd70155093ea3e5b20a7467f5aba661069",
                     "shasum": ""
                 },
-                "time": "2025-04-03T20:11:48+00:00",
+                "time": "2025-04-08T13:52:49+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -11505,31 +11480,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            "dev-760--fix-regression-photoswipe-share-button-2025-03-07": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-760--fix-regression-photoswipe-share-button-2025-03-07",
-                "version_normalized": "dev-760--fix-regression-photoswipe-share-button-2025-03-07",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "20f7b7beccca95c6958576e7cbd5ec621ee08673"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/20f7b7beccca95c6958576e7cbd5ec621ee08673",
-                    "reference": "20f7b7beccca95c6958576e7cbd5ec621ee08673",
-                    "shasum": ""
-                },
-                "time": "2025-04-08T13:21:29+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/760--fix-regression-photoswipe-share-button-2025-03-07"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
