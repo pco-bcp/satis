@@ -379,6 +379,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-792-hide-seo-pager",
+                "version_normalized": "dev-792-hide-seo-pager",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "0428848dee786d1cd27367d4d30994dde79a93fb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0428848dee786d1cd27367d4d30994dde79a93fb",
+                    "reference": "0428848dee786d1cd27367d4d30994dde79a93fb",
+                    "shasum": ""
+                },
+                "time": "2025-04-08T15:14:07+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/792-hide-seo-pager"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
                 "version_normalized": "dev-99-es6-conversion-for-pm_photo",
                 "source": {
