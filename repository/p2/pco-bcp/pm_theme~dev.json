@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "5ca14dbd70155093ea3e5b20a7467f5aba661069"
+                    "reference": "53c68fc6f718f76d5c62ea1eecaf21b55301a253"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5ca14dbd70155093ea3e5b20a7467f5aba661069",
-                    "reference": "5ca14dbd70155093ea3e5b20a7467f5aba661069",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/53c68fc6f718f76d5c62ea1eecaf21b55301a253",
+                    "reference": "53c68fc6f718f76d5c62ea1eecaf21b55301a253",
                     "shasum": ""
                 },
-                "time": "2025-04-08T13:52:49+00:00",
+                "time": "2025-04-09T13:55:21+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -350,31 +350,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-770--fix-sort-order-filter-cabinet-page-2025-04-08",
-                "version_normalized": "dev-770--fix-sort-order-filter-cabinet-page-2025-04-08",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "689daed0de6e4ae6d3021a6364895278a2c7c160"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/689daed0de6e4ae6d3021a6364895278a2c7c160",
-                    "reference": "689daed0de6e4ae6d3021a6364895278a2c7c160",
-                    "shasum": ""
-                },
-                "time": "2025-04-09T13:33:39+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/770--fix-sort-order-filter-cabinet-page-2025-04-08"
                 }
             },
             {
