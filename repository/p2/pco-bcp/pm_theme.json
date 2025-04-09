@@ -21,10 +21,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.0"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -46,10 +43,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.1"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -71,10 +65,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.10"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -96,10 +87,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.2"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -121,10 +109,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.3"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -146,10 +131,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.4"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -171,10 +153,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.5"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -196,10 +175,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.6"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -221,10 +197,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.7"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -246,10 +219,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.8"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -271,10 +241,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.0.9"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -296,10 +263,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.0"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -321,10 +285,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.1"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -346,10 +307,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.10"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -371,10 +329,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.11"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -396,10 +351,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.12"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -421,10 +373,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.13"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -446,10 +395,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.14"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -471,10 +417,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.15"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -496,10 +439,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.16"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -521,10 +461,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.17"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -546,10 +483,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.0"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -571,10 +505,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.2"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -596,10 +527,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.3"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -621,10 +549,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.4"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -646,10 +571,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.5"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -671,10 +593,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.6"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -696,10 +615,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.7"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -721,10 +637,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.8"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -746,10 +659,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/2.0.9"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -771,10 +681,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.0"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -796,10 +703,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.1"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -821,10 +725,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.2"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -846,10 +747,29 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.3"
-                }
+                "description": "PM Theme"
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "4.0.4",
+                "version_normalized": "4.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "53c68fc6f718f76d5c62ea1eecaf21b55301a253"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/53c68fc6f718f76d5c62ea1eecaf21b55301a253",
+                    "reference": "53c68fc6f718f76d5c62ea1eecaf21b55301a253",
+                    "shasum": ""
+                },
+                "time": "2025-04-09T13:55:21+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme"
             }
         ]
     }
