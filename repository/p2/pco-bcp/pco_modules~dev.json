@@ -83,15 +83,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "4e251ec270ed1c09cf3c8f35f27d16b5b13848f8"
+                    "reference": "776aefab09e28ea1267e3bd7e16c88c7cfb521bc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4e251ec270ed1c09cf3c8f35f27d16b5b13848f8",
-                    "reference": "4e251ec270ed1c09cf3c8f35f27d16b5b13848f8",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/776aefab09e28ea1267e3bd7e16c88c7cfb521bc",
+                    "reference": "776aefab09e28ea1267e3bd7e16c88c7cfb521bc",
                     "shasum": ""
                 },
-                "time": "2025-03-20T14:25:02+00:00",
+                "time": "2025-04-10T12:10:49+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -99,7 +99,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.0.1"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.x"
                 }
             },
             {
@@ -429,31 +429,6 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
-                "version": "dev-722-envoke-mailouts",
-                "version_normalized": "dev-722-envoke-mailouts",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "43ae44dc0fe21bbb02972272f0d9e64c6a3a5700"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/43ae44dc0fe21bbb02972272f0d9e64c6a3a5700",
-                    "reference": "43ae44dc0fe21bbb02972272f0d9e64c6a3a5700",
-                    "shasum": ""
-                },
-                "time": "2025-04-08T17:53:53+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.0.2"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {
@@ -475,31 +450,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-fix-css-regression-greetings-form-2025-04-09",
-                "version_normalized": "dev-fix-css-regression-greetings-form-2025-04-09",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "07d2751f8f54df1d0f2b5e5298dcf9bcb92a74cb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/07d2751f8f54df1d0f2b5e5298dcf9bcb92a74cb",
-                    "reference": "07d2751f8f54df1d0f2b5e5298dcf9bcb92a74cb",
-                    "shasum": ""
-                },
-                "time": "2025-04-10T00:18:53+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix-css-regression-greetings-form-2025-04-09"
                 }
             },
             {
