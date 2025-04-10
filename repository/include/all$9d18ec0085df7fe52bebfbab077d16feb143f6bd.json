@@ -8851,6 +8851,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/635-check-if-twitter-img-is-null-2024-10-07"
                 }
             },
+            "dev-722-envoke-mailouts": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-722-envoke-mailouts",
+                "version_normalized": "dev-722-envoke-mailouts",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "6179316a76921ce69575e3245f58106a40ca83df"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/6179316a76921ce69575e3245f58106a40ca83df",
+                    "reference": "6179316a76921ce69575e3245f58106a40ca83df",
+                    "shasum": ""
+                },
+                "time": "2025-04-10T20:10:54+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
