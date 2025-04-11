@@ -354,6 +354,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-798--update-twig-file-for-Mandate-letters-view-2025-04-11",
+                "version_normalized": "dev-798--update-twig-file-for-Mandate-letters-view-2025-04-11",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "eed291cb7ea9a23df66479bbb33a71746f578486"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/eed291cb7ea9a23df66479bbb33a71746f578486",
+                    "reference": "eed291cb7ea9a23df66479bbb33a71746f578486",
+                    "shasum": ""
+                },
+                "time": "2025-04-11T20:26:20+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/798--update-twig-file-for-Mandate-letters-view-2025-04-11"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
