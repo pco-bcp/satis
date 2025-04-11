@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "53c68fc6f718f76d5c62ea1eecaf21b55301a253"
+                    "reference": "e254dfa3c3f0c930db90858d3e8c7a9c70247f51"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/53c68fc6f718f76d5c62ea1eecaf21b55301a253",
-                    "reference": "53c68fc6f718f76d5c62ea1eecaf21b55301a253",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e254dfa3c3f0c930db90858d3e8c7a9c70247f51",
+                    "reference": "e254dfa3c3f0c930db90858d3e8c7a9c70247f51",
                     "shasum": ""
                 },
-                "time": "2025-04-09T13:55:21+00:00",
+                "time": "2025-04-11T13:56:33+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.5"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.x"
                 }
             },
             {
@@ -375,31 +375,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/date-released-twig-display-timezone-2023-09-05"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-fix-css-spacing-for-no-ML-available-2025-05-11",
-                "version_normalized": "dev-fix-css-spacing-for-no-ML-available-2025-05-11",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d6303e076981023ae4cb4dbf97fc0ea5bd2b2135"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d6303e076981023ae4cb4dbf97fc0ea5bd2b2135",
-                    "reference": "d6303e076981023ae4cb4dbf97fc0ea5bd2b2135",
-                    "shasum": ""
-                },
-                "time": "2025-04-11T13:53:49+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/fix-css-spacing-for-no-ML-available-2025-05-11"
                 }
             },
             {
