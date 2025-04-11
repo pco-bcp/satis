@@ -379,6 +379,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-fix-css-spacing-for-no-ML-available-2025-05-11",
+                "version_normalized": "dev-fix-css-spacing-for-no-ML-available-2025-05-11",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "27b0edbc75e84b20afa71814034c7556deea726a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/27b0edbc75e84b20afa71814034c7556deea726a",
+                    "reference": "27b0edbc75e84b20afa71814034c7556deea726a",
+                    "shasum": ""
+                },
+                "time": "2025-04-11T13:30:53+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/fix-css-spacing-for-no-ML-available-2025-05-11"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-fix-missing-span-pco_alias-2023-07-17",
                 "version_normalized": "dev-fix-missing-span-pco_alias-2023-07-17",
                 "source": {
