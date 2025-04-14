@@ -8983,22 +8983,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a071a5fc256aa96eb8b488bdb8af1d8770a0bc23"
+                    "reference": "dfc6318c1c68826c1110fa80957a2ceb28dc3391"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a071a5fc256aa96eb8b488bdb8af1d8770a0bc23",
-                    "reference": "a071a5fc256aa96eb8b488bdb8af1d8770a0bc23",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/dfc6318c1c68826c1110fa80957a2ceb28dc3391",
+                    "reference": "dfc6318c1c68826c1110fa80957a2ceb28dc3391",
                     "shasum": ""
                 },
-                "time": "2025-02-12T20:32:27+00:00",
+                "time": "2025-04-14T15:11:16+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.0.0"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/revert-to-pre-envoke"
                 }
             }
         },
