@@ -21,10 +21,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/24-upgrade-to-drupal-10"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -46,10 +43,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/1.0.0"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -71,10 +65,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.0.0"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -96,10 +87,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.1.0"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -121,10 +109,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.2.0"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -146,10 +131,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.3.x-2.3.x"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -171,10 +153,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.4.x-2.4.x"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -196,10 +175,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.0"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -222,10 +198,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.2"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -247,10 +220,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/524--fix-wcag-contrast-of-text-against-bg-2024-10-21"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -272,10 +242,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/528-css-video-player-wcag"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -297,10 +264,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/536--fix-wcag-alt-text-of-logo-2024-09-17"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -322,10 +286,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/538-mobile-menu"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -347,10 +308,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/582-ici-version-3"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -372,10 +330,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/621-theme-charting-update"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -397,10 +352,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/622-theme-update-for-tags"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -422,10 +374,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/625-site-management-updates"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -447,10 +396,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/627--fix-sass-ici-2024-09-26"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -472,10 +418,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/628-form-css-updates"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -497,10 +440,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/636-fix-migration-of-css-to-scss-2024-10-08"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -522,10 +462,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/638--fix-css-regression-photos-home-page-2024-10-09"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -547,10 +484,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/641-batch-updates"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -572,10 +506,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
-                }
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT."
             }
         ]
     }

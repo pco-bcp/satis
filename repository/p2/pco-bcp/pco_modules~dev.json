@@ -21,10 +21,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1.0.5"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -46,10 +43,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.11"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -71,10 +65,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/3.x"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -83,24 +74,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "776aefab09e28ea1267e3bd7e16c88c7cfb521bc"
+                    "reference": "8f4e0d4fc77736fac0707a466ca48365c51b0423"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/776aefab09e28ea1267e3bd7e16c88c7cfb521bc",
-                    "reference": "776aefab09e28ea1267e3bd7e16c88c7cfb521bc",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/8f4e0d4fc77736fac0707a466ca48365c51b0423",
+                    "reference": "8f4e0d4fc77736fac0707a466ca48365c51b0423",
                     "shasum": ""
                 },
-                "time": "2025-04-10T12:10:49+00:00",
+                "time": "2025-04-14T15:25:51+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.0.4"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -122,10 +110,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-citation-d-check-fixes-2024-03-27"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -147,10 +132,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-fixes-for-pco_metrics-2024-04-02"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -172,10 +154,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-pco_emailer"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -197,10 +176,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-pco_news_emailer"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -222,10 +198,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-pco_subscribe"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -247,10 +220,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-nbreakhy-d-check-fixes-2024-03-27"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -272,10 +242,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-nobrtag-d-check-fixes-2024-03-27"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -297,10 +264,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-noptag-d-check-fixes-2024-03-27"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -322,10 +286,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-pco_greetings-d-check-issues-2024-04-04"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -347,10 +308,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/222-pm_alias_d-check-issues-2024-04-02"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -372,10 +330,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-ckeditor"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -392,15 +347,12 @@
                     "reference": "37b96091f5ffb98ade6cc3530973b41c09d2bfb0",
                     "shasum": ""
                 },
-                "time": "2024-09-02T23:42:05+00:00",
+                "time": "2024-09-02T23:37:52+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/550-dynamics-submit-handler"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -422,10 +374,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/635-check-if-twitter-img-is-null-2024-10-07"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -447,10 +396,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -472,10 +418,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -497,10 +440,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/issues#161-customer-insights"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -522,10 +462,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/pco-bcp/issues#23--fix-phpcs-issues-2023-11-16"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -547,10 +484,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/revert-to-pre-envoke"
-                }
+                "description": "PCO Custom Modules"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -572,10 +506,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/revert-to-pre-envoke"
-                }
+                "description": "PCO Custom Modules"
             }
         ]
     }
