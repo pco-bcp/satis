@@ -551,6 +551,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/revert-to-pre-envoke"
                 }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-revert-to-pre-envoke1",
+                "version_normalized": "dev-revert-to-pre-envoke1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "dfc6318c1c68826c1110fa80957a2ceb28dc3391"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/dfc6318c1c68826c1110fa80957a2ceb28dc3391",
+                    "reference": "dfc6318c1c68826c1110fa80957a2ceb28dc3391",
+                    "shasum": ""
+                },
+                "time": "2025-04-14T15:11:16+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/revert-to-pre-envoke"
+                }
             }
         ]
     }
