@@ -11707,6 +11707,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
                 }
             },
+            "dev-795--add-warning-message-when-no-JS-2025-04-11": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-795--add-warning-message-when-no-JS-2025-04-11",
+                "version_normalized": "dev-795--add-warning-message-when-no-JS-2025-04-11",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "7ca454fc23ab6187a8ff6734604ff88daa830fd9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7ca454fc23ab6187a8ff6734604ff88daa830fd9",
+                    "reference": "7ca454fc23ab6187a8ff6734604ff88daa830fd9",
+                    "shasum": ""
+                },
+                "time": "2025-04-14T11:56:19+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/795--add-warning-message-when-no-JS-2025-04-11"
+                }
+            },
             "dev-798--update-twig-file-for-Mandate-letters-view-2025-04-11": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-798--update-twig-file-for-Mandate-letters-view-2025-04-11",
