@@ -526,6 +526,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/pco-bcp/issues#23--fix-phpcs-issues-2023-11-16"
                 }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-revert-to-pre-envoke",
+                "version_normalized": "dev-revert-to-pre-envoke",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "a071a5fc256aa96eb8b488bdb8af1d8770a0bc23"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a071a5fc256aa96eb8b488bdb8af1d8770a0bc23",
+                    "reference": "a071a5fc256aa96eb8b488bdb8af1d8770a0bc23",
+                    "shasum": ""
+                },
+                "time": "2025-02-12T20:32:27+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.0.0"
+                }
             }
         ]
     }
