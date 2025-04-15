@@ -8933,15 +8933,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "dd927eff2129b26b6389b5e1a2ef60a041036bd0"
+                    "reference": "f111df7e71ed5398ef420bc27d38f01cdf8d0617"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/dd927eff2129b26b6389b5e1a2ef60a041036bd0",
-                    "reference": "dd927eff2129b26b6389b5e1a2ef60a041036bd0",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/f111df7e71ed5398ef420bc27d38f01cdf8d0617",
+                    "reference": "f111df7e71ed5398ef420bc27d38f01cdf8d0617",
                     "shasum": ""
                 },
-                "time": "2025-04-14T17:06:48+00:00",
+                "time": "2025-04-15T14:30:34+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
