@@ -8951,6 +8951,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts-new"
                 }
             },
+            "dev-802--convert-greetings-css-to-scss-2025-04-15": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-802--convert-greetings-css-to-scss-2025-04-15",
+                "version_normalized": "dev-802--convert-greetings-css-to-scss-2025-04-15",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "161390a4f913f2b5fc7217b7e59a6aab14e38556"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/161390a4f913f2b5fc7217b7e59a6aab14e38556",
+                    "reference": "161390a4f913f2b5fc7217b7e59a6aab14e38556",
+                    "shasum": ""
+                },
+                "time": "2025-04-15T20:30:53+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/802--convert-greetings-css-to-scss-2025-04-15"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
