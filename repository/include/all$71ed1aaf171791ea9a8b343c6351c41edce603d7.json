@@ -8582,15 +8582,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "985dc6811ee9fca79cec19ce04465ae2be0bae37"
+                    "reference": "9b62fba4c3f7610d0658e60f6fe9314849a1ed34"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/985dc6811ee9fca79cec19ce04465ae2be0bae37",
-                    "reference": "985dc6811ee9fca79cec19ce04465ae2be0bae37",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/9b62fba4c3f7610d0658e60f6fe9314849a1ed34",
+                    "reference": "9b62fba4c3f7610d0658e60f6fe9314849a1ed34",
                     "shasum": ""
                 },
-                "time": "2025-04-16T13:12:46+00:00",
+                "time": "2025-05-01T14:10:48+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -8974,31 +8974,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts-new"
-                }
-            },
-            "dev-811-media-advisories": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-811-media-advisories",
-                "version_normalized": "dev-811-media-advisories",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "797b2b40cf37fc894682743280ff9e4409af9f4b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/797b2b40cf37fc894682743280ff9e4409af9f4b",
-                    "reference": "797b2b40cf37fc894682743280ff9e4409af9f4b",
-                    "shasum": ""
-                },
-                "time": "2025-04-30T19:19:04+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/811-media-advisories"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
