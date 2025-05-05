@@ -354,6 +354,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-816--fix-error-shareable-news-image-archived-field-error-2025-05-05",
+                "version_normalized": "dev-816--fix-error-shareable-news-image-archived-field-error-2025-05-05",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "49452557b44e83b776c9c5d8affd8e27e1b61b82"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/49452557b44e83b776c9c5d8affd8e27e1b61b82",
+                    "reference": "49452557b44e83b776c9c5d8affd8e27e1b61b82",
+                    "shasum": ""
+                },
+                "time": "2025-05-05T13:46:58+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/816--fix-error-shareable-news-image-archived-field-error-2025-05-05"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
