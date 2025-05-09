@@ -11538,15 +11538,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b3007012b5e0be82fc2292f7b7b8d9974eb2ff32"
+                    "reference": "727ce9cdf07829eac24fb5df8f3c7e14c5e6c949"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b3007012b5e0be82fc2292f7b7b8d9974eb2ff32",
-                    "reference": "b3007012b5e0be82fc2292f7b7b8d9974eb2ff32",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/727ce9cdf07829eac24fb5df8f3c7e14c5e6c949",
+                    "reference": "727ce9cdf07829eac24fb5df8f3c7e14c5e6c949",
                     "shasum": ""
                 },
-                "time": "2025-05-05T14:46:29+00:00",
+                "time": "2025-05-09T18:24:00+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -11830,31 +11830,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            "dev-809--fix-forms_button_colours-2025-05-08": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-809--fix-forms_button_colours-2025-05-08",
-                "version_normalized": "dev-809--fix-forms_button_colours-2025-05-08",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "f3fcf6d6e9a3cf8d667901ee1af4062539571110"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f3fcf6d6e9a3cf8d667901ee1af4062539571110",
-                    "reference": "f3fcf6d6e9a3cf8d667901ee1af4062539571110",
-                    "shasum": ""
-                },
-                "time": "2025-05-09T17:53:05+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/809--fix-forms_button_colours-2025-05-08"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
