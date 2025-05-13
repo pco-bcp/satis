@@ -379,6 +379,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-825-views-ajax-get",
+                "version_normalized": "dev-825-views-ajax-get",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "346b5ea31408bdb5804745d2d193788d14858a8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/346b5ea31408bdb5804745d2d193788d14858a8f",
+                    "reference": "346b5ea31408bdb5804745d2d193788d14858a8f",
+                    "shasum": ""
+                },
+                "time": "2025-05-13T19:19:44+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/825-views-ajax-get"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
                 "version_normalized": "dev-99-es6-conversion-for-pm_photo",
                 "source": {
