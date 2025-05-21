@@ -836,6 +836,28 @@
                     "GPL-2.0+"
                 ],
                 "description": "PM Theme"
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "4.0.8",
+                "version_normalized": "4.0.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "d08ac5bcfee2ac29576b8eb4f9c32930f5932138"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d08ac5bcfee2ac29576b8eb4f9c32930f5932138",
+                    "reference": "d08ac5bcfee2ac29576b8eb4f9c32930f5932138",
+                    "shasum": ""
+                },
+                "time": "2025-05-20T17:28:38+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme"
             }
         ]
     }
