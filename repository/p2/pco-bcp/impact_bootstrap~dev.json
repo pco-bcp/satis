@@ -576,6 +576,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
                 }
+            },
+            {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-817-dynamic-categories",
+                "version_normalized": "dev-817-dynamic-categories",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "82dee9ff65723802c31329b9e0c86efc9fbea981"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/82dee9ff65723802c31329b9e0c86efc9fbea981",
+                    "reference": "82dee9ff65723802c31329b9e0c86efc9fbea981",
+                    "shasum": ""
+                },
+                "time": "2025-05-21T11:30:58+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/817-dynamic-categories"
+                }
             }
         ]
     }
