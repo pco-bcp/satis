@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "8346c8576e8727df80beed2930daa46d319343c3"
+                    "reference": "988cd46cdc77745c06352916093b8e6e47945ffd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8346c8576e8727df80beed2930daa46d319343c3",
-                    "reference": "8346c8576e8727df80beed2930daa46d319343c3",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/988cd46cdc77745c06352916093b8e6e47945ffd",
+                    "reference": "988cd46cdc77745c06352916093b8e6e47945ffd",
                     "shasum": ""
                 },
-                "time": "2025-05-22T12:44:00+00:00",
+                "time": "2025-05-22T13:16:52+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -375,31 +375,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-815--fix-h2_and_beginning_of_article-2025-05-09",
-                "version_normalized": "dev-815--fix-h2_and_beginning_of_article-2025-05-09",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "f137c27925aef7d4eef60906c03f5e350101dd6b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f137c27925aef7d4eef60906c03f5e350101dd6b",
-                    "reference": "f137c27925aef7d4eef60906c03f5e350101dd6b",
-                    "shasum": ""
-                },
-                "time": "2025-05-09T20:04:46+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/815--fix-h2_and_beginning_of_article-2025-05-09"
                 }
             },
             {
