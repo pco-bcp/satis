@@ -10060,15 +10060,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "8e59f14a160cc505c8cb4b7fa098715b7b8823b0"
+                    "reference": "09917b06ded0d5fdd9a6500825b44679b77fffa5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8e59f14a160cc505c8cb4b7fa098715b7b8823b0",
-                    "reference": "8e59f14a160cc505c8cb4b7fa098715b7b8823b0",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/09917b06ded0d5fdd9a6500825b44679b77fffa5",
+                    "reference": "09917b06ded0d5fdd9a6500825b44679b77fffa5",
                     "shasum": ""
                 },
-                "time": "2025-04-08T17:22:09+00:00",
+                "time": "2025-05-22T12:44:45+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10076,7 +10076,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.0.9"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.x"
                 }
             },
             "dev-222--pm-cron-d-check": {
@@ -10377,31 +10377,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
-                }
-            },
-            "dev-824-add-secstate-to-pm_admin-2025-05-20": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-824-add-secstate-to-pm_admin-2025-05-20",
-                "version_normalized": "dev-824-add-secstate-to-pm_admin-2025-05-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "867f4e69399b1ad5f21b0a2b0ae728323a0d3db6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/867f4e69399b1ad5f21b0a2b0ae728323a0d3db6",
-                    "reference": "867f4e69399b1ad5f21b0a2b0ae728323a0d3db6",
-                    "shasum": ""
-                },
-                "time": "2025-05-21T13:10:38+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/824-add-secstate-to-pm_admin-2025-05-20"
                 }
             },
             "dev-825-views-ajax-get": {
@@ -11663,15 +11638,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b4d43ea0d888fc04b20d6242e80bf9a71a3b82ad"
+                    "reference": "8346c8576e8727df80beed2930daa46d319343c3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b4d43ea0d888fc04b20d6242e80bf9a71a3b82ad",
-                    "reference": "b4d43ea0d888fc04b20d6242e80bf9a71a3b82ad",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8346c8576e8727df80beed2930daa46d319343c3",
+                    "reference": "8346c8576e8727df80beed2930daa46d319343c3",
                     "shasum": ""
                 },
-                "time": "2025-05-12T20:52:33+00:00",
+                "time": "2025-05-22T12:44:00+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12080,31 +12055,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/823--update-banner-and-menu-crest-2025-05-12"
-                }
-            },
-            "dev-824-secstate-css-classes-2025-05-15": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-824-secstate-css-classes-2025-05-15",
-                "version_normalized": "dev-824-secstate-css-classes-2025-05-15",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "38af00f10396c3322f41e1aba5d3212e6ce53e7c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/38af00f10396c3322f41e1aba5d3212e6ce53e7c",
-                    "reference": "38af00f10396c3322f41e1aba5d3212e6ce53e7c",
-                    "shasum": ""
-                },
-                "time": "2025-05-21T17:30:07+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/824-secstate-css-classes-2025-05-15"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
