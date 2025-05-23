@@ -10379,6 +10379,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
                 }
             },
+            "dev-821-create-featured-section-2025-05-23": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-821-create-featured-section-2025-05-23",
+                "version_normalized": "dev-821-create-featured-section-2025-05-23",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "5c18f4a21271371313627b4ec9a9d9d6a1fd640a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5c18f4a21271371313627b4ec9a9d9d6a1fd640a",
+                    "reference": "5c18f4a21271371313627b4ec9a9d9d6a1fd640a",
+                    "shasum": ""
+                },
+                "time": "2025-05-23T15:02:01+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/821-create-featured-section-2025-05-23"
+                }
+            },
             "dev-825-views-ajax-get": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-825-views-ajax-get",
@@ -11964,15 +11989,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "c97a050d1ad1ed0edeff25904c1099642778c7ae"
+                    "reference": "a179cfca18de4ac77a0a299aade95b0221e50e4e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c97a050d1ad1ed0edeff25904c1099642778c7ae",
-                    "reference": "c97a050d1ad1ed0edeff25904c1099642778c7ae",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a179cfca18de4ac77a0a299aade95b0221e50e4e",
+                    "reference": "a179cfca18de4ac77a0a299aade95b0221e50e4e",
                     "shasum": ""
                 },
-                "time": "2025-05-23T14:47:00+00:00",
+                "time": "2025-05-23T14:49:34+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
