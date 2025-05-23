@@ -454,6 +454,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-824-secstate-css-classes-2025-05-15",
+                "version_normalized": "dev-824-secstate-css-classes-2025-05-15",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "0eb0d75a9d5a63c52309a8c32b172c10ba4cf8b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0eb0d75a9d5a63c52309a8c32b172c10ba4cf8b6",
+                    "reference": "0eb0d75a9d5a63c52309a8c32b172c10ba4cf8b6",
+                    "shasum": ""
+                },
+                "time": "2025-05-23T18:36:09+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/824-secstate-css-classes-2025-05-15"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
