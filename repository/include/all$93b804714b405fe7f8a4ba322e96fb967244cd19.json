@@ -11688,15 +11688,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "5b4c4dee2e57120f9d8a0e8f8c45d6adc2fb3b1f"
+                    "reference": "7ddaf16bd731dc5f97e58e64f85eed3c667bdbb1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5b4c4dee2e57120f9d8a0e8f8c45d6adc2fb3b1f",
-                    "reference": "5b4c4dee2e57120f9d8a0e8f8c45d6adc2fb3b1f",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7ddaf16bd731dc5f97e58e64f85eed3c667bdbb1",
+                    "reference": "7ddaf16bd731dc5f97e58e64f85eed3c667bdbb1",
                     "shasum": ""
                 },
-                "time": "2025-05-22T15:17:00+00:00",
+                "time": "2025-05-23T20:18:46+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12080,31 +12080,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/823--update-banner-and-menu-crest-2025-05-12"
-                }
-            },
-            "dev-824-secstate-css-classes-2025-05-15": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-824-secstate-css-classes-2025-05-15",
-                "version_normalized": "dev-824-secstate-css-classes-2025-05-15",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "569109baeeef360346a27e05ea844e5c26d3e7ce"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/569109baeeef360346a27e05ea844e5c26d3e7ce",
-                    "reference": "569109baeeef360346a27e05ea844e5c26d3e7ce",
-                    "shasum": ""
-                },
-                "time": "2025-05-23T19:48:07+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/824-secstate-css-classes-2025-05-15"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
