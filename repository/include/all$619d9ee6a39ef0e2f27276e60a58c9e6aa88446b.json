@@ -10404,6 +10404,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/821-create-featured-section-2025-05-23"
                 }
             },
+            "dev-822-add-3-column-news-to-homepage-2025-05-25": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-822-add-3-column-news-to-homepage-2025-05-25",
+                "version_normalized": "dev-822-add-3-column-news-to-homepage-2025-05-25",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "8667f893a13db7dff2415a2dec53f1f0d9478d85"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8667f893a13db7dff2415a2dec53f1f0d9478d85",
+                    "reference": "8667f893a13db7dff2415a2dec53f1f0d9478d85",
+                    "shasum": ""
+                },
+                "time": "2025-05-25T23:06:26+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/822-add-3-column-news-to-homepage-2025-05-25"
+                }
+            },
             "dev-824-add-secstate-to-pm_admin-2025-05-20": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-824-add-secstate-to-pm_admin-2025-05-20",
