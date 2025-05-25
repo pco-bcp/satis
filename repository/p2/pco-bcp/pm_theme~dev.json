@@ -384,15 +384,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "32867979ebfa414af83cd7b6cb371c5bb18efeab"
+                    "reference": "599ff50fedeaec8d169002aee382b16f19b16680"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/32867979ebfa414af83cd7b6cb371c5bb18efeab",
-                    "reference": "32867979ebfa414af83cd7b6cb371c5bb18efeab",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/599ff50fedeaec8d169002aee382b16f19b16680",
+                    "reference": "599ff50fedeaec8d169002aee382b16f19b16680",
                     "shasum": ""
                 },
-                "time": "2025-05-24T15:16:21+00:00",
+                "time": "2025-05-25T15:30:54+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
