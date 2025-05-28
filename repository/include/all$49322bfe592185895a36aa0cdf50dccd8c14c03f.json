@@ -10379,6 +10379,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
                 }
             },
+            "dev-820--update-theme-colors-media-2025-05-28": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-820--update-theme-colors-media-2025-05-28",
+                "version_normalized": "dev-820--update-theme-colors-media-2025-05-28",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "c0d5d59517ec920507e4d1d92b72d9103dd86395"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c0d5d59517ec920507e4d1d92b72d9103dd86395",
+                    "reference": "c0d5d59517ec920507e4d1d92b72d9103dd86395",
+                    "shasum": ""
+                },
+                "time": "2025-05-28T13:35:11+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/820--update-theme-colors-media-2025-05-28"
+                }
+            },
             "dev-821-create-featured-section-2025-05-23": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-821-create-featured-section-2025-05-23",
