@@ -12139,15 +12139,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "3d55a772002d5f6dd36318019734ba9d509b86d8"
+                    "reference": "699f1441ab0fa7366ea4731df300fe92522d30bf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3d55a772002d5f6dd36318019734ba9d509b86d8",
-                    "reference": "3d55a772002d5f6dd36318019734ba9d509b86d8",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/699f1441ab0fa7366ea4731df300fe92522d30bf",
+                    "reference": "699f1441ab0fa7366ea4731df300fe92522d30bf",
                     "shasum": ""
                 },
-                "time": "2025-05-26T14:55:49+00:00",
+                "time": "2025-05-28T15:18:40+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
