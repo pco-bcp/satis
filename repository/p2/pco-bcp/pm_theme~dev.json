@@ -384,22 +384,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b6261d07b475b675bab565db3348cb473d44a2c4"
+                    "reference": "fb756db0443f8ff7ad6c4e07c336b57991fa5ffd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b6261d07b475b675bab565db3348cb473d44a2c4",
-                    "reference": "b6261d07b475b675bab565db3348cb473d44a2c4",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/fb756db0443f8ff7ad6c4e07c336b57991fa5ffd",
+                    "reference": "fb756db0443f8ff7ad6c4e07c336b57991fa5ffd",
                     "shasum": ""
                 },
-                "time": "2025-05-29T14:32:21+00:00",
+                "time": "2025-05-29T16:50:31+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.x"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/818--regression-branch-2025-05-29"
                 }
             },
             {
