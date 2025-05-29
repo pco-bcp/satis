@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "09878fe4564321f9b9ba96ceb6a7fb01e63233c8"
+                    "reference": "3baa414c3a469534c018d23cd108c82d40f4a3eb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/09878fe4564321f9b9ba96ceb6a7fb01e63233c8",
-                    "reference": "09878fe4564321f9b9ba96ceb6a7fb01e63233c8",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3baa414c3a469534c018d23cd108c82d40f4a3eb",
+                    "reference": "3baa414c3a469534c018d23cd108c82d40f4a3eb",
                     "shasum": ""
                 },
-                "time": "2025-05-29T17:42:39+00:00",
+                "time": "2025-05-29T18:28:51+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -375,31 +375,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-821-create-featured-section-2025-05-23",
-                "version_normalized": "dev-821-create-featured-section-2025-05-23",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "5c18f4a21271371313627b4ec9a9d9d6a1fd640a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5c18f4a21271371313627b4ec9a9d9d6a1fd640a",
-                    "reference": "5c18f4a21271371313627b4ec9a9d9d6a1fd640a",
-                    "shasum": ""
-                },
-                "time": "2025-05-23T15:02:01+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/821-create-featured-section-2025-05-23"
                 }
             },
             {
