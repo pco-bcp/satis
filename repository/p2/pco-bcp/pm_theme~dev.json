@@ -379,45 +379,20 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
-                "version": "dev-818--regression-branch-for-theme-redesign-2025-05-29",
-                "version_normalized": "dev-818--regression-branch-for-theme-redesign-2025-05-29",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d30b2bd85250931d980a55602a88872b71de0445"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d30b2bd85250931d980a55602a88872b71de0445",
-                    "reference": "d30b2bd85250931d980a55602a88872b71de0445",
-                    "shasum": ""
-                },
-                "time": "2025-05-26T19:02:47+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
                 "version": "dev-820--update-theme-colors-2025-05-12",
                 "version_normalized": "dev-820--update-theme-colors-2025-05-12",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "5bdd38c7665bd469bb3b78d6acb7dbc648bc69f1"
+                    "reference": "6cc342de837a6506983a2479d952a97b7677f6e9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5bdd38c7665bd469bb3b78d6acb7dbc648bc69f1",
-                    "reference": "5bdd38c7665bd469bb3b78d6acb7dbc648bc69f1",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6cc342de837a6506983a2479d952a97b7677f6e9",
+                    "reference": "6cc342de837a6506983a2479d952a97b7677f6e9",
                     "shasum": ""
                 },
-                "time": "2025-05-28T20:09:56+00:00",
+                "time": "2025-05-29T13:42:37+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
