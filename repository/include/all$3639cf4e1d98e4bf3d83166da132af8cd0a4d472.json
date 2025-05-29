@@ -11763,15 +11763,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "5d1adfabb68dda30c57446d6ddf42274e3bfc572"
+                    "reference": "b6261d07b475b675bab565db3348cb473d44a2c4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5d1adfabb68dda30c57446d6ddf42274e3bfc572",
-                    "reference": "5d1adfabb68dda30c57446d6ddf42274e3bfc572",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b6261d07b475b675bab565db3348cb473d44a2c4",
+                    "reference": "b6261d07b475b675bab565db3348cb473d44a2c4",
                     "shasum": ""
                 },
-                "time": "2025-05-29T14:05:56+00:00",
+                "time": "2025-05-29T14:32:21+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12105,31 +12105,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/821-add-featured-section-to-homepage-2025-05-12"
-                }
-            },
-            "dev-823--update-banner-and-menu-crest-2025-05-12": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-823--update-banner-and-menu-crest-2025-05-12",
-                "version_normalized": "dev-823--update-banner-and-menu-crest-2025-05-12",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "60dc10670fdb9b3e1a56234bd48c62064dc4f811"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/60dc10670fdb9b3e1a56234bd48c62064dc4f811",
-                    "reference": "60dc10670fdb9b3e1a56234bd48c62064dc4f811",
-                    "shasum": ""
-                },
-                "time": "2025-05-29T12:56:00+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/823--update-banner-and-menu-crest-2025-05-12"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
