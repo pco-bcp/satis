@@ -11763,15 +11763,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d30b2bd85250931d980a55602a88872b71de0445"
+                    "reference": "e84b8a9a219011e7ee42be4b74a22d9a627ec4ac"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d30b2bd85250931d980a55602a88872b71de0445",
-                    "reference": "d30b2bd85250931d980a55602a88872b71de0445",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e84b8a9a219011e7ee42be4b74a22d9a627ec4ac",
+                    "reference": "e84b8a9a219011e7ee42be4b74a22d9a627ec4ac",
                     "shasum": ""
                 },
-                "time": "2025-05-26T19:02:47+00:00",
+                "time": "2025-05-29T13:50:41+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12080,31 +12080,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            "dev-820--update-theme-colors-2025-05-12": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-820--update-theme-colors-2025-05-12",
-                "version_normalized": "dev-820--update-theme-colors-2025-05-12",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "6cc342de837a6506983a2479d952a97b7677f6e9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6cc342de837a6506983a2479d952a97b7677f6e9",
-                    "reference": "6cc342de837a6506983a2479d952a97b7677f6e9",
-                    "shasum": ""
-                },
-                "time": "2025-05-29T13:42:37+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/820--update-theme-colors-2025-05-12"
                 }
             },
             "dev-821-add-featured-section-to-homepage-2025-05-12": {
