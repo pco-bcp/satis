@@ -12082,6 +12082,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
                 }
             },
+            "dev-820--update-pm-css-2025-05-29": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-820--update-pm-css-2025-05-29",
+                "version_normalized": "dev-820--update-pm-css-2025-05-29",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "d668cdeb4de68e78d15e58d977d42f15d605d367"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d668cdeb4de68e78d15e58d977d42f15d605d367",
+                    "reference": "d668cdeb4de68e78d15e58d977d42f15d605d367",
+                    "shasum": ""
+                },
+                "time": "2025-05-29T14:03:32+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/820--update-pm-css-2025-05-29"
+                }
+            },
             "dev-821-add-featured-section-to-homepage-2025-05-12": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-821-add-featured-section-to-homepage-2025-05-12",
