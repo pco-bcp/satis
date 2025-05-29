@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e84b8a9a219011e7ee42be4b74a22d9a627ec4ac"
+                    "reference": "5d1adfabb68dda30c57446d6ddf42274e3bfc572"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e84b8a9a219011e7ee42be4b74a22d9a627ec4ac",
-                    "reference": "e84b8a9a219011e7ee42be4b74a22d9a627ec4ac",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5d1adfabb68dda30c57446d6ddf42274e3bfc572",
+                    "reference": "5d1adfabb68dda30c57446d6ddf42274e3bfc572",
                     "shasum": ""
                 },
-                "time": "2025-05-29T13:50:41+00:00",
+                "time": "2025-05-29T14:05:56+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -375,31 +375,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-820--update-pm-css-2025-05-29",
-                "version_normalized": "dev-820--update-pm-css-2025-05-29",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d668cdeb4de68e78d15e58d977d42f15d605d367"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d668cdeb4de68e78d15e58d977d42f15d605d367",
-                    "reference": "d668cdeb4de68e78d15e58d977d42f15d605d367",
-                    "shasum": ""
-                },
-                "time": "2025-05-29T14:03:32+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/820--update-pm-css-2025-05-29"
                 }
             },
             {
