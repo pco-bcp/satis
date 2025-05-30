@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b6261d07b475b675bab565db3348cb473d44a2c4"
+                    "reference": "383579fb1bc366daa87e6a106c4a20ad289ec764"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b6261d07b475b675bab565db3348cb473d44a2c4",
-                    "reference": "b6261d07b475b675bab565db3348cb473d44a2c4",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/383579fb1bc366daa87e6a106c4a20ad289ec764",
+                    "reference": "383579fb1bc366daa87e6a106c4a20ad289ec764",
                     "shasum": ""
                 },
-                "time": "2025-05-29T14:32:21+00:00",
+                "time": "2025-05-30T13:50:27+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -375,31 +375,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-818--regression-branch-2025-05-29",
-                "version_normalized": "dev-818--regression-branch-2025-05-29",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "dce6b6c3578eb0b0b8689a1a68c1251a92a9b1d6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/dce6b6c3578eb0b0b8689a1a68c1251a92a9b1d6",
-                    "reference": "dce6b6c3578eb0b0b8689a1a68c1251a92a9b1d6",
-                    "shasum": ""
-                },
-                "time": "2025-05-30T13:48:36+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/818--regression-branch-2025-05-29"
                 }
             },
             {
