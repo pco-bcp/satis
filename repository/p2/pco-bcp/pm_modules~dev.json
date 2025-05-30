@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "3baa414c3a469534c018d23cd108c82d40f4a3eb"
+                    "reference": "808fa98d25775e7f578e180a138edd170465b7a0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3baa414c3a469534c018d23cd108c82d40f4a3eb",
-                    "reference": "3baa414c3a469534c018d23cd108c82d40f4a3eb",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/808fa98d25775e7f578e180a138edd170465b7a0",
+                    "reference": "808fa98d25775e7f578e180a138edd170465b7a0",
                     "shasum": ""
                 },
-                "time": "2025-05-29T18:28:51+00:00",
+                "time": "2025-05-30T19:22:05+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -375,31 +375,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-822-add-3-column-news-to-homepage-2025-05-25",
-                "version_normalized": "dev-822-add-3-column-news-to-homepage-2025-05-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "703331f424ef18da8859b7ad77f982714f473b18"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/703331f424ef18da8859b7ad77f982714f473b18",
-                    "reference": "703331f424ef18da8859b7ad77f982714f473b18",
-                    "shasum": ""
-                },
-                "time": "2025-05-30T14:40:20+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/822-add-3-column-news-to-homepage-2025-05-25"
                 }
             },
             {
