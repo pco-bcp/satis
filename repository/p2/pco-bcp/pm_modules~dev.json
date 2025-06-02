@@ -429,6 +429,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-855-fix-image-momentarily-loading-2025-06-02",
+                "version_normalized": "dev-855-fix-image-momentarily-loading-2025-06-02",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "05c76d9e71ab4d6e6e54d3a47f01b9ad88fda01e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/05c76d9e71ab4d6e6e54d3a47f01b9ad88fda01e",
+                    "reference": "05c76d9e71ab4d6e6e54d3a47f01b9ad88fda01e",
+                    "shasum": ""
+                },
+                "time": "2025-06-02T15:37:53+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/855-fix-image-momentarily-loading-2025-06-02"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
                 "version_normalized": "dev-99-es6-conversion-for-pm_photo",
                 "source": {

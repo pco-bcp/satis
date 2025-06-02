@@ -10429,6 +10429,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/825-views-ajax-get"
                 }
             },
+            "dev-855-fix-image-momentarily-loading-2025-06-02": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-855-fix-image-momentarily-loading-2025-06-02",
+                "version_normalized": "dev-855-fix-image-momentarily-loading-2025-06-02",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "05c76d9e71ab4d6e6e54d3a47f01b9ad88fda01e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/05c76d9e71ab4d6e6e54d3a47f01b9ad88fda01e",
+                    "reference": "05c76d9e71ab4d6e6e54d3a47f01b9ad88fda01e",
+                    "shasum": ""
+                },
+                "time": "2025-06-02T15:37:53+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/855-fix-image-momentarily-loading-2025-06-02"
+                }
+            },
             "dev-99-es6-conversion-for-pm_photo": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
@@ -11688,15 +11713,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e45169513a8d2fca56d6bd8cc13285a3ced8764c"
+                    "reference": "1543faea32d091ace8c0009d4cd4d3c99e3c7572"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e45169513a8d2fca56d6bd8cc13285a3ced8764c",
-                    "reference": "e45169513a8d2fca56d6bd8cc13285a3ced8764c",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1543faea32d091ace8c0009d4cd4d3c99e3c7572",
+                    "reference": "1543faea32d091ace8c0009d4cd4d3c99e3c7572",
                     "shasum": ""
                 },
-                "time": "2025-05-30T19:27:00+00:00",
+                "time": "2025-06-02T15:54:59+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12055,31 +12080,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/853---fix-underline-hover-2025-06-02"
-                }
-            },
-            "dev-854-fix-tab-name-change-issue-2025-05-30": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-854-fix-tab-name-change-issue-2025-05-30",
-                "version_normalized": "dev-854-fix-tab-name-change-issue-2025-05-30",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d1940df01fd066cbfef817b41955eb6dba79f18f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d1940df01fd066cbfef817b41955eb6dba79f18f",
-                    "reference": "d1940df01fd066cbfef817b41955eb6dba79f18f",
-                    "shasum": ""
-                },
-                "time": "2025-05-31T02:28:19+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/854-fix-tab-name-change-issue-2025-05-30"
                 }
             },
             "dev-855-fix-image-momentarily-loading-2025-06-02": {
