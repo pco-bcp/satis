@@ -12082,6 +12082,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/854-fix-tab-name-change-issue-2025-05-30"
                 }
             },
+            "dev-855-fix-image-momentarily-loading-2025-06-02": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-855-fix-image-momentarily-loading-2025-06-02",
+                "version_normalized": "dev-855-fix-image-momentarily-loading-2025-06-02",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e9e216ff8d3ff40cf514ad1bc3a9c138c0e6c412"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e9e216ff8d3ff40cf514ad1bc3a9c138c0e6c412",
+                    "reference": "e9e216ff8d3ff40cf514ad1bc3a9c138c0e6c412",
+                    "shasum": ""
+                },
+                "time": "2025-06-02T15:35:33+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/855-fix-image-momentarily-loading-2025-06-02"
+                }
+            },
             "dev-856--fix-news-type-contrast-bg-2025-06-02": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-856--fix-news-type-contrast-bg-2025-06-02",
