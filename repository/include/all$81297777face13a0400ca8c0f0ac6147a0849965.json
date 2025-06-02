@@ -10060,15 +10060,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "808fa98d25775e7f578e180a138edd170465b7a0"
+                    "reference": "be8319176e8c7d901d6edded5e5854e332518e6f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/808fa98d25775e7f578e180a138edd170465b7a0",
-                    "reference": "808fa98d25775e7f578e180a138edd170465b7a0",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/be8319176e8c7d901d6edded5e5854e332518e6f",
+                    "reference": "be8319176e8c7d901d6edded5e5854e332518e6f",
                     "shasum": ""
                 },
-                "time": "2025-05-30T19:22:05+00:00",
+                "time": "2025-06-02T16:46:42+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10427,31 +10427,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/825-views-ajax-get"
-                }
-            },
-            "dev-855-fix-image-momentarily-loading-2025-06-02": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-855-fix-image-momentarily-loading-2025-06-02",
-                "version_normalized": "dev-855-fix-image-momentarily-loading-2025-06-02",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "05c76d9e71ab4d6e6e54d3a47f01b9ad88fda01e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/05c76d9e71ab4d6e6e54d3a47f01b9ad88fda01e",
-                    "reference": "05c76d9e71ab4d6e6e54d3a47f01b9ad88fda01e",
-                    "shasum": ""
-                },
-                "time": "2025-06-02T15:37:53+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/855-fix-image-momentarily-loading-2025-06-02"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
@@ -11713,15 +11688,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "1543faea32d091ace8c0009d4cd4d3c99e3c7572"
+                    "reference": "1ed267102675092386326950537ec4517d8fe54c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1543faea32d091ace8c0009d4cd4d3c99e3c7572",
-                    "reference": "1543faea32d091ace8c0009d4cd4d3c99e3c7572",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1ed267102675092386326950537ec4517d8fe54c",
+                    "reference": "1ed267102675092386326950537ec4517d8fe54c",
                     "shasum": ""
                 },
-                "time": "2025-06-02T15:54:59+00:00",
+                "time": "2025-06-02T16:47:44+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12080,31 +12055,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/853---fix-underline-hover-2025-06-02"
-                }
-            },
-            "dev-855-fix-image-momentarily-loading-2025-06-02": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-855-fix-image-momentarily-loading-2025-06-02",
-                "version_normalized": "dev-855-fix-image-momentarily-loading-2025-06-02",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e9e216ff8d3ff40cf514ad1bc3a9c138c0e6c412"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e9e216ff8d3ff40cf514ad1bc3a9c138c0e6c412",
-                    "reference": "e9e216ff8d3ff40cf514ad1bc3a9c138c0e6c412",
-                    "shasum": ""
-                },
-                "time": "2025-06-02T15:35:33+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/855-fix-image-momentarily-loading-2025-06-02"
                 }
             },
             "dev-856--fix-news-type-contrast-bg-2025-06-02": {

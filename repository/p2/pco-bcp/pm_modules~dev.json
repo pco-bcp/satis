@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "808fa98d25775e7f578e180a138edd170465b7a0"
+                    "reference": "be8319176e8c7d901d6edded5e5854e332518e6f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/808fa98d25775e7f578e180a138edd170465b7a0",
-                    "reference": "808fa98d25775e7f578e180a138edd170465b7a0",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/be8319176e8c7d901d6edded5e5854e332518e6f",
+                    "reference": "be8319176e8c7d901d6edded5e5854e332518e6f",
                     "shasum": ""
                 },
-                "time": "2025-05-30T19:22:05+00:00",
+                "time": "2025-06-02T16:46:42+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -425,31 +425,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/825-views-ajax-get"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-855-fix-image-momentarily-loading-2025-06-02",
-                "version_normalized": "dev-855-fix-image-momentarily-loading-2025-06-02",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "05c76d9e71ab4d6e6e54d3a47f01b9ad88fda01e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/05c76d9e71ab4d6e6e54d3a47f01b9ad88fda01e",
-                    "reference": "05c76d9e71ab4d6e6e54d3a47f01b9ad88fda01e",
-                    "shasum": ""
-                },
-                "time": "2025-06-02T15:37:53+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/855-fix-image-momentarily-loading-2025-06-02"
                 }
             },
             {
