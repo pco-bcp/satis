@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "1ed267102675092386326950537ec4517d8fe54c"
+                    "reference": "2b4461e013595b5a275a2198b5b2d9d89ef8609c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1ed267102675092386326950537ec4517d8fe54c",
-                    "reference": "1ed267102675092386326950537ec4517d8fe54c",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2b4461e013595b5a275a2198b5b2d9d89ef8609c",
+                    "reference": "2b4461e013595b5a275a2198b5b2d9d89ef8609c",
                     "shasum": ""
                 },
-                "time": "2025-06-02T16:47:44+00:00",
+                "time": "2025-06-02T17:23:24+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -400,56 +400,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/821-add-featured-section-to-homepage-2025-05-12"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-853---fix-underline-hover-2025-06-02",
-                "version_normalized": "dev-853---fix-underline-hover-2025-06-02",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "f1fc0dc80226069c84c5dcb57d5ad0defdcae605"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f1fc0dc80226069c84c5dcb57d5ad0defdcae605",
-                    "reference": "f1fc0dc80226069c84c5dcb57d5ad0defdcae605",
-                    "shasum": ""
-                },
-                "time": "2025-06-02T11:24:23+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/853---fix-underline-hover-2025-06-02"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-856--fix-news-type-contrast-bg-2025-06-02",
-                "version_normalized": "dev-856--fix-news-type-contrast-bg-2025-06-02",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "fe3b25938433462feeaa4f80015db6626e173858"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/fe3b25938433462feeaa4f80015db6626e173858",
-                    "reference": "fe3b25938433462feeaa4f80015db6626e173858",
-                    "shasum": ""
-                },
-                "time": "2025-06-02T11:41:10+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/856--fix-news-type-contrast-bg-2025-06-02"
                 }
             },
             {
