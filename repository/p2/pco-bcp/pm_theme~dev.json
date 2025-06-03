@@ -404,6 +404,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-822-tablet-layout-for-3-column-news-2025-06-03",
+                "version_normalized": "dev-822-tablet-layout-for-3-column-news-2025-06-03",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "ef5c77154ae7d774871201c4b04142b0197cbc51"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ef5c77154ae7d774871201c4b04142b0197cbc51",
+                    "reference": "ef5c77154ae7d774871201c4b04142b0197cbc51",
+                    "shasum": ""
+                },
+                "time": "2025-06-03T14:05:28+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/822-tablet-layout-for-3-column-news-2025-06-03"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
