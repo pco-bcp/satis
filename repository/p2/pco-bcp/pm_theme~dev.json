@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2b4461e013595b5a275a2198b5b2d9d89ef8609c"
+                    "reference": "ffdd1d7969762353625c2d916854b81a3fa0db42"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2b4461e013595b5a275a2198b5b2d9d89ef8609c",
-                    "reference": "2b4461e013595b5a275a2198b5b2d9d89ef8609c",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ffdd1d7969762353625c2d916854b81a3fa0db42",
+                    "reference": "ffdd1d7969762353625c2d916854b81a3fa0db42",
                     "shasum": ""
                 },
-                "time": "2025-06-02T17:23:24+00:00",
+                "time": "2025-06-06T20:28:41+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.0"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.x"
                 }
             },
             {
@@ -450,31 +450,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-864--fix-button-design-2025-06-06",
-                "version_normalized": "dev-864--fix-button-design-2025-06-06",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "c9def7f66b031e7db62535453066da7f2a645efa"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c9def7f66b031e7db62535453066da7f2a645efa",
-                    "reference": "c9def7f66b031e7db62535453066da7f2a645efa",
-                    "shasum": ""
-                },
-                "time": "2025-06-06T18:45:20+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/864--fix-button-design-2025-06-06"
                 }
             },
             {
