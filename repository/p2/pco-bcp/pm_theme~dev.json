@@ -454,6 +454,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-864--fix-button-design-2025-06-06",
+                "version_normalized": "dev-864--fix-button-design-2025-06-06",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "c9def7f66b031e7db62535453066da7f2a645efa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c9def7f66b031e7db62535453066da7f2a645efa",
+                    "reference": "c9def7f66b031e7db62535453066da7f2a645efa",
+                    "shasum": ""
+                },
+                "time": "2025-06-06T18:45:20+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/864--fix-button-design-2025-06-06"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
