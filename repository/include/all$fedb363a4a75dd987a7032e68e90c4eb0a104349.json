@@ -12207,6 +12207,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/822-tablet-layout-for-3-column-news-2025-06-03"
                 }
             },
+            "dev-857--update--wcag-color-fixes": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-857--update--wcag-color-fixes",
+                "version_normalized": "dev-857--update--wcag-color-fixes",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "8f1a47b1ef1bffe43adce0d378a34ba78edbd4d5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8f1a47b1ef1bffe43adce0d378a34ba78edbd4d5",
+                    "reference": "8f1a47b1ef1bffe43adce0d378a34ba78edbd4d5",
+                    "shasum": ""
+                },
+                "time": "2025-06-06T20:50:46+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/857--update--wcag-color-fixes"
+                }
+            },
             "dev-861--new-design-menus-2025-06-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-861--new-design-menus-2025-06-05",
