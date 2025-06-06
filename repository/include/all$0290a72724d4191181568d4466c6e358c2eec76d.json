@@ -10135,15 +10135,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "be8319176e8c7d901d6edded5e5854e332518e6f"
+                    "reference": "7195b970bc6c744beb33f9687652a93029ccdb90"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/be8319176e8c7d901d6edded5e5854e332518e6f",
-                    "reference": "be8319176e8c7d901d6edded5e5854e332518e6f",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7195b970bc6c744beb33f9687652a93029ccdb90",
+                    "reference": "7195b970bc6c744beb33f9687652a93029ccdb90",
                     "shasum": ""
                 },
-                "time": "2025-06-02T16:46:42+00:00",
+                "time": "2025-06-06T14:57:25+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10151,7 +10151,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.0"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.x"
                 }
             },
             "4.x-dev": {
@@ -10477,31 +10477,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
-                }
-            },
-            "dev-800-video-console-cleanup": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-800-video-console-cleanup",
-                "version_normalized": "dev-800-video-console-cleanup",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "95bb619d8959aa08d64241ebc1742234bcf53509"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/95bb619d8959aa08d64241ebc1742234bcf53509",
-                    "reference": "95bb619d8959aa08d64241ebc1742234bcf53509",
-                    "shasum": ""
-                },
-                "time": "2025-06-06T14:37:11+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/800-video-console-cleanup"
                 }
             },
             "dev-814-change-url-to-ma-2025-06-06": {
