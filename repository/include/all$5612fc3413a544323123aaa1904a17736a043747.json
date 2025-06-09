@@ -11888,15 +11888,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "dd4831fe6f9ee064aa79616270b19d63e6e946ef"
+                    "reference": "80e1405b297ed10e68288101df1d37378af67886"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/dd4831fe6f9ee064aa79616270b19d63e6e946ef",
-                    "reference": "dd4831fe6f9ee064aa79616270b19d63e6e946ef",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/80e1405b297ed10e68288101df1d37378af67886",
+                    "reference": "80e1405b297ed10e68288101df1d37378af67886",
                     "shasum": ""
                 },
-                "time": "2025-06-09T17:18:00+00:00",
+                "time": "2025-06-09T19:25:20+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12257,31 +12257,6 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/822-tablet-layout-for-3-column-news-2025-06-03"
                 }
             },
-            "dev-857--update--wcag-color-fixes": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-857--update--wcag-color-fixes",
-                "version_normalized": "dev-857--update--wcag-color-fixes",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "192909ec81679dd73cfc6da75fdf28f16b7c0ebf"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/192909ec81679dd73cfc6da75fdf28f16b7c0ebf",
-                    "reference": "192909ec81679dd73cfc6da75fdf28f16b7c0ebf",
-                    "shasum": ""
-                },
-                "time": "2025-06-09T19:14:38+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/857--update--wcag-color-fixes"
-                }
-            },
             "dev-861--new-design-menus-2025-06-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-861--new-design-menus-2025-06-05",
@@ -12314,15 +12289,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "3a6d4e40b35fa9bf9de6db71da58c1fb77cb2735"
+                    "reference": "d87b5b80c0d7080f64e98269114ca06d1a6f603f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3a6d4e40b35fa9bf9de6db71da58c1fb77cb2735",
-                    "reference": "3a6d4e40b35fa9bf9de6db71da58c1fb77cb2735",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d87b5b80c0d7080f64e98269114ca06d1a6f603f",
+                    "reference": "d87b5b80c0d7080f64e98269114ca06d1a6f603f",
                     "shasum": ""
                 },
-                "time": "2025-06-09T16:28:13+00:00",
+                "time": "2025-06-09T19:24:35+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
