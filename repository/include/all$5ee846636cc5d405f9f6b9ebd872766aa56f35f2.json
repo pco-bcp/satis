@@ -12282,6 +12282,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/857--update--wcag-color-fixes"
                 }
             },
+            "dev-861--new-design-menus-2025-06-05": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-861--new-design-menus-2025-06-05",
+                "version_normalized": "dev-861--new-design-menus-2025-06-05",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e7841d274ce52c5224231a9d4dd1e51c0b115501"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e7841d274ce52c5224231a9d4dd1e51c0b115501",
+                    "reference": "e7841d274ce52c5224231a9d4dd1e51c0b115501",
+                    "shasum": ""
+                },
+                "time": "2025-06-09T19:03:35+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
+                }
+            },
             "dev-862-h1-styling": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-862-h1-styling",
