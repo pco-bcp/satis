@@ -10160,15 +10160,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "c51e7af4908b4d6105fc2905d6710d8c31c81ae3"
+                    "reference": "d1edf836d7e403d5af109a8b42c19d83c41383f1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c51e7af4908b4d6105fc2905d6710d8c31c81ae3",
-                    "reference": "c51e7af4908b4d6105fc2905d6710d8c31c81ae3",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d1edf836d7e403d5af109a8b42c19d83c41383f1",
+                    "reference": "d1edf836d7e403d5af109a8b42c19d83c41383f1",
                     "shasum": ""
                 },
-                "time": "2025-06-10T17:32:26+00:00",
+                "time": "2025-06-10T19:53:09+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10552,31 +10552,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/825-views-ajax-get"
-                }
-            },
-            "dev-863--update-video-page-2025-06-09": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-863--update-video-page-2025-06-09",
-                "version_normalized": "dev-863--update-video-page-2025-06-09",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "63326831f9c1bb6a73c7e15ac08bd98be632593b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/63326831f9c1bb6a73c7e15ac08bd98be632593b",
-                    "reference": "63326831f9c1bb6a73c7e15ac08bd98be632593b",
-                    "shasum": ""
-                },
-                "time": "2025-06-10T19:50:12+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/863--update-video-page-2025-06-09"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
@@ -11863,15 +11838,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "1ac34185f9270b9a94d0a666aee9fcd4b42cbef3"
+                    "reference": "d4245feff58238c87e3c31a180e3f9b8feda2ccb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1ac34185f9270b9a94d0a666aee9fcd4b42cbef3",
-                    "reference": "1ac34185f9270b9a94d0a666aee9fcd4b42cbef3",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d4245feff58238c87e3c31a180e3f9b8feda2ccb",
+                    "reference": "d4245feff58238c87e3c31a180e3f9b8feda2ccb",
                     "shasum": ""
                 },
-                "time": "2025-06-10T16:36:59+00:00",
+                "time": "2025-06-10T19:53:51+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12255,31 +12230,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
-                }
-            },
-            "dev-863--update-video-page-2025-06-09": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-863--update-video-page-2025-06-09",
-                "version_normalized": "dev-863--update-video-page-2025-06-09",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4627d2d25ad45bf1405b43bd528aba48783529be"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4627d2d25ad45bf1405b43bd528aba48783529be",
-                    "reference": "4627d2d25ad45bf1405b43bd528aba48783529be",
-                    "shasum": ""
-                },
-                "time": "2025-06-10T18:56:38+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/863--update-video-page-2025-06-09"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
