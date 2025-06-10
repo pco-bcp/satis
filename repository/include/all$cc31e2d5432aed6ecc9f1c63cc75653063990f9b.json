@@ -11863,15 +11863,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a00a7e852510e1e8c5be6e9f0d978399d7ba83c2"
+                    "reference": "e1afff8a7979a753af36bf3db7d9e5f22cbe191f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a00a7e852510e1e8c5be6e9f0d978399d7ba83c2",
-                    "reference": "a00a7e852510e1e8c5be6e9f0d978399d7ba83c2",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e1afff8a7979a753af36bf3db7d9e5f22cbe191f",
+                    "reference": "e1afff8a7979a753af36bf3db7d9e5f22cbe191f",
                     "shasum": ""
                 },
-                "time": "2025-06-09T19:43:39+00:00",
+                "time": "2025-06-10T16:10:39+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12255,31 +12255,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
-                }
-            },
-            "dev-872--fix-css-regression-search-button-on-popup-window": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-872--fix-css-regression-search-button-on-popup-window",
-                "version_normalized": "dev-872--fix-css-regression-search-button-on-popup-window",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "3ab3ea44f26f99e67b59b808154ecea4738bb690"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3ab3ea44f26f99e67b59b808154ecea4738bb690",
-                    "reference": "3ab3ea44f26f99e67b59b808154ecea4738bb690",
-                    "shasum": ""
-                },
-                "time": "2025-06-10T11:35:53+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/872--fix-css-regression-search-button-on-popup-window"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
