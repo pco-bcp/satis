@@ -10554,6 +10554,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/825-views-ajax-get"
                 }
             },
+            "dev-863--update-video-page-2025-06-09": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-863--update-video-page-2025-06-09",
+                "version_normalized": "dev-863--update-video-page-2025-06-09",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "93f0cfe4d68840ace1450ff08d7797f6decac35b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/93f0cfe4d68840ace1450ff08d7797f6decac35b",
+                    "reference": "93f0cfe4d68840ace1450ff08d7797f6decac35b",
+                    "shasum": ""
+                },
+                "time": "2025-06-11T12:38:09+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/863--update-video-page-2025-06-09"
+                }
+            },
             "dev-99-es6-conversion-for-pm_photo": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
