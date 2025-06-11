@@ -10185,15 +10185,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "46b454ba83745eac988795a4a3d973f1d515c66b"
+                    "reference": "4b96997c24dd38014f5a1d7b16d89b2ae0d230c9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/46b454ba83745eac988795a4a3d973f1d515c66b",
-                    "reference": "46b454ba83745eac988795a4a3d973f1d515c66b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4b96997c24dd38014f5a1d7b16d89b2ae0d230c9",
+                    "reference": "4b96997c24dd38014f5a1d7b16d89b2ae0d230c9",
                     "shasum": ""
                 },
-                "time": "2025-06-11T13:09:40+00:00",
+                "time": "2025-06-11T19:59:33+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10201,7 +10201,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.1"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.x"
                 }
             },
             "4.x-dev": {
@@ -10602,31 +10602,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/873--fix-css-regression-newstype-links-underlined"
-                }
-            },
-            "dev-875--fix-news-look-2025-06-11": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-875--fix-news-look-2025-06-11",
-                "version_normalized": "dev-875--fix-news-look-2025-06-11",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "c44283fe9e1bdbaa3569ba0c0ecec464089482e4"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c44283fe9e1bdbaa3569ba0c0ecec464089482e4",
-                    "reference": "c44283fe9e1bdbaa3569ba0c0ecec464089482e4",
-                    "shasum": ""
-                },
-                "time": "2025-06-11T15:19:29+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/875--fix-news-look-2025-06-11"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
