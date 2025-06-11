@@ -479,6 +479,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-875--fix-news-look-2025-06-11",
+                "version_normalized": "dev-875--fix-news-look-2025-06-11",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "79fd21ad754050f8185253bb64a665dfe1189ed9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/79fd21ad754050f8185253bb64a665dfe1189ed9",
+                    "reference": "79fd21ad754050f8185253bb64a665dfe1189ed9",
+                    "shasum": ""
+                },
+                "time": "2025-06-11T14:48:37+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/875--fix-news-look-2025-06-11"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
