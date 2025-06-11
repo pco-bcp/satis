@@ -454,6 +454,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-873--fix-css-regression-newstype-links-underlined",
+                "version_normalized": "dev-873--fix-css-regression-newstype-links-underlined",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "4271443542a8f9c8e05ad67a7a19786d4be9bd21"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4271443542a8f9c8e05ad67a7a19786d4be9bd21",
+                    "reference": "4271443542a8f9c8e05ad67a7a19786d4be9bd21",
+                    "shasum": ""
+                },
+                "time": "2025-06-11T12:32:23+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/873--fix-css-regression-newstype-links-underlined"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
