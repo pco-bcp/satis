@@ -454,6 +454,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-863-add-padding-around-video-hover-2025-06-12",
+                "version_normalized": "dev-863-add-padding-around-video-hover-2025-06-12",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "b1f89f87b4483fe863585460b099de22c66b4378"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b1f89f87b4483fe863585460b099de22c66b4378",
+                    "reference": "b1f89f87b4483fe863585460b099de22c66b4378",
+                    "shasum": ""
+                },
+                "time": "2025-06-12T14:20:14+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/863-add-padding-around-video-hover-2025-06-12"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-873--fix-css-regression-newstype-links-underlined",
                 "version_normalized": "dev-873--fix-css-regression-newstype-links-underlined",
                 "source": {
