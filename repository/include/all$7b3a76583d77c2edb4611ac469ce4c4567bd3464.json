@@ -12307,6 +12307,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
                 }
             },
+            "dev-879--update-coat-of-arms-link-2025-06-12": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-879--update-coat-of-arms-link-2025-06-12",
+                "version_normalized": "dev-879--update-coat-of-arms-link-2025-06-12",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "83357005ab09d73203ca96a5da2152af6b749bde"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/83357005ab09d73203ca96a5da2152af6b749bde",
+                    "reference": "83357005ab09d73203ca96a5da2152af6b749bde",
+                    "shasum": ""
+                },
+                "time": "2025-06-12T15:29:14+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/879--update-coat-of-arms-link-2025-06-12"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
