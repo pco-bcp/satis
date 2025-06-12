@@ -11913,15 +11913,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "449d1cb244d443818c7d563e50ea33562a0c5487"
+                    "reference": "877eef492642b0d627a2122eed513c4cd53c624f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/449d1cb244d443818c7d563e50ea33562a0c5487",
-                    "reference": "449d1cb244d443818c7d563e50ea33562a0c5487",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/877eef492642b0d627a2122eed513c4cd53c624f",
+                    "reference": "877eef492642b0d627a2122eed513c4cd53c624f",
                     "shasum": ""
                 },
-                "time": "2025-06-12T13:59:24+00:00",
+                "time": "2025-06-12T16:14:13+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12305,31 +12305,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
-                }
-            },
-            "dev-879--update-coat-of-arms-link-2025-06-12": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-879--update-coat-of-arms-link-2025-06-12",
-                "version_normalized": "dev-879--update-coat-of-arms-link-2025-06-12",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "267727cfacb59f04ac0698a7b4d6f11f3d404f78"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/267727cfacb59f04ac0698a7b4d6f11f3d404f78",
-                    "reference": "267727cfacb59f04ac0698a7b4d6f11f3d404f78",
-                    "shasum": ""
-                },
-                "time": "2025-06-12T15:59:23+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/879--update-coat-of-arms-link-2025-06-12"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
