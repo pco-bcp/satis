@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "4b96997c24dd38014f5a1d7b16d89b2ae0d230c9"
+                    "reference": "0194f890a3acf0c5cf725d53283fb78447035aec"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4b96997c24dd38014f5a1d7b16d89b2ae0d230c9",
-                    "reference": "4b96997c24dd38014f5a1d7b16d89b2ae0d230c9",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0194f890a3acf0c5cf725d53283fb78447035aec",
+                    "reference": "0194f890a3acf0c5cf725d53283fb78447035aec",
                     "shasum": ""
                 },
-                "time": "2025-06-11T19:59:33+00:00",
+                "time": "2025-06-12T14:41:38+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -450,31 +450,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/825-views-ajax-get"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-863-add-padding-around-video-hover-2025-06-12",
-                "version_normalized": "dev-863-add-padding-around-video-hover-2025-06-12",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "b1f89f87b4483fe863585460b099de22c66b4378"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b1f89f87b4483fe863585460b099de22c66b4378",
-                    "reference": "b1f89f87b4483fe863585460b099de22c66b4378",
-                    "shasum": ""
-                },
-                "time": "2025-06-12T14:20:14+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/863-add-padding-around-video-hover-2025-06-12"
                 }
             },
             {
