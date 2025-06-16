@@ -10604,6 +10604,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/868-add-extra-features-to-featured-section-2025-06-13"
                 }
             },
+            "dev-868-fix-css-for-featured-section-2025-06-16": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-868-fix-css-for-featured-section-2025-06-16",
+                "version_normalized": "dev-868-fix-css-for-featured-section-2025-06-16",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "ab253986b08bf9775e208f82d1f1db902fbdc12f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/ab253986b08bf9775e208f82d1f1db902fbdc12f",
+                    "reference": "ab253986b08bf9775e208f82d1f1db902fbdc12f",
+                    "shasum": ""
+                },
+                "time": "2025-06-16T18:04:18+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/868-fix-css-for-featured-section-2025-06-16"
+                }
+            },
             "dev-873--fix-css-regression-newstype-links-underlined": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-873--fix-css-regression-newstype-links-underlined",
@@ -12355,6 +12380,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
+                }
+            },
+            "dev-868-fix-css-for-featured-section-2025-06-16": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-868-fix-css-for-featured-section-2025-06-16",
+                "version_normalized": "dev-868-fix-css-for-featured-section-2025-06-16",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "02f4dd1036bf834326d96ad959874447c2d9f27b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/02f4dd1036bf834326d96ad959874447c2d9f27b",
+                    "reference": "02f4dd1036bf834326d96ad959874447c2d9f27b",
+                    "shasum": ""
+                },
+                "time": "2025-06-16T18:05:48+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/868-fix-css-for-featured-section-2025-06-16"
                 }
             },
             "dev-880-line-up-3-column-news-items-2025-06-12": {

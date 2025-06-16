@@ -454,6 +454,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-868-fix-css-for-featured-section-2025-06-16",
+                "version_normalized": "dev-868-fix-css-for-featured-section-2025-06-16",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "02f4dd1036bf834326d96ad959874447c2d9f27b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/02f4dd1036bf834326d96ad959874447c2d9f27b",
+                    "reference": "02f4dd1036bf834326d96ad959874447c2d9f27b",
+                    "shasum": ""
+                },
+                "time": "2025-06-16T18:05:48+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/868-fix-css-for-featured-section-2025-06-16"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-880-line-up-3-column-news-items-2025-06-12",
                 "version_normalized": "dev-880-line-up-3-column-news-items-2025-06-12",
                 "source": {
