@@ -479,6 +479,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-884-border-thinning",
+                "version_normalized": "dev-884-border-thinning",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "c9f0ecf2295cacd838df0c3ed2ff9155cd22b0ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c9f0ecf2295cacd838df0c3ed2ff9155cd22b0ea",
+                    "reference": "c9f0ecf2295cacd838df0c3ed2ff9155cd22b0ea",
+                    "shasum": ""
+                },
+                "time": "2025-06-16T14:10:51+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/884-border-thinning"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-887--fix-css-important-notices-2025-06-13",
                 "version_normalized": "dev-887--fix-css-important-notices-2025-06-13",
                 "source": {
