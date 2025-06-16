@@ -454,6 +454,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-868-add-extra-features-to-featured-section-2025-06-13",
+                "version_normalized": "dev-868-add-extra-features-to-featured-section-2025-06-13",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "4c64651a76de3c3111898a0d51f8442a2d6b6799"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4c64651a76de3c3111898a0d51f8442a2d6b6799",
+                    "reference": "4c64651a76de3c3111898a0d51f8442a2d6b6799",
+                    "shasum": ""
+                },
+                "time": "2025-06-16T15:01:54+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/868-add-extra-features-to-featured-section-2025-06-13"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-873--fix-css-regression-newstype-links-underlined",
                 "version_normalized": "dev-873--fix-css-regression-newstype-links-underlined",
                 "source": {
