@@ -11963,15 +11963,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "adcc353ef6017877dca93ab6903455e9a761c7fc"
+                    "reference": "ef0b5edf9c30e8b1671506809520171a98374252"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/adcc353ef6017877dca93ab6903455e9a761c7fc",
-                    "reference": "adcc353ef6017877dca93ab6903455e9a761c7fc",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ef0b5edf9c30e8b1671506809520171a98374252",
+                    "reference": "ef0b5edf9c30e8b1671506809520171a98374252",
                     "shasum": ""
                 },
-                "time": "2025-06-17T13:19:39+00:00",
+                "time": "2025-06-17T14:55:42+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12357,31 +12357,6 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
                 }
             },
-            "dev-868-fix-css-for-featured-section-2025-06-16": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-868-fix-css-for-featured-section-2025-06-16",
-                "version_normalized": "dev-868-fix-css-for-featured-section-2025-06-16",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "9c6f0a0abb483cbcceee86958fddf17f254202af"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9c6f0a0abb483cbcceee86958fddf17f254202af",
-                    "reference": "9c6f0a0abb483cbcceee86958fddf17f254202af",
-                    "shasum": ""
-                },
-                "time": "2025-06-17T14:47:17+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/868-fix-css-for-featured-section-2025-06-16"
-                }
-            },
             "dev-880-line-up-3-column-news-items-2025-06-12": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-880-line-up-3-column-news-items-2025-06-12",
@@ -12405,31 +12380,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-887--fix-css-important-notices-2025-06-13": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-887--fix-css-important-notices-2025-06-13",
-                "version_normalized": "dev-887--fix-css-important-notices-2025-06-13",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a0b1a5ac75465e83b6f5e4c102c63bf004c3f28f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a0b1a5ac75465e83b6f5e4c102c63bf004c3f28f",
-                    "reference": "a0b1a5ac75465e83b6f5e4c102c63bf004c3f28f",
-                    "shasum": ""
-                },
-                "time": "2025-06-13T18:51:30+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/887--fix-css-important-notices-2025-06-13"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
