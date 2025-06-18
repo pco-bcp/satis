@@ -504,6 +504,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-897--fix-Carney-head-shot-left-alignment-2025-06-18",
+                "version_normalized": "dev-897--fix-Carney-head-shot-left-alignment-2025-06-18",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e48d4cb5ecb1fdab178bcc72be5e891850585167"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e48d4cb5ecb1fdab178bcc72be5e891850585167",
+                    "reference": "e48d4cb5ecb1fdab178bcc72be5e891850585167",
+                    "shasum": ""
+                },
+                "time": "2025-06-18T18:06:15+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/897--fix-Carney-head-shot-left-alignment-2025-06-18"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
