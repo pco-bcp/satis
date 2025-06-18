@@ -10235,15 +10235,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "a24786387e60fb8d5e77676c5dbfa4f8dccf563d"
+                    "reference": "6211389286fdca240aee980410579c329dc0927f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a24786387e60fb8d5e77676c5dbfa4f8dccf563d",
-                    "reference": "a24786387e60fb8d5e77676c5dbfa4f8dccf563d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6211389286fdca240aee980410579c329dc0927f",
+                    "reference": "6211389286fdca240aee980410579c329dc0927f",
                     "shasum": ""
                 },
-                "time": "2025-06-17T14:57:04+00:00",
+                "time": "2025-06-18T13:52:15+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10251,7 +10251,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.2"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.x"
                 }
             },
             "4.x-dev": {
@@ -10652,31 +10652,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/873--fix-css-regression-newstype-links-underlined"
-                }
-            },
-            "dev-874--fix-low-res-ytimg-2025-06-17": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-874--fix-low-res-ytimg-2025-06-17",
-                "version_normalized": "dev-874--fix-low-res-ytimg-2025-06-17",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "a3f41a512f5b7668bb60315c1bb0328815f76411"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a3f41a512f5b7668bb60315c1bb0328815f76411",
-                    "reference": "a3f41a512f5b7668bb60315c1bb0328815f76411",
-                    "shasum": ""
-                },
-                "time": "2025-06-17T20:26:59+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/874--fix-low-res-ytimg-2025-06-17"
                 }
             },
             "dev-880-line-up-3-column-news-items-2025-06-12": {
