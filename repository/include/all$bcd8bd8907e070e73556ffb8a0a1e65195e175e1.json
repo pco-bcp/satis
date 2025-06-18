@@ -12457,6 +12457,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/890-change-of-font-2025-06-17"
                 }
             },
+            "dev-894--update-news-view-page-to-All-news-2025-06-18": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-894--update-news-view-page-to-All-news-2025-06-18",
+                "version_normalized": "dev-894--update-news-view-page-to-All-news-2025-06-18",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "5d37dc78df5d337e06cd0bff3e01cedc39dd5eb9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5d37dc78df5d337e06cd0bff3e01cedc39dd5eb9",
+                    "reference": "5d37dc78df5d337e06cd0bff3e01cedc39dd5eb9",
+                    "shasum": ""
+                },
+                "time": "2025-06-18T21:07:04+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/894--update-news-view-page-to-All-news-2025-06-18"
+                }
+            },
             "dev-897--fix-Carney-head-shot-left-alignment-2025-06-18": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-897--fix-Carney-head-shot-left-alignment-2025-06-18",
