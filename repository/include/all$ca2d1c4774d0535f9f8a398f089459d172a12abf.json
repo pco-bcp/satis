@@ -10323,15 +10323,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "c98a25eba9b27b03a088aef9385ac3a0b7727d59"
+                    "reference": "068e9bbe5af4a8d549cee898f0df49cd9fc23f80"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c98a25eba9b27b03a088aef9385ac3a0b7727d59",
-                    "reference": "c98a25eba9b27b03a088aef9385ac3a0b7727d59",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/068e9bbe5af4a8d549cee898f0df49cd9fc23f80",
+                    "reference": "068e9bbe5af4a8d549cee898f0df49cd9fc23f80",
                     "shasum": ""
                 },
-                "time": "2025-06-19T14:16:53+00:00",
+                "time": "2025-06-19T17:35:11+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10790,31 +10790,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/894--update-news-view-page-to-All-news-2025-06-18"
-                }
-            },
-            "dev-901--fix-hide-empty-photo-rows": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-901--fix-hide-empty-photo-rows",
-                "version_normalized": "dev-901--fix-hide-empty-photo-rows",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "6840aa32fa6280dda9fcc46609c85080dace08a0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6840aa32fa6280dda9fcc46609c85080dace08a0",
-                    "reference": "6840aa32fa6280dda9fcc46609c85080dace08a0",
-                    "shasum": ""
-                },
-                "time": "2025-06-19T16:09:16+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/901--fix-hide-empty-photo-rows"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
