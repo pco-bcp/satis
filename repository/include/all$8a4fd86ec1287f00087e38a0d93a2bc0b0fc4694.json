@@ -10323,15 +10323,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "6211389286fdca240aee980410579c329dc0927f"
+                    "reference": "c98a25eba9b27b03a088aef9385ac3a0b7727d59"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6211389286fdca240aee980410579c329dc0927f",
-                    "reference": "6211389286fdca240aee980410579c329dc0927f",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c98a25eba9b27b03a088aef9385ac3a0b7727d59",
+                    "reference": "c98a25eba9b27b03a088aef9385ac3a0b7727d59",
                     "shasum": ""
                 },
-                "time": "2025-06-18T13:52:15+00:00",
+                "time": "2025-06-19T14:16:53+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10765,31 +10765,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-882-photos-same-as-videos": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-882-photos-same-as-videos",
-                "version_normalized": "dev-882-photos-same-as-videos",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "93914078cf358c7c2064d47b839d3b22c5f2f872"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/93914078cf358c7c2064d47b839d3b22c5f2f872",
-                    "reference": "93914078cf358c7c2064d47b839d3b22c5f2f872",
-                    "shasum": ""
-                },
-                "time": "2025-06-19T13:11:14+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/882-photos-same-as-videos"
                 }
             },
             "dev-894--update-news-view-page-to-All-news-2025-06-18": {
