@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "cf50e136e016a3691fdeb84e3f4c18e60b3c4a95"
+                    "reference": "ee66af4306ff8148924bbb290e9983c1e870e7b3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/cf50e136e016a3691fdeb84e3f4c18e60b3c4a95",
-                    "reference": "cf50e136e016a3691fdeb84e3f4c18e60b3c4a95",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ee66af4306ff8148924bbb290e9983c1e870e7b3",
+                    "reference": "ee66af4306ff8148924bbb290e9983c1e870e7b3",
                     "shasum": ""
                 },
-                "time": "2025-06-19T14:58:56+00:00",
+                "time": "2025-06-19T17:45:40+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -525,31 +525,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/894--update-news-view-page-to-All-news-2025-06-18"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-900--fix-css-regression-NewsType-menu-underlined-2025-06-18",
-                "version_normalized": "dev-900--fix-css-regression-NewsType-menu-underlined-2025-06-18",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "232381e674c477511cb1dc4fe5e12563fcf25e3f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/232381e674c477511cb1dc4fe5e12563fcf25e3f",
-                    "reference": "232381e674c477511cb1dc4fe5e12563fcf25e3f",
-                    "shasum": ""
-                },
-                "time": "2025-06-18T23:03:06+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/900--fix-css-regression-NewsType-menu-underlined-2025-06-18"
                 }
             },
             {
