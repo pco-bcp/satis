@@ -529,6 +529,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-895--fix-archived-banner-padding",
+                "version_normalized": "dev-895--fix-archived-banner-padding",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "51d074082fdca0a93a1d77234f74b2f49bcc8b62"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/51d074082fdca0a93a1d77234f74b2f49bcc8b62",
+                    "reference": "51d074082fdca0a93a1d77234f74b2f49bcc8b62",
+                    "shasum": ""
+                },
+                "time": "2025-06-19T20:38:11+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/895--fix-archived-banner-padding"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
