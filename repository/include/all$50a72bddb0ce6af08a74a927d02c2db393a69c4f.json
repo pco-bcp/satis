@@ -10323,15 +10323,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "068e9bbe5af4a8d549cee898f0df49cd9fc23f80"
+                    "reference": "8cc439d9fc6249b380417986f0cacfdfe3983b78"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/068e9bbe5af4a8d549cee898f0df49cd9fc23f80",
-                    "reference": "068e9bbe5af4a8d549cee898f0df49cd9fc23f80",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8cc439d9fc6249b380417986f0cacfdfe3983b78",
+                    "reference": "8cc439d9fc6249b380417986f0cacfdfe3983b78",
                     "shasum": ""
                 },
-                "time": "2025-06-19T17:35:11+00:00",
+                "time": "2025-06-19T18:01:45+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10415,6 +10415,31 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/222-d-check-pm_minister_order_admin-19MAR2024"
+                }
+            },
+            "dev-222-drupal-check-pm_admin-PM-2024-03-25": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-222-drupal-check-pm_admin-PM-2024-03-25",
+                "version_normalized": "dev-222-drupal-check-pm_admin-PM-2024-03-25",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "21562316ea592cfc6d859242ee9a316e84169fe2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/21562316ea592cfc6d859242ee9a316e84169fe2",
+                    "reference": "21562316ea592cfc6d859242ee9a316e84169fe2",
+                    "shasum": ""
+                },
+                "time": "2024-04-03T11:47:55+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/222-drupal-check-pm_admin-PM-2024-03-25"
                 }
             },
             "dev-222-drupal-check-pm_ml-2024-03-18": {
@@ -10690,31 +10715,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/825-views-ajax-get"
-                }
-            },
-            "dev-873--fix-css-regression-newstype-links-underlined": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-873--fix-css-regression-newstype-links-underlined",
-                "version_normalized": "dev-873--fix-css-regression-newstype-links-underlined",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "1f28153ab32c448f1cb1c8dc6645f4606a99a533"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1f28153ab32c448f1cb1c8dc6645f4606a99a533",
-                    "reference": "1f28153ab32c448f1cb1c8dc6645f4606a99a533",
-                    "shasum": ""
-                },
-                "time": "2025-06-11T14:06:17+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/873--fix-css-regression-newstype-links-underlined"
                 }
             },
             "dev-880-line-up-3-column-news-items-2025-06-12": {
