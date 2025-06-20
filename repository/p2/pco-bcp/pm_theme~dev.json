@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "8449fd8a905b81e0dd7239f2eb1cd63b27c78b27"
+                    "reference": "b8ffe6e98ed569d99a025d2d2f22663187b9cc61"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8449fd8a905b81e0dd7239f2eb1cd63b27c78b27",
-                    "reference": "8449fd8a905b81e0dd7239f2eb1cd63b27c78b27",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b8ffe6e98ed569d99a025d2d2f22663187b9cc61",
+                    "reference": "b8ffe6e98ed569d99a025d2d2f22663187b9cc61",
                     "shasum": ""
                 },
-                "time": "2025-06-20T16:25:39+00:00",
+                "time": "2025-06-20T17:59:32+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -500,31 +500,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/890-change-of-font-2025-06-17"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-894--update-news-view-page-to-All-news-2025-06-18",
-                "version_normalized": "dev-894--update-news-view-page-to-All-news-2025-06-18",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "7428c9b124fff19f9c31ffef3b33c85fbb0d45b5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7428c9b124fff19f9c31ffef3b33c85fbb0d45b5",
-                    "reference": "7428c9b124fff19f9c31ffef3b33c85fbb0d45b5",
-                    "shasum": ""
-                },
-                "time": "2025-06-19T16:36:54+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/894--update-news-view-page-to-All-news-2025-06-18"
                 }
             },
             {

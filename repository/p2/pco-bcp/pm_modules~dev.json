@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "a398755f832bac25c11c83a176c82386c73453e1"
+                    "reference": "d5e6146b16979b6b7843effccc5631b41d3c2f88"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a398755f832bac25c11c83a176c82386c73453e1",
-                    "reference": "a398755f832bac25c11c83a176c82386c73453e1",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d5e6146b16979b6b7843effccc5631b41d3c2f88",
+                    "reference": "d5e6146b16979b6b7843effccc5631b41d3c2f88",
                     "shasum": ""
                 },
-                "time": "2025-06-20T13:26:23+00:00",
+                "time": "2025-06-20T17:59:37+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -475,31 +475,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-894--update-news-view-page-to-All-news-2025-06-18",
-                "version_normalized": "dev-894--update-news-view-page-to-All-news-2025-06-18",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "7f91c612445f39a42c33f52d5ac433c831f1eb81"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7f91c612445f39a42c33f52d5ac433c831f1eb81",
-                    "reference": "7f91c612445f39a42c33f52d5ac433c831f1eb81",
-                    "shasum": ""
-                },
-                "time": "2025-06-18T21:11:35+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/894--update-news-view-page-to-All-news-2025-06-18"
                 }
             },
             {
