@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "9a98d8a68fd94726edf5847e636ce7862c6d473d"
+                    "reference": "d169f15f4c03a24cea9c567e1e9ef8306cbf7f81"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9a98d8a68fd94726edf5847e636ce7862c6d473d",
-                    "reference": "9a98d8a68fd94726edf5847e636ce7862c6d473d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d169f15f4c03a24cea9c567e1e9ef8306cbf7f81",
+                    "reference": "d169f15f4c03a24cea9c567e1e9ef8306cbf7f81",
                     "shasum": ""
                 },
-                "time": "2025-06-20T13:24:47+00:00",
+                "time": "2025-06-20T13:57:53+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -454,6 +454,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-869--fix-mandatory-text-2025-06-20",
+                "version_normalized": "dev-869--fix-mandatory-text-2025-06-20",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "5c0aa1e26e557d5667810af736421facc608f990"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5c0aa1e26e557d5667810af736421facc608f990",
+                    "reference": "5c0aa1e26e557d5667810af736421facc608f990",
+                    "shasum": ""
+                },
+                "time": "2025-06-20T15:23:42+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/869--fix-mandatory-text-2025-06-20"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-880-line-up-3-column-news-items-2025-06-12",
                 "version_normalized": "dev-880-line-up-3-column-news-items-2025-06-12",
                 "source": {
@@ -475,31 +500,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-886--fix-social-media-icons-connect-2025-06-20",
-                "version_normalized": "dev-886--fix-social-media-icons-connect-2025-06-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "7d3060c587c84fef549accb76292c9cdb5109963"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7d3060c587c84fef549accb76292c9cdb5109963",
-                    "reference": "7d3060c587c84fef549accb76292c9cdb5109963",
-                    "shasum": ""
-                },
-                "time": "2025-06-20T12:40:00+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/886--fix-social-media-icons-connect-2025-06-20"
                 }
             },
             {
