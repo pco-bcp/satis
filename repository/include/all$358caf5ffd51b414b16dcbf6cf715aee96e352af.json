@@ -10323,15 +10323,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "8cc439d9fc6249b380417986f0cacfdfe3983b78"
+                    "reference": "22192c89ab2619b6dbeb8adaad15a4ec844b023e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8cc439d9fc6249b380417986f0cacfdfe3983b78",
-                    "reference": "8cc439d9fc6249b380417986f0cacfdfe3983b78",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/22192c89ab2619b6dbeb8adaad15a4ec844b023e",
+                    "reference": "22192c89ab2619b6dbeb8adaad15a4ec844b023e",
                     "shasum": ""
                 },
-                "time": "2025-06-19T18:01:45+00:00",
+                "time": "2025-06-20T12:22:23+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10765,31 +10765,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/894--update-news-view-page-to-All-news-2025-06-18"
-                }
-            },
-            "dev-904--fix-console-error-related-featured-items-2025-06-20": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-904--fix-console-error-related-featured-items-2025-06-20",
-                "version_normalized": "dev-904--fix-console-error-related-featured-items-2025-06-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "9c762fbb0d333f4a53b6438d193e9a66c6d5ed11"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9c762fbb0d333f4a53b6438d193e9a66c6d5ed11",
-                    "reference": "9c762fbb0d333f4a53b6438d193e9a66c6d5ed11",
-                    "shasum": ""
-                },
-                "time": "2025-06-20T12:08:39+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/904--fix-console-error-related-featured-items-2025-06-20"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
