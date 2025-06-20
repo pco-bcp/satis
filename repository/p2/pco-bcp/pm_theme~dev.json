@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d169f15f4c03a24cea9c567e1e9ef8306cbf7f81"
+                    "reference": "8449fd8a905b81e0dd7239f2eb1cd63b27c78b27"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d169f15f4c03a24cea9c567e1e9ef8306cbf7f81",
-                    "reference": "d169f15f4c03a24cea9c567e1e9ef8306cbf7f81",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8449fd8a905b81e0dd7239f2eb1cd63b27c78b27",
+                    "reference": "8449fd8a905b81e0dd7239f2eb1cd63b27c78b27",
                     "shasum": ""
                 },
-                "time": "2025-06-20T13:57:53+00:00",
+                "time": "2025-06-20T16:25:39+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -450,31 +450,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-869--fix-mandatory-text-2025-06-20",
-                "version_normalized": "dev-869--fix-mandatory-text-2025-06-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "5c0aa1e26e557d5667810af736421facc608f990"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5c0aa1e26e557d5667810af736421facc608f990",
-                    "reference": "5c0aa1e26e557d5667810af736421facc608f990",
-                    "shasum": ""
-                },
-                "time": "2025-06-20T15:23:42+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/869--fix-mandatory-text-2025-06-20"
                 }
             },
             {
