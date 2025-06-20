@@ -12126,15 +12126,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ee66af4306ff8148924bbb290e9983c1e870e7b3"
+                    "reference": "60355fb1bc66a2b6697775249706013a68b650d4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ee66af4306ff8148924bbb290e9983c1e870e7b3",
-                    "reference": "ee66af4306ff8148924bbb290e9983c1e870e7b3",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/60355fb1bc66a2b6697775249706013a68b650d4",
+                    "reference": "60355fb1bc66a2b6697775249706013a68b650d4",
                     "shasum": ""
                 },
-                "time": "2025-06-19T17:45:40+00:00",
+                "time": "2025-06-20T12:15:09+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12593,31 +12593,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/894--update-news-view-page-to-All-news-2025-06-18"
-                }
-            },
-            "dev-895--fix-archived-banner-padding": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-895--fix-archived-banner-padding",
-                "version_normalized": "dev-895--fix-archived-banner-padding",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "51d074082fdca0a93a1d77234f74b2f49bcc8b62"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/51d074082fdca0a93a1d77234f74b2f49bcc8b62",
-                    "reference": "51d074082fdca0a93a1d77234f74b2f49bcc8b62",
-                    "shasum": ""
-                },
-                "time": "2025-06-19T20:38:11+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/895--fix-archived-banner-padding"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
