@@ -479,6 +479,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-886--fix-social-media-icons-connect-2025-06-20",
+                "version_normalized": "dev-886--fix-social-media-icons-connect-2025-06-20",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "7d3060c587c84fef549accb76292c9cdb5109963"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7d3060c587c84fef549accb76292c9cdb5109963",
+                    "reference": "7d3060c587c84fef549accb76292c9cdb5109963",
+                    "shasum": ""
+                },
+                "time": "2025-06-20T12:40:00+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/886--fix-social-media-icons-connect-2025-06-20"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-890-change-of-font-2025-06-17",
                 "version_normalized": "dev-890-change-of-font-2025-06-17",
                 "source": {
