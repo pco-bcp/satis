@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "6533d3e07002093a021292f04674d73f1c8f38f9"
+                    "reference": "b79c71558729b2f930c20f7227ec585445d92620"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6533d3e07002093a021292f04674d73f1c8f38f9",
-                    "reference": "6533d3e07002093a021292f04674d73f1c8f38f9",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b79c71558729b2f930c20f7227ec585445d92620",
+                    "reference": "b79c71558729b2f930c20f7227ec585445d92620",
                     "shasum": ""
                 },
-                "time": "2025-06-23T16:32:33+00:00",
+                "time": "2025-06-23T19:42:08+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -475,31 +475,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-892--update-layout-cabinet-parlsec-sectofstate-view-pages-2025-06-20",
-                "version_normalized": "dev-892--update-layout-cabinet-parlsec-sectofstate-view-pages-2025-06-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "8d612a11cc1729803200143115e932e2718fed59"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8d612a11cc1729803200143115e932e2718fed59",
-                    "reference": "8d612a11cc1729803200143115e932e2718fed59",
-                    "shasum": ""
-                },
-                "time": "2025-06-23T11:47:27+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/892--update-layout-cabinet-parlsec-sectofstate-view-pages-2025-06-20"
                 }
             },
             {
