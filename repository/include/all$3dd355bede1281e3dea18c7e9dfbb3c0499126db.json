@@ -12495,6 +12495,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
                 }
             },
+            "dev-898-fix-footer-at-media-query-2025-06-23": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-898-fix-footer-at-media-query-2025-06-23",
+                "version_normalized": "dev-898-fix-footer-at-media-query-2025-06-23",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "afd1c1de1c1fb9c4b7e3d4f210880e849a56589c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/afd1c1de1c1fb9c4b7e3d4f210880e849a56589c",
+                    "reference": "afd1c1de1c1fb9c4b7e3d4f210880e849a56589c",
+                    "shasum": ""
+                },
+                "time": "2025-06-23T20:06:07+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/898-fix-footer-at-media-query-2025-06-23"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
