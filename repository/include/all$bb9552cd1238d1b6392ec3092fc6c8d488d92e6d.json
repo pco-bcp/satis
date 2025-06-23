@@ -10323,15 +10323,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "d5e6146b16979b6b7843effccc5631b41d3c2f88"
+                    "reference": "6533d3e07002093a021292f04674d73f1c8f38f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d5e6146b16979b6b7843effccc5631b41d3c2f88",
-                    "reference": "d5e6146b16979b6b7843effccc5631b41d3c2f88",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6533d3e07002093a021292f04674d73f1c8f38f9",
+                    "reference": "6533d3e07002093a021292f04674d73f1c8f38f9",
                     "shasum": ""
                 },
-                "time": "2025-06-20T17:59:37+00:00",
+                "time": "2025-06-23T16:32:33+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10765,31 +10765,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/892--update-layout-cabinet-parlsec-sectofstate-view-pages-2025-06-20"
-                }
-            },
-            "dev-909-3col-order": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-909-3col-order",
-                "version_normalized": "dev-909-3col-order",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "4926db7823227509dc9ed0842b197bb6b657f5bf"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4926db7823227509dc9ed0842b197bb6b657f5bf",
-                    "reference": "4926db7823227509dc9ed0842b197bb6b657f5bf",
-                    "shasum": ""
-                },
-                "time": "2025-06-23T16:11:16+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/909-3col-order"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
