@@ -12545,6 +12545,56 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/890-change-of-font-2025-06-17"
                 }
             },
+            "dev-892--update-layout-cabinet-parlsec-sectofstate-view-pages-2025-06-20": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-892--update-layout-cabinet-parlsec-sectofstate-view-pages-2025-06-20",
+                "version_normalized": "dev-892--update-layout-cabinet-parlsec-sectofstate-view-pages-2025-06-20",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "1c4753766511b4d450c6e192eb1ec063da463aa7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1c4753766511b4d450c6e192eb1ec063da463aa7",
+                    "reference": "1c4753766511b4d450c6e192eb1ec063da463aa7",
+                    "shasum": ""
+                },
+                "time": "2025-06-23T11:50:24+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/892--update-layout-cabinet-parlsec-sectofstate-view-pages-2025-06-20"
+                }
+            },
+            "dev-899--fix-bolded-parent-menus-2025-06-23": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-899--fix-bolded-parent-menus-2025-06-23",
+                "version_normalized": "dev-899--fix-bolded-parent-menus-2025-06-23",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "051874b25cade28c0d09403bb955590f9ea5d6b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/051874b25cade28c0d09403bb955590f9ea5d6b1",
+                    "reference": "051874b25cade28c0d09403bb955590f9ea5d6b1",
+                    "shasum": ""
+                },
+                "time": "2025-06-23T13:42:50+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/899--fix-bolded-parent-menus-2025-06-23"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
