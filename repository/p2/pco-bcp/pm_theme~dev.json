@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2fd688bdfa209cef811d5c8cf4691026aa51713f"
+                    "reference": "9dff9bb55e9974cf4e9f150b39a0557cae4000f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2fd688bdfa209cef811d5c8cf4691026aa51713f",
-                    "reference": "2fd688bdfa209cef811d5c8cf4691026aa51713f",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9dff9bb55e9974cf4e9f150b39a0557cae4000f9",
+                    "reference": "9dff9bb55e9974cf4e9f150b39a0557cae4000f9",
                     "shasum": ""
                 },
-                "time": "2025-06-23T15:06:37+00:00",
+                "time": "2025-06-23T17:57:59+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -500,31 +500,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/892--update-layout-cabinet-parlsec-sectofstate-view-pages-2025-06-20"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-899--fix-bolded-parent-menus-2025-06-23",
-                "version_normalized": "dev-899--fix-bolded-parent-menus-2025-06-23",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "94e6c354b9b54af3209d40f18d90211700620737"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/94e6c354b9b54af3209d40f18d90211700620737",
-                    "reference": "94e6c354b9b54af3209d40f18d90211700620737",
-                    "shasum": ""
-                },
-                "time": "2025-06-23T17:53:37+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/899--fix-bolded-parent-menus-2025-06-23"
                 }
             },
             {
