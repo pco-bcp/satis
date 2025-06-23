@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "7d9b750de8b8434a63a30179916486c7042372a2"
+                    "reference": "2fd688bdfa209cef811d5c8cf4691026aa51713f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7d9b750de8b8434a63a30179916486c7042372a2",
-                    "reference": "7d9b750de8b8434a63a30179916486c7042372a2",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2fd688bdfa209cef811d5c8cf4691026aa51713f",
+                    "reference": "2fd688bdfa209cef811d5c8cf4691026aa51713f",
                     "shasum": ""
                 },
-                "time": "2025-06-20T20:59:34+00:00",
+                "time": "2025-06-23T15:06:37+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -475,31 +475,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-890-change-of-font-2025-06-17",
-                "version_normalized": "dev-890-change-of-font-2025-06-17",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "83020b54a2680b2cfacced2aed4cff2dbaeebc35"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/83020b54a2680b2cfacced2aed4cff2dbaeebc35",
-                    "reference": "83020b54a2680b2cfacced2aed4cff2dbaeebc35",
-                    "shasum": ""
-                },
-                "time": "2025-06-20T19:32:22+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/890-change-of-font-2025-06-17"
                 }
             },
             {
