@@ -479,6 +479,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-890-update-Lato-font-2025-06-24",
+                "version_normalized": "dev-890-update-Lato-font-2025-06-24",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "459bd6a4f4d032d81a86c41a3417603abb062fae"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/459bd6a4f4d032d81a86c41a3417603abb062fae",
+                    "reference": "459bd6a4f4d032d81a86c41a3417603abb062fae",
+                    "shasum": ""
+                },
+                "time": "2025-06-24T12:08:40+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/890-update-Lato-font-2025-06-24"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-898-fix-footer-at-media-query-2025-06-23",
                 "version_normalized": "dev-898-fix-footer-at-media-query-2025-06-23",
                 "source": {
