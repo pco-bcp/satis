@@ -454,6 +454,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-879--fix-outline-coat-of-arms-click-2025-06-24",
+                "version_normalized": "dev-879--fix-outline-coat-of-arms-click-2025-06-24",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "da012dfb38990eb48b515846f71796747a32a4c6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/da012dfb38990eb48b515846f71796747a32a4c6",
+                    "reference": "da012dfb38990eb48b515846f71796747a32a4c6",
+                    "shasum": ""
+                },
+                "time": "2025-06-24T22:51:01+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/879--fix-outline-coat-of-arms-click-2025-06-24"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-880-line-up-3-column-news-items-2025-06-12",
                 "version_normalized": "dev-880-line-up-3-column-news-items-2025-06-12",
                 "source": {
