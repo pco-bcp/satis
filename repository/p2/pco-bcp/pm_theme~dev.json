@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ba696dba2815bf255e932a0d9e29a27aa9016fae"
+                    "reference": "abdcae5717c6f71db308dab661364aafaf44b55d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ba696dba2815bf255e932a0d9e29a27aa9016fae",
-                    "reference": "ba696dba2815bf255e932a0d9e29a27aa9016fae",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/abdcae5717c6f71db308dab661364aafaf44b55d",
+                    "reference": "abdcae5717c6f71db308dab661364aafaf44b55d",
                     "shasum": ""
                 },
-                "time": "2025-06-24T13:12:48+00:00",
+                "time": "2025-06-24T20:01:01+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.3"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.x"
                 }
             },
             {
@@ -375,31 +375,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-815-h2-revisited-2025-06-24",
-                "version_normalized": "dev-815-h2-revisited-2025-06-24",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "3404c4a44de5df084ade363678ed02e6772ba5cb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3404c4a44de5df084ade363678ed02e6772ba5cb",
-                    "reference": "3404c4a44de5df084ade363678ed02e6772ba5cb",
-                    "shasum": ""
-                },
-                "time": "2025-06-24T19:29:27+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/815-h2-revisited-2025-06-24"
                 }
             },
             {
