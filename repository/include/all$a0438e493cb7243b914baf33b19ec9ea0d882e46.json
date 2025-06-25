@@ -12507,6 +12507,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
                 }
             },
+            "dev-910-view-filter-reset-button-keyboard-accessibility-2025-06-25": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-910-view-filter-reset-button-keyboard-accessibility-2025-06-25",
+                "version_normalized": "dev-910-view-filter-reset-button-keyboard-accessibility-2025-06-25",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "6ecb89e83f8e4541f3aea5d2bd7718974e016f91"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6ecb89e83f8e4541f3aea5d2bd7718974e016f91",
+                    "reference": "6ecb89e83f8e4541f3aea5d2bd7718974e016f91",
+                    "shasum": ""
+                },
+                "time": "2025-06-25T11:57:08+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/910-view-filter-reset-button-keyboard-accessibility-2025-06-25"
+                }
+            },
             "dev-912--fix-CSS-apply-button-in-view-filter-2025-06-24": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-912--fix-CSS-apply-button-in-view-filter-2025-06-24",
