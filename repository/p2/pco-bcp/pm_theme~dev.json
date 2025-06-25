@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "48e910d1e64309c1d75d3961118e1a3ddd109e95"
+                    "reference": "9a4d210d4d4e6d759d704e8cb41552df085bf305"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/48e910d1e64309c1d75d3961118e1a3ddd109e95",
-                    "reference": "48e910d1e64309c1d75d3961118e1a3ddd109e95",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9a4d210d4d4e6d759d704e8cb41552df085bf305",
+                    "reference": "9a4d210d4d4e6d759d704e8cb41552df085bf305",
                     "shasum": ""
                 },
-                "time": "2025-06-25T14:12:22+00:00",
+                "time": "2025-06-25T16:02:21+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -450,31 +450,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-879--fix-outline-coat-of-arms-click-2025-06-24",
-                "version_normalized": "dev-879--fix-outline-coat-of-arms-click-2025-06-24",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "c5572ee25f9973f30852a7e97b8a86b6c38055f7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c5572ee25f9973f30852a7e97b8a86b6c38055f7",
-                    "reference": "c5572ee25f9973f30852a7e97b8a86b6c38055f7",
-                    "shasum": ""
-                },
-                "time": "2025-06-25T11:13:01+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/879--fix-outline-coat-of-arms-click-2025-06-24"
                 }
             },
             {
