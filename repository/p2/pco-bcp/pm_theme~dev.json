@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4cb467d0b900b7bf6d7fd29ef8312b8975362685"
+                    "reference": "48e910d1e64309c1d75d3961118e1a3ddd109e95"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4cb467d0b900b7bf6d7fd29ef8312b8975362685",
-                    "reference": "4cb467d0b900b7bf6d7fd29ef8312b8975362685",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/48e910d1e64309c1d75d3961118e1a3ddd109e95",
+                    "reference": "48e910d1e64309c1d75d3961118e1a3ddd109e95",
                     "shasum": ""
                 },
-                "time": "2025-06-25T14:05:38+00:00",
+                "time": "2025-06-25T14:12:22+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -500,31 +500,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-912--fix-CSS-apply-button-in-view-filter-2025-06-24",
-                "version_normalized": "dev-912--fix-CSS-apply-button-in-view-filter-2025-06-24",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "dc375db0277abe63095b9c32646236a44c3154d7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/dc375db0277abe63095b9c32646236a44c3154d7",
-                    "reference": "dc375db0277abe63095b9c32646236a44c3154d7",
-                    "shasum": ""
-                },
-                "time": "2025-06-24T22:21:49+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/912--fix-CSS-apply-button-in-view-filter-2025-06-24"
                 }
             },
             {
