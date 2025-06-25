@@ -2182,6 +2182,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.4"
                 }
             },
+            "3.1.5": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "3.1.5",
+                "version_normalized": "3.1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "9ec2378a862f4b573fb9cd310df0a32810dfd8b8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/9ec2378a862f4b573fb9cd310df0a32810dfd8b8",
+                    "reference": "9ec2378a862f4b573fb9cd310df0a32810dfd8b8",
+                    "shasum": ""
+                },
+                "time": "2025-06-24T18:07:43+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.5"
+                }
+            },
             "dev-24-upgrade-to-drupal-10": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "dev-24-upgrade-to-drupal-10",
@@ -2405,7 +2430,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/5.4.x-3.1.x"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.5"
                 }
             },
             "dev-524--fix-wcag-contrast-of-text-against-bg-2024-10-21": {
