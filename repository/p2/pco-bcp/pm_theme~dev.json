@@ -479,6 +479,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-911--quickfix-mandate-crest",
+                "version_normalized": "dev-911--quickfix-mandate-crest",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "d903ebeb5df4fb5f6fcf5fc9451eedba0e570ec4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d903ebeb5df4fb5f6fcf5fc9451eedba0e570ec4",
+                    "reference": "d903ebeb5df4fb5f6fcf5fc9451eedba0e570ec4",
+                    "shasum": ""
+                },
+                "time": "2025-06-26T18:21:16+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/911--quickfix-mandate-crest"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-915-change-bg-colour-for-mobile-menu-2025-06-26",
                 "version_normalized": "dev-915-change-bg-colour-for-mobile-menu-2025-06-26",
                 "source": {
