@@ -454,6 +454,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-863--fix-thumbnail-padding-transcript-margin",
+                "version_normalized": "dev-863--fix-thumbnail-padding-transcript-margin",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "1063bff6f3cf7eb1ba001b8250adae01d26f4793"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1063bff6f3cf7eb1ba001b8250adae01d26f4793",
+                    "reference": "1063bff6f3cf7eb1ba001b8250adae01d26f4793",
+                    "shasum": ""
+                },
+                "time": "2025-06-26T18:30:30+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/863--fix-thumbnail-padding-transcript-margin"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-880-line-up-3-column-news-items-2025-06-12",
                 "version_normalized": "dev-880-line-up-3-column-news-items-2025-06-12",
                 "source": {
