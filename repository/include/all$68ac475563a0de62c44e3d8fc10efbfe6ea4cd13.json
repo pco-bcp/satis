@@ -10817,6 +10817,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/880-line-up-3-column-news-items-2025-06-12"
                 }
             },
+            "dev-885/911--fix-headers-body-alignment-2025-06-25": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-885/911--fix-headers-body-alignment-2025-06-25",
+                "version_normalized": "dev-885/911--fix-headers-body-alignment-2025-06-25",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "51e48e2fe77d32494bd2d51f6ee12aea1b960ae5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/51e48e2fe77d32494bd2d51f6ee12aea1b960ae5",
+                    "reference": "51e48e2fe77d32494bd2d51f6ee12aea1b960ae5",
+                    "shasum": ""
+                },
+                "time": "2025-06-26T13:23:09+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/885/911--fix-headers-body-alignment-2025-06-25"
+                }
+            },
             "dev-99-es6-conversion-for-pm_photo": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
@@ -12595,6 +12620,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
                 }
             },
+            "dev-885/911--fix-headers-body-alignment-2025-06-25": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-885/911--fix-headers-body-alignment-2025-06-25",
+                "version_normalized": "dev-885/911--fix-headers-body-alignment-2025-06-25",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "110a34f131b7b8337062adb17bb3e2a4ee0a0579"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/110a34f131b7b8337062adb17bb3e2a4ee0a0579",
+                    "reference": "110a34f131b7b8337062adb17bb3e2a4ee0a0579",
+                    "shasum": ""
+                },
+                "time": "2025-06-25T20:38:08+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/885/911--fix-headers-body-alignment-2025-06-25"
+                }
+            },
             "dev-915-change-bg-colour-for-mobile-menu-2025-06-26": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-915-change-bg-colour-for-mobile-menu-2025-06-26",
@@ -12618,6 +12668,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/915-change-bg-colour-for-mobile-menu-2025-06-26"
+                }
+            },
+            "dev-916--update-display-mobile-footer-2025-06-26": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-916--update-display-mobile-footer-2025-06-26",
+                "version_normalized": "dev-916--update-display-mobile-footer-2025-06-26",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "6b185036b50dea4b7f5d84688aa6a73c4d519100"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6b185036b50dea4b7f5d84688aa6a73c4d519100",
+                    "reference": "6b185036b50dea4b7f5d84688aa6a73c4d519100",
+                    "shasum": ""
+                },
+                "time": "2025-06-26T13:58:04+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/916--update-display-mobile-footer-2025-06-26"
                 }
             },
             "dev-917-update-CSS-menu-bar-mobile-2025-06-25": {
