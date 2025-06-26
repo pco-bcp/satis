@@ -12201,15 +12201,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2458025a5c96b0427228999ae77856c633544421"
+                    "reference": "68b81c74c0a2718a9dc21baf53545f494a46b865"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2458025a5c96b0427228999ae77856c633544421",
-                    "reference": "2458025a5c96b0427228999ae77856c633544421",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/68b81c74c0a2718a9dc21baf53545f494a46b865",
+                    "reference": "68b81c74c0a2718a9dc21baf53545f494a46b865",
                     "shasum": ""
                 },
-                "time": "2025-06-26T15:35:33+00:00",
+                "time": "2025-06-26T17:17:33+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12595,31 +12595,6 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
                 }
             },
-            "dev-868-minor-px-change-for-feat-section-2025-06-25": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-868-minor-px-change-for-feat-section-2025-06-25",
-                "version_normalized": "dev-868-minor-px-change-for-feat-section-2025-06-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e1e420c729cef8c88da4b3642020b5c978776845"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e1e420c729cef8c88da4b3642020b5c978776845",
-                    "reference": "e1e420c729cef8c88da4b3642020b5c978776845",
-                    "shasum": ""
-                },
-                "time": "2025-06-26T15:13:06+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/868-minor-px-change-for-feat-section-2025-06-25"
-                }
-            },
             "dev-880-line-up-3-column-news-items-2025-06-12": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-880-line-up-3-column-news-items-2025-06-12",
@@ -12652,15 +12627,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "110a34f131b7b8337062adb17bb3e2a4ee0a0579"
+                    "reference": "1fa9bf92014cae49c806ef85d7ebd02b67318250"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/110a34f131b7b8337062adb17bb3e2a4ee0a0579",
-                    "reference": "110a34f131b7b8337062adb17bb3e2a4ee0a0579",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1fa9bf92014cae49c806ef85d7ebd02b67318250",
+                    "reference": "1fa9bf92014cae49c806ef85d7ebd02b67318250",
                     "shasum": ""
                 },
-                "time": "2025-06-25T20:38:08+00:00",
+                "time": "2025-06-26T15:44:41+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
