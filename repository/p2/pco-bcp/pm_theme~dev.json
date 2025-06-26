@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "68b81c74c0a2718a9dc21baf53545f494a46b865"
+                    "reference": "f759628ea5e887e2594957f133d0b66939da2fdd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/68b81c74c0a2718a9dc21baf53545f494a46b865",
-                    "reference": "68b81c74c0a2718a9dc21baf53545f494a46b865",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f759628ea5e887e2594957f133d0b66939da2fdd",
+                    "reference": "f759628ea5e887e2594957f133d0b66939da2fdd",
                     "shasum": ""
                 },
-                "time": "2025-06-26T17:17:33+00:00",
+                "time": "2025-06-26T18:05:52+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -475,31 +475,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-885/911--fix-headers-body-alignment-2025-06-25",
-                "version_normalized": "dev-885/911--fix-headers-body-alignment-2025-06-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "1fa9bf92014cae49c806ef85d7ebd02b67318250"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/1fa9bf92014cae49c806ef85d7ebd02b67318250",
-                    "reference": "1fa9bf92014cae49c806ef85d7ebd02b67318250",
-                    "shasum": ""
-                },
-                "time": "2025-06-26T15:44:41+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/885/911--fix-headers-body-alignment-2025-06-25"
                 }
             },
             {
