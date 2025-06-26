@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "9a4d210d4d4e6d759d704e8cb41552df085bf305"
+                    "reference": "2458025a5c96b0427228999ae77856c633544421"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9a4d210d4d4e6d759d704e8cb41552df085bf305",
-                    "reference": "9a4d210d4d4e6d759d704e8cb41552df085bf305",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2458025a5c96b0427228999ae77856c633544421",
+                    "reference": "2458025a5c96b0427228999ae77856c633544421",
                     "shasum": ""
                 },
-                "time": "2025-06-25T16:02:21+00:00",
+                "time": "2025-06-26T15:35:33+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -575,31 +575,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/916--update-display-mobile-footer-2025-06-26"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-917-update-CSS-menu-bar-mobile-2025-06-25",
-                "version_normalized": "dev-917-update-CSS-menu-bar-mobile-2025-06-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "3d1f747597ed3e647ca8bfa61060e051a5eac370"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3d1f747597ed3e647ca8bfa61060e051a5eac370",
-                    "reference": "3d1f747597ed3e647ca8bfa61060e051a5eac370",
-                    "shasum": ""
-                },
-                "time": "2025-06-26T10:44:46+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/917-update-CSS-menu-bar-mobile-2025-06-25"
                 }
             },
             {
