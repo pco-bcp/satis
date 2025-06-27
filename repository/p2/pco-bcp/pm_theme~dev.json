@@ -479,6 +479,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-895--fix-archived-message-alignment",
+                "version_normalized": "dev-895--fix-archived-message-alignment",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "59d0f403c936b4492407264e1cdaff2b65a62c6e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/59d0f403c936b4492407264e1cdaff2b65a62c6e",
+                    "reference": "59d0f403c936b4492407264e1cdaff2b65a62c6e",
+                    "shasum": ""
+                },
+                "time": "2025-06-27T15:36:29+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/895--fix-archived-message-alignment"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-920--fix-news-release-quotes-background",
                 "version_normalized": "dev-920--fix-news-release-quotes-background",
                 "source": {
