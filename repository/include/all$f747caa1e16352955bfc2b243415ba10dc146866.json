@@ -12276,15 +12276,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "422d560a4e926fdc222010b6015ab9b7fb58255f"
+                    "reference": "534889caf2d0f2eca9bdc8ce6d3c09d862e1a78e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/422d560a4e926fdc222010b6015ab9b7fb58255f",
-                    "reference": "422d560a4e926fdc222010b6015ab9b7fb58255f",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/534889caf2d0f2eca9bdc8ce6d3c09d862e1a78e",
+                    "reference": "534889caf2d0f2eca9bdc8ce6d3c09d862e1a78e",
                     "shasum": ""
                 },
-                "time": "2025-06-27T14:00:19+00:00",
+                "time": "2025-06-27T20:04:08+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12643,31 +12643,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/822-tablet-layout-for-3-column-news-2025-06-03"
-                }
-            },
-            "dev-853--remove-bold-style-footer-links-2025-06-27": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-853--remove-bold-style-footer-links-2025-06-27",
-                "version_normalized": "dev-853--remove-bold-style-footer-links-2025-06-27",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "021dc2b7419289dd1f8786f1c95a33384967c7b0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/021dc2b7419289dd1f8786f1c95a33384967c7b0",
-                    "reference": "021dc2b7419289dd1f8786f1c95a33384967c7b0",
-                    "shasum": ""
-                },
-                "time": "2025-06-27T19:58:22+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/853--remove-bold-style-footer-links-2025-06-27"
                 }
             },
             "dev-861--new-design-menus-2025-06-05": {
