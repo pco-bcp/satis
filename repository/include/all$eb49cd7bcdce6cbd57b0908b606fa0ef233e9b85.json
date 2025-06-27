@@ -10423,15 +10423,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "aa5f0fce1ce637ee668d496dadb7521bc93a760b"
+                    "reference": "ac164cf7498ce5630652164c0785574b981a1327"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/aa5f0fce1ce637ee668d496dadb7521bc93a760b",
-                    "reference": "aa5f0fce1ce637ee668d496dadb7521bc93a760b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/ac164cf7498ce5630652164c0785574b981a1327",
+                    "reference": "ac164cf7498ce5630652164c0785574b981a1327",
                     "shasum": ""
                 },
-                "time": "2025-06-26T18:39:36+00:00",
+                "time": "2025-06-27T20:14:04+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10439,7 +10439,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.4"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.x"
                 }
             },
             "4.x-dev": {
@@ -10815,31 +10815,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/825-views-ajax-get"
-                }
-            },
-            "dev-863--fix-alignment-and-date": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-863--fix-alignment-and-date",
-                "version_normalized": "dev-863--fix-alignment-and-date",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "d464f1987ad1fff898a6435e278b23779bd57ab2"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d464f1987ad1fff898a6435e278b23779bd57ab2",
-                    "reference": "d464f1987ad1fff898a6435e278b23779bd57ab2",
-                    "shasum": ""
-                },
-                "time": "2025-06-27T18:06:49+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/863--fix-alignment-and-date"
                 }
             },
             "dev-880-line-up-3-column-news-items-2025-06-12": {
@@ -12276,15 +12251,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "534889caf2d0f2eca9bdc8ce6d3c09d862e1a78e"
+                    "reference": "6f66bf6d265d63baf19dcefb60b34c6bd49f363a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/534889caf2d0f2eca9bdc8ce6d3c09d862e1a78e",
-                    "reference": "534889caf2d0f2eca9bdc8ce6d3c09d862e1a78e",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6f66bf6d265d63baf19dcefb60b34c6bd49f363a",
+                    "reference": "6f66bf6d265d63baf19dcefb60b34c6bd49f363a",
                     "shasum": ""
                 },
-                "time": "2025-06-27T20:04:08+00:00",
+                "time": "2025-06-27T20:17:19+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12695,31 +12670,6 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
                 }
             },
-            "dev-895--fix-archived-message-alignment": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-895--fix-archived-message-alignment",
-                "version_normalized": "dev-895--fix-archived-message-alignment",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "59d0f403c936b4492407264e1cdaff2b65a62c6e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/59d0f403c936b4492407264e1cdaff2b65a62c6e",
-                    "reference": "59d0f403c936b4492407264e1cdaff2b65a62c6e",
-                    "shasum": ""
-                },
-                "time": "2025-06-27T15:36:29+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/895--fix-archived-message-alignment"
-                }
-            },
             "dev-919--fix-mobile-menu-when-expanded-2025-06-26": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-919--fix-mobile-menu-when-expanded-2025-06-26",
@@ -12727,15 +12677,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "fb58018fed3cd87ffd4b04c259ef21411eb4fd0b"
+                    "reference": "3cdd68eba1d49d85ca816f80ebe5ded4536e5c57"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/fb58018fed3cd87ffd4b04c259ef21411eb4fd0b",
-                    "reference": "fb58018fed3cd87ffd4b04c259ef21411eb4fd0b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3cdd68eba1d49d85ca816f80ebe5ded4536e5c57",
+                    "reference": "3cdd68eba1d49d85ca816f80ebe5ded4536e5c57",
                     "shasum": ""
                 },
-                "time": "2025-06-27T19:19:20+00:00",
+                "time": "2025-06-27T20:32:03+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
@@ -12743,31 +12693,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/919--fix-mobile-menu-when-expanded-2025-06-26"
-                }
-            },
-            "dev-920--fix-news-release-quotes-background": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-920--fix-news-release-quotes-background",
-                "version_normalized": "dev-920--fix-news-release-quotes-background",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "0f4ce41ec8aedfc2f3e756afdb4ebb56516cdc0a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0f4ce41ec8aedfc2f3e756afdb4ebb56516cdc0a",
-                    "reference": "0f4ce41ec8aedfc2f3e756afdb4ebb56516cdc0a",
-                    "shasum": ""
-                },
-                "time": "2025-06-27T14:54:57+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/920--fix-news-release-quotes-background"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {

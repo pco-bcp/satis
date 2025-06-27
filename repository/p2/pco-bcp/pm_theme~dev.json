@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "534889caf2d0f2eca9bdc8ce6d3c09d862e1a78e"
+                    "reference": "6f66bf6d265d63baf19dcefb60b34c6bd49f363a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/534889caf2d0f2eca9bdc8ce6d3c09d862e1a78e",
-                    "reference": "534889caf2d0f2eca9bdc8ce6d3c09d862e1a78e",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6f66bf6d265d63baf19dcefb60b34c6bd49f363a",
+                    "reference": "6f66bf6d265d63baf19dcefb60b34c6bd49f363a",
                     "shasum": ""
                 },
-                "time": "2025-06-27T20:04:08+00:00",
+                "time": "2025-06-27T20:17:19+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -479,45 +479,20 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
-                "version": "dev-895--fix-archived-message-alignment",
-                "version_normalized": "dev-895--fix-archived-message-alignment",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "59d0f403c936b4492407264e1cdaff2b65a62c6e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/59d0f403c936b4492407264e1cdaff2b65a62c6e",
-                    "reference": "59d0f403c936b4492407264e1cdaff2b65a62c6e",
-                    "shasum": ""
-                },
-                "time": "2025-06-27T15:36:29+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/895--fix-archived-message-alignment"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
                 "version": "dev-919--fix-mobile-menu-when-expanded-2025-06-26",
                 "version_normalized": "dev-919--fix-mobile-menu-when-expanded-2025-06-26",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "fb58018fed3cd87ffd4b04c259ef21411eb4fd0b"
+                    "reference": "3cdd68eba1d49d85ca816f80ebe5ded4536e5c57"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/fb58018fed3cd87ffd4b04c259ef21411eb4fd0b",
-                    "reference": "fb58018fed3cd87ffd4b04c259ef21411eb4fd0b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3cdd68eba1d49d85ca816f80ebe5ded4536e5c57",
+                    "reference": "3cdd68eba1d49d85ca816f80ebe5ded4536e5c57",
                     "shasum": ""
                 },
-                "time": "2025-06-27T19:19:20+00:00",
+                "time": "2025-06-27T20:32:03+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
@@ -525,31 +500,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/919--fix-mobile-menu-when-expanded-2025-06-26"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-920--fix-news-release-quotes-background",
-                "version_normalized": "dev-920--fix-news-release-quotes-background",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "0f4ce41ec8aedfc2f3e756afdb4ebb56516cdc0a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0f4ce41ec8aedfc2f3e756afdb4ebb56516cdc0a",
-                    "reference": "0f4ce41ec8aedfc2f3e756afdb4ebb56516cdc0a",
-                    "shasum": ""
-                },
-                "time": "2025-06-27T14:54:57+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/920--fix-news-release-quotes-background"
                 }
             },
             {
