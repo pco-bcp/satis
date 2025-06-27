@@ -429,6 +429,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-853--remove-bold-style-footer-links-2025-06-27",
+                "version_normalized": "dev-853--remove-bold-style-footer-links-2025-06-27",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "021dc2b7419289dd1f8786f1c95a33384967c7b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/021dc2b7419289dd1f8786f1c95a33384967c7b0",
+                    "reference": "021dc2b7419289dd1f8786f1c95a33384967c7b0",
+                    "shasum": ""
+                },
+                "time": "2025-06-27T19:58:22+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/853--remove-bold-style-footer-links-2025-06-27"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-861--new-design-menus-2025-06-05",
                 "version_normalized": "dev-861--new-design-menus-2025-06-05",
                 "source": {
