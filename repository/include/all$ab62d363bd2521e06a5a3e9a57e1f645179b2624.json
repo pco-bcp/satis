@@ -12251,15 +12251,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "aebe1a456c96341cf7eafa32637df1b0d0361650"
+                    "reference": "422d560a4e926fdc222010b6015ab9b7fb58255f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/aebe1a456c96341cf7eafa32637df1b0d0361650",
-                    "reference": "aebe1a456c96341cf7eafa32637df1b0d0361650",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/422d560a4e926fdc222010b6015ab9b7fb58255f",
+                    "reference": "422d560a4e926fdc222010b6015ab9b7fb58255f",
                     "shasum": ""
                 },
-                "time": "2025-06-26T18:52:17+00:00",
+                "time": "2025-06-27T14:00:19+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12267,7 +12267,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.5"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.x"
                 }
             },
             "4.x-dev": {
@@ -12643,31 +12643,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
-                }
-            },
-            "dev-863--fix-misalginment-of-transcript-title": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-863--fix-misalginment-of-transcript-title",
-                "version_normalized": "dev-863--fix-misalginment-of-transcript-title",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "73e82737b314a1619ee0d852cde4938c7ef46912"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/73e82737b314a1619ee0d852cde4938c7ef46912",
-                    "reference": "73e82737b314a1619ee0d852cde4938c7ef46912",
-                    "shasum": ""
-                },
-                "time": "2025-06-27T13:52:01+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/863--fix-misalginment-of-transcript-title"
                 }
             },
             "dev-880-line-up-3-column-news-items-2025-06-12": {
