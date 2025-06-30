@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "6f66bf6d265d63baf19dcefb60b34c6bd49f363a"
+                    "reference": "f775a5fb447f655b77fe13f82093c86b49f4a0e7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6f66bf6d265d63baf19dcefb60b34c6bd49f363a",
-                    "reference": "6f66bf6d265d63baf19dcefb60b34c6bd49f363a",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f775a5fb447f655b77fe13f82093c86b49f4a0e7",
+                    "reference": "f775a5fb447f655b77fe13f82093c86b49f4a0e7",
                     "shasum": ""
                 },
-                "time": "2025-06-27T20:17:19+00:00",
+                "time": "2025-06-30T12:02:50+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -525,31 +525,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/919--fix-mobile-menu-when-expanded-2025-06-26"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-924--fix-photo-page-no-content",
-                "version_normalized": "dev-924--fix-photo-page-no-content",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2cdaaed5305bf0b2298983f4bcfea0b799cd1b7b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2cdaaed5305bf0b2298983f4bcfea0b799cd1b7b",
-                    "reference": "2cdaaed5305bf0b2298983f4bcfea0b799cd1b7b",
-                    "shasum": ""
-                },
-                "time": "2025-06-30T11:58:48+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/924--fix-photo-page-no-content"
                 }
             },
             {
