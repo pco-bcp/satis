@@ -12695,6 +12695,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
                 }
             },
+            "dev-891--adjust-media-width-submenu-2026-06-30": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-891--adjust-media-width-submenu-2026-06-30",
+                "version_normalized": "dev-891--adjust-media-width-submenu-2026-06-30",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "f6a00da5d72f18391b782786c0f55545ac7e2042"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f6a00da5d72f18391b782786c0f55545ac7e2042",
+                    "reference": "f6a00da5d72f18391b782786c0f55545ac7e2042",
+                    "shasum": ""
+                },
+                "time": "2025-06-30T11:43:56+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/891--adjust-media-width-submenu-2026-06-30"
+                }
+            },
             "dev-919--fix-mobile-menu-when-expanded-2025-06-26": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-919--fix-mobile-menu-when-expanded-2025-06-26",
