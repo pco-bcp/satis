@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "38dc59807da24b42f18302cfe16dcdd7ce3197fd"
+                    "reference": "ea6fb9ce0d81ffcfe99662c15f1e98f7fd34b035"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/38dc59807da24b42f18302cfe16dcdd7ce3197fd",
-                    "reference": "38dc59807da24b42f18302cfe16dcdd7ce3197fd",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ea6fb9ce0d81ffcfe99662c15f1e98f7fd34b035",
+                    "reference": "ea6fb9ce0d81ffcfe99662c15f1e98f7fd34b035",
                     "shasum": ""
                 },
-                "time": "2025-06-30T12:11:47+00:00",
+                "time": "2025-06-30T12:51:10+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -475,31 +475,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-919--fix-mobile-menu-when-expanded-2025-06-26",
-                "version_normalized": "dev-919--fix-mobile-menu-when-expanded-2025-06-26",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "acd3414ed27145a7c35bbcf128204cdb81cea307"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/acd3414ed27145a7c35bbcf128204cdb81cea307",
-                    "reference": "acd3414ed27145a7c35bbcf128204cdb81cea307",
-                    "shasum": ""
-                },
-                "time": "2025-06-30T12:44:59+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/919--fix-mobile-menu-when-expanded-2025-06-26"
                 }
             },
             {
