@@ -21,7 +21,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1.1.0"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -43,7 +46,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/2.0.12"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -66,7 +72,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.5"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -88,7 +97,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.0"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -110,7 +122,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/222--pm-cron-d-check"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -132,7 +147,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/222-d-check-pm_minister_order_admin-19MAR2024"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -154,7 +172,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/222-drupal-check-pm_admin-PM-2024-03-25"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -176,7 +197,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/222-drupal-check-pm_ml-2024-03-18"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -198,7 +222,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/222-fix-d-check-issues-pm_news-2024-04-08"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -220,7 +247,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/222-fix-d-check-issues-pm_photo-2024-05-02"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -242,7 +272,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/222-fix-drupal-check-errors-pm_video-2024-04-04"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -264,7 +297,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/23--fix-drupal-check-issues-in-pm_modules-2023-11-16"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -286,7 +322,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -308,7 +347,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/545--fix-french-accents-drupal-message-when-sending-forms"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -330,7 +372,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/706--fix-deprecated-function-2025-01-31"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -352,7 +397,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -374,7 +422,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/824-add-secstate-to-pm_admin-2025-05-20"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -396,7 +447,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/825-views-ajax-get"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -418,7 +472,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/880-line-up-3-column-news-items-2025-06-12"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -440,7 +497,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/99-es6-conversion-for-pm_photo"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -462,7 +522,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix--update-pm_cron-to-point-to-pco_subscribe-2023-08-03"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -484,7 +547,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix-align-covid-and-ukraine-fields-same_row-2023-08-16"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -506,7 +572,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/pco-bcp/pm_modules--update-pm-modules-constraints"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -528,7 +597,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/pm-module-alignment"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -550,7 +622,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/pm-photo-update"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -572,7 +647,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/pm-video-update"
+                }
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -594,7 +672,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Custom Modules"
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/refactor-reduce-pm-admin"
+                }
             }
         ]
     }
