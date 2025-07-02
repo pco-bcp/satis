@@ -701,6 +701,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/search-folder-added-to-repo"
                 }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-search-folder-repo-v2",
+                "version_normalized": "dev-search-folder-repo-v2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "c8d48fa9e89871a82874c87fef9ae48b00fe89f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c8d48fa9e89871a82874c87fef9ae48b00fe89f4",
+                    "reference": "c8d48fa9e89871a82874c87fef9ae48b00fe89f4",
+                    "shasum": ""
+                },
+                "time": "2025-07-02T15:21:52+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/search-folder-repo-v2"
+                }
             }
         ]
     }
