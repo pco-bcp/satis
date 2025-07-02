@@ -676,6 +676,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/revert-45-341-change-watermark-link-alt-text-2024-05-10"
                 }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-search-folder-added-to-repo",
+                "version_normalized": "dev-search-folder-added-to-repo",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "a35b07d23d04bf1ea1b1a9f32a9dcdf31cf3b8ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a35b07d23d04bf1ea1b1a9f32a9dcdf31cf3b8ca",
+                    "reference": "a35b07d23d04bf1ea1b1a9f32a9dcdf31cf3b8ca",
+                    "shasum": ""
+                },
+                "time": "2025-07-02T14:39:55+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/search-folder-added-to-repo"
+                }
             }
         ]
     }
