@@ -12326,15 +12326,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4546bd8b7aa0c4a2763cc51b9de00894b3c88c87"
+                    "reference": "b70b4a59ece5331637541dfc874729945137045a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4546bd8b7aa0c4a2763cc51b9de00894b3c88c87",
-                    "reference": "4546bd8b7aa0c4a2763cc51b9de00894b3c88c87",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b70b4a59ece5331637541dfc874729945137045a",
+                    "reference": "b70b4a59ece5331637541dfc874729945137045a",
                     "shasum": ""
                 },
-                "time": "2025-07-02T15:23:52+00:00",
+                "time": "2025-07-02T19:58:17+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12743,31 +12743,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-915--update-mobile-menu-and-submenus-2025-06-30": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-915--update-mobile-menu-and-submenus-2025-06-30",
-                "version_normalized": "dev-915--update-mobile-menu-and-submenus-2025-06-30",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d4f54be2abc12310f10c35e4a67fc0cbc8c4a9d6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d4f54be2abc12310f10c35e4a67fc0cbc8c4a9d6",
-                    "reference": "d4f54be2abc12310f10c35e4a67fc0cbc8c4a9d6",
-                    "shasum": ""
-                },
-                "time": "2025-07-02T19:46:21+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/915--update-mobile-menu-and-submenus-2025-06-30"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
