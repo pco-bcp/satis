@@ -504,6 +504,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-931-shareable-news-image-order",
+                "version_normalized": "dev-931-shareable-news-image-order",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "67b4072543cf45fa141d436e3315cd28d21b96c0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/67b4072543cf45fa141d436e3315cd28d21b96c0",
+                    "reference": "67b4072543cf45fa141d436e3315cd28d21b96c0",
+                    "shasum": ""
+                },
+                "time": "2025-07-03T14:08:09+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/931-shareable-news-image-order"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {
