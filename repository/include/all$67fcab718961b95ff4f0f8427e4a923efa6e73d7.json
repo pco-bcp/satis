@@ -8845,15 +8845,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "2e2cba5ca0c8811c43b77d025a3838855c5737e8"
+                    "reference": "285465a32dbd07ff8b10973daf32d25327cf9908"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2e2cba5ca0c8811c43b77d025a3838855c5737e8",
-                    "reference": "2e2cba5ca0c8811c43b77d025a3838855c5737e8",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/285465a32dbd07ff8b10973daf32d25327cf9908",
+                    "reference": "285465a32dbd07ff8b10973daf32d25327cf9908",
                     "shasum": ""
                 },
-                "time": "2025-07-02T14:08:06+00:00",
+                "time": "2025-07-03T14:11:22+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -9262,31 +9262,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts-new"
-                }
-            },
-            "dev-931-shareable-news-image-order": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-931-shareable-news-image-order",
-                "version_normalized": "dev-931-shareable-news-image-order",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "67b4072543cf45fa141d436e3315cd28d21b96c0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/67b4072543cf45fa141d436e3315cd28d21b96c0",
-                    "reference": "67b4072543cf45fa141d436e3315cd28d21b96c0",
-                    "shasum": ""
-                },
-                "time": "2025-07-03T14:08:09+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/931-shareable-news-image-order"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
