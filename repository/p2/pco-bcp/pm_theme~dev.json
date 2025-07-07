@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b82dba19d69506af37dfea5ad67ffa6c1881ac8e"
+                    "reference": "513fc629794bf390f41e9071f461baac83612b14"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b82dba19d69506af37dfea5ad67ffa6c1881ac8e",
-                    "reference": "b82dba19d69506af37dfea5ad67ffa6c1881ac8e",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/513fc629794bf390f41e9071f461baac83612b14",
+                    "reference": "513fc629794bf390f41e9071f461baac83612b14",
                     "shasum": ""
                 },
-                "time": "2025-07-04T19:01:32+00:00",
+                "time": "2025-07-07T18:23:48+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.7"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.x"
                 }
             },
             {
@@ -475,31 +475,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-937--add-facebook-icon-connect-page-2025-07-07",
-                "version_normalized": "dev-937--add-facebook-icon-connect-page-2025-07-07",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "16af742e0e4ccc0a3940709b29b3da4c2b009699"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/16af742e0e4ccc0a3940709b29b3da4c2b009699",
-                    "reference": "16af742e0e4ccc0a3940709b29b3da4c2b009699",
-                    "shasum": ""
-                },
-                "time": "2025-07-07T17:56:52+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/937--add-facebook-icon-connect-page-2025-07-07"
                 }
             },
             {
