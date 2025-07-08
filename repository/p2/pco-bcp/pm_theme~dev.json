@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "513fc629794bf390f41e9071f461baac83612b14"
+                    "reference": "206e28f1d7786c2092937287a5c4948211f7c61b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/513fc629794bf390f41e9071f461baac83612b14",
-                    "reference": "513fc629794bf390f41e9071f461baac83612b14",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/206e28f1d7786c2092937287a5c4948211f7c61b",
+                    "reference": "206e28f1d7786c2092937287a5c4948211f7c61b",
                     "shasum": ""
                 },
-                "time": "2025-07-07T18:23:48+00:00",
+                "time": "2025-07-08T13:44:42+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -475,31 +475,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-930--upadate-cabinet-basic-page-two-columns",
-                "version_normalized": "dev-930--upadate-cabinet-basic-page-two-columns",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2516db5f6e151a882d2e1cd212f246d02acb21f5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2516db5f6e151a882d2e1cd212f246d02acb21f5",
-                    "reference": "2516db5f6e151a882d2e1cd212f246d02acb21f5",
-                    "shasum": ""
-                },
-                "time": "2025-07-08T01:08:50+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/930--upadate-cabinet-basic-page-two-columns"
                 }
             },
             {
