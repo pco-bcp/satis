@@ -12845,6 +12845,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
                 }
             },
+            "dev-937-css-social-media-icons-alignemnt-connect-page": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-937-css-social-media-icons-alignemnt-connect-page",
+                "version_normalized": "dev-937-css-social-media-icons-alignemnt-connect-page",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "cc9d2a2be9ecf2a8dfc8450e6bd83c22b3a7dbe8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/cc9d2a2be9ecf2a8dfc8450e6bd83c22b3a7dbe8",
+                    "reference": "cc9d2a2be9ecf2a8dfc8450e6bd83c22b3a7dbe8",
+                    "shasum": ""
+                },
+                "time": "2025-07-08T16:14:52+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/937-css-social-media-icons-alignemnt-connect-page"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
