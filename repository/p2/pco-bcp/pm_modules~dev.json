@@ -504,6 +504,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-903--update-js-to-css-videos-photos",
+                "version_normalized": "dev-903--update-js-to-css-videos-photos",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "7886495eccc0a06d88202fd88dd5d1d7e1c773b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7886495eccc0a06d88202fd88dd5d1d7e1c773b6",
+                    "reference": "7886495eccc0a06d88202fd88dd5d1d7e1c773b6",
+                    "shasum": ""
+                },
+                "time": "2025-07-09T16:33:54+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/903--update-js-to-css-videos-photos"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
                 "version_normalized": "dev-99-es6-conversion-for-pm_photo",
                 "source": {
