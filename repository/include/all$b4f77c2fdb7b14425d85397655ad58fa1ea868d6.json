@@ -12426,15 +12426,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "f630a06a58cf0ecc5f4cead238ba2f1731b5e592"
+                    "reference": "81f7841732acbb2539517efba078f7388c08443e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f630a06a58cf0ecc5f4cead238ba2f1731b5e592",
-                    "reference": "f630a06a58cf0ecc5f4cead238ba2f1731b5e592",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/81f7841732acbb2539517efba078f7388c08443e",
+                    "reference": "81f7841732acbb2539517efba078f7388c08443e",
                     "shasum": ""
                 },
-                "time": "2025-07-09T12:06:48+00:00",
+                "time": "2025-07-09T14:50:05+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12843,31 +12843,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-930--update-ParlSec-SectOfState-2columns-2025-07-09": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-930--update-ParlSec-SectOfState-2columns-2025-07-09",
-                "version_normalized": "dev-930--update-ParlSec-SectOfState-2columns-2025-07-09",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "85e70b50dbf11c13c07b6b0bcf9214bbccd450a7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/85e70b50dbf11c13c07b6b0bcf9214bbccd450a7",
-                    "reference": "85e70b50dbf11c13c07b6b0bcf9214bbccd450a7",
-                    "shasum": ""
-                },
-                "time": "2025-07-09T13:55:44+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/930--update-ParlSec-SectOfState-2columns-2025-07-09"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
