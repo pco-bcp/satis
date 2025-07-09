@@ -12426,15 +12426,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "10bc4df15cb2a882a65668cd1fd41a8d2293ccc9"
+                    "reference": "f630a06a58cf0ecc5f4cead238ba2f1731b5e592"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/10bc4df15cb2a882a65668cd1fd41a8d2293ccc9",
-                    "reference": "10bc4df15cb2a882a65668cd1fd41a8d2293ccc9",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f630a06a58cf0ecc5f4cead238ba2f1731b5e592",
+                    "reference": "f630a06a58cf0ecc5f4cead238ba2f1731b5e592",
                     "shasum": ""
                 },
-                "time": "2025-07-08T18:38:27+00:00",
+                "time": "2025-07-09T12:06:48+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12843,31 +12843,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-915--parent-menu-beige-background-when-expabded-2025-08-08": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-915--parent-menu-beige-background-when-expabded-2025-08-08",
-                "version_normalized": "dev-915--parent-menu-beige-background-when-expabded-2025-08-08",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e9d7767aa72fb7462a0454006e131b0fdb8903b8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e9d7767aa72fb7462a0454006e131b0fdb8903b8",
-                    "reference": "e9d7767aa72fb7462a0454006e131b0fdb8903b8",
-                    "shasum": ""
-                },
-                "time": "2025-07-09T01:55:17+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/915--parent-menu-beige-background-when-expabded-2025-08-08"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
