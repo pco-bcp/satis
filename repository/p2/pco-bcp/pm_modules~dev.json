@@ -479,6 +479,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-828-node-edit-publish-confirm-dialog",
+                "version_normalized": "dev-828-node-edit-publish-confirm-dialog",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "c2daf857448d8fc5a8a67ab9f87a83206e7bc430"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c2daf857448d8fc5a8a67ab9f87a83206e7bc430",
+                    "reference": "c2daf857448d8fc5a8a67ab9f87a83206e7bc430",
+                    "shasum": ""
+                },
+                "time": "2025-07-14T15:09:09+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/828-node-edit-publish-confirm-dialog"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-880-line-up-3-column-news-items-2025-06-12",
                 "version_normalized": "dev-880-line-up-3-column-news-items-2025-06-12",
                 "source": {
@@ -525,6 +550,31 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/903--update-js-to-css-videos-photos"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-922--update-video-transcript-mobile",
+                "version_normalized": "dev-922--update-video-transcript-mobile",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "f7ec7f3247f35f58dcda5a7c41145436cd92d767"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f7ec7f3247f35f58dcda5a7c41145436cd92d767",
+                    "reference": "f7ec7f3247f35f58dcda5a7c41145436cd92d767",
+                    "shasum": ""
+                },
+                "time": "2025-07-10T15:57:11+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/922--update-video-transcript-mobile"
                 }
             },
             {
