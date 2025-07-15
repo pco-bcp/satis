@@ -9271,15 +9271,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "cb0d8f00ea81d2ccab77204efa41505871e00b21"
+                    "reference": "dcf4cbcd1a5009a15cdbd5e83f1d45db53232d91"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/cb0d8f00ea81d2ccab77204efa41505871e00b21",
-                    "reference": "cb0d8f00ea81d2ccab77204efa41505871e00b21",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/dcf4cbcd1a5009a15cdbd5e83f1d45db53232d91",
+                    "reference": "dcf4cbcd1a5009a15cdbd5e83f1d45db53232d91",
                     "shasum": ""
                 },
-                "time": "2025-06-03T12:09:51+00:00",
+                "time": "2025-07-15T12:05:26+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -9287,31 +9287,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts-new"
-                }
-            },
-            "dev-846--fix-label-in-messages": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-846--fix-label-in-messages",
-                "version_normalized": "dev-846--fix-label-in-messages",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "3d77c09f138af1bad535c2252c146301d3524b3e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/3d77c09f138af1bad535c2252c146301d3524b3e",
-                    "reference": "3d77c09f138af1bad535c2252c146301d3524b3e",
-                    "shasum": ""
-                },
-                "time": "2025-07-14T17:35:33+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/846--fix-label-in-messages"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
