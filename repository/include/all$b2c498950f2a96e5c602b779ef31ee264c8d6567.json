@@ -12920,6 +12920,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
                 }
             },
+            "dev-925--fix-footer-alignment": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-925--fix-footer-alignment",
+                "version_normalized": "dev-925--fix-footer-alignment",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "0f19831b7d5e54bfb67ab04082b19c30abc24fcd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0f19831b7d5e54bfb67ab04082b19c30abc24fcd",
+                    "reference": "0f19831b7d5e54bfb67ab04082b19c30abc24fcd",
+                    "shasum": ""
+                },
+                "time": "2025-07-16T13:34:27+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/925--fix-footer-alignment"
+                }
+            },
             "dev-943--fix-design-views-minsiters-parlsec-sectstate": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-943--fix-design-views-minsiters-parlsec-sectstate",
