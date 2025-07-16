@@ -10523,15 +10523,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "0389b4ebca6067197257b93dedba76adb0bbe005"
+                    "reference": "b0a98a74b08b3604d00dd715f4d79492a79b8bb1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0389b4ebca6067197257b93dedba76adb0bbe005",
-                    "reference": "0389b4ebca6067197257b93dedba76adb0bbe005",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b0a98a74b08b3604d00dd715f4d79492a79b8bb1",
+                    "reference": "b0a98a74b08b3604d00dd715f4d79492a79b8bb1",
                     "shasum": ""
                 },
-                "time": "2025-07-10T15:59:24+00:00",
+                "time": "2025-07-16T17:52:44+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10990,31 +10990,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-903--update-js-to-css-videos-photos": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-903--update-js-to-css-videos-photos",
-                "version_normalized": "dev-903--update-js-to-css-videos-photos",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "f832d1327ba24359841f24de2dd698f895f4ad75"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f832d1327ba24359841f24de2dd698f895f4ad75",
-                    "reference": "f832d1327ba24359841f24de2dd698f895f4ad75",
-                    "shasum": ""
-                },
-                "time": "2025-07-09T16:45:04+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/903--update-js-to-css-videos-photos"
                 }
             },
             "dev-922--update-video-transcript-mobile": {
