@@ -529,6 +529,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-944--fix-latest-news-2025-07-16",
+                "version_normalized": "dev-944--fix-latest-news-2025-07-16",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "423da83db0999dab7851a8842cd1109c8fc5ca5c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/423da83db0999dab7851a8842cd1109c8fc5ca5c",
+                    "reference": "423da83db0999dab7851a8842cd1109c8fc5ca5c",
+                    "shasum": ""
+                },
+                "time": "2025-07-16T13:47:46+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/944--fix-latest-news-2025-07-16"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
