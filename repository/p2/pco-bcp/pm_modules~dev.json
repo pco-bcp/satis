@@ -504,6 +504,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-838-views-metatag-image",
+                "version_normalized": "dev-838-views-metatag-image",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "5f61b998db2b9f0f609d0dae4922c27ac2605e5d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5f61b998db2b9f0f609d0dae4922c27ac2605e5d",
+                    "reference": "5f61b998db2b9f0f609d0dae4922c27ac2605e5d",
+                    "shasum": ""
+                },
+                "time": "2025-07-17T16:38:57+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/838-views-metatag-image"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-880-line-up-3-column-news-items-2025-06-12",
                 "version_normalized": "dev-880-line-up-3-column-news-items-2025-06-12",
                 "source": {
