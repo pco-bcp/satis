@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "81f7841732acbb2539517efba078f7388c08443e"
+                    "reference": "b826f436611c68d63bf1a23abd7580e1e9ad8ae1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/81f7841732acbb2539517efba078f7388c08443e",
-                    "reference": "81f7841732acbb2539517efba078f7388c08443e",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b826f436611c68d63bf1a23abd7580e1e9ad8ae1",
+                    "reference": "b826f436611c68d63bf1a23abd7580e1e9ad8ae1",
                     "shasum": ""
                 },
-                "time": "2025-07-09T14:50:05+00:00",
+                "time": "2025-07-18T14:53:44+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -525,31 +525,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/943--fix-design-views-minsiters-parlsec-sectstate"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-944--fix-latest-news-2025-07-16",
-                "version_normalized": "dev-944--fix-latest-news-2025-07-16",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "423da83db0999dab7851a8842cd1109c8fc5ca5c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/423da83db0999dab7851a8842cd1109c8fc5ca5c",
-                    "reference": "423da83db0999dab7851a8842cd1109c8fc5ca5c",
-                    "shasum": ""
-                },
-                "time": "2025-07-16T13:47:46+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/944--fix-latest-news-2025-07-16"
                 }
             },
             {
