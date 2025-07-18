@@ -12970,6 +12970,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/925--fix-footer-alignment"
                 }
             },
+            "dev-932-webform-title-grey-bar": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-932-webform-title-grey-bar",
+                "version_normalized": "dev-932-webform-title-grey-bar",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "095458bd394ef1c9c1aa7cb9bb90a46955e5b79d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/095458bd394ef1c9c1aa7cb9bb90a46955e5b79d",
+                    "reference": "095458bd394ef1c9c1aa7cb9bb90a46955e5b79d",
+                    "shasum": ""
+                },
+                "time": "2025-07-18T20:26:25+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/932-webform-title-grey-bar"
+                }
+            },
             "dev-943--fix-design-views-minsiters-parlsec-sectstate": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-943--fix-design-views-minsiters-parlsec-sectstate",
