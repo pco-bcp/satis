@@ -12995,6 +12995,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/943--fix-design-views-minsiters-parlsec-sectstate"
                 }
             },
+            "dev-946--fix-navbar-misalignment-2025-07-16": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-946--fix-navbar-misalignment-2025-07-16",
+                "version_normalized": "dev-946--fix-navbar-misalignment-2025-07-16",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "19f6492a4b0f3393c41fdf79955e85859366ddac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/19f6492a4b0f3393c41fdf79955e85859366ddac",
+                    "reference": "19f6492a4b0f3393c41fdf79955e85859366ddac",
+                    "shasum": ""
+                },
+                "time": "2025-07-18T20:16:37+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/946--fix-navbar-misalignment-2025-07-16"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
