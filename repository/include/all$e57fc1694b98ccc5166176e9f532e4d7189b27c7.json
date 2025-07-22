@@ -7850,6 +7850,94 @@
                     "source": "https://github.com/pco-bcp/pco_cities/tree/7-phpcs-cleanup"
                 }
             },
+            "dev-928-module-bug-fixes": {
+                "name": "pco-bcp/pco_cities",
+                "version": "dev-928-module-bug-fixes",
+                "version_normalized": "dev-928-module-bug-fixes",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_cities.git",
+                    "reference": "428db55f5ff0b23515bb6b0f5565a1e84a3dba26"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/428db55f5ff0b23515bb6b0f5565a1e84a3dba26",
+                    "reference": "428db55f5ff0b23515bb6b0f5565a1e84a3dba26",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupalwxt/wxt": "5.4.1"
+                },
+                "time": "2025-07-22T11:49:13+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/928-module-bug-fixes"
+                }
+            },
             "dev-pco-bcp/issues+185-new-challenges-module": {
                 "name": "pco-bcp/pco_cities",
                 "version": "dev-pco-bcp/issues+185-new-challenges-module",
