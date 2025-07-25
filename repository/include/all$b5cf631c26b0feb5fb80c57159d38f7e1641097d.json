@@ -11137,15 +11137,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "f2a0220e2e22742cfac0e4de01efeae018aa1846"
+                    "reference": "b0454caac6a19c57bb1f531d678ee11d6e17dc7d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f2a0220e2e22742cfac0e4de01efeae018aa1846",
-                    "reference": "f2a0220e2e22742cfac0e4de01efeae018aa1846",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b0454caac6a19c57bb1f531d678ee11d6e17dc7d",
+                    "reference": "b0454caac6a19c57bb1f531d678ee11d6e17dc7d",
                     "shasum": ""
                 },
-                "time": "2025-07-24T13:04:30+00:00",
+                "time": "2025-07-25T15:18:12+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -13056,6 +13056,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/822-tablet-layout-for-3-column-news-2025-06-03"
+                }
+            },
+            "dev-841-new-PG-feature-2025-07-14": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-841-new-PG-feature-2025-07-14",
+                "version_normalized": "dev-841-new-PG-feature-2025-07-14",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "f47089085ac7889d385be830bf389b38234b586d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f47089085ac7889d385be830bf389b38234b586d",
+                    "reference": "f47089085ac7889d385be830bf389b38234b586d",
+                    "shasum": ""
+                },
+                "time": "2025-07-25T15:16:42+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/841-new-PG-feature-2025-07-14"
                 }
             },
             "dev-861--new-design-menus-2025-06-05": {
