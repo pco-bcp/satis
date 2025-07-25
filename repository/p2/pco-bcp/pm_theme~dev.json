@@ -554,6 +554,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-933-new-search-dialog",
+                "version_normalized": "dev-933-new-search-dialog",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "80f9b5cb7a6e02899bcce03d6672afaf796ffdf8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/80f9b5cb7a6e02899bcce03d6672afaf796ffdf8",
+                    "reference": "80f9b5cb7a6e02899bcce03d6672afaf796ffdf8",
+                    "shasum": ""
+                },
+                "time": "2025-07-25T18:49:57+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/933-new-search-dialog"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-940--fix-white-member-text-2025-07-25",
                 "version_normalized": "dev-940--fix-white-member-text-2025-07-25",
                 "source": {
