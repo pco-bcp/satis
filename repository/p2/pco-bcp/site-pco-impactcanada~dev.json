@@ -4665,12 +4665,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "3c0523a3e4b993c3487762b672df0ea2b49e2201"
+                    "reference": "99d7b4687b4e8a3119e22f292a4abf5ec7cd38b1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/3c0523a3e4b993c3487762b672df0ea2b49e2201",
-                    "reference": "3c0523a3e4b993c3487762b672df0ea2b49e2201",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/99d7b4687b4e8a3119e22f292a4abf5ec7cd38b1",
+                    "reference": "99d7b4687b4e8a3119e22f292a4abf5ec7cd38b1",
                     "shasum": ""
                 },
                 "require": {
@@ -4739,7 +4739,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2025-07-28T12:52:49+00:00",
+                "time": "2025-07-28T13:43:31+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -4834,7 +4834,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/5.4.x-3.1.x"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/3.1.19"
                 }
             },
             {
