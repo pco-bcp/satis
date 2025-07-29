@@ -10611,15 +10611,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "7dc10dd448238f0c854c7cf4e33ea783c21cc90f"
+                    "reference": "5845310d9725ed3d104174119d323ef5852bc761"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7dc10dd448238f0c854c7cf4e33ea783c21cc90f",
-                    "reference": "7dc10dd448238f0c854c7cf4e33ea783c21cc90f",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5845310d9725ed3d104174119d323ef5852bc761",
+                    "reference": "5845310d9725ed3d104174119d323ef5852bc761",
                     "shasum": ""
                 },
-                "time": "2025-07-24T19:44:13+00:00",
+                "time": "2025-07-29T15:43:09+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11003,31 +11003,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/796-turn-off-404-logging-for-ancient-urls-2025-07-07"
-                }
-            },
-            "dev-806--update-metadata-for-PMMC-video": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-806--update-metadata-for-PMMC-video",
-                "version_normalized": "dev-806--update-metadata-for-PMMC-video",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "bbcd556fb81e4cbd6466d1d0d5808ca543e38bc1"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/bbcd556fb81e4cbd6466d1d0d5808ca543e38bc1",
-                    "reference": "bbcd556fb81e4cbd6466d1d0d5808ca543e38bc1",
-                    "shasum": ""
-                },
-                "time": "2025-07-21T12:39:58+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/806--update-metadata-for-PMMC-video"
                 }
             },
             "dev-824-add-secstate-to-pm_admin-2025-05-20": {
