@@ -12689,15 +12689,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "7c5e97788f663c5829975449e4cd26798d83ab8c"
+                    "reference": "46559f2e16a634f4260bdf9855bcc6734b3f22a4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7c5e97788f663c5829975449e4cd26798d83ab8c",
-                    "reference": "7c5e97788f663c5829975449e4cd26798d83ab8c",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/46559f2e16a634f4260bdf9855bcc6734b3f22a4",
+                    "reference": "46559f2e16a634f4260bdf9855bcc6734b3f22a4",
                     "shasum": ""
                 },
-                "time": "2025-07-21T16:45:56+00:00",
+                "time": "2025-07-30T18:04:06+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13181,31 +13181,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/926--fix-parent-menu-links-2025-07-25"
-                }
-            },
-            "dev-933-new-search-dialog": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-933-new-search-dialog",
-                "version_normalized": "dev-933-new-search-dialog",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "491e9c07dec428dd2e353ceef0642dff597dd9f2"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/491e9c07dec428dd2e353ceef0642dff597dd9f2",
-                    "reference": "491e9c07dec428dd2e353ceef0642dff597dd9f2",
-                    "shasum": ""
-                },
-                "time": "2025-07-29T16:03:32+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/933-new-search-dialog"
                 }
             },
             "dev-940--fix-white-member-text-2025-07-25": {
