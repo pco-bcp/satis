@@ -12689,15 +12689,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "36f2d0fbf92092df296d9d2fec3c6740cf787ece"
+                    "reference": "b60d53cd4b906de7a72b7befd1aec123b780d367"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/36f2d0fbf92092df296d9d2fec3c6740cf787ece",
-                    "reference": "36f2d0fbf92092df296d9d2fec3c6740cf787ece",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b60d53cd4b906de7a72b7befd1aec123b780d367",
+                    "reference": "b60d53cd4b906de7a72b7befd1aec123b780d367",
                     "shasum": ""
                 },
-                "time": "2025-07-30T18:42:11+00:00",
+                "time": "2025-07-30T20:07:17+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13206,31 +13206,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/943--fix-design-views-minsiters-parlsec-sectstate"
-                }
-            },
-            "dev-946--fix-navbar-misalignment-2025-07-16": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-946--fix-navbar-misalignment-2025-07-16",
-                "version_normalized": "dev-946--fix-navbar-misalignment-2025-07-16",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "9e3c1a4e96eb01751772627a15974ccee5ee4314"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9e3c1a4e96eb01751772627a15974ccee5ee4314",
-                    "reference": "9e3c1a4e96eb01751772627a15974ccee5ee4314",
-                    "shasum": ""
-                },
-                "time": "2025-07-21T18:22:05+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/946--fix-navbar-misalignment-2025-07-16"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
