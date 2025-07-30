@@ -12689,15 +12689,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "46559f2e16a634f4260bdf9855bcc6734b3f22a4"
+                    "reference": "36f2d0fbf92092df296d9d2fec3c6740cf787ece"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/46559f2e16a634f4260bdf9855bcc6734b3f22a4",
-                    "reference": "46559f2e16a634f4260bdf9855bcc6734b3f22a4",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/36f2d0fbf92092df296d9d2fec3c6740cf787ece",
+                    "reference": "36f2d0fbf92092df296d9d2fec3c6740cf787ece",
                     "shasum": ""
                 },
-                "time": "2025-07-30T18:04:06+00:00",
+                "time": "2025-07-30T18:42:11+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13131,31 +13131,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-925--fix-footer-alignment": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-925--fix-footer-alignment",
-                "version_normalized": "dev-925--fix-footer-alignment",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "6cb4fa55f14ea77874e68798d7a8fce14970d481"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6cb4fa55f14ea77874e68798d7a8fce14970d481",
-                    "reference": "6cb4fa55f14ea77874e68798d7a8fce14970d481",
-                    "shasum": ""
-                },
-                "time": "2025-07-30T14:59:06+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/925--fix-footer-alignment"
                 }
             },
             "dev-926--fix-parent-menu-links-2025-07-25": {
