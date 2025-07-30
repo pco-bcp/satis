@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "5845310d9725ed3d104174119d323ef5852bc761"
+                    "reference": "27579cb551c5ebff0accc9f1033669f6f602cc19"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5845310d9725ed3d104174119d323ef5852bc761",
-                    "reference": "5845310d9725ed3d104174119d323ef5852bc761",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/27579cb551c5ebff0accc9f1033669f6f602cc19",
+                    "reference": "27579cb551c5ebff0accc9f1033669f6f602cc19",
                     "shasum": ""
                 },
-                "time": "2025-07-29T15:43:09+00:00",
+                "time": "2025-07-30T13:06:53+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -500,31 +500,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/825-views-ajax-get"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-828-node-edit-publish-confirm-dialog",
-                "version_normalized": "dev-828-node-edit-publish-confirm-dialog",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "c2daf857448d8fc5a8a67ab9f87a83206e7bc430"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c2daf857448d8fc5a8a67ab9f87a83206e7bc430",
-                    "reference": "c2daf857448d8fc5a8a67ab9f87a83206e7bc430",
-                    "shasum": ""
-                },
-                "time": "2025-07-14T15:09:09+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/828-node-edit-publish-confirm-dialog"
                 }
             },
             {
