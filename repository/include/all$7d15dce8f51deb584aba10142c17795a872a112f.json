@@ -9377,6 +9377,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts-new"
                 }
             },
+            "dev-762--feat-combine-all_cron_hooks-to-callback-functions-config": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-762--feat-combine-all_cron_hooks-to-callback-functions-config",
+                "version_normalized": "dev-762--feat-combine-all_cron_hooks-to-callback-functions-config",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "53d002a8e825c7c17ed2a153eef36191c79ddb2c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/53d002a8e825c7c17ed2a153eef36191c79ddb2c",
+                    "reference": "53d002a8e825c7c17ed2a153eef36191c79ddb2c",
+                    "shasum": ""
+                },
+                "time": "2025-07-30T17:34:19+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/762--feat-combine-all_cron_hooks-to-callback-functions-config"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
