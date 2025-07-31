@@ -8958,15 +8958,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "285465a32dbd07ff8b10973daf32d25327cf9908"
+                    "reference": "2e6ca103f83641424fb485829a82d3a3614e69d0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/285465a32dbd07ff8b10973daf32d25327cf9908",
-                    "reference": "285465a32dbd07ff8b10973daf32d25327cf9908",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2e6ca103f83641424fb485829a82d3a3614e69d0",
+                    "reference": "2e6ca103f83641424fb485829a82d3a3614e69d0",
                     "shasum": ""
                 },
-                "time": "2025-07-03T14:11:22+00:00",
+                "time": "2025-07-31T13:42:08+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -8974,7 +8974,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.1.5"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.1.x"
                 }
             },
             "4.x-dev": {
@@ -9375,31 +9375,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts-new"
-                }
-            },
-            "dev-762--feat-combine-all_cron_hooks-to-callback-functions-config": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-762--feat-combine-all_cron_hooks-to-callback-functions-config",
-                "version_normalized": "dev-762--feat-combine-all_cron_hooks-to-callback-functions-config",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "53d002a8e825c7c17ed2a153eef36191c79ddb2c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/53d002a8e825c7c17ed2a153eef36191c79ddb2c",
-                    "reference": "53d002a8e825c7c17ed2a153eef36191c79ddb2c",
-                    "shasum": ""
-                },
-                "time": "2025-07-30T17:34:19+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/762--feat-combine-all_cron_hooks-to-callback-functions-config"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
@@ -10636,15 +10611,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "27579cb551c5ebff0accc9f1033669f6f602cc19"
+                    "reference": "6d4757e7c29079b18e06031715f1839e64e8f49d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/27579cb551c5ebff0accc9f1033669f6f602cc19",
-                    "reference": "27579cb551c5ebff0accc9f1033669f6f602cc19",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6d4757e7c29079b18e06031715f1839e64e8f49d",
+                    "reference": "6d4757e7c29079b18e06031715f1839e64e8f49d",
                     "shasum": ""
                 },
-                "time": "2025-07-30T13:06:53+00:00",
+                "time": "2025-07-31T13:42:48+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10978,31 +10953,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
-                }
-            },
-            "dev-762--feat-combine-all_cron_hooks-to-callback-functions-2025-04-25": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-762--feat-combine-all_cron_hooks-to-callback-functions-2025-04-25",
-                "version_normalized": "dev-762--feat-combine-all_cron_hooks-to-callback-functions-2025-04-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "395df4edbde96be09dbb16985ad7f0ed7b8dce92"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/395df4edbde96be09dbb16985ad7f0ed7b8dce92",
-                    "reference": "395df4edbde96be09dbb16985ad7f0ed7b8dce92",
-                    "shasum": ""
-                },
-                "time": "2025-07-28T18:32:26+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/762--feat-combine-all_cron_hooks-to-callback-functions-2025-04-25"
                 }
             },
             "dev-796-turn-off-404-logging-for-ancient-urls-2025-07-07": {

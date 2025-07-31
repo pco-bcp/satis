@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "27579cb551c5ebff0accc9f1033669f6f602cc19"
+                    "reference": "6d4757e7c29079b18e06031715f1839e64e8f49d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/27579cb551c5ebff0accc9f1033669f6f602cc19",
-                    "reference": "27579cb551c5ebff0accc9f1033669f6f602cc19",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6d4757e7c29079b18e06031715f1839e64e8f49d",
+                    "reference": "6d4757e7c29079b18e06031715f1839e64e8f49d",
                     "shasum": ""
                 },
-                "time": "2025-07-30T13:06:53+00:00",
+                "time": "2025-07-31T13:42:48+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -400,31 +400,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/750--fix-regression-photoswipe-share-2025-03-07"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-762--feat-combine-all_cron_hooks-to-callback-functions-2025-04-25",
-                "version_normalized": "dev-762--feat-combine-all_cron_hooks-to-callback-functions-2025-04-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "395df4edbde96be09dbb16985ad7f0ed7b8dce92"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/395df4edbde96be09dbb16985ad7f0ed7b8dce92",
-                    "reference": "395df4edbde96be09dbb16985ad7f0ed7b8dce92",
-                    "shasum": ""
-                },
-                "time": "2025-07-28T18:32:26+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/762--feat-combine-all_cron_hooks-to-callback-functions-2025-04-25"
                 }
             },
             {
