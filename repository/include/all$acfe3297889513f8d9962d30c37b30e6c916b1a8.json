@@ -12639,15 +12639,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b60d53cd4b906de7a72b7befd1aec123b780d367"
+                    "reference": "9ae33e67ab1a1a7b73e7890bdf998259812e5e5b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b60d53cd4b906de7a72b7befd1aec123b780d367",
-                    "reference": "b60d53cd4b906de7a72b7befd1aec123b780d367",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9ae33e67ab1a1a7b73e7890bdf998259812e5e5b",
+                    "reference": "9ae33e67ab1a1a7b73e7890bdf998259812e5e5b",
                     "shasum": ""
                 },
-                "time": "2025-07-30T20:07:17+00:00",
+                "time": "2025-07-31T14:16:13+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13156,31 +13156,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/943--fix-design-views-minsiters-parlsec-sectstate"
-                }
-            },
-            "dev-955--change-color-of-links-in-H1": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-955--change-color-of-links-in-H1",
-                "version_normalized": "dev-955--change-color-of-links-in-H1",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a35c3475cef7e455caf983279425a45cc3fb5983"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a35c3475cef7e455caf983279425a45cc3fb5983",
-                    "reference": "a35c3475cef7e455caf983279425a45cc3fb5983",
-                    "shasum": ""
-                },
-                "time": "2025-07-30T21:23:20+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/955--change-color-of-links-in-H1"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
