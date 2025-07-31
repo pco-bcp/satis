@@ -12639,15 +12639,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "14598ab2ce6ada35489753f3c958f02f227c4d9d"
+                    "reference": "d7b4be8e2db93843b76f32df7c8bf28b22a1b674"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/14598ab2ce6ada35489753f3c958f02f227c4d9d",
-                    "reference": "14598ab2ce6ada35489753f3c958f02f227c4d9d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d7b4be8e2db93843b76f32df7c8bf28b22a1b674",
+                    "reference": "d7b4be8e2db93843b76f32df7c8bf28b22a1b674",
                     "shasum": ""
                 },
-                "time": "2025-07-31T15:16:15+00:00",
+                "time": "2025-07-31T15:41:02+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13081,31 +13081,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-940--fix-white-member-text-2025-07-25": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-940--fix-white-member-text-2025-07-25",
-                "version_normalized": "dev-940--fix-white-member-text-2025-07-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "08ef222dd525576540167514265cc86212061bf0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/08ef222dd525576540167514265cc86212061bf0",
-                    "reference": "08ef222dd525576540167514265cc86212061bf0",
-                    "shasum": ""
-                },
-                "time": "2025-07-25T13:40:38+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/940--fix-white-member-text-2025-07-25"
                 }
             },
             "dev-943--fix-design-views-minsiters-parlsec-sectstate": {
