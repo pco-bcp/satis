@@ -504,6 +504,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-956--change-links-color-in-articles-content",
+                "version_normalized": "dev-956--change-links-color-in-articles-content",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "24cb1b54dd89682ec4e0f513b9e1177a999d7d19"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/24cb1b54dd89682ec4e0f513b9e1177a999d7d19",
+                    "reference": "24cb1b54dd89682ec4e0f513b9e1177a999d7d19",
+                    "shasum": ""
+                },
+                "time": "2025-07-31T17:49:01+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/956--change-links-color-in-articles-content"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
