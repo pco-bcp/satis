@@ -12614,15 +12614,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d7b4be8e2db93843b76f32df7c8bf28b22a1b674"
+                    "reference": "5ffe9f07b2b7fd3b032791d0f654912a14566fa4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d7b4be8e2db93843b76f32df7c8bf28b22a1b674",
-                    "reference": "d7b4be8e2db93843b76f32df7c8bf28b22a1b674",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5ffe9f07b2b7fd3b032791d0f654912a14566fa4",
+                    "reference": "5ffe9f07b2b7fd3b032791d0f654912a14566fa4",
                     "shasum": ""
                 },
-                "time": "2025-07-31T15:41:02+00:00",
+                "time": "2025-07-31T17:04:25+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13056,31 +13056,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-943--fix-design-views-minsiters-parlsec-sectstate": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-943--fix-design-views-minsiters-parlsec-sectstate",
-                "version_normalized": "dev-943--fix-design-views-minsiters-parlsec-sectstate",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a9a9bc7e69f50ad0f64515a5730aae85bbd0189f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a9a9bc7e69f50ad0f64515a5730aae85bbd0189f",
-                    "reference": "a9a9bc7e69f50ad0f64515a5730aae85bbd0189f",
-                    "shasum": ""
-                },
-                "time": "2025-07-15T12:11:03+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/943--fix-design-views-minsiters-parlsec-sectstate"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
