@@ -10611,15 +10611,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "6d4757e7c29079b18e06031715f1839e64e8f49d"
+                    "reference": "dcb229c23cafe67880a20a08963822fd306ddce0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6d4757e7c29079b18e06031715f1839e64e8f49d",
-                    "reference": "6d4757e7c29079b18e06031715f1839e64e8f49d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/dcb229c23cafe67880a20a08963822fd306ddce0",
+                    "reference": "dcb229c23cafe67880a20a08963822fd306ddce0",
                     "shasum": ""
                 },
-                "time": "2025-07-31T13:42:48+00:00",
+                "time": "2025-07-31T15:44:56+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11153,31 +11153,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/941--fix-superscript-in-H1-on-view-pages"
-                }
-            },
-            "dev-950--fix-vidmatch-thumbnail-size-2025-07-24": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-950--fix-vidmatch-thumbnail-size-2025-07-24",
-                "version_normalized": "dev-950--fix-vidmatch-thumbnail-size-2025-07-24",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "0622b246e39305d39e2f86ce2fad20fd47e3d2dc"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0622b246e39305d39e2f86ce2fad20fd47e3d2dc",
-                    "reference": "0622b246e39305d39e2f86ce2fad20fd47e3d2dc",
-                    "shasum": ""
-                },
-                "time": "2025-07-24T19:50:56+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/950--fix-vidmatch-thumbnail-size-2025-07-24"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
