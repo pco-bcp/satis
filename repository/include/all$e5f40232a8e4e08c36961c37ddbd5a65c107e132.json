@@ -12639,15 +12639,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "9ae33e67ab1a1a7b73e7890bdf998259812e5e5b"
+                    "reference": "14598ab2ce6ada35489753f3c958f02f227c4d9d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9ae33e67ab1a1a7b73e7890bdf998259812e5e5b",
-                    "reference": "9ae33e67ab1a1a7b73e7890bdf998259812e5e5b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/14598ab2ce6ada35489753f3c958f02f227c4d9d",
+                    "reference": "14598ab2ce6ada35489753f3c958f02f227c4d9d",
                     "shasum": ""
                 },
-                "time": "2025-07-31T14:16:13+00:00",
+                "time": "2025-07-31T15:16:15+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13081,31 +13081,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-926--fix-parent-menu-links-2025-07-25": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-926--fix-parent-menu-links-2025-07-25",
-                "version_normalized": "dev-926--fix-parent-menu-links-2025-07-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2dcae60691b27d8f33993317738fd6b16a05f525"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2dcae60691b27d8f33993317738fd6b16a05f525",
-                    "reference": "2dcae60691b27d8f33993317738fd6b16a05f525",
-                    "shasum": ""
-                },
-                "time": "2025-07-25T15:14:10+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/926--fix-parent-menu-links-2025-07-25"
                 }
             },
             "dev-940--fix-white-member-text-2025-07-25": {
