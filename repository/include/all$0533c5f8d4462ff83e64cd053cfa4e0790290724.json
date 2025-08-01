@@ -10611,15 +10611,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "dcb229c23cafe67880a20a08963822fd306ddce0"
+                    "reference": "8cf996ffd9ea93d681311d227b2b63b07750f65b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/dcb229c23cafe67880a20a08963822fd306ddce0",
-                    "reference": "dcb229c23cafe67880a20a08963822fd306ddce0",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8cf996ffd9ea93d681311d227b2b63b07750f65b",
+                    "reference": "8cf996ffd9ea93d681311d227b2b63b07750f65b",
                     "shasum": ""
                 },
-                "time": "2025-07-31T15:44:56+00:00",
+                "time": "2025-08-01T15:14:41+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11128,31 +11128,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/922--update-video-transcript-mobile"
-                }
-            },
-            "dev-941--fix-superscript-in-H1-on-view-pages": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-941--fix-superscript-in-H1-on-view-pages",
-                "version_normalized": "dev-941--fix-superscript-in-H1-on-view-pages",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "fdd5bc8c52ac800e08a293eb47b6907c06b6e98d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/fdd5bc8c52ac800e08a293eb47b6907c06b6e98d",
-                    "reference": "fdd5bc8c52ac800e08a293eb47b6907c06b6e98d",
-                    "shasum": ""
-                },
-                "time": "2025-08-01T14:07:21+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/941--fix-superscript-in-H1-on-view-pages"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
