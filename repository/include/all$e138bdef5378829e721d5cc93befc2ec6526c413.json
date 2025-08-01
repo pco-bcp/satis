@@ -12614,15 +12614,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "5ffe9f07b2b7fd3b032791d0f654912a14566fa4"
+                    "reference": "cd8985d3b1934311dd36d63feaee802120a108a8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5ffe9f07b2b7fd3b032791d0f654912a14566fa4",
-                    "reference": "5ffe9f07b2b7fd3b032791d0f654912a14566fa4",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/cd8985d3b1934311dd36d63feaee802120a108a8",
+                    "reference": "cd8985d3b1934311dd36d63feaee802120a108a8",
                     "shasum": ""
                 },
-                "time": "2025-07-31T17:04:25+00:00",
+                "time": "2025-08-01T14:11:39+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13056,31 +13056,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-956--change-links-color-in-articles-content": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-956--change-links-color-in-articles-content",
-                "version_normalized": "dev-956--change-links-color-in-articles-content",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "57ac64c8b89b0aa8343aa02e3c4ef09cf76988a4"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/57ac64c8b89b0aa8343aa02e3c4ef09cf76988a4",
-                    "reference": "57ac64c8b89b0aa8343aa02e3c4ef09cf76988a4",
-                    "shasum": ""
-                },
-                "time": "2025-07-31T18:10:32+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/956--change-links-color-in-articles-content"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
