@@ -21,10 +21,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1.x"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -46,10 +43,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.0.0"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -72,10 +66,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.8"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -97,10 +88,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.x"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -122,10 +110,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/170--resolve-regression-w-mandate-header-indent-2024-02-16"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -147,10 +132,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/198--add-hover-on-x-follow-button"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -172,10 +154,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/298--fix-wcag_issue_skip_to_main_content-2024-04-08"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -197,10 +176,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/310-add-transcript-heading-to-video-page-2024-06-11"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -222,10 +198,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/333-main-menu-item-has-invisible-focus-2024-05-21"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -247,10 +220,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/351-astrix-not-accessible-2024-05-09"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -272,10 +242,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform-2024-05-09"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -297,10 +264,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -322,10 +286,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/746--fix-indent-nested-list-2025-02-21"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -347,10 +308,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/750--fix-regression-photoswipe-share-2025-03-07"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -372,10 +330,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/751--update-new-header-design-2025-02-25"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -397,10 +352,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/821-add-featured-section-to-homepage-2025-05-12"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -422,10 +374,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/822-tablet-layout-for-3-column-news-2025-06-03"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -447,10 +396,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -472,10 +418,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -497,10 +440,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/946-small-padding-on-translation"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -522,10 +462,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/date-released-twig-display-timezone-2023-09-05"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -547,10 +484,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/fix-missing-span-pco_alias-2023-07-17"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -572,10 +506,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/hide-sort-order-for-cabinet-page-2023-07-24"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -597,10 +528,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/hide-sort-order-for-cabinet-page-2023-07-25"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -622,10 +550,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/pco-bcp/pm_theme--fix-indent-2023-08-30"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -647,10 +572,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/pco-bcp/pm_theme--fix-indent-2nd-attempt-2023-09-01"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -672,10 +594,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/revert-45-341-change-watermark-link-alt-text-2024-05-10"
-                }
+                "description": "PM Theme"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -697,10 +616,7 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/search-folder-added-to-repo"
-                }
+                "description": "PM Theme"
             }
         ]
     }
