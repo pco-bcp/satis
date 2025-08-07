@@ -10636,15 +10636,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "8cf996ffd9ea93d681311d227b2b63b07750f65b"
+                    "reference": "62e2e9b72a38209b6055b1740bad2cf88d6e2398"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8cf996ffd9ea93d681311d227b2b63b07750f65b",
-                    "reference": "8cf996ffd9ea93d681311d227b2b63b07750f65b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/62e2e9b72a38209b6055b1740bad2cf88d6e2398",
+                    "reference": "62e2e9b72a38209b6055b1740bad2cf88d6e2398",
                     "shasum": ""
                 },
-                "time": "2025-08-01T15:14:41+00:00",
+                "time": "2025-08-07T15:10:16+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11078,31 +11078,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/838-views-metatag-image"
-                }
-            },
-            "dev-841-new-PG-feature-2025-07-14": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-841-new-PG-feature-2025-07-14",
-                "version_normalized": "dev-841-new-PG-feature-2025-07-14",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "55fd8646286097d8ab86a502baa49094f71e5795"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/55fd8646286097d8ab86a502baa49094f71e5795",
-                    "reference": "55fd8646286097d8ab86a502baa49094f71e5795",
-                    "shasum": ""
-                },
-                "time": "2025-08-07T13:54:54+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/841-new-PG-feature-2025-07-14"
                 }
             },
             "dev-880-line-up-3-column-news-items-2025-06-12": {
@@ -12614,15 +12589,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "cd8985d3b1934311dd36d63feaee802120a108a8"
+                    "reference": "3a3e6297f5c457f4f863d6e2db984b0d9cd038f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/cd8985d3b1934311dd36d63feaee802120a108a8",
-                    "reference": "cd8985d3b1934311dd36d63feaee802120a108a8",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3a3e6297f5c457f4f863d6e2db984b0d9cd038f9",
+                    "reference": "3a3e6297f5c457f4f863d6e2db984b0d9cd038f9",
                     "shasum": ""
                 },
-                "time": "2025-08-01T14:11:39+00:00",
+                "time": "2025-08-07T15:12:17+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -12981,31 +12956,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/822-tablet-layout-for-3-column-news-2025-06-03"
-                }
-            },
-            "dev-841-new-PG-feature-2025-07-14": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-841-new-PG-feature-2025-07-14",
-                "version_normalized": "dev-841-new-PG-feature-2025-07-14",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "f47089085ac7889d385be830bf389b38234b586d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f47089085ac7889d385be830bf389b38234b586d",
-                    "reference": "f47089085ac7889d385be830bf389b38234b586d",
-                    "shasum": ""
-                },
-                "time": "2025-07-25T15:16:42+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/841-new-PG-feature-2025-07-14"
                 }
             },
             "dev-861--new-design-menus-2025-06-05": {

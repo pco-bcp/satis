@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "8cf996ffd9ea93d681311d227b2b63b07750f65b"
+                    "reference": "62e2e9b72a38209b6055b1740bad2cf88d6e2398"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8cf996ffd9ea93d681311d227b2b63b07750f65b",
-                    "reference": "8cf996ffd9ea93d681311d227b2b63b07750f65b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/62e2e9b72a38209b6055b1740bad2cf88d6e2398",
+                    "reference": "62e2e9b72a38209b6055b1740bad2cf88d6e2398",
                     "shasum": ""
                 },
-                "time": "2025-08-01T15:14:41+00:00",
+                "time": "2025-08-07T15:10:16+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -500,31 +500,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/838-views-metatag-image"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-841-new-PG-feature-2025-07-14",
-                "version_normalized": "dev-841-new-PG-feature-2025-07-14",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "55fd8646286097d8ab86a502baa49094f71e5795"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/55fd8646286097d8ab86a502baa49094f71e5795",
-                    "reference": "55fd8646286097d8ab86a502baa49094f71e5795",
-                    "shasum": ""
-                },
-                "time": "2025-08-07T13:54:54+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/841-new-PG-feature-2025-07-14"
                 }
             },
             {
