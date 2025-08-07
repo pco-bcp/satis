@@ -12582,6 +12582,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.7"
                 }
             },
+            "4.1.8": {
+                "name": "pco-bcp/pm_theme",
+                "version": "4.1.8",
+                "version_normalized": "4.1.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "3a3e6297f5c457f4f863d6e2db984b0d9cd038f9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3a3e6297f5c457f4f863d6e2db984b0d9cd038f9",
+                    "reference": "3a3e6297f5c457f4f863d6e2db984b0d9cd038f9",
+                    "shasum": ""
+                },
+                "time": "2025-08-07T15:12:17+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.8"
+                }
+            },
             "4.1.x-dev": {
                 "name": "pco-bcp/pm_theme",
                 "version": "4.1.x-dev",
@@ -12605,7 +12630,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.x"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.8"
                 }
             },
             "4.x-dev": {
