@@ -13158,6 +13158,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/961-date-filter-buttons"
                 }
             },
+            "dev-963--fix-font-and-size-NR-blockquote": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-963--fix-font-and-size-NR-blockquote",
+                "version_normalized": "dev-963--fix-font-and-size-NR-blockquote",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e7150e4e0b8b2b006a14e4a077d361aa10fafd01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e7150e4e0b8b2b006a14e4a077d361aa10fafd01",
+                    "reference": "e7150e4e0b8b2b006a14e4a077d361aa10fafd01",
+                    "shasum": ""
+                },
+                "time": "2025-08-08T17:40:26+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/963--fix-font-and-size-NR-blockquote"
+                }
+            },
             "dev-date-released-twig-display-timezone-2023-09-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
