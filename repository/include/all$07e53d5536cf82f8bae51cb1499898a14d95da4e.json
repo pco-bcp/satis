@@ -11130,6 +11130,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/838-views-metatag-image"
                 }
             },
+            "dev-841-minor-bug-fixes-08-08-2025": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-841-minor-bug-fixes-08-08-2025",
+                "version_normalized": "dev-841-minor-bug-fixes-08-08-2025",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "aaabfe83d2c6bbf3cc4d2983af45d547e6b8e95c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/aaabfe83d2c6bbf3cc4d2983af45d547e6b8e95c",
+                    "reference": "aaabfe83d2c6bbf3cc4d2983af45d547e6b8e95c",
+                    "shasum": ""
+                },
+                "time": "2025-08-08T16:28:37+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/841-minor-bug-fixes-08-08-2025"
+                }
+            },
             "dev-880-line-up-3-column-news-items-2025-06-12": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-880-line-up-3-column-news-items-2025-06-12",
