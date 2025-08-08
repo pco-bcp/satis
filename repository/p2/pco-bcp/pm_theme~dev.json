@@ -504,6 +504,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-961-date-filter-buttons",
+                "version_normalized": "dev-961-date-filter-buttons",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "fec3dadecb0ebd2dcf86eb59579afb86a78a61d8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/fec3dadecb0ebd2dcf86eb59579afb86a78a61d8",
+                    "reference": "fec3dadecb0ebd2dcf86eb59579afb86a78a61d8",
+                    "shasum": ""
+                },
+                "time": "2025-08-08T16:44:06+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/961-date-filter-buttons"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
