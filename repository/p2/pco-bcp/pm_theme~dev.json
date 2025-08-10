@@ -479,6 +479,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-932--fix-spacing-on-mobile-for-webforms",
+                "version_normalized": "dev-932--fix-spacing-on-mobile-for-webforms",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "af3a3a7ae478f993fe8ce3abd8d923d112b1f08b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/af3a3a7ae478f993fe8ce3abd8d923d112b1f08b",
+                    "reference": "af3a3a7ae478f993fe8ce3abd8d923d112b1f08b",
+                    "shasum": ""
+                },
+                "time": "2025-08-10T19:37:59+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/932--fix-spacing-on-mobile-for-webforms"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-946-small-padding-on-translation",
                 "version_normalized": "dev-946-small-padding-on-translation",
                 "source": {
