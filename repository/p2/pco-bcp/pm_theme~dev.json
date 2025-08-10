@@ -504,6 +504,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-956--change-link-color-content-articles",
+                "version_normalized": "dev-956--change-link-color-content-articles",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "73f670efa60f3304675a5e41f5374dbc0834a9d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/73f670efa60f3304675a5e41f5374dbc0834a9d3",
+                    "reference": "73f670efa60f3304675a5e41f5374dbc0834a9d3",
+                    "shasum": ""
+                },
+                "time": "2025-08-10T16:16:41+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/956--change-link-color-content-articles"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-961-date-filter-buttons",
                 "version_normalized": "dev-961-date-filter-buttons",
                 "source": {
