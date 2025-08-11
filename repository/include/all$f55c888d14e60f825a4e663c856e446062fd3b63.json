@@ -13165,15 +13165,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "5a6191b1cd50babe591c09495bef8564c5bcb462"
+                    "reference": "505ffc21b48d37232ea3d5096ad1e492a91fd5d8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5a6191b1cd50babe591c09495bef8564c5bcb462",
-                    "reference": "5a6191b1cd50babe591c09495bef8564c5bcb462",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/505ffc21b48d37232ea3d5096ad1e492a91fd5d8",
+                    "reference": "505ffc21b48d37232ea3d5096ad1e492a91fd5d8",
                     "shasum": ""
                 },
-                "time": "2025-08-11T15:44:28+00:00",
+                "time": "2025-08-11T21:39:44+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
@@ -13230,7 +13230,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/961--feat-accessible-date-picker"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/964-photoswipe-is-not-working-archived-photos"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
