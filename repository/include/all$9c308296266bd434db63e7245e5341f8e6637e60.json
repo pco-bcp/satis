@@ -13133,6 +13133,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/946-small-padding-on-translation"
                 }
             },
+            "dev-961--feat-accessible-date-picker": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-961--feat-accessible-date-picker",
+                "version_normalized": "dev-961--feat-accessible-date-picker",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "5a6191b1cd50babe591c09495bef8564c5bcb462"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5a6191b1cd50babe591c09495bef8564c5bcb462",
+                    "reference": "5a6191b1cd50babe591c09495bef8564c5bcb462",
+                    "shasum": ""
+                },
+                "time": "2025-08-11T15:44:28+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/961--feat-accessible-date-picker"
+                }
+            },
             "dev-961-date-filter-buttons": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-961-date-filter-buttons",
@@ -13205,7 +13230,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/964-photoswipe-is-not-working-archived-photos"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/961--feat-accessible-date-picker"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
