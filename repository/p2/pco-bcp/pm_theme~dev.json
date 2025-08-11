@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "3a3e6297f5c457f4f863d6e2db984b0d9cd038f9"
+                    "reference": "679e2ea46fce12f6b55d1f04d933529d9907f815"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3a3e6297f5c457f4f863d6e2db984b0d9cd038f9",
-                    "reference": "3a3e6297f5c457f4f863d6e2db984b0d9cd038f9",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/679e2ea46fce12f6b55d1f04d933529d9907f815",
+                    "reference": "679e2ea46fce12f6b55d1f04d933529d9907f815",
                     "shasum": ""
                 },
-                "time": "2025-08-07T15:12:17+00:00",
+                "time": "2025-08-11T12:32:24+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.8"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.x"
                 }
             },
             {
@@ -525,31 +525,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/946-small-padding-on-translation"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-956--change-link-color-content-articles",
-                "version_normalized": "dev-956--change-link-color-content-articles",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "73f670efa60f3304675a5e41f5374dbc0834a9d3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/73f670efa60f3304675a5e41f5374dbc0834a9d3",
-                    "reference": "73f670efa60f3304675a5e41f5374dbc0834a9d3",
-                    "shasum": ""
-                },
-                "time": "2025-08-10T16:16:41+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/956--change-link-color-content-articles"
                 }
             },
             {
