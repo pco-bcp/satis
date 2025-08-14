@@ -11187,15 +11187,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "ad276b29a2a532ce0f4fb394f71e4313724a2606"
+                    "reference": "21ce95b3406d53e8051e6fb9aceb36bd6fabfe7b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/ad276b29a2a532ce0f4fb394f71e4313724a2606",
-                    "reference": "ad276b29a2a532ce0f4fb394f71e4313724a2606",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/21ce95b3406d53e8051e6fb9aceb36bd6fabfe7b",
+                    "reference": "21ce95b3406d53e8051e6fb9aceb36bd6fabfe7b",
                     "shasum": ""
                 },
-                "time": "2025-08-14T02:19:07+00:00",
+                "time": "2025-08-14T02:26:59+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
