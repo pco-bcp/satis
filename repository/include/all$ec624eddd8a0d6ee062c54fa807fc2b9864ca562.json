@@ -11205,6 +11205,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/922--update-video-transcript-mobile"
                 }
             },
+            "dev-943-keep-pm-on-top": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-943-keep-pm-on-top",
+                "version_normalized": "dev-943-keep-pm-on-top",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "56dcb49fd507b65d9b590b0f935986ef852fb0c5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/56dcb49fd507b65d9b590b0f935986ef852fb0c5",
+                    "reference": "56dcb49fd507b65d9b590b0f935986ef852fb0c5",
+                    "shasum": ""
+                },
+                "time": "2025-08-14T18:46:47+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/943-keep-pm-on-top"
+                }
+            },
             "dev-99-es6-conversion-for-pm_photo": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
