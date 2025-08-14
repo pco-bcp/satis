@@ -2782,6 +2782,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
                 }
+            },
+            "dev-969-d3-integration": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-969-d3-integration",
+                "version_normalized": "dev-969-d3-integration",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "e05c13a584887d433a2a7fa8a9bb20ed895f8d0f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/e05c13a584887d433a2a7fa8a9bb20ed895f8d0f",
+                    "reference": "e05c13a584887d433a2a7fa8a9bb20ed895f8d0f",
+                    "shasum": ""
+                },
+                "time": "2025-08-14T20:44:55+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/969-d3-integration"
+                }
             }
         },
         "pco-bcp/pco_cities": {
