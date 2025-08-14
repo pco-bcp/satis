@@ -13083,6 +13083,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
                 }
             },
+            "dev-943--fix-minister-views": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-943--fix-minister-views",
+                "version_normalized": "dev-943--fix-minister-views",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "dc9a69fcfcfffb22accc6c20f2cd68a96633fb1a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/dc9a69fcfcfffb22accc6c20f2cd68a96633fb1a",
+                    "reference": "dc9a69fcfcfffb22accc6c20f2cd68a96633fb1a",
+                    "shasum": ""
+                },
+                "time": "2025-08-14T15:20:40+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/943--fix-minister-views"
+                }
+            },
             "dev-946-small-padding-on-translation": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-946-small-padding-on-translation",
