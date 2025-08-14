@@ -10686,15 +10686,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "5898ca7623745c2d500b9c6b5b8288a96e236cbf"
+                    "reference": "005baafeb6eb4a4cdf94f12f33de18c89908e588"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5898ca7623745c2d500b9c6b5b8288a96e236cbf",
-                    "reference": "5898ca7623745c2d500b9c6b5b8288a96e236cbf",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/005baafeb6eb4a4cdf94f12f33de18c89908e588",
+                    "reference": "005baafeb6eb4a4cdf94f12f33de18c89908e588",
                     "shasum": ""
                 },
-                "time": "2025-08-13T13:24:46+00:00",
+                "time": "2025-08-14T13:42:00+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11178,31 +11178,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/922--update-video-transcript-mobile"
-                }
-            },
-            "dev-961--feat-accessible-date-picker-for-photo-view": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-961--feat-accessible-date-picker-for-photo-view",
-                "version_normalized": "dev-961--feat-accessible-date-picker-for-photo-view",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "66c62f0392989fb8a251c6cb333e705d86db1241"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/66c62f0392989fb8a251c6cb333e705d86db1241",
-                    "reference": "66c62f0392989fb8a251c6cb333e705d86db1241",
-                    "shasum": ""
-                },
-                "time": "2025-08-14T13:32:45+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/961--feat-accessible-date-picker-for-photo-view"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
@@ -12689,15 +12664,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d184934ddded234677980708d94da19fe3817ce7"
+                    "reference": "06f9b75b981c370a60bcab4c4874086e6a17c0f4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d184934ddded234677980708d94da19fe3817ce7",
-                    "reference": "d184934ddded234677980708d94da19fe3817ce7",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/06f9b75b981c370a60bcab4c4874086e6a17c0f4",
+                    "reference": "06f9b75b981c370a60bcab4c4874086e6a17c0f4",
                     "shasum": ""
                 },
-                "time": "2025-08-11T16:59:16+00:00",
+                "time": "2025-08-14T13:42:05+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13131,31 +13106,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/946-small-padding-on-translation"
-                }
-            },
-            "dev-961--feat-accessible-date-picker": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-961--feat-accessible-date-picker",
-                "version_normalized": "dev-961--feat-accessible-date-picker",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e03444bd37ad2b8394c67cb6f2d18cbe0d869ec8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e03444bd37ad2b8394c67cb6f2d18cbe0d869ec8",
-                    "reference": "e03444bd37ad2b8394c67cb6f2d18cbe0d869ec8",
-                    "shasum": ""
-                },
-                "time": "2025-08-11T22:08:44+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/961--feat-accessible-date-picker"
                 }
             },
             "dev-961-date-filter-buttons": {

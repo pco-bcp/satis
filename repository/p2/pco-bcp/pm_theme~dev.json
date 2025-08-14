@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d184934ddded234677980708d94da19fe3817ce7"
+                    "reference": "06f9b75b981c370a60bcab4c4874086e6a17c0f4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d184934ddded234677980708d94da19fe3817ce7",
-                    "reference": "d184934ddded234677980708d94da19fe3817ce7",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/06f9b75b981c370a60bcab4c4874086e6a17c0f4",
+                    "reference": "06f9b75b981c370a60bcab4c4874086e6a17c0f4",
                     "shasum": ""
                 },
-                "time": "2025-08-11T16:59:16+00:00",
+                "time": "2025-08-14T13:42:05+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -500,31 +500,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/946-small-padding-on-translation"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-961--feat-accessible-date-picker",
-                "version_normalized": "dev-961--feat-accessible-date-picker",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e03444bd37ad2b8394c67cb6f2d18cbe0d869ec8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e03444bd37ad2b8394c67cb6f2d18cbe0d869ec8",
-                    "reference": "e03444bd37ad2b8394c67cb6f2d18cbe0d869ec8",
-                    "shasum": ""
-                },
-                "time": "2025-08-11T22:08:44+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/961--feat-accessible-date-picker"
                 }
             },
             {
