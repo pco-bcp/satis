@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "005baafeb6eb4a4cdf94f12f33de18c89908e588"
+                    "reference": "8e250b2ea1cdf64422d4d8f8dfea70c02d734b29"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/005baafeb6eb4a4cdf94f12f33de18c89908e588",
-                    "reference": "005baafeb6eb4a4cdf94f12f33de18c89908e588",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8e250b2ea1cdf64422d4d8f8dfea70c02d734b29",
+                    "reference": "8e250b2ea1cdf64422d4d8f8dfea70c02d734b29",
                     "shasum": ""
                 },
-                "time": "2025-08-14T13:42:00+00:00",
+                "time": "2025-08-15T11:56:11+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -575,31 +575,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/922--update-video-transcript-mobile"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-943-keep-pm-on-top",
-                "version_normalized": "dev-943-keep-pm-on-top",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "c9773bff44e7dce9c16d42bfdad17a83a6e13c51"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c9773bff44e7dce9c16d42bfdad17a83a6e13c51",
-                    "reference": "c9773bff44e7dce9c16d42bfdad17a83a6e13c51",
-                    "shasum": ""
-                },
-                "time": "2025-08-14T19:38:30+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/943-keep-pm-on-top"
                 }
             },
             {
