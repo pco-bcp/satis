@@ -504,6 +504,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-943--fix-ministry-pages",
+                "version_normalized": "dev-943--fix-ministry-pages",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e400513f691f738806c2f3c7a9ac9b8fa0d21df8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e400513f691f738806c2f3c7a9ac9b8fa0d21df8",
+                    "reference": "e400513f691f738806c2f3c7a9ac9b8fa0d21df8",
+                    "shasum": ""
+                },
+                "time": "2025-08-15T10:49:31+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/943--fix-ministry-pages"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-946-small-padding-on-translation",
                 "version_normalized": "dev-946-small-padding-on-translation",
                 "source": {
