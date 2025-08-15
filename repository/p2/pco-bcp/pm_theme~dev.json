@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "06f9b75b981c370a60bcab4c4874086e6a17c0f4"
+                    "reference": "9963e1df6857e690aed6ff4c2a5dff88811cabd9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/06f9b75b981c370a60bcab4c4874086e6a17c0f4",
-                    "reference": "06f9b75b981c370a60bcab4c4874086e6a17c0f4",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9963e1df6857e690aed6ff4c2a5dff88811cabd9",
+                    "reference": "9963e1df6857e690aed6ff4c2a5dff88811cabd9",
                     "shasum": ""
                 },
-                "time": "2025-08-14T13:42:05+00:00",
+                "time": "2025-08-15T12:12:24+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -479,56 +479,6 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
-                "version": "dev-943--fix-minister-views",
-                "version_normalized": "dev-943--fix-minister-views",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "99af4f27e2630f716d400f61d2cf6248d10d89a0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/99af4f27e2630f716d400f61d2cf6248d10d89a0",
-                    "reference": "99af4f27e2630f716d400f61d2cf6248d10d89a0",
-                    "shasum": ""
-                },
-                "time": "2025-08-15T12:10:06+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/943--fix-minister-views"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-943--fix-ministry-pages",
-                "version_normalized": "dev-943--fix-ministry-pages",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e400513f691f738806c2f3c7a9ac9b8fa0d21df8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e400513f691f738806c2f3c7a9ac9b8fa0d21df8",
-                    "reference": "e400513f691f738806c2f3c7a9ac9b8fa0d21df8",
-                    "shasum": ""
-                },
-                "time": "2025-08-15T10:49:31+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/943--fix-ministry-pages"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
                 "version": "dev-946-small-padding-on-translation",
                 "version_normalized": "dev-946-small-padding-on-translation",
                 "source": {
@@ -625,6 +575,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/date-released-twig-display-timezone-2023-09-05"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-fix--console-error-pmmisnister.js",
+                "version_normalized": "dev-fix--console-error-pmmisnister.js",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "93db5346b962f7ebc64c4447469a723a7ad27e03"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/93db5346b962f7ebc64c4447469a723a7ad27e03",
+                    "reference": "93db5346b962f7ebc64c4447469a723a7ad27e03",
+                    "shasum": ""
+                },
+                "time": "2025-08-15T13:05:20+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/fix--console-error-pmmisnister.js"
                 }
             },
             {
