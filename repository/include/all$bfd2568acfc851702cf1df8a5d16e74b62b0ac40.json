@@ -11205,6 +11205,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/922--update-video-transcript-mobile"
                 }
             },
+            "dev-968-fix-thumbs-for-old-pgs-2025-08-15": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-968-fix-thumbs-for-old-pgs-2025-08-15",
+                "version_normalized": "dev-968-fix-thumbs-for-old-pgs-2025-08-15",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "45d9f140622af8fbfb977436dea9ca2cf0b383bb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/45d9f140622af8fbfb977436dea9ca2cf0b383bb",
+                    "reference": "45d9f140622af8fbfb977436dea9ca2cf0b383bb",
+                    "shasum": ""
+                },
+                "time": "2025-08-15T13:08:20+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/968-fix-thumbs-for-old-pgs-2025-08-15"
+                }
+            },
             "dev-99-es6-conversion-for-pm_photo": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
