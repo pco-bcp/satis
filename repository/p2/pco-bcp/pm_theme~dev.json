@@ -554,6 +554,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-965--foix-css-blockquote-footer-archived-news",
+                "version_normalized": "dev-965--foix-css-blockquote-footer-archived-news",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "9827161cdc0308179b34f69904f0bca45316cd7a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9827161cdc0308179b34f69904f0bca45316cd7a",
+                    "reference": "9827161cdc0308179b34f69904f0bca45316cd7a",
+                    "shasum": ""
+                },
+                "time": "2025-08-18T13:57:33+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/965--foix-css-blockquote-footer-archived-news"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
