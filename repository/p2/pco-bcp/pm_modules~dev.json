@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "925b46b8daaf23feb5cf880761979cd93740546a"
+                    "reference": "8819f65ac39231adc983f0d08470f4091b81f58c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/925b46b8daaf23feb5cf880761979cd93740546a",
-                    "reference": "925b46b8daaf23feb5cf880761979cd93740546a",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8819f65ac39231adc983f0d08470f4091b81f58c",
+                    "reference": "8819f65ac39231adc983f0d08470f4091b81f58c",
                     "shasum": ""
                 },
-                "time": "2025-08-15T13:39:42+00:00",
+                "time": "2025-08-18T14:32:23+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.8"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.x"
                 }
             },
             {
@@ -550,31 +550,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/922--update-video-transcript-mobile"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-973-minor-warning-fix-2025-08-18",
-                "version_normalized": "dev-973-minor-warning-fix-2025-08-18",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "d7e7e0efa9a7999b1f1121b1bb4b6c7a2158f0db"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d7e7e0efa9a7999b1f1121b1bb4b6c7a2158f0db",
-                    "reference": "d7e7e0efa9a7999b1f1121b1bb4b6c7a2158f0db",
-                    "shasum": ""
-                },
-                "time": "2025-08-18T14:06:28+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/973-minor-warning-fix-2025-08-18"
                 }
             },
             {
