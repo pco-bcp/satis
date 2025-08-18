@@ -11255,6 +11255,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/922--update-video-transcript-mobile"
                 }
             },
+            "dev-973-minor-warning-fix-2025-08-18": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-973-minor-warning-fix-2025-08-18",
+                "version_normalized": "dev-973-minor-warning-fix-2025-08-18",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "d7e7e0efa9a7999b1f1121b1bb4b6c7a2158f0db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d7e7e0efa9a7999b1f1121b1bb4b6c7a2158f0db",
+                    "reference": "d7e7e0efa9a7999b1f1121b1bb4b6c7a2158f0db",
+                    "shasum": ""
+                },
+                "time": "2025-08-18T14:06:28+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/973-minor-warning-fix-2025-08-18"
+                }
+            },
             "dev-99-es6-conversion-for-pm_photo": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
