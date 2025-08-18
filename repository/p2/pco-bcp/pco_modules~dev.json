@@ -83,15 +83,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "2e6ca103f83641424fb485829a82d3a3614e69d0"
+                    "reference": "1dd87a59f42eb42c1629de3fab50786846218da1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2e6ca103f83641424fb485829a82d3a3614e69d0",
-                    "reference": "2e6ca103f83641424fb485829a82d3a3614e69d0",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/1dd87a59f42eb42c1629de3fab50786846218da1",
+                    "reference": "1dd87a59f42eb42c1629de3fab50786846218da1",
                     "shasum": ""
                 },
-                "time": "2025-07-31T13:42:08+00:00",
+                "time": "2025-08-18T12:22:16+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -99,7 +99,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.1.7"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.1.x"
                 }
             },
             {
@@ -525,31 +525,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-972--fix-greetings-form-dropdown",
-                "version_normalized": "dev-972--fix-greetings-form-dropdown",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "64f94b943ab189a2418c013bbc8278245f509e1b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/64f94b943ab189a2418c013bbc8278245f509e1b",
-                    "reference": "64f94b943ab189a2418c013bbc8278245f509e1b",
-                    "shasum": ""
-                },
-                "time": "2025-08-18T12:13:21+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/972--fix-greetings-form-dropdown"
                 }
             },
             {

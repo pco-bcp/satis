@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "355ba305f4f156fefdedff2a25cebedc5d771156"
+                    "reference": "b74d719d991bf8034e4027053e46bf27ffafe426"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/355ba305f4f156fefdedff2a25cebedc5d771156",
-                    "reference": "355ba305f4f156fefdedff2a25cebedc5d771156",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b74d719d991bf8034e4027053e46bf27ffafe426",
+                    "reference": "b74d719d991bf8034e4027053e46bf27ffafe426",
                     "shasum": ""
                 },
-                "time": "2025-08-15T13:17:06+00:00",
+                "time": "2025-08-18T12:23:39+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.9"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.x"
                 }
             },
             {
@@ -550,31 +550,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/964-photoswipe-is-not-working-archived-photos"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-972--fix-greetings-form-dropdown",
-                "version_normalized": "dev-972--fix-greetings-form-dropdown",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "bc6a64c5f384a0bcb78cf0b0eba7f1a712b97575"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/bc6a64c5f384a0bcb78cf0b0eba7f1a712b97575",
-                    "reference": "bc6a64c5f384a0bcb78cf0b0eba7f1a712b97575",
-                    "shasum": ""
-                },
-                "time": "2025-08-16T18:06:04+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/972--fix-greetings-form-dropdown"
                 }
             },
             {
