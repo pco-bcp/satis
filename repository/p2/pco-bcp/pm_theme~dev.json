@@ -479,6 +479,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-943--fix-css-title-bolded-ministers-page-desktop",
+                "version_normalized": "dev-943--fix-css-title-bolded-ministers-page-desktop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "6512da0c88f433af55d0cadb9d7f294921a87bd1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6512da0c88f433af55d0cadb9d7f294921a87bd1",
+                    "reference": "6512da0c88f433af55d0cadb9d7f294921a87bd1",
+                    "shasum": ""
+                },
+                "time": "2025-08-19T18:02:06+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/943--fix-css-title-bolded-ministers-page-desktop"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-946-small-padding-on-translation",
                 "version_normalized": "dev-946-small-padding-on-translation",
                 "source": {
