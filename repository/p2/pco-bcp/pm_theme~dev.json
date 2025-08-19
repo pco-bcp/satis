@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b74d719d991bf8034e4027053e46bf27ffafe426"
+                    "reference": "a7654f9c4970b5bebbcf40c7da86daca36a7088f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b74d719d991bf8034e4027053e46bf27ffafe426",
-                    "reference": "b74d719d991bf8034e4027053e46bf27ffafe426",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a7654f9c4970b5bebbcf40c7da86daca36a7088f",
+                    "reference": "a7654f9c4970b5bebbcf40c7da86daca36a7088f",
                     "shasum": ""
                 },
-                "time": "2025-08-18T12:23:39+00:00",
+                "time": "2025-08-19T18:29:41+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -475,31 +475,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-943--fix-css-title-bolded-ministers-page-desktop",
-                "version_normalized": "dev-943--fix-css-title-bolded-ministers-page-desktop",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "6512da0c88f433af55d0cadb9d7f294921a87bd1"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6512da0c88f433af55d0cadb9d7f294921a87bd1",
-                    "reference": "6512da0c88f433af55d0cadb9d7f294921a87bd1",
-                    "shasum": ""
-                },
-                "time": "2025-08-19T18:02:06+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/943--fix-css-title-bolded-ministers-page-desktop"
                 }
             },
             {
