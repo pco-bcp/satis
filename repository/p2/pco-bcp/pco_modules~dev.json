@@ -529,6 +529,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-975--fix-metatag-tagged-photo-with-noindex-nofollow",
+                "version_normalized": "dev-975--fix-metatag-tagged-photo-with-noindex-nofollow",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "a223351da737fab724e76f6a81dd4c5515606c38"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a223351da737fab724e76f6a81dd4c5515606c38",
+                    "reference": "a223351da737fab724e76f6a81dd4c5515606c38",
+                    "shasum": ""
+                },
+                "time": "2025-08-20T16:45:38+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/975--fix-metatag-tagged-photo-with-noindex-nofollow"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {
