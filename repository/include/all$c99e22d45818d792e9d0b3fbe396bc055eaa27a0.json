@@ -2857,6 +2857,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/978--fix-wgi-text-contrast-2025-08-20"
                 }
+            },
+            "dev-980--fix-nav-labels": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-980--fix-nav-labels",
+                "version_normalized": "dev-980--fix-nav-labels",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "7f0c9862b1fa0229fb5af7da19ed6dbe9ec9cd76"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/7f0c9862b1fa0229fb5af7da19ed6dbe9ec9cd76",
+                    "reference": "7f0c9862b1fa0229fb5af7da19ed6dbe9ec9cd76",
+                    "shasum": ""
+                },
+                "time": "2025-08-20T18:26:54+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/980--fix-nav-labels"
+                }
             }
         },
         "pco-bcp/pco_cities": {
