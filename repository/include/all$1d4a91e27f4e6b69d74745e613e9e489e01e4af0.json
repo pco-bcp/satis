@@ -2882,6 +2882,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/980--fix-nav-labels"
                 }
+            },
+            "dev-981--fix-menu-keyboard-accessible-2025-08-21": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-981--fix-menu-keyboard-accessible-2025-08-21",
+                "version_normalized": "dev-981--fix-menu-keyboard-accessible-2025-08-21",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "1623bd2fc719a6cd6af1f1489ed1bd80a712e4e1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/1623bd2fc719a6cd6af1f1489ed1bd80a712e4e1",
+                    "reference": "1623bd2fc719a6cd6af1f1489ed1bd80a712e4e1",
+                    "shasum": ""
+                },
+                "time": "2025-08-21T17:18:52+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/981--fix-menu-keyboard-accessible-2025-08-21"
+                }
             }
         },
         "pco-bcp/pco_cities": {
