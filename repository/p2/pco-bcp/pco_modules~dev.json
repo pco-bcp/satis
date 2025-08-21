@@ -99,7 +99,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.1.x"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.1.8"
                 }
             },
             {
