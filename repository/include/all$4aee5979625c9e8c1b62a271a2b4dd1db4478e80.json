@@ -10936,15 +10936,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "a73bfea3d70fcd8c06ac9b466738a55be30f2ec1"
+                    "reference": "9ac220fe8d076cb873d8be410afa6fa3b08bf8d2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a73bfea3d70fcd8c06ac9b466738a55be30f2ec1",
-                    "reference": "a73bfea3d70fcd8c06ac9b466738a55be30f2ec1",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9ac220fe8d076cb873d8be410afa6fa3b08bf8d2",
+                    "reference": "9ac220fe8d076cb873d8be410afa6fa3b08bf8d2",
                     "shasum": ""
                 },
-                "time": "2025-08-20T19:54:56+00:00",
+                "time": "2025-08-21T18:00:24+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10952,7 +10952,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.9"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.x"
                 }
             },
             "4.x-dev": {
@@ -13506,6 +13506,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/965--foix-css-blockquote-footer-archived-news"
+                }
+            },
+            "dev-976--fix-css-photo-left-alignement-in-ministry-page": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-976--fix-css-photo-left-alignement-in-ministry-page",
+                "version_normalized": "dev-976--fix-css-photo-left-alignement-in-ministry-page",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "2bdc5abe401e67d4adfa0e903747359bcc9f6d28"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2bdc5abe401e67d4adfa0e903747359bcc9f6d28",
+                    "reference": "2bdc5abe401e67d4adfa0e903747359bcc9f6d28",
+                    "shasum": ""
+                },
+                "time": "2025-08-22T18:06:36+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/976--fix-css-photo-left-alignement-in-ministry-page"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
