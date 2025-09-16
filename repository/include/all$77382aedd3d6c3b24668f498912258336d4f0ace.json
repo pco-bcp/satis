@@ -11455,6 +11455,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/986--fix-aria-label-and-title-attributes-fr-translation-for-photoswipe-buttons"
                 }
             },
+            "dev-989-add-filtering-options-to-PG-2025-09-15": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-989-add-filtering-options-to-PG-2025-09-15",
+                "version_normalized": "dev-989-add-filtering-options-to-PG-2025-09-15",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "767847dcdc5fe8d701b43af161a6375777d66f23"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/767847dcdc5fe8d701b43af161a6375777d66f23",
+                    "reference": "767847dcdc5fe8d701b43af161a6375777d66f23",
+                    "shasum": ""
+                },
+                "time": "2025-09-16T14:22:35+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/989-add-filtering-options-to-PG-2025-09-15"
+                }
+            },
             "dev-99-es6-conversion-for-pm_photo": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
