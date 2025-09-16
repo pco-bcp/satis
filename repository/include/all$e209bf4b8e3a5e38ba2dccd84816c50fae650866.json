@@ -10936,15 +10936,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "9ac220fe8d076cb873d8be410afa6fa3b08bf8d2"
+                    "reference": "a780a3f13f450e43ca3254d788ebe06c94affc61"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9ac220fe8d076cb873d8be410afa6fa3b08bf8d2",
-                    "reference": "9ac220fe8d076cb873d8be410afa6fa3b08bf8d2",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a780a3f13f450e43ca3254d788ebe06c94affc61",
+                    "reference": "a780a3f13f450e43ca3254d788ebe06c94affc61",
                     "shasum": ""
                 },
-                "time": "2025-08-21T18:00:24+00:00",
+                "time": "2025-09-16T15:24:05+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11403,31 +11403,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-922--update-video-transcript-mobile": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-922--update-video-transcript-mobile",
-                "version_normalized": "dev-922--update-video-transcript-mobile",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "184ef40771728a38561d93325707dc816ef8f5ce"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/184ef40771728a38561d93325707dc816ef8f5ce",
-                    "reference": "184ef40771728a38561d93325707dc816ef8f5ce",
-                    "shasum": ""
-                },
-                "time": "2025-07-21T14:24:07+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/922--update-video-transcript-mobile"
                 }
             },
             "dev-986--fix-aria-label-and-title-attributes-fr-translation-for-photoswipe-buttons": {
