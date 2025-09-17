@@ -10936,15 +10936,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "a780a3f13f450e43ca3254d788ebe06c94affc61"
+                    "reference": "c50ec833f5e0eb39380ea02486a26e87fd555184"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a780a3f13f450e43ca3254d788ebe06c94affc61",
-                    "reference": "a780a3f13f450e43ca3254d788ebe06c94affc61",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c50ec833f5e0eb39380ea02486a26e87fd555184",
+                    "reference": "c50ec833f5e0eb39380ea02486a26e87fd555184",
                     "shasum": ""
                 },
-                "time": "2025-09-16T15:24:05+00:00",
+                "time": "2025-09-17T18:13:14+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11478,31 +11478,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/99-es6-conversion-for-pm_photo"
-                }
-            },
-            "dev-991-change-filter-behaviour-2025-09-12": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-991-change-filter-behaviour-2025-09-12",
-                "version_normalized": "dev-991-change-filter-behaviour-2025-09-12",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "f8d1168dd2d35fe0c1e8854d8e6163b776c16162"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f8d1168dd2d35fe0c1e8854d8e6163b776c16162",
-                    "reference": "f8d1168dd2d35fe0c1e8854d8e6163b776c16162",
-                    "shasum": ""
-                },
-                "time": "2025-09-15T14:55:59+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/991-change-filter-behaviour-2025-09-12"
                 }
             },
             "dev-995-photoswipe-lang-variable": {
