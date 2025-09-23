@@ -9627,6 +9627,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
                 }
             },
+            "dev-999-email-font-size": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-999-email-font-size",
+                "version_normalized": "dev-999-email-font-size",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "7a2ea5759adea5bad9744afc029ce698bc55df4c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7a2ea5759adea5bad9744afc029ce698bc55df4c",
+                    "reference": "7a2ea5759adea5bad9744afc029ce698bc55df4c",
+                    "shasum": ""
+                },
+                "time": "2025-09-23T14:41:18+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/999-email-font-size"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
