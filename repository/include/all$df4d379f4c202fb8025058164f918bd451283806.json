@@ -9183,15 +9183,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "22bd5710f66be7b1e1836d242561ab6cc91fff1f"
+                    "reference": "4b6d820766c45885f830cb987fbc21fc0e43a72d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/22bd5710f66be7b1e1836d242561ab6cc91fff1f",
-                    "reference": "22bd5710f66be7b1e1836d242561ab6cc91fff1f",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4b6d820766c45885f830cb987fbc21fc0e43a72d",
+                    "reference": "4b6d820766c45885f830cb987fbc21fc0e43a72d",
                     "shasum": ""
                 },
-                "time": "2025-08-21T17:11:23+00:00",
+                "time": "2025-09-25T15:07:28+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -9625,31 +9625,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
-                }
-            },
-            "dev-999-email-font-size": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-999-email-font-size",
-                "version_normalized": "dev-999-email-font-size",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "7a2ea5759adea5bad9744afc029ce698bc55df4c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7a2ea5759adea5bad9744afc029ce698bc55df4c",
-                    "reference": "7a2ea5759adea5bad9744afc029ce698bc55df4c",
-                    "shasum": ""
-                },
-                "time": "2025-09-23T14:41:18+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/999-email-font-size"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
@@ -13556,6 +13531,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/964-photoswipe-is-not-working-archived-photos"
+                }
+            },
+            "dev-971-fix-footer-tag-in-article-nodes-2025-09-25": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-971-fix-footer-tag-in-article-nodes-2025-09-25",
+                "version_normalized": "dev-971-fix-footer-tag-in-article-nodes-2025-09-25",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "5194624dd5ad60d3447414feed372e1d39aea9c3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5194624dd5ad60d3447414feed372e1d39aea9c3",
+                    "reference": "5194624dd5ad60d3447414feed372e1d39aea9c3",
+                    "shasum": ""
+                },
+                "time": "2025-09-25T18:15:33+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/971-fix-footer-tag-in-article-nodes-2025-09-25"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {

@@ -554,6 +554,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-971-fix-footer-tag-in-article-nodes-2025-09-25",
+                "version_normalized": "dev-971-fix-footer-tag-in-article-nodes-2025-09-25",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "5194624dd5ad60d3447414feed372e1d39aea9c3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5194624dd5ad60d3447414feed372e1d39aea9c3",
+                    "reference": "5194624dd5ad60d3447414feed372e1d39aea9c3",
+                    "shasum": ""
+                },
+                "time": "2025-09-25T18:15:33+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/971-fix-footer-tag-in-article-nodes-2025-09-25"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
