@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "c50ec833f5e0eb39380ea02486a26e87fd555184"
+                    "reference": "575068d727f8f96a5931973c0da98cb60e309cd4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c50ec833f5e0eb39380ea02486a26e87fd555184",
-                    "reference": "c50ec833f5e0eb39380ea02486a26e87fd555184",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/575068d727f8f96a5931973c0da98cb60e309cd4",
+                    "reference": "575068d727f8f96a5931973c0da98cb60e309cd4",
                     "shasum": ""
                 },
-                "time": "2025-09-17T18:13:14+00:00",
+                "time": "2025-09-26T17:04:10+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -550,31 +550,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/986--fix-aria-label-and-title-attributes-fr-translation-for-photoswipe-buttons"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-989-add-filtering-options-to-PG-2025-09-15",
-                "version_normalized": "dev-989-add-filtering-options-to-PG-2025-09-15",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "398a456bd5f8a121c22302da5c33ab6daa8a5d86"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/398a456bd5f8a121c22302da5c33ab6daa8a5d86",
-                    "reference": "398a456bd5f8a121c22302da5c33ab6daa8a5d86",
-                    "shasum": ""
-                },
-                "time": "2025-09-25T15:04:57+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/989-add-filtering-options-to-PG-2025-09-15"
                 }
             },
             {
