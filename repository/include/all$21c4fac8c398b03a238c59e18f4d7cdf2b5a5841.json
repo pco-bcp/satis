@@ -13039,15 +13039,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "742e7a8587def66c9c756f8b0035eac4ba21c51e"
+                    "reference": "871d6b7681ba10d1bdea149d3dbe1ae94ad503db"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/742e7a8587def66c9c756f8b0035eac4ba21c51e",
-                    "reference": "742e7a8587def66c9c756f8b0035eac4ba21c51e",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/871d6b7681ba10d1bdea149d3dbe1ae94ad503db",
+                    "reference": "871d6b7681ba10d1bdea149d3dbe1ae94ad503db",
                     "shasum": ""
                 },
-                "time": "2025-09-17T15:26:46+00:00",
+                "time": "2025-09-26T16:47:20+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13531,31 +13531,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/964-photoswipe-is-not-working-archived-photos"
-                }
-            },
-            "dev-971-fix-footer-tag-in-article-nodes-2025-09-25": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-971-fix-footer-tag-in-article-nodes-2025-09-25",
-                "version_normalized": "dev-971-fix-footer-tag-in-article-nodes-2025-09-25",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a458f0f28624293a2784a2d0ce73e423dc1fa79d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a458f0f28624293a2784a2d0ce73e423dc1fa79d",
-                    "reference": "a458f0f28624293a2784a2d0ce73e423dc1fa79d",
-                    "shasum": ""
-                },
-                "time": "2025-09-25T19:10:02+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/971-fix-footer-tag-in-article-nodes-2025-09-25"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
