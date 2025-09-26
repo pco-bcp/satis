@@ -11405,6 +11405,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/880-line-up-3-column-news-items-2025-06-12"
                 }
             },
+            "dev-988-news-view-page-strip-anchor-tags": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-988-news-view-page-strip-anchor-tags",
+                "version_normalized": "dev-988-news-view-page-strip-anchor-tags",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "2b10a75d436493d0f118e9ed08542ba708d71eb1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2b10a75d436493d0f118e9ed08542ba708d71eb1",
+                    "reference": "2b10a75d436493d0f118e9ed08542ba708d71eb1",
+                    "shasum": ""
+                },
+                "time": "2025-09-26T19:30:47+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/988-news-view-page-strip-anchor-tags"
+                }
+            },
             "dev-99-es6-conversion-for-pm_photo": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
