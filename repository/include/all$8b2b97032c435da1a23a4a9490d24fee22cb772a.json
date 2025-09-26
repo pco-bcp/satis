@@ -10936,15 +10936,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "575068d727f8f96a5931973c0da98cb60e309cd4"
+                    "reference": "1d86adf30b8609f1a2dc8b2430904d7d4d821d18"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/575068d727f8f96a5931973c0da98cb60e309cd4",
-                    "reference": "575068d727f8f96a5931973c0da98cb60e309cd4",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1d86adf30b8609f1a2dc8b2430904d7d4d821d18",
+                    "reference": "1d86adf30b8609f1a2dc8b2430904d7d4d821d18",
                     "shasum": ""
                 },
-                "time": "2025-09-26T17:04:10+00:00",
+                "time": "2025-09-26T17:19:06+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11403,31 +11403,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/880-line-up-3-column-news-items-2025-06-12"
-                }
-            },
-            "dev-986--fix-aria-label-and-title-attributes-fr-translation-for-photoswipe-buttons": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-986--fix-aria-label-and-title-attributes-fr-translation-for-photoswipe-buttons",
-                "version_normalized": "dev-986--fix-aria-label-and-title-attributes-fr-translation-for-photoswipe-buttons",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "4cc986d864cf89b7d2681e684e5ee28a857d8779"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4cc986d864cf89b7d2681e684e5ee28a857d8779",
-                    "reference": "4cc986d864cf89b7d2681e684e5ee28a857d8779",
-                    "shasum": ""
-                },
-                "time": "2025-08-22T19:53:59+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/986--fix-aria-label-and-title-attributes-fr-translation-for-photoswipe-buttons"
                 }
             },
             "dev-99-es6-conversion-for-pm_photo": {
