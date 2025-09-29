@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "871d6b7681ba10d1bdea149d3dbe1ae94ad503db"
+                    "reference": "f1aa8709324e3b93a67b06e0af686a9c42aa68bb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/871d6b7681ba10d1bdea149d3dbe1ae94ad503db",
-                    "reference": "871d6b7681ba10d1bdea149d3dbe1ae94ad503db",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f1aa8709324e3b93a67b06e0af686a9c42aa68bb",
+                    "reference": "f1aa8709324e3b93a67b06e0af686a9c42aa68bb",
                     "shasum": ""
                 },
-                "time": "2025-09-26T16:47:20+00:00",
+                "time": "2025-09-29T14:22:51+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -500,31 +500,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/946-small-padding-on-translation"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-957--update-parent-menu-button-mobile-2025-09-26",
-                "version_normalized": "dev-957--update-parent-menu-button-mobile-2025-09-26",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "6fd6984e5be628cf9e0fceb92228a1655a9ca338"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6fd6984e5be628cf9e0fceb92228a1655a9ca338",
-                    "reference": "6fd6984e5be628cf9e0fceb92228a1655a9ca338",
-                    "shasum": ""
-                },
-                "time": "2025-09-29T14:13:54+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/957--update-parent-menu-button-mobile-2025-09-26"
                 }
             },
             {
