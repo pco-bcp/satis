@@ -10936,15 +10936,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "183c71fa843aa7d82ed6df52dadb05623076d87c"
+                    "reference": "4ab2b9cd4777fce480f8dc6d16829953b78800f8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/183c71fa843aa7d82ed6df52dadb05623076d87c",
-                    "reference": "183c71fa843aa7d82ed6df52dadb05623076d87c",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4ab2b9cd4777fce480f8dc6d16829953b78800f8",
+                    "reference": "4ab2b9cd4777fce480f8dc6d16829953b78800f8",
                     "shasum": ""
                 },
-                "time": "2025-09-29T13:03:02+00:00",
+                "time": "2025-09-29T18:52:10+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -10978,31 +10978,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.0"
-                }
-            },
-            "dev-1010-fix-photoswipe-pre-load-issue-2025-09-26": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1010-fix-photoswipe-pre-load-issue-2025-09-26",
-                "version_normalized": "dev-1010-fix-photoswipe-pre-load-issue-2025-09-26",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "038136826b5913f2b952987c8d29693a55ac132c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/038136826b5913f2b952987c8d29693a55ac132c",
-                    "reference": "038136826b5913f2b952987c8d29693a55ac132c",
-                    "shasum": ""
-                },
-                "time": "2025-09-29T18:25:51+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1010-fix-photoswipe-pre-load-issue-2025-09-26"
                 }
             },
             "dev-222--pm-cron-d-check": {
