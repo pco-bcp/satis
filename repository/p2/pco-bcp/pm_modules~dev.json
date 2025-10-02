@@ -554,6 +554,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-989-enhancements-2025-10-02",
+                "version_normalized": "dev-989-enhancements-2025-10-02",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "c5181cb49cb33030034c9c4496e7bce3410b5d2f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c5181cb49cb33030034c9c4496e7bce3410b5d2f",
+                    "reference": "c5181cb49cb33030034c9c4496e7bce3410b5d2f",
+                    "shasum": ""
+                },
+                "time": "2025-10-02T13:44:11+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/989-enhancements-2025-10-02"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-99-es6-conversion-for-pm_photo",
                 "version_normalized": "dev-99-es6-conversion-for-pm_photo",
                 "source": {
