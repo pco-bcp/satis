@@ -208,15 +208,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "b3c604a5a3e2d9b7e11f1096576264707e9769d5"
+                    "reference": "c6c6502202907f0a70a612a7d4abca7228794cf1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/b3c604a5a3e2d9b7e11f1096576264707e9769d5",
-                    "reference": "b3c604a5a3e2d9b7e11f1096576264707e9769d5",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/c6c6502202907f0a70a612a7d4abca7228794cf1",
+                    "reference": "c6c6502202907f0a70a612a7d4abca7228794cf1",
                     "shasum": ""
                 },
-                "time": "2025-10-03T18:35:13+00:00",
+                "time": "2025-10-03T18:46:48+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -575,31 +575,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
-                }
-            },
-            {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-978--fix-wgi-text-contrast-2025-08-20",
-                "version_normalized": "dev-978--fix-wgi-text-contrast-2025-08-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "2e1baaff2778e31169e48a91928b3036d0cb2300"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/2e1baaff2778e31169e48a91928b3036d0cb2300",
-                    "reference": "2e1baaff2778e31169e48a91928b3036d0cb2300",
-                    "shasum": ""
-                },
-                "time": "2025-08-20T12:51:23+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/978--fix-wgi-text-contrast-2025-08-20"
                 }
             },
             {
