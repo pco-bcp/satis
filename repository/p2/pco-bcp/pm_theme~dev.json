@@ -554,6 +554,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-994--fix-special-characters-font",
+                "version_normalized": "dev-994--fix-special-characters-font",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "f4c592a13b01952a3de1121d9d36bd453cffa622"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f4c592a13b01952a3de1121d9d36bd453cffa622",
+                    "reference": "f4c592a13b01952a3de1121d9d36bd453cffa622",
+                    "shasum": ""
+                },
+                "time": "2025-10-03T13:02:35+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/994--fix-special-characters-font"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-date-released-twig-display-timezone-2023-09-05",
                 "version_normalized": "dev-date-released-twig-display-timezone-2023-09-05",
                 "source": {
