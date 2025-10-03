@@ -11011,15 +11011,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "16b468e88999327c2e6a62f2c3206fc27cdd38bf"
+                    "reference": "d26289a8034c262e320ede4b709c259deaeb51f8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/16b468e88999327c2e6a62f2c3206fc27cdd38bf",
-                    "reference": "16b468e88999327c2e6a62f2c3206fc27cdd38bf",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d26289a8034c262e320ede4b709c259deaeb51f8",
+                    "reference": "d26289a8034c262e320ede4b709c259deaeb51f8",
                     "shasum": ""
                 },
-                "time": "2025-10-02T19:23:09+00:00",
+                "time": "2025-10-03T17:27:50+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11027,7 +11027,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.11"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.x"
                 }
             },
             "4.x-dev": {
@@ -11603,31 +11603,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/fix-align-covid-and-ukraine-fields-same_row-2023-08-16"
-                }
-            },
-            "dev-fix-duplicated-published-popup-window": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-fix-duplicated-published-popup-window",
-                "version_normalized": "dev-fix-duplicated-published-popup-window",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "839328a06800c38afbf2b9321309db6c753d7344"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/839328a06800c38afbf2b9321309db6c753d7344",
-                    "reference": "839328a06800c38afbf2b9321309db6c753d7344",
-                    "shasum": ""
-                },
-                "time": "2025-10-03T16:46:15+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix-duplicated-published-popup-window"
                 }
             },
             "dev-pco-bcp/pm_modules--update-pm-modules-constraints": {
