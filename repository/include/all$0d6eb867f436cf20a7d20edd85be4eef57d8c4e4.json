@@ -2439,15 +2439,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "50635d2d0c232b8df9a2673b2bada91dfb7b31a8"
+                    "reference": "b3c604a5a3e2d9b7e11f1096576264707e9769d5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/50635d2d0c232b8df9a2673b2bada91dfb7b31a8",
-                    "reference": "50635d2d0c232b8df9a2673b2bada91dfb7b31a8",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/b3c604a5a3e2d9b7e11f1096576264707e9769d5",
+                    "reference": "b3c604a5a3e2d9b7e11f1096576264707e9769d5",
                     "shasum": ""
                 },
-                "time": "2025-08-20T17:57:33+00:00",
+                "time": "2025-10-03T18:35:13+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -2455,7 +2455,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.6"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/5.4.x-3.1.x"
                 }
             },
             "dev-524--fix-wcag-contrast-of-text-against-bg-2024-10-21": {
@@ -2806,31 +2806,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
-                }
-            },
-            "dev-977--fix-wwu-button-contrast-2025-08-19": {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-977--fix-wwu-button-contrast-2025-08-19",
-                "version_normalized": "dev-977--fix-wwu-button-contrast-2025-08-19",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "173264f5a39ea85655a5838e7eb58ff4472b82ae"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/173264f5a39ea85655a5838e7eb58ff4472b82ae",
-                    "reference": "173264f5a39ea85655a5838e7eb58ff4472b82ae",
-                    "shasum": ""
-                },
-                "time": "2025-08-19T20:13:13+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/977--fix-wwu-button-contrast-2025-08-19"
                 }
             },
             "dev-978--fix-wgi-text-contrast-2025-08-20": {
