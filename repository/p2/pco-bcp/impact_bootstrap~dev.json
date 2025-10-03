@@ -208,15 +208,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "a5da0d82182ca5cd28f9f355d1a34198dfbf0885"
+                    "reference": "f2acdfd1eb0313d52f4c86bd383179ca25059bda"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/a5da0d82182ca5cd28f9f355d1a34198dfbf0885",
-                    "reference": "a5da0d82182ca5cd28f9f355d1a34198dfbf0885",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/f2acdfd1eb0313d52f4c86bd383179ca25059bda",
+                    "reference": "f2acdfd1eb0313d52f4c86bd383179ca25059bda",
                     "shasum": ""
                 },
-                "time": "2025-10-03T19:24:51+00:00",
+                "time": "2025-10-03T19:34:02+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -575,31 +575,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
-                }
-            },
-            {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-981--fix-menu-keyboard-accessible-2025-08-21",
-                "version_normalized": "dev-981--fix-menu-keyboard-accessible-2025-08-21",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "f57249a095d0b3ebac9dab37a9103e8982784630"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/f57249a095d0b3ebac9dab37a9103e8982784630",
-                    "reference": "f57249a095d0b3ebac9dab37a9103e8982784630",
-                    "shasum": ""
-                },
-                "time": "2025-08-21T17:40:20+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/981--fix-menu-keyboard-accessible-2025-08-21"
                 }
             },
             {
