@@ -208,15 +208,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "c6c6502202907f0a70a612a7d4abca7228794cf1"
+                    "reference": "a5da0d82182ca5cd28f9f355d1a34198dfbf0885"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/c6c6502202907f0a70a612a7d4abca7228794cf1",
-                    "reference": "c6c6502202907f0a70a612a7d4abca7228794cf1",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/a5da0d82182ca5cd28f9f355d1a34198dfbf0885",
+                    "reference": "a5da0d82182ca5cd28f9f355d1a34198dfbf0885",
                     "shasum": ""
                 },
-                "time": "2025-10-03T18:46:48+00:00",
+                "time": "2025-10-03T19:24:51+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -575,31 +575,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
-                }
-            },
-            {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-980--fix-nav-labels",
-                "version_normalized": "dev-980--fix-nav-labels",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "7f0c9862b1fa0229fb5af7da19ed6dbe9ec9cd76"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/7f0c9862b1fa0229fb5af7da19ed6dbe9ec9cd76",
-                    "reference": "7f0c9862b1fa0229fb5af7da19ed6dbe9ec9cd76",
-                    "shasum": ""
-                },
-                "time": "2025-08-20T18:26:54+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/980--fix-nav-labels"
                 }
             },
             {
