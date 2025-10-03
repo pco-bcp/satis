@@ -654,6 +654,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-fix-duplicated-published-popup-window",
+                "version_normalized": "dev-fix-duplicated-published-popup-window",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "839328a06800c38afbf2b9321309db6c753d7344"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/839328a06800c38afbf2b9321309db6c753d7344",
+                    "reference": "839328a06800c38afbf2b9321309db6c753d7344",
+                    "shasum": ""
+                },
+                "time": "2025-10-03T16:46:15+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix-duplicated-published-popup-window"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-pco-bcp/pm_modules--update-pm-modules-constraints",
                 "version_normalized": "dev-pco-bcp/pm_modules--update-pm-modules-constraints",
                 "source": {
