@@ -2439,15 +2439,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "f2acdfd1eb0313d52f4c86bd383179ca25059bda"
+                    "reference": "8a480a04bf5fe0c72755878dccac2d1b373486e2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/f2acdfd1eb0313d52f4c86bd383179ca25059bda",
-                    "reference": "f2acdfd1eb0313d52f4c86bd383179ca25059bda",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/8a480a04bf5fe0c72755878dccac2d1b373486e2",
+                    "reference": "8a480a04bf5fe0c72755878dccac2d1b373486e2",
                     "shasum": ""
                 },
-                "time": "2025-10-03T19:34:02+00:00",
+                "time": "2025-10-03T19:41:45+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -2806,31 +2806,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
-                }
-            },
-            "dev-983--fix-focus-visible": {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-983--fix-focus-visible",
-                "version_normalized": "dev-983--fix-focus-visible",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "230d98f24d144632e552b8c2fc62d139dbbec748"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/230d98f24d144632e552b8c2fc62d139dbbec748",
-                    "reference": "230d98f24d144632e552b8c2fc62d139dbbec748",
-                    "shasum": ""
-                },
-                "time": "2025-08-21T17:44:40+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/983--fix-focus-visible"
                 }
             }
         },
