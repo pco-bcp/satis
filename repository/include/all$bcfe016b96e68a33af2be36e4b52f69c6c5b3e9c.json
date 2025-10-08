@@ -9240,6 +9240,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/4.1.1"
                 }
             },
+            "dev-1025-listserv-font-size-16": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-1025-listserv-font-size-16",
+                "version_normalized": "dev-1025-listserv-font-size-16",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "a63970725488acb2dc2c666b7d0a8546ea7f611f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a63970725488acb2dc2c666b7d0a8546ea7f611f",
+                    "reference": "a63970725488acb2dc2c666b7d0a8546ea7f611f",
+                    "shasum": ""
+                },
+                "time": "2025-10-08T19:37:43+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1025-listserv-font-size-16"
+                }
+            },
             "dev-222-citation-d-check-fixes-2024-03-27": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-222-citation-d-check-fixes-2024-03-27",
