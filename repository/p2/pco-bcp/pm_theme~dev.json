@@ -104,6 +104,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-1029-css-hotfix-about-page",
+                "version_normalized": "dev-1029-css-hotfix-about-page",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "06c0c6d6aec85152f1fd2e2baca0169b8c557ef8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/06c0c6d6aec85152f1fd2e2baca0169b8c557ef8",
+                    "reference": "06c0c6d6aec85152f1fd2e2baca0169b8c557ef8",
+                    "shasum": ""
+                },
+                "time": "2025-10-09T20:20:40+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1029-css-hotfix-about-page"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "version_normalized": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "source": {
