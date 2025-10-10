@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "f1aa8709324e3b93a67b06e0af686a9c42aa68bb"
+                    "reference": "d4c9b10d4caaac66588275cd058335fda9f8622f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f1aa8709324e3b93a67b06e0af686a9c42aa68bb",
-                    "reference": "f1aa8709324e3b93a67b06e0af686a9c42aa68bb",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d4c9b10d4caaac66588275cd058335fda9f8622f",
+                    "reference": "d4c9b10d4caaac66588275cd058335fda9f8622f",
                     "shasum": ""
                 },
-                "time": "2025-09-29T14:22:51+00:00",
+                "time": "2025-10-10T15:02:53+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.12"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.x"
                 }
             },
             {
@@ -100,31 +100,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/4.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1029-css-hotfix-about-page",
-                "version_normalized": "dev-1029-css-hotfix-about-page",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "5ae5e681ef7e1dcb7498b26e62c430cb53699b9e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5ae5e681ef7e1dcb7498b26e62c430cb53699b9e",
-                    "reference": "5ae5e681ef7e1dcb7498b26e62c430cb53699b9e",
-                    "shasum": ""
-                },
-                "time": "2025-10-10T14:47:32+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1029-css-hotfix-about-page"
                 }
             },
             {
