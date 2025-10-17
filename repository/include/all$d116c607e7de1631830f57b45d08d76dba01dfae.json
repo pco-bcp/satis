@@ -13102,15 +13102,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d4c9b10d4caaac66588275cd058335fda9f8622f"
+                    "reference": "e17c004290bb51b20c51296f1c429e3ae7213106"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d4c9b10d4caaac66588275cd058335fda9f8622f",
-                    "reference": "d4c9b10d4caaac66588275cd058335fda9f8622f",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e17c004290bb51b20c51296f1c429e3ae7213106",
+                    "reference": "e17c004290bb51b20c51296f1c429e3ae7213106",
                     "shasum": ""
                 },
-                "time": "2025-10-10T15:02:53+00:00",
+                "time": "2025-10-17T16:05:13+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13594,31 +13594,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/964-photoswipe-is-not-working-archived-photos"
-                }
-            },
-            "dev-994--fix-special-characters-font": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-994--fix-special-characters-font",
-                "version_normalized": "dev-994--fix-special-characters-font",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "f4c592a13b01952a3de1121d9d36bd453cffa622"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/f4c592a13b01952a3de1121d9d36bd453cffa622",
-                    "reference": "f4c592a13b01952a3de1121d9d36bd453cffa622",
-                    "shasum": ""
-                },
-                "time": "2025-10-03T13:02:35+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/994--fix-special-characters-font"
                 }
             },
             "dev-date-released-twig-display-timezone-2023-09-05": {
