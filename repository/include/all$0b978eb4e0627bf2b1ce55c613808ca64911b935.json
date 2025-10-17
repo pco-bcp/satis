@@ -10999,15 +10999,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "d26289a8034c262e320ede4b709c259deaeb51f8"
+                    "reference": "04e83d3debe5e2daee8436b56000b278497c797e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d26289a8034c262e320ede4b709c259deaeb51f8",
-                    "reference": "d26289a8034c262e320ede4b709c259deaeb51f8",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/04e83d3debe5e2daee8436b56000b278497c797e",
+                    "reference": "04e83d3debe5e2daee8436b56000b278497c797e",
                     "shasum": ""
                 },
-                "time": "2025-10-03T17:27:50+00:00",
+                "time": "2025-10-17T15:42:00+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11066,31 +11066,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1012-change-alt-des-fields-PG-2025-10-01"
-                }
-            },
-            "dev-1019-combine-filters": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1019-combine-filters",
-                "version_normalized": "dev-1019-combine-filters",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "3313bb2a2701fd63a130d9a5768d4eeb5849d97f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3313bb2a2701fd63a130d9a5768d4eeb5849d97f",
-                    "reference": "3313bb2a2701fd63a130d9a5768d4eeb5849d97f",
-                    "shasum": ""
-                },
-                "time": "2025-10-17T15:10:00+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1019-combine-filters"
                 }
             },
             "dev-222--pm-cron-d-check": {
