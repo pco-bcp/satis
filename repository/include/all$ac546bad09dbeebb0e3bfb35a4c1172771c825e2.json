@@ -11143,6 +11143,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1019-fix-alt-in-PG-search-2025-10-20"
                 }
             },
+            "dev-1022--upgrade-to-php-8.2-8.3": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1022--upgrade-to-php-8.2-8.3",
+                "version_normalized": "dev-1022--upgrade-to-php-8.2-8.3",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "7314b9c93262e93827067204f9e5330871b85274"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7314b9c93262e93827067204f9e5330871b85274",
+                    "reference": "7314b9c93262e93827067204f9e5330871b85274",
+                    "shasum": ""
+                },
+                "time": "2025-10-20T19:10:52+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1022--upgrade-to-php-8.2-8.3"
+                }
+            },
             "dev-222--pm-cron-d-check": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
