@@ -104,6 +104,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-1024--update-Telephone-label-on-PM-forms",
+                "version_normalized": "dev-1024--update-Telephone-label-on-PM-forms",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "8adee4a62ef8c75288c171642c5409437a656405"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8adee4a62ef8c75288c171642c5409437a656405",
+                    "reference": "8adee4a62ef8c75288c171642c5409437a656405",
+                    "shasum": ""
+                },
+                "time": "2025-10-23T18:52:36+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1024--update-Telephone-label-on-PM-forms"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "version_normalized": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "source": {
