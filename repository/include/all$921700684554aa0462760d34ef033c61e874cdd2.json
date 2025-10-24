@@ -13271,6 +13271,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/4.x"
                 }
             },
+            "dev-1024--fix-telephone-format-to-not-split-on-small-devices": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-1024--fix-telephone-format-to-not-split-on-small-devices",
+                "version_normalized": "dev-1024--fix-telephone-format-to-not-split-on-small-devices",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e6d865669cfb675aba4de1a9e20eae6c94f29f50"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e6d865669cfb675aba4de1a9e20eae6c94f29f50",
+                    "reference": "e6d865669cfb675aba4de1a9e20eae6c94f29f50",
+                    "shasum": ""
+                },
+                "time": "2025-10-24T13:52:56+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1024--fix-telephone-format-to-not-split-on-small-devices"
+                }
+            },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
