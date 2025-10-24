@@ -11168,6 +11168,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1022--upgrade-to-php-8.2-8.3"
                 }
             },
+            "dev-1032--upgrade-assignment-field-length": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1032--upgrade-assignment-field-length",
+                "version_normalized": "dev-1032--upgrade-assignment-field-length",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "1dbcdf35d43ce120b012092cabd88526041e59ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1dbcdf35d43ce120b012092cabd88526041e59ab",
+                    "reference": "1dbcdf35d43ce120b012092cabd88526041e59ab",
+                    "shasum": ""
+                },
+                "time": "2025-10-24T15:06:34+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1032--upgrade-assignment-field-length"
+                }
+            },
             "dev-222--pm-cron-d-check": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
@@ -13227,15 +13252,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "6467c857dad8d130c711968cbbd41aa810cc1741"
+                    "reference": "ae3c85af2319ac250954c245a51d66f8733a6972"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6467c857dad8d130c711968cbbd41aa810cc1741",
-                    "reference": "6467c857dad8d130c711968cbbd41aa810cc1741",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ae3c85af2319ac250954c245a51d66f8733a6972",
+                    "reference": "ae3c85af2319ac250954c245a51d66f8733a6972",
                     "shasum": ""
                 },
-                "time": "2025-10-24T13:04:25+00:00",
+                "time": "2025-10-24T15:38:56+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13271,29 +13296,29 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/4.x"
                 }
             },
-            "dev-1024--fix-telephone-format-to-not-split-on-small-devices": {
+            "dev-1032--upgrade-assignment-field-length": {
                 "name": "pco-bcp/pm_theme",
-                "version": "dev-1024--fix-telephone-format-to-not-split-on-small-devices",
-                "version_normalized": "dev-1024--fix-telephone-format-to-not-split-on-small-devices",
+                "version": "dev-1032--upgrade-assignment-field-length",
+                "version_normalized": "dev-1032--upgrade-assignment-field-length",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e6d865669cfb675aba4de1a9e20eae6c94f29f50"
+                    "reference": "a0dcd5b6350711269a80924aa1cc8b0fac6f6478"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e6d865669cfb675aba4de1a9e20eae6c94f29f50",
-                    "reference": "e6d865669cfb675aba4de1a9e20eae6c94f29f50",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a0dcd5b6350711269a80924aa1cc8b0fac6f6478",
+                    "reference": "a0dcd5b6350711269a80924aa1cc8b0fac6f6478",
                     "shasum": ""
                 },
-                "time": "2025-10-24T13:52:56+00:00",
+                "time": "2025-10-24T15:37:05+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1024--fix-telephone-format-to-not-split-on-small-devices"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1032--upgrade-assignment-field-length"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
