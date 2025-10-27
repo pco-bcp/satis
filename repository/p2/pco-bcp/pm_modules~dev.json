@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "1489fff54b29660fec719fc98291a91ef3dbf929"
+                    "reference": "b964ae2bcb22333511650835401571918a11fa64"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1489fff54b29660fec719fc98291a91ef3dbf929",
-                    "reference": "1489fff54b29660fec719fc98291a91ef3dbf929",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b964ae2bcb22333511650835401571918a11fa64",
+                    "reference": "b964ae2bcb22333511650835401571918a11fa64",
                     "shasum": ""
                 },
-                "time": "2025-10-24T17:41:23+00:00",
+                "time": "2025-10-27T12:44:58+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -125,31 +125,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1012-change-alt-des-fields-PG-2025-10-01"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1019-fix-alt-in-PG-search-2025-10-20",
-                "version_normalized": "dev-1019-fix-alt-in-PG-search-2025-10-20",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "39f8849ad37218c1963eb56554e1bc104e326ca6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/39f8849ad37218c1963eb56554e1bc104e326ca6",
-                    "reference": "39f8849ad37218c1963eb56554e1bc104e326ca6",
-                    "shasum": ""
-                },
-                "time": "2025-10-23T17:10:57+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1019-fix-alt-in-PG-search-2025-10-20"
                 }
             },
             {
