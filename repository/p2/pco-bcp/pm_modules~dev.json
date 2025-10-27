@@ -129,6 +129,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1019-css-changes",
+                "version_normalized": "dev-1019-css-changes",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "57adea55f7cbb690b7855b15cc1be3050cfaf88c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/57adea55f7cbb690b7855b15cc1be3050cfaf88c",
+                    "reference": "57adea55f7cbb690b7855b15cc1be3050cfaf88c",
+                    "shasum": ""
+                },
+                "time": "2025-10-27T15:50:57+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1019-css-changes"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1022--upgrade-to-php-8.2-8.3",
                 "version_normalized": "dev-1022--upgrade-to-php-8.2-8.3",
                 "source": {
