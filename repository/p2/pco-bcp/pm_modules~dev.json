@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "b964ae2bcb22333511650835401571918a11fa64"
+                    "reference": "ccb7b18ba4a42b9e8a441f0f2cde19926054f66d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b964ae2bcb22333511650835401571918a11fa64",
-                    "reference": "b964ae2bcb22333511650835401571918a11fa64",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/ccb7b18ba4a42b9e8a441f0f2cde19926054f66d",
+                    "reference": "ccb7b18ba4a42b9e8a441f0f2cde19926054f66d",
                     "shasum": ""
                 },
-                "time": "2025-10-27T12:44:58+00:00",
+                "time": "2025-10-27T16:44:16+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -125,31 +125,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1012-change-alt-des-fields-PG-2025-10-01"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1019-css-changes",
-                "version_normalized": "dev-1019-css-changes",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "87503bdb9963441170b76ea0fc97c96a85edeaca"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/87503bdb9963441170b76ea0fc97c96a85edeaca",
-                    "reference": "87503bdb9963441170b76ea0fc97c96a85edeaca",
-                    "shasum": ""
-                },
-                "time": "2025-10-27T16:39:40+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1019-css-changes"
                 }
             },
             {
