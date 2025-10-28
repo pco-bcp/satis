@@ -654,6 +654,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-fix--arrow-caracter-drupal-message-2025-10-28",
+                "version_normalized": "dev-fix--arrow-caracter-drupal-message-2025-10-28",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "e1c0dc3631a9396814fd9dccb6641288452b86d1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e1c0dc3631a9396814fd9dccb6641288452b86d1",
+                    "reference": "e1c0dc3631a9396814fd9dccb6641288452b86d1",
+                    "shasum": ""
+                },
+                "time": "2025-10-28T18:19:36+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix--arrow-caracter-drupal-message-2025-10-28"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-fix--update-pm_cron-to-point-to-pco_subscribe-2023-08-03",
                 "version_normalized": "dev-fix--update-pm_cron-to-point-to-pco_subscribe-2023-08-03",
                 "source": {
