@@ -529,6 +529,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-974--fix-apostrophe-language-name-2025-10-29",
+                "version_normalized": "dev-974--fix-apostrophe-language-name-2025-10-29",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "19e84188d716babda6909023edf94a0e6a6e5f11"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/19e84188d716babda6909023edf94a0e6a6e5f11",
+                    "reference": "19e84188d716babda6909023edf94a0e6a6e5f11",
+                    "shasum": ""
+                },
+                "time": "2025-10-29T14:30:07+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/974--fix-apostrophe-language-name-2025-10-29"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {

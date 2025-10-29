@@ -9690,6 +9690,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
                 }
             },
+            "dev-974--fix-apostrophe-language-name-2025-10-29": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-974--fix-apostrophe-language-name-2025-10-29",
+                "version_normalized": "dev-974--fix-apostrophe-language-name-2025-10-29",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "19e84188d716babda6909023edf94a0e6a6e5f11"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/19e84188d716babda6909023edf94a0e6a6e5f11",
+                    "reference": "19e84188d716babda6909023edf94a0e6a6e5f11",
+                    "shasum": ""
+                },
+                "time": "2025-10-29T14:30:07+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/974--fix-apostrophe-language-name-2025-10-29"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
@@ -11175,15 +11200,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "5f82d68f43142d163d439ec565f6880cd80c8810"
+                    "reference": "21e24af086dad4eaa3ba670547d38a0464278e49"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5f82d68f43142d163d439ec565f6880cd80c8810",
-                    "reference": "5f82d68f43142d163d439ec565f6880cd80c8810",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/21e24af086dad4eaa3ba670547d38a0464278e49",
+                    "reference": "21e24af086dad4eaa3ba670547d38a0464278e49",
                     "shasum": ""
                 },
-                "time": "2025-10-29T14:15:49+00:00",
+                "time": "2025-10-29T14:30:56+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
