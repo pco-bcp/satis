@@ -9246,15 +9246,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a0d7c753e28f27c167ceba4b1c087ca78adb62f1"
+                    "reference": "2563b136877c86be03df0baec85998b1fac27983"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a0d7c753e28f27c167ceba4b1c087ca78adb62f1",
-                    "reference": "a0d7c753e28f27c167ceba4b1c087ca78adb62f1",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2563b136877c86be03df0baec85998b1fac27983",
+                    "reference": "2563b136877c86be03df0baec85998b1fac27983",
                     "shasum": ""
                 },
-                "time": "2025-10-24T12:59:08+00:00",
+                "time": "2025-10-29T13:44:09+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -9262,7 +9262,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.1.11"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.1.x"
                 }
             },
             "4.x-dev": {
@@ -9688,31 +9688,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
-                }
-            },
-            "dev-974-adding-HTML-comment-for-Inuktitut-language-name-in-the-title": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-974-adding-HTML-comment-for-Inuktitut-language-name-in-the-title",
-                "version_normalized": "dev-974-adding-HTML-comment-for-Inuktitut-language-name-in-the-title",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "fb03f04a53e34b835d357325f15bc8a6c9372874"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/fb03f04a53e34b835d357325f15bc8a6c9372874",
-                    "reference": "fb03f04a53e34b835d357325f15bc8a6c9372874",
-                    "shasum": ""
-                },
-                "time": "2025-10-29T12:52:15+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/974-adding-HTML-comment-for-Inuktitut-language-name-in-the-title"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
