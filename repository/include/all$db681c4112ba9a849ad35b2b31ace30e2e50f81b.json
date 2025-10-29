@@ -13346,6 +13346,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/4.x"
                 }
             },
+            "dev-1046--fix-spacing-between-field-on-all-mobile-PM-forms": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-1046--fix-spacing-between-field-on-all-mobile-PM-forms",
+                "version_normalized": "dev-1046--fix-spacing-between-field-on-all-mobile-PM-forms",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "dbbf994b4b51c257d9eb47395208f850fd5df436"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/dbbf994b4b51c257d9eb47395208f850fd5df436",
+                    "reference": "dbbf994b4b51c257d9eb47395208f850fd5df436",
+                    "shasum": ""
+                },
+                "time": "2025-10-29T19:09:14+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1046--fix-spacing-between-field-on-all-mobile-PM-forms"
+                }
+            },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
