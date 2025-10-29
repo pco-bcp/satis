@@ -9246,15 +9246,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "2563b136877c86be03df0baec85998b1fac27983"
+                    "reference": "7d949217bf1a2c5ec006e490d963af83816dfa4c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2563b136877c86be03df0baec85998b1fac27983",
-                    "reference": "2563b136877c86be03df0baec85998b1fac27983",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7d949217bf1a2c5ec006e490d963af83816dfa4c",
+                    "reference": "7d949217bf1a2c5ec006e490d963af83816dfa4c",
                     "shasum": ""
                 },
-                "time": "2025-10-29T13:44:09+00:00",
+                "time": "2025-10-29T17:23:41+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -9688,31 +9688,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
-                }
-            },
-            "dev-974--fix-apostrophe-language-name-2025-10-29": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-974--fix-apostrophe-language-name-2025-10-29",
-                "version_normalized": "dev-974--fix-apostrophe-language-name-2025-10-29",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "65c71af2306ab4299abb562f734c91ce426a4ef3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/65c71af2306ab4299abb562f734c91ce426a4ef3",
-                    "reference": "65c71af2306ab4299abb562f734c91ce426a4ef3",
-                    "shasum": ""
-                },
-                "time": "2025-10-29T16:30:34+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/974--fix-apostrophe-language-name-2025-10-29"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
