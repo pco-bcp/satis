@@ -179,6 +179,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1026--fix-pm-video-thumbnails",
+                "version_normalized": "dev-1026--fix-pm-video-thumbnails",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "ef89018b533bceaf716581735862c2293ca78995"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/ef89018b533bceaf716581735862c2293ca78995",
+                    "reference": "ef89018b533bceaf716581735862c2293ca78995",
+                    "shasum": ""
+                },
+                "time": "2025-10-31T18:24:31+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1026--fix-pm-video-thumbnails"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {
