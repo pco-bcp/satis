@@ -204,6 +204,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1047-accessibility-fixes-for-PG",
+                "version_normalized": "dev-1047-accessibility-fixes-for-PG",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "34ddec973418d0b2fe4cd0040a4cc1406415ae0c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/34ddec973418d0b2fe4cd0040a4cc1406415ae0c",
+                    "reference": "34ddec973418d0b2fe4cd0040a4cc1406415ae0c",
+                    "shasum": ""
+                },
+                "time": "2025-11-04T15:20:16+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1047-accessibility-fixes-for-PG"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {
