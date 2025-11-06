@@ -129,6 +129,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-1047-accessibility-fixes-for-PG",
+                "version_normalized": "dev-1047-accessibility-fixes-for-PG",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "4b3c65cd6b8efc2c1041820130907e4be1d446b2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4b3c65cd6b8efc2c1041820130907e4be1d446b2",
+                    "reference": "4b3c65cd6b8efc2c1041820130907e4be1d446b2",
+                    "shasum": ""
+                },
+                "time": "2025-11-06T16:10:14+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1047-accessibility-fixes-for-PG"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "version_normalized": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "source": {
