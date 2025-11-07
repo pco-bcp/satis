@@ -254,6 +254,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1050--update-d11-constraint-version-to-custom-modules",
+                "version_normalized": "dev-1050--update-d11-constraint-version-to-custom-modules",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "2f7cfde805acf2669d40808bd51544df2a0a0dd2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2f7cfde805acf2669d40808bd51544df2a0a0dd2",
+                    "reference": "2f7cfde805acf2669d40808bd51544df2a0a0dd2",
+                    "shasum": ""
+                },
+                "time": "2025-11-07T18:59:16+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1050--update-d11-constraint-version-to-custom-modules"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {
