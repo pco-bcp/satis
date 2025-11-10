@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "6852bf7e4cbc02ef9be4fef2d2935d1f76f703a2"
+                    "reference": "847b60d64868ab0f60d24a77203ea03f1dd3f96e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/6852bf7e4cbc02ef9be4fef2d2935d1f76f703a2",
-                    "reference": "6852bf7e4cbc02ef9be4fef2d2935d1f76f703a2",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/847b60d64868ab0f60d24a77203ea03f1dd3f96e",
+                    "reference": "847b60d64868ab0f60d24a77203ea03f1dd3f96e",
                     "shasum": ""
                 },
                 "require": {
@@ -82,7 +82,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2025-11-08T16:35:52+00:00",
+                "time": "2025-11-09T20:25:15+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
@@ -181,17 +181,17 @@
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",
-                "version": "dev-1052-update-emailtfa-module",
-                "version_normalized": "dev-1052-update-emailtfa-module",
+                "version": "dev-1054-evalportal-updates",
+                "version_normalized": "dev-1054-evalportal-updates",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "1508b1fba8e3f2492d93c3500f08c01a20e15d5e"
+                    "reference": "6bb81531e570c5cea542ad158e20a6f5dc065632"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/1508b1fba8e3f2492d93c3500f08c01a20e15d5e",
-                    "reference": "1508b1fba8e3f2492d93c3500f08c01a20e15d5e",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/6bb81531e570c5cea542ad158e20a6f5dc065632",
+                    "reference": "6bb81531e570c5cea542ad158e20a6f5dc065632",
                     "shasum": ""
                 },
                 "require": {
@@ -260,7 +260,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2025-11-07T22:20:35+00:00",
+                "time": "2025-11-09T20:23:06+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
@@ -323,6 +323,9 @@
                         },
                         "drupal/security_review": {
                             "3338061; no longer needed for D10 compat version 3.0.0; remove in D10": "https://www.drupal.org/files/issues/2023-06-16/hush-known-risky-extensions-3338061-3.patch"
+                        },
+                        "drupal/email_tfa": {
+                            "Login issue pco-bcp/issues#748": "custom_patches/0001-Issue-3475043-Fallback-to-default-process-when-TFA-r.patch"
                         }
                     },
                     "patches-ignore": {
@@ -351,7 +354,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1052-update-emailtfa-module"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1054-evalportal-updates"
                 }
             },
             {
@@ -5018,12 +5021,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "bc3023d9679a72709db549194b46db3ae86aabda"
+                    "reference": "079be76c090b1a8b9a0e9550ceef422956a8a1b3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/bc3023d9679a72709db549194b46db3ae86aabda",
-                    "reference": "bc3023d9679a72709db549194b46db3ae86aabda",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/079be76c090b1a8b9a0e9550ceef422956a8a1b3",
+                    "reference": "079be76c090b1a8b9a0e9550ceef422956a8a1b3",
                     "shasum": ""
                 },
                 "require": {
@@ -5092,7 +5095,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2025-10-16T20:45:29+00:00",
+                "time": "2025-11-10T13:50:53+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -5156,9 +5159,6 @@
                         },
                         "drupal/security_review": {
                             "3338061; no longer needed for D10 compat version 3.0.0; remove in D10": "https://www.drupal.org/files/issues/2023-06-16/hush-known-risky-extensions-3338061-3.patch"
-                        },
-                        "drupal/email_tfa": {
-                            "Login issue pco-bcp/issues#748": "custom_patches/0001-Issue-3475043-Fallback-to-default-process-when-TFA-r.patch"
                         }
                     },
                     "patches-ignore": {
@@ -5187,7 +5187,7 @@
                 ],
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/3.1.22"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/5.4.x-3.1.x"
                 }
             },
             {

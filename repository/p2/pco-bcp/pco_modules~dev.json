@@ -179,6 +179,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-1050--update-custom-modules-with-D11-constraints",
+                "version_normalized": "dev-1050--update-custom-modules-with-D11-constraints",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "44a1eaab94902a3c4d9243f3d3118f546634c68a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/44a1eaab94902a3c4d9243f3d3118f546634c68a",
+                    "reference": "44a1eaab94902a3c4d9243f3d3118f546634c68a",
+                    "shasum": ""
+                },
+                "time": "2025-11-10T14:00:13+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1050--update-custom-modules-with-D11-constraints"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-222-citation-d-check-fixes-2024-03-27",
                 "version_normalized": "dev-222-citation-d-check-fixes-2024-03-27",
                 "source": {
