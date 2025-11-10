@@ -6610,18 +6610,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "c03464fa5518e91200fbb25bfd752fcfdc06fcdd"
+                    "reference": "374a845c8e1cdd79774b73ece4223da2699e9330"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/c03464fa5518e91200fbb25bfd752fcfdc06fcdd",
-                    "reference": "c03464fa5518e91200fbb25bfd752fcfdc06fcdd",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/374a845c8e1cdd79774b73ece4223da2699e9330",
+                    "reference": "374a845c8e1cdd79774b73ece4223da2699e9330",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "5.4.1"
                 },
-                "time": "2025-11-09T20:17:16+00:00",
+                "time": "2025-11-10T14:56:39+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -9385,22 +9385,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "7d949217bf1a2c5ec006e490d963af83816dfa4c"
+                    "reference": "5a9934ecf5621ef450e3a930c8faa85a387ebf04"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7d949217bf1a2c5ec006e490d963af83816dfa4c",
-                    "reference": "7d949217bf1a2c5ec006e490d963af83816dfa4c",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/5a9934ecf5621ef450e3a930c8faa85a387ebf04",
+                    "reference": "5a9934ecf5621ef450e3a930c8faa85a387ebf04",
                     "shasum": ""
                 },
-                "time": "2025-10-29T17:23:41+00:00",
+                "time": "2025-11-10T14:03:37+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/4.1.x"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.x"
                 }
             },
             "dev-1022-pcomodules-rector-dcheck": {
@@ -9426,31 +9426,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1022-pcomodules-rector-dcheck"
-                }
-            },
-            "dev-1050--update-custom-modules-with-D11-constraints": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-1050--update-custom-modules-with-D11-constraints",
-                "version_normalized": "dev-1050--update-custom-modules-with-D11-constraints",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "44a1eaab94902a3c4d9243f3d3118f546634c68a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/44a1eaab94902a3c4d9243f3d3118f546634c68a",
-                    "reference": "44a1eaab94902a3c4d9243f3d3118f546634c68a",
-                    "shasum": ""
-                },
-                "time": "2025-11-10T14:00:13+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1050--update-custom-modules-with-D11-constraints"
                 }
             },
             "dev-222-citation-d-check-fixes-2024-03-27": {
@@ -37109,12 +37084,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "847b60d64868ab0f60d24a77203ea03f1dd3f96e"
+                    "reference": "307def1db96f5385029e8a0e03061a37d3289952"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/847b60d64868ab0f60d24a77203ea03f1dd3f96e",
-                    "reference": "847b60d64868ab0f60d24a77203ea03f1dd3f96e",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/307def1db96f5385029e8a0e03061a37d3289952",
+                    "reference": "307def1db96f5385029e8a0e03061a37d3289952",
                     "shasum": ""
                 },
                 "require": {
@@ -37183,7 +37158,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2025-11-09T20:25:15+00:00",
+                "time": "2025-11-10T14:42:12+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
