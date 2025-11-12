@@ -109,15 +109,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2af1b07fa85d63f3002e3724ee0ab096947d068e"
+                    "reference": "fdcad2d7bdcdb8f96387944dbbcf20baf96f0b4d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2af1b07fa85d63f3002e3724ee0ab096947d068e",
-                    "reference": "2af1b07fa85d63f3002e3724ee0ab096947d068e",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/fdcad2d7bdcdb8f96387944dbbcf20baf96f0b4d",
+                    "reference": "fdcad2d7bdcdb8f96387944dbbcf20baf96f0b4d",
                     "shasum": ""
                 },
-                "time": "2025-11-07T18:38:33+00:00",
+                "time": "2025-11-12T19:27:19+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
@@ -175,31 +175,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1047-accessibility-fixes-for-PG"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1055--fix-getHash-function-for-access-unpublished",
-                "version_normalized": "dev-1055--fix-getHash-function-for-access-unpublished",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "85ff46dac327c798a1389193e0c3ef632b5943e0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/85ff46dac327c798a1389193e0c3ef632b5943e0",
-                    "reference": "85ff46dac327c798a1389193e0c3ef632b5943e0",
-                    "shasum": ""
-                },
-                "time": "2025-11-12T17:46:50+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1055--fix-getHash-function-for-access-unpublished"
                 }
             },
             {
