@@ -13546,6 +13546,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1047-accessibility-fixes-for-PG"
                 }
             },
+            "dev-1055--fix-getHash-function-for-access-unpublished": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-1055--fix-getHash-function-for-access-unpublished",
+                "version_normalized": "dev-1055--fix-getHash-function-for-access-unpublished",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e82f1a00b42783f205c4c459ecbcbdfbf2e0cf11"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e82f1a00b42783f205c4c459ecbcbdfbf2e0cf11",
+                    "reference": "e82f1a00b42783f205c4c459ecbcbdfbf2e0cf11",
+                    "shasum": ""
+                },
+                "time": "2025-11-12T17:19:35+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1055--fix-getHash-function-for-access-unpublished"
+                }
+            },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
