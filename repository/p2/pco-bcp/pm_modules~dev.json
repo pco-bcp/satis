@@ -254,6 +254,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1057--fix-js-error-in-console",
+                "version_normalized": "dev-1057--fix-js-error-in-console",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "0afa80ada4d0cf38aeb422ee70e4aa4903c74cbb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0afa80ada4d0cf38aeb422ee70e4aa4903c74cbb",
+                    "reference": "0afa80ada4d0cf38aeb422ee70e4aa4903c74cbb",
+                    "shasum": ""
+                },
+                "time": "2025-11-13T21:34:18+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1057--fix-js-error-in-console"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {
