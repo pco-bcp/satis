@@ -134,15 +134,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "5a9934ecf5621ef450e3a930c8faa85a387ebf04"
+                    "reference": "0f5d787cce4ebcc1a5cd063cf89601d7ec3792e8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/5a9934ecf5621ef450e3a930c8faa85a387ebf04",
-                    "reference": "5a9934ecf5621ef450e3a930c8faa85a387ebf04",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/0f5d787cce4ebcc1a5cd063cf89601d7ec3792e8",
+                    "reference": "0f5d787cce4ebcc1a5cd063cf89601d7ec3792e8",
                     "shasum": ""
                 },
-                "time": "2025-11-10T14:03:37+00:00",
+                "time": "2025-11-12T20:02:47+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -159,15 +159,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "46bae4eb98d8a5821b3ce6f0a3f66dd95f44dfae"
+                    "reference": "d6bbf788d2e7919b9471b3c2eff723d1d9b834da"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/46bae4eb98d8a5821b3ce6f0a3f66dd95f44dfae",
-                    "reference": "46bae4eb98d8a5821b3ce6f0a3f66dd95f44dfae",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d6bbf788d2e7919b9471b3c2eff723d1d9b834da",
+                    "reference": "d6bbf788d2e7919b9471b3c2eff723d1d9b834da",
                     "shasum": ""
                 },
-                "time": "2025-10-31T16:10:37+00:00",
+                "time": "2025-11-13T15:45:02+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -175,31 +175,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1022-pcomodules-rector-dcheck"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-1056--fix-php-errors-when-updb",
-                "version_normalized": "dev-1056--fix-php-errors-when-updb",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "772025f9c36be517931237dba8f0ee27d6ead6a6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/772025f9c36be517931237dba8f0ee27d6ead6a6",
-                    "reference": "772025f9c36be517931237dba8f0ee27d6ead6a6",
-                    "shasum": ""
-                },
-                "time": "2025-11-12T19:59:51+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1056--fix-php-errors-when-updb"
                 }
             },
             {
