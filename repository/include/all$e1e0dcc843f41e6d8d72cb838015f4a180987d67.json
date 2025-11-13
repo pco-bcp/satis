@@ -13634,6 +13634,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1047-accessibility-fixes-for-PG"
                 }
             },
+            "dev-1057--fix-js-error-in-console": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-1057--fix-js-error-in-console",
+                "version_normalized": "dev-1057--fix-js-error-in-console",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "25be197a07476ab3d733f5ddd351b34b4e3f588b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/25be197a07476ab3d733f5ddd351b34b4e3f588b",
+                    "reference": "25be197a07476ab3d733f5ddd351b34b4e3f588b",
+                    "shasum": ""
+                },
+                "time": "2025-11-13T21:28:30+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1057--fix-js-error-in-console"
+                }
+            },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
