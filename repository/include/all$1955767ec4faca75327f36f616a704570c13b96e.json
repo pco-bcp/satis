@@ -11288,15 +11288,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "ec0dad89e79dbc0b4227bd81f4fe1059484120cf"
+                    "reference": "640395b8f91cd61373166fe408d8fa38d081ef5c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/ec0dad89e79dbc0b4227bd81f4fe1059484120cf",
-                    "reference": "ec0dad89e79dbc0b4227bd81f4fe1059484120cf",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/640395b8f91cd61373166fe408d8fa38d081ef5c",
+                    "reference": "640395b8f91cd61373166fe408d8fa38d081ef5c",
                     "shasum": ""
                 },
-                "time": "2025-11-07T19:03:37+00:00",
+                "time": "2025-11-17T22:34:39+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -11363,15 +11363,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "7314b9c93262e93827067204f9e5330871b85274"
+                    "reference": "919fc4d2a3a8742068c784d81fcf7a9a54f89d4a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7314b9c93262e93827067204f9e5330871b85274",
-                    "reference": "7314b9c93262e93827067204f9e5330871b85274",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/919fc4d2a3a8742068c784d81fcf7a9a54f89d4a",
+                    "reference": "919fc4d2a3a8742068c784d81fcf7a9a54f89d4a",
                     "shasum": ""
                 },
-                "time": "2025-10-20T19:10:52+00:00",
+                "time": "2025-11-17T22:35:50+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -11429,31 +11429,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1047-accessibility-fixes-for-PG"
-                }
-            },
-            "dev-1057--fix-js-error-in-console": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1057--fix-js-error-in-console",
-                "version_normalized": "dev-1057--fix-js-error-in-console",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "cbfd613ce57251641a599b3ea94ae1cd0394dc60"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/cbfd613ce57251641a599b3ea94ae1cd0394dc60",
-                    "reference": "cbfd613ce57251641a599b3ea94ae1cd0394dc60",
-                    "shasum": ""
-                },
-                "time": "2025-11-17T19:02:09+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1057--fix-js-error-in-console"
                 }
             },
             "dev-222--pm-cron-d-check": {
