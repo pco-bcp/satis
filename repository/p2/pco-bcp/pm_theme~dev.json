@@ -154,6 +154,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-1042--update-header-sizes",
+                "version_normalized": "dev-1042--update-header-sizes",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "749897a71a03d7bb7a31004d07148e2103b2747c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/749897a71a03d7bb7a31004d07148e2103b2747c",
+                    "reference": "749897a71a03d7bb7a31004d07148e2103b2747c",
+                    "shasum": ""
+                },
+                "time": "2025-11-17T21:25:16+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1042--update-header-sizes"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-1047-accessibility-fixes-for-PG",
                 "version_normalized": "dev-1047-accessibility-fixes-for-PG",
                 "source": {
