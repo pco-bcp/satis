@@ -9410,15 +9410,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "d6bbf788d2e7919b9471b3c2eff723d1d9b834da"
+                    "reference": "d1349f129cf9ae4369612d06cdc5b05d7c3c000b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d6bbf788d2e7919b9471b3c2eff723d1d9b834da",
-                    "reference": "d6bbf788d2e7919b9471b3c2eff723d1d9b834da",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d1349f129cf9ae4369612d06cdc5b05d7c3c000b",
+                    "reference": "d1349f129cf9ae4369612d06cdc5b05d7c3c000b",
                     "shasum": ""
                 },
-                "time": "2025-11-13T15:45:02+00:00",
+                "time": "2025-11-17T22:36:56+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -13566,15 +13566,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "fdcad2d7bdcdb8f96387944dbbcf20baf96f0b4d"
+                    "reference": "4cec264fba919ee29dbe689da711c866bec4e4f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/fdcad2d7bdcdb8f96387944dbbcf20baf96f0b4d",
-                    "reference": "fdcad2d7bdcdb8f96387944dbbcf20baf96f0b4d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4cec264fba919ee29dbe689da711c866bec4e4f0",
+                    "reference": "4cec264fba919ee29dbe689da711c866bec4e4f0",
                     "shasum": ""
                 },
-                "time": "2025-11-12T19:27:19+00:00",
+                "time": "2025-11-18T20:19:50+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
@@ -13657,31 +13657,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1047-accessibility-fixes-for-PG"
-                }
-            },
-            "dev-1057--fix-js-error-in-console": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1057--fix-js-error-in-console",
-                "version_normalized": "dev-1057--fix-js-error-in-console",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "25be197a07476ab3d733f5ddd351b34b4e3f588b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/25be197a07476ab3d733f5ddd351b34b4e3f588b",
-                    "reference": "25be197a07476ab3d733f5ddd351b34b4e3f588b",
-                    "shasum": ""
-                },
-                "time": "2025-11-13T21:28:30+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1057--fix-js-error-in-console"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
