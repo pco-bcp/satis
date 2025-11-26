@@ -4665,12 +4665,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "385d28e14840b39ec9f6ea6d3b1f0b9c1457c1a9"
+                    "reference": "cf286bf44fbd1c07d506d266875b83de31a82d30"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/385d28e14840b39ec9f6ea6d3b1f0b9c1457c1a9",
-                    "reference": "385d28e14840b39ec9f6ea6d3b1f0b9c1457c1a9",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/cf286bf44fbd1c07d506d266875b83de31a82d30",
+                    "reference": "cf286bf44fbd1c07d506d266875b83de31a82d30",
                     "shasum": ""
                 },
                 "require": {
@@ -4685,7 +4685,6 @@
                     "drupal/config_split": "^2.0",
                     "drupal/config_update": "^2.0@alpha",
                     "drupal/content_access": "^2.0@RC",
-                    "drupal/core-composer-scaffold": "*",
                     "drupal/email_tfa": "^2.0",
                     "drupal/fast404": "^3.3",
                     "drupal/features": "^3.12",
@@ -4728,8 +4727,10 @@
                     "wikimedia/composer-merge-plugin": "^2.0"
                 },
                 "require-dev": {
-                    "drupal/core-composer-scaffold": "*",
+                    "drupal/core-composer-scaffold": "10.4.9",
                     "drupal/core-dev": "^10.4.5",
+                    "drupal/core-project-message": "10.4.9",
+                    "drupal/core-recommended": "10.4.9",
                     "drupal/drupal-extension": "^5.1.0",
                     "drupal/upgrade_status": "^4.3",
                     "mglaman/drupal-check": "^1.4",
@@ -4739,7 +4740,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2025-11-14T16:20:20+00:00",
+                "time": "2025-11-25T19:21:32+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -4829,9 +4830,9 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Project template for Drupal 9 sites built with the WxT distribution.",
+                "description": "Project template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/3.1.24"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/3.1.25"
                 }
             },
             {
