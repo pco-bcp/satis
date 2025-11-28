@@ -83,15 +83,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "7d949217bf1a2c5ec006e490d963af83816dfa4c"
+                    "reference": "da968731f14e0746a831cd455c1e4b71bcbad4d6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7d949217bf1a2c5ec006e490d963af83816dfa4c",
-                    "reference": "7d949217bf1a2c5ec006e490d963af83816dfa4c",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/da968731f14e0746a831cd455c1e4b71bcbad4d6",
+                    "reference": "da968731f14e0746a831cd455c1e4b71bcbad4d6",
                     "shasum": ""
                 },
-                "time": "2025-10-29T17:23:41+00:00",
+                "time": "2025-11-28T20:43:08+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -150,31 +150,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-1022-pcomodules-rector-dcheck",
-                "version_normalized": "dev-1022-pcomodules-rector-dcheck",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "385b30b9ff56901951565b4904844227c6be0ecc"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/385b30b9ff56901951565b4904844227c6be0ecc",
-                    "reference": "385b30b9ff56901951565b4904844227c6be0ecc",
-                    "shasum": ""
-                },
-                "time": "2025-11-28T13:24:06+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1022-pcomodules-rector-dcheck"
                 }
             },
             {

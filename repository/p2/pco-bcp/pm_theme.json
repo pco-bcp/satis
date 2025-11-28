@@ -1178,6 +1178,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "4.1.15",
+                "version_normalized": "4.1.15.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "4df74ccc65d83b872f3c06d396aeff0380019161"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4df74ccc65d83b872f3c06d396aeff0380019161",
+                    "reference": "4df74ccc65d83b872f3c06d396aeff0380019161",
+                    "shasum": ""
+                },
+                "time": "2025-11-28T20:43:57+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/4.1.15"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "4.1.2",
                 "version_normalized": "4.1.2.0",
                 "source": {
