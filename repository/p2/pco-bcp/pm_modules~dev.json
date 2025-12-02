@@ -229,6 +229,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1069--fix-wron-image-src-fron-page",
+                "version_normalized": "dev-1069--fix-wron-image-src-fron-page",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "c163328885c1a2d1f5dd5317b9806b2236bce989"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c163328885c1a2d1f5dd5317b9806b2236bce989",
+                    "reference": "c163328885c1a2d1f5dd5317b9806b2236bce989",
+                    "shasum": ""
+                },
+                "time": "2025-12-02T16:55:01+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1069--fix-wron-image-src-fron-page"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {
