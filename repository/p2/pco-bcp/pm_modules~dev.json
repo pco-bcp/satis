@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "803b8f381820c127692b4e60471f759f78274ffd"
+                    "reference": "980bc608b031d713fc7a6624def6ef9f64a9408d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/803b8f381820c127692b4e60471f759f78274ffd",
-                    "reference": "803b8f381820c127692b4e60471f759f78274ffd",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/980bc608b031d713fc7a6624def6ef9f64a9408d",
+                    "reference": "980bc608b031d713fc7a6624def6ef9f64a9408d",
                     "shasum": ""
                 },
-                "time": "2025-11-28T21:05:32+00:00",
+                "time": "2025-12-03T15:49:18+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.14"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.x"
                 }
             },
             {
@@ -225,56 +225,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1047-accessibility-fixes-for-PG",
-                "version_normalized": "dev-1047-accessibility-fixes-for-PG",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2e6dd94663a094e4589c204a8f58b51a9f835371"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2e6dd94663a094e4589c204a8f58b51a9f835371",
-                    "reference": "2e6dd94663a094e4589c204a8f58b51a9f835371",
-                    "shasum": ""
-                },
-                "time": "2025-11-20T19:03:40+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1047-accessibility-fixes-for-PG"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1069--fix-wron-image-src-fron-page",
-                "version_normalized": "dev-1069--fix-wron-image-src-fron-page",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2e73dc9fdc3d7d36869a3aea2c247a7ea39618fe"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2e73dc9fdc3d7d36869a3aea2c247a7ea39618fe",
-                    "reference": "2e73dc9fdc3d7d36869a3aea2c247a7ea39618fe",
-                    "shasum": ""
-                },
-                "time": "2025-12-02T17:53:53+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1069--fix-wron-image-src-fron-page"
                 }
             },
             {
