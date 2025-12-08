@@ -204,6 +204,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1078--fix-cron-watchdog-errors",
+                "version_normalized": "dev-1078--fix-cron-watchdog-errors",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "7a98559d8cb2d47951ee9587a550536115e7c1d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7a98559d8cb2d47951ee9587a550536115e7c1d0",
+                    "reference": "7a98559d8cb2d47951ee9587a550536115e7c1d0",
+                    "shasum": ""
+                },
+                "time": "2025-12-08T20:50:32+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1078--fix-cron-watchdog-errors"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {
