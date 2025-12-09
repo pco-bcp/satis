@@ -11193,6 +11193,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.15"
                 }
             },
+            "4.1.16": {
+                "name": "pco-bcp/pm_modules",
+                "version": "4.1.16",
+                "version_normalized": "4.1.16.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "2a3dcc2a8800c2d55965f070a6a17a3f1e830604"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2a3dcc2a8800c2d55965f070a6a17a3f1e830604",
+                    "reference": "2a3dcc2a8800c2d55965f070a6a17a3f1e830604",
+                    "shasum": ""
+                },
+                "time": "2025-12-09T20:12:25+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.16"
+                }
+            },
             "4.1.2": {
                 "name": "pco-bcp/pm_modules",
                 "version": "4.1.2",
@@ -11416,7 +11441,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.x"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.16"
                 }
             },
             "4.x-dev": {
