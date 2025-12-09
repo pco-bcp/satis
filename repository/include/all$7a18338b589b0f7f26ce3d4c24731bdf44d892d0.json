@@ -11400,15 +11400,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "7117b93c515a3f2115cefb359c7d1fa6e895de4c"
+                    "reference": "2a3dcc2a8800c2d55965f070a6a17a3f1e830604"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7117b93c515a3f2115cefb359c7d1fa6e895de4c",
-                    "reference": "7117b93c515a3f2115cefb359c7d1fa6e895de4c",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2a3dcc2a8800c2d55965f070a6a17a3f1e830604",
+                    "reference": "2a3dcc2a8800c2d55965f070a6a17a3f1e830604",
                     "shasum": ""
                 },
-                "time": "2025-12-09T18:00:00+00:00",
+                "time": "2025-12-09T20:12:25+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11542,31 +11542,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            "dev-1075--fix-mismatched-entity-title-field": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1075--fix-mismatched-entity-title-field",
-                "version_normalized": "dev-1075--fix-mismatched-entity-title-field",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2d9be1d0745d7da972eaac4022d012ed2f2dc789"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2d9be1d0745d7da972eaac4022d012ed2f2dc789",
-                    "reference": "2d9be1d0745d7da972eaac4022d012ed2f2dc789",
-                    "shasum": ""
-                },
-                "time": "2025-12-09T19:45:28+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1075--fix-mismatched-entity-title-field"
                 }
             },
             "dev-222--pm-cron-d-check": {
@@ -37773,12 +37748,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "2826664360b5b9949dcaef9bacb61181275225f0"
+                    "reference": "ab85f37b7501ae028da54fd1539e66e5b29cc68f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/2826664360b5b9949dcaef9bacb61181275225f0",
-                    "reference": "2826664360b5b9949dcaef9bacb61181275225f0",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/ab85f37b7501ae028da54fd1539e66e5b29cc68f",
+                    "reference": "ab85f37b7501ae028da54fd1539e66e5b29cc68f",
                     "shasum": ""
                 },
                 "require": {
@@ -37848,7 +37823,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2025-12-09T13:01:22+00:00",
+                "time": "2025-12-09T20:07:41+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
