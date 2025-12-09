@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "eb96925b4e34ab5b45ea4c3217affba9a4106e6c"
+                    "reference": "7117b93c515a3f2115cefb359c7d1fa6e895de4c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/eb96925b4e34ab5b45ea4c3217affba9a4106e6c",
-                    "reference": "eb96925b4e34ab5b45ea4c3217affba9a4106e6c",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7117b93c515a3f2115cefb359c7d1fa6e895de4c",
+                    "reference": "7117b93c515a3f2115cefb359c7d1fa6e895de4c",
                     "shasum": ""
                 },
-                "time": "2025-12-03T16:03:45+00:00",
+                "time": "2025-12-09T18:00:00+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.15"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.x"
                 }
             },
             {
@@ -200,31 +200,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1078--fix-cron-watchdog-errors",
-                "version_normalized": "dev-1078--fix-cron-watchdog-errors",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "7a98559d8cb2d47951ee9587a550536115e7c1d0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7a98559d8cb2d47951ee9587a550536115e7c1d0",
-                    "reference": "7a98559d8cb2d47951ee9587a550536115e7c1d0",
-                    "shasum": ""
-                },
-                "time": "2025-12-08T20:50:32+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1078--fix-cron-watchdog-errors"
                 }
             },
             {
