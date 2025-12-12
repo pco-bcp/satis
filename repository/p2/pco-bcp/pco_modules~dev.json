@@ -554,6 +554,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-backport-d-check",
+                "version_normalized": "dev-backport-d-check",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "d1f8642710ef8b5bbe8e23a62f839bc6d1a85bf9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d1f8642710ef8b5bbe8e23a62f839bc6d1a85bf9",
+                    "reference": "d1f8642710ef8b5bbe8e23a62f839bc6d1a85bf9",
+                    "shasum": ""
+                },
+                "time": "2025-12-12T16:29:45+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/backport-d-check"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {
