@@ -11601,15 +11601,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "766d86c5d7a37475197b188ef8a1fa65a437b2d1"
+                    "reference": "e87d97da6aa74b49531b170e00b92b60664377e3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/766d86c5d7a37475197b188ef8a1fa65a437b2d1",
-                    "reference": "766d86c5d7a37475197b188ef8a1fa65a437b2d1",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e87d97da6aa74b49531b170e00b92b60664377e3",
+                    "reference": "e87d97da6aa74b49531b170e00b92b60664377e3",
                     "shasum": ""
                 },
-                "time": "2025-12-15T18:12:31+00:00",
+                "time": "2025-12-15T18:14:37+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -11617,6 +11617,31 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1092--backport-drupal-check-rector-fixes-from-D10-to-D11"
+                }
+            },
+            "dev-1094--fix-error-when-visting-manage-minister-parl-sec-and-sect-of-state-order": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1094--fix-error-when-visting-manage-minister-parl-sec-and-sect-of-state-order",
+                "version_normalized": "dev-1094--fix-error-when-visting-manage-minister-parl-sec-and-sect-of-state-order",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "2e61db6bd093b3529db0c636e610e21f3b05ba80"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2e61db6bd093b3529db0c636e610e21f3b05ba80",
+                    "reference": "2e61db6bd093b3529db0c636e610e21f3b05ba80",
+                    "shasum": ""
+                },
+                "time": "2025-12-15T20:16:20+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1094--fix-error-when-visting-manage-minister-parl-sec-and-sect-of-state-order"
                 }
             },
             "dev-222--pm-cron-d-check": {
