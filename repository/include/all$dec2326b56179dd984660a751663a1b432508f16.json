@@ -11450,15 +11450,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2a3dcc2a8800c2d55965f070a6a17a3f1e830604"
+                    "reference": "742f0f904fadd2253d57afa62bca30c25389f1c5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2a3dcc2a8800c2d55965f070a6a17a3f1e830604",
-                    "reference": "2a3dcc2a8800c2d55965f070a6a17a3f1e830604",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/742f0f904fadd2253d57afa62bca30c25389f1c5",
+                    "reference": "742f0f904fadd2253d57afa62bca30c25389f1c5",
                     "shasum": ""
                 },
-                "time": "2025-12-09T20:12:25+00:00",
+                "time": "2025-12-15T21:58:11+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11466,7 +11466,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.16"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/4.1.x"
                 }
             },
             "4.x-dev": {
@@ -11617,31 +11617,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1092--backport-drupal-check-rector-fixes-from-D10-to-D11"
-                }
-            },
-            "dev-1094--fix-error-when-visting-manage-minister-parl-sec-and-sect-of-state-order": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1094--fix-error-when-visting-manage-minister-parl-sec-and-sect-of-state-order",
-                "version_normalized": "dev-1094--fix-error-when-visting-manage-minister-parl-sec-and-sect-of-state-order",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2e61db6bd093b3529db0c636e610e21f3b05ba80"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2e61db6bd093b3529db0c636e610e21f3b05ba80",
-                    "reference": "2e61db6bd093b3529db0c636e610e21f3b05ba80",
-                    "shasum": ""
-                },
-                "time": "2025-12-15T20:16:20+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1094--fix-error-when-visting-manage-minister-parl-sec-and-sect-of-state-order"
                 }
             },
             "dev-222--pm-cron-d-check": {
