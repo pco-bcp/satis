@@ -11450,15 +11450,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "742f0f904fadd2253d57afa62bca30c25389f1c5"
+                    "reference": "f12363a85cccd274e1afd19a9895eea54709f25f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/742f0f904fadd2253d57afa62bca30c25389f1c5",
-                    "reference": "742f0f904fadd2253d57afa62bca30c25389f1c5",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f12363a85cccd274e1afd19a9895eea54709f25f",
+                    "reference": "f12363a85cccd274e1afd19a9895eea54709f25f",
                     "shasum": ""
                 },
-                "time": "2025-12-15T21:58:11+00:00",
+                "time": "2025-12-16T17:49:54+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -12142,31 +12142,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/fix-align-covid-and-ukraine-fields-same_row-2023-08-16"
-                }
-            },
-            "dev-minor-changes-for-1047": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-minor-changes-for-1047",
-                "version_normalized": "dev-minor-changes-for-1047",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "037353d03fe67ce6b245a86745cadaed405026d9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/037353d03fe67ce6b245a86745cadaed405026d9",
-                    "reference": "037353d03fe67ce6b245a86745cadaed405026d9",
-                    "shasum": ""
-                },
-                "time": "2025-12-16T16:40:23+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/minor-changes-for-1047"
                 }
             },
             "dev-minor-changes-for-1047-d11": {
