@@ -754,6 +754,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-minor-changes-for-1047",
+                "version_normalized": "dev-minor-changes-for-1047",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "037353d03fe67ce6b245a86745cadaed405026d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/037353d03fe67ce6b245a86745cadaed405026d9",
+                    "reference": "037353d03fe67ce6b245a86745cadaed405026d9",
+                    "shasum": ""
+                },
+                "time": "2025-12-16T16:40:23+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/minor-changes-for-1047"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-pco-bcp/pm_modules--update-pm-modules-constraints",
                 "version_normalized": "dev-pco-bcp/pm_modules--update-pm-modules-constraints",
                 "source": {
