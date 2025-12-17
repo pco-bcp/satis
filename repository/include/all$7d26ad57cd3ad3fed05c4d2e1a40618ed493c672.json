@@ -13903,15 +13903,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "5e342d9ba9dc3b9a6f447074beb98f0bde697a4d"
+                    "reference": "a0658a6bd12579b59953584b74e361614736a468"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5e342d9ba9dc3b9a6f447074beb98f0bde697a4d",
-                    "reference": "5e342d9ba9dc3b9a6f447074beb98f0bde697a4d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a0658a6bd12579b59953584b74e361614736a468",
+                    "reference": "a0658a6bd12579b59953584b74e361614736a468",
                     "shasum": ""
                 },
-                "time": "2025-12-16T18:23:03+00:00",
+                "time": "2025-12-17T20:35:44+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13919,7 +13919,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.0"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.x"
                 }
             },
             "dev-1042--update-header-sizes": {
@@ -13970,31 +13970,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            "dev-1098--fix-indentation-custom-list-D11": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1098--fix-indentation-custom-list-D11",
-                "version_normalized": "dev-1098--fix-indentation-custom-list-D11",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "210fcfb715f5e81bf31be31b487fc74a05415854"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/210fcfb715f5e81bf31be31b487fc74a05415854",
-                    "reference": "210fcfb715f5e81bf31be31b487fc74a05415854",
-                    "shasum": ""
-                },
-                "time": "2025-12-17T19:33:43+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-indentation-custom-list-D11"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
