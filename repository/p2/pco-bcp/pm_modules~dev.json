@@ -67,7 +67,6 @@
                     "shasum": ""
                 },
                 "time": "2025-12-16T17:49:54+00:00",
-                "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -118,13 +117,14 @@
                     "shasum": ""
                 },
                 "time": "2025-12-11T22:04:14+00:00",
+                "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.0"
                 }
             },
             {
