@@ -179,6 +179,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-1098--fix-indentation-custom-list-D11",
+                "version_normalized": "dev-1098--fix-indentation-custom-list-D11",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "210fcfb715f5e81bf31be31b487fc74a05415854"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/210fcfb715f5e81bf31be31b487fc74a05415854",
+                    "reference": "210fcfb715f5e81bf31be31b487fc74a05415854",
+                    "shasum": ""
+                },
+                "time": "2025-12-17T19:33:43+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-indentation-custom-list-D11"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "version_normalized": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "source": {
