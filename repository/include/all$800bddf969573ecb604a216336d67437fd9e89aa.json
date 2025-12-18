@@ -11550,15 +11550,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "6fb43b2683bdb7b3dde02cc108684d09f981f9e8"
+                    "reference": "1870c7546790899a01ab94ad23467515df76a111"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6fb43b2683bdb7b3dde02cc108684d09f981f9e8",
-                    "reference": "6fb43b2683bdb7b3dde02cc108684d09f981f9e8",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1870c7546790899a01ab94ad23467515df76a111",
+                    "reference": "1870c7546790899a01ab94ad23467515df76a111",
                     "shasum": ""
                 },
-                "time": "2025-12-11T22:04:14+00:00",
+                "time": "2025-12-18T16:56:00+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11566,7 +11566,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.0"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
                 }
             },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
@@ -11667,31 +11667,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1092--backport-drupal-check-rector-fixes-from-D10-to-D11"
-                }
-            },
-            "dev-1099--fix-char-length-issue-on-title": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1099--fix-char-length-issue-on-title",
-                "version_normalized": "dev-1099--fix-char-length-issue-on-title",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "041a2e62226e93693bc3e51c09d0f778b7763af0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/041a2e62226e93693bc3e51c09d0f778b7763af0",
-                    "reference": "041a2e62226e93693bc3e51c09d0f778b7763af0",
-                    "shasum": ""
-                },
-                "time": "2025-12-18T16:14:06+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1099--fix-char-length-issue-on-title"
                 }
             },
             "dev-222--pm-cron-d-check": {
