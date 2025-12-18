@@ -229,6 +229,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1099--fix-char-length-issue-on-title",
+                "version_normalized": "dev-1099--fix-char-length-issue-on-title",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "041a2e62226e93693bc3e51c09d0f778b7763af0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/041a2e62226e93693bc3e51c09d0f778b7763af0",
+                    "reference": "041a2e62226e93693bc3e51c09d0f778b7763af0",
+                    "shasum": ""
+                },
+                "time": "2025-12-18T16:14:06+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1099--fix-char-length-issue-on-title"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {
