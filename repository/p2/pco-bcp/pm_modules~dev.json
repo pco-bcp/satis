@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "1870c7546790899a01ab94ad23467515df76a111"
+                    "reference": "788c24cc908f7faa96076a677f25a3fbc49050e9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1870c7546790899a01ab94ad23467515df76a111",
-                    "reference": "1870c7546790899a01ab94ad23467515df76a111",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/788c24cc908f7faa96076a677f25a3fbc49050e9",
+                    "reference": "788c24cc908f7faa96076a677f25a3fbc49050e9",
                     "shasum": ""
                 },
-                "time": "2025-12-18T16:56:00+00:00",
+                "time": "2025-12-19T18:23:16+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -225,31 +225,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1092--backport-drupal-check-rector-fixes-from-D10-to-D11"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1103--fix-getFileURi-error-on-null-object",
-                "version_normalized": "dev-1103--fix-getFileURi-error-on-null-object",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "7a56be6652994129e2cd007737f3c3edbb69cdba"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7a56be6652994129e2cd007737f3c3edbb69cdba",
-                    "reference": "7a56be6652994129e2cd007737f3c3edbb69cdba",
-                    "shasum": ""
-                },
-                "time": "2025-12-19T16:45:01+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1103--fix-getFileURi-error-on-null-object"
                 }
             },
             {
