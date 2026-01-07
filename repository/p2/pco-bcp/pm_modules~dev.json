@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "788c24cc908f7faa96076a677f25a3fbc49050e9"
+                    "reference": "51386eed5ee1e73eadd1734a0a6a4070044e22cd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/788c24cc908f7faa96076a677f25a3fbc49050e9",
-                    "reference": "788c24cc908f7faa96076a677f25a3fbc49050e9",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/51386eed5ee1e73eadd1734a0a6a4070044e22cd",
+                    "reference": "51386eed5ee1e73eadd1734a0a6a4070044e22cd",
                     "shasum": ""
                 },
-                "time": "2025-12-19T18:23:16+00:00",
+                "time": "2026-01-07T19:53:09+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -750,31 +750,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/fix-align-covid-and-ukraine-fields-same_row-2023-08-16"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-fix-console-error-caused-by-d-check-in-pm_photo",
-                "version_normalized": "dev-fix-console-error-caused-by-d-check-in-pm_photo",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "1cd6ad5cf1058d74316d35edb1d3db924797c110"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1cd6ad5cf1058d74316d35edb1d3db924797c110",
-                    "reference": "1cd6ad5cf1058d74316d35edb1d3db924797c110",
-                    "shasum": ""
-                },
-                "time": "2026-01-07T19:03:29+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix-console-error-caused-by-d-check-in-pm_photo"
                 }
             },
             {
