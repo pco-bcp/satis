@@ -754,6 +754,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-fix-console-error-caused-by-d-check-in-pm_photo",
+                "version_normalized": "dev-fix-console-error-caused-by-d-check-in-pm_photo",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "1cd6ad5cf1058d74316d35edb1d3db924797c110"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1cd6ad5cf1058d74316d35edb1d3db924797c110",
+                    "reference": "1cd6ad5cf1058d74316d35edb1d3db924797c110",
+                    "shasum": ""
+                },
+                "time": "2026-01-07T19:03:29+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/fix-console-error-caused-by-d-check-in-pm_photo"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-minor-changes-for-1047-d11",
                 "version_normalized": "dev-minor-changes-for-1047-d11",
                 "source": {
