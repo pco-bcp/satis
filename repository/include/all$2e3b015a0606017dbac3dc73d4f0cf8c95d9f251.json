@@ -13903,15 +13903,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a0658a6bd12579b59953584b74e361614736a468"
+                    "reference": "2f443568ffa273180d0b8c10e8cbd6a391b3777d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a0658a6bd12579b59953584b74e361614736a468",
-                    "reference": "a0658a6bd12579b59953584b74e361614736a468",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2f443568ffa273180d0b8c10e8cbd6a391b3777d",
+                    "reference": "2f443568ffa273180d0b8c10e8cbd6a391b3777d",
                     "shasum": ""
                 },
-                "time": "2025-12-17T20:35:44+00:00",
+                "time": "2026-01-07T18:16:15+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13970,31 +13970,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            "dev-1101--fix-list-styles-indent-for-sepcific-custom-syles": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1101--fix-list-styles-indent-for-sepcific-custom-syles",
-                "version_normalized": "dev-1101--fix-list-styles-indent-for-sepcific-custom-syles",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "8d0c1b0b55caa03f0dbd803c22c91a36d7a74353"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/8d0c1b0b55caa03f0dbd803c22c91a36d7a74353",
-                    "reference": "8d0c1b0b55caa03f0dbd803c22c91a36d7a74353",
-                    "shasum": ""
-                },
-                "time": "2026-01-07T17:26:54+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1101--fix-list-styles-indent-for-sepcific-custom-syles"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
