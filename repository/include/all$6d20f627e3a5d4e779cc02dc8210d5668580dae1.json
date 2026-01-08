@@ -9547,15 +9547,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "9501872c7af30ad3702f1ad547802d4ddaa336cd"
+                    "reference": "a556568788c69f042827ab2e21e0cb4ba0812ace"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/9501872c7af30ad3702f1ad547802d4ddaa336cd",
-                    "reference": "9501872c7af30ad3702f1ad547802d4ddaa336cd",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a556568788c69f042827ab2e21e0cb4ba0812ace",
+                    "reference": "a556568788c69f042827ab2e21e0cb4ba0812ace",
                     "shasum": ""
                 },
-                "time": "2025-12-04T15:37:37+00:00",
+                "time": "2026-01-08T19:41:20+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -9563,7 +9563,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.0"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.x"
                 }
             },
             "dev-222-citation-d-check-fixes-2024-03-27": {
@@ -9964,31 +9964,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
-                }
-            },
-            "dev-backport-d-check": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-backport-d-check",
-                "version_normalized": "dev-backport-d-check",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "d2a9251ca8d281ae84e93266efb4111f4e033f93"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/d2a9251ca8d281ae84e93266efb4111f4e033f93",
-                    "reference": "d2a9251ca8d281ae84e93266efb4111f4e033f93",
-                    "shasum": ""
-                },
-                "time": "2025-12-18T19:00:21+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/backport-d-check"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
