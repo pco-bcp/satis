@@ -11525,15 +11525,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "51386eed5ee1e73eadd1734a0a6a4070044e22cd"
+                    "reference": "80c52764750b3da393d68cbc5f0ac1673a7c6ba9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/51386eed5ee1e73eadd1734a0a6a4070044e22cd",
-                    "reference": "51386eed5ee1e73eadd1734a0a6a4070044e22cd",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/80c52764750b3da393d68cbc5f0ac1673a7c6ba9",
+                    "reference": "80c52764750b3da393d68cbc5f0ac1673a7c6ba9",
                     "shasum": ""
                 },
-                "time": "2026-01-07T19:53:09+00:00",
+                "time": "2026-01-08T20:54:52+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11617,31 +11617,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            "dev-1092--backport-drupal-check-rector-fixes-from-D10-to-D11": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1092--backport-drupal-check-rector-fixes-from-D10-to-D11",
-                "version_normalized": "dev-1092--backport-drupal-check-rector-fixes-from-D10-to-D11",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "7495bc466261284ed4ff1e01ed1ea01e1cf4fcc7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7495bc466261284ed4ff1e01ed1ea01e1cf4fcc7",
-                    "reference": "7495bc466261284ed4ff1e01ed1ea01e1cf4fcc7",
-                    "shasum": ""
-                },
-                "time": "2026-01-08T17:56:04+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1092--backport-drupal-check-rector-fixes-from-D10-to-D11"
                 }
             },
             "dev-222--pm-cron-d-check": {
