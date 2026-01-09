@@ -11594,6 +11594,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1019-css-changes"
                 }
             },
+            "dev-1043-wave-fixes-d11-for-PG": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1043-wave-fixes-d11-for-PG",
+                "version_normalized": "dev-1043-wave-fixes-d11-for-PG",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "2f33153fe81d80c546e09d2e145c6d7c59a0ac20"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2f33153fe81d80c546e09d2e145c6d7c59a0ac20",
+                    "reference": "2f33153fe81d80c546e09d2e145c6d7c59a0ac20",
+                    "shasum": ""
+                },
+                "time": "2026-01-09T16:20:29+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-d11-for-PG"
+                }
+            },
             "dev-1043-wave-fixes-for-PG": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-1043-wave-fixes-for-PG",
@@ -38250,12 +38275,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "a25e5851a6a4ace533528fab5d266323f454e277"
+                    "reference": "5e697ad0ddd9ccbab47e0b5492c3f1c344012dac"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/a25e5851a6a4ace533528fab5d266323f454e277",
-                    "reference": "a25e5851a6a4ace533528fab5d266323f454e277",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/5e697ad0ddd9ccbab47e0b5492c3f1c344012dac",
+                    "reference": "5e697ad0ddd9ccbab47e0b5492c3f1c344012dac",
                     "shasum": ""
                 },
                 "require": {
@@ -38325,7 +38350,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2026-01-07T21:51:21+00:00",
+                "time": "2026-01-09T14:36:02+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
