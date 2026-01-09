@@ -11601,15 +11601,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2f33153fe81d80c546e09d2e145c6d7c59a0ac20"
+                    "reference": "726b4605c321213017a522c8bbe0c014032a1942"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2f33153fe81d80c546e09d2e145c6d7c59a0ac20",
-                    "reference": "2f33153fe81d80c546e09d2e145c6d7c59a0ac20",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/726b4605c321213017a522c8bbe0c014032a1942",
+                    "reference": "726b4605c321213017a522c8bbe0c014032a1942",
                     "shasum": ""
                 },
-                "time": "2026-01-09T16:20:29+00:00",
+                "time": "2026-01-09T16:23:36+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -12042,6 +12042,31 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/838-views-metatag-image"
+                }
+            },
+            "dev-880--fix-3-text-lineup": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-880--fix-3-text-lineup",
+                "version_normalized": "dev-880--fix-3-text-lineup",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "eb96d1fbb8f3aa7e7674739648e7aa102a75ed30"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/eb96d1fbb8f3aa7e7674739648e7aa102a75ed30",
+                    "reference": "eb96d1fbb8f3aa7e7674739648e7aa102a75ed30",
+                    "shasum": ""
+                },
+                "time": "2026-01-09T19:49:11+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/880--fix-3-text-lineup"
                 }
             },
             "dev-880-line-up-3-column-news-items-2025-06-12": {
@@ -14295,6 +14320,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/861--new-design-menus-2025-06-05"
+                }
+            },
+            "dev-880--fix-3-text-lineup": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-880--fix-3-text-lineup",
+                "version_normalized": "dev-880--fix-3-text-lineup",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "b31dde497b81acd66e9b70eb3c3227a17f68be8d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b31dde497b81acd66e9b70eb3c3227a17f68be8d",
+                    "reference": "b31dde497b81acd66e9b70eb3c3227a17f68be8d",
+                    "shasum": ""
+                },
+                "time": "2026-01-09T19:45:57+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/880--fix-3-text-lineup"
                 }
             },
             "dev-880-line-up-3-column-news-items-2025-06-12": {
