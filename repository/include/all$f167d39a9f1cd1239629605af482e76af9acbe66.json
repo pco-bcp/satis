@@ -11525,15 +11525,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "80c52764750b3da393d68cbc5f0ac1673a7c6ba9"
+                    "reference": "f9f529b0e494acaa19ff2ae43dbe1b18cd348c0c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/80c52764750b3da393d68cbc5f0ac1673a7c6ba9",
-                    "reference": "80c52764750b3da393d68cbc5f0ac1673a7c6ba9",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f9f529b0e494acaa19ff2ae43dbe1b18cd348c0c",
+                    "reference": "f9f529b0e494acaa19ff2ae43dbe1b18cd348c0c",
                     "shasum": ""
                 },
-                "time": "2026-01-08T20:54:52+00:00",
+                "time": "2026-01-14T15:21:13+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11592,31 +11592,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1019-css-changes"
-                }
-            },
-            "dev-1043-wave-fixes-d11-for-PG": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1043-wave-fixes-d11-for-PG",
-                "version_normalized": "dev-1043-wave-fixes-d11-for-PG",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "cf0b2e58e4f0c561c25625a528aca1537ff677d8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/cf0b2e58e4f0c561c25625a528aca1537ff677d8",
-                    "reference": "cf0b2e58e4f0c561c25625a528aca1537ff677d8",
-                    "shasum": ""
-                },
-                "time": "2026-01-14T14:42:39+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-d11-for-PG"
                 }
             },
             "dev-1043-wave-fixes-for-PG": {
