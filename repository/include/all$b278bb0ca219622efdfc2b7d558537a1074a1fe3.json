@@ -11525,15 +11525,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "f9f529b0e494acaa19ff2ae43dbe1b18cd348c0c"
+                    "reference": "05b34687d972b57ddca27a5fb6c5673d2babc5d2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f9f529b0e494acaa19ff2ae43dbe1b18cd348c0c",
-                    "reference": "f9f529b0e494acaa19ff2ae43dbe1b18cd348c0c",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/05b34687d972b57ddca27a5fb6c5673d2babc5d2",
+                    "reference": "05b34687d972b57ddca27a5fb6c5673d2babc5d2",
                     "shasum": ""
                 },
-                "time": "2026-01-14T15:21:13+00:00",
+                "time": "2026-01-15T16:47:26+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11617,31 +11617,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            "dev-1097-accessibility-forwardport-for-PG": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1097-accessibility-forwardport-for-PG",
-                "version_normalized": "dev-1097-accessibility-forwardport-for-PG",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "98581905d66dcb711d9da74ff530fb9de2450b0e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/98581905d66dcb711d9da74ff530fb9de2450b0e",
-                    "reference": "98581905d66dcb711d9da74ff530fb9de2450b0e",
-                    "shasum": ""
-                },
-                "time": "2026-01-15T16:27:31+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1097-accessibility-forwardport-for-PG"
                 }
             },
             "dev-222--pm-cron-d-check": {
