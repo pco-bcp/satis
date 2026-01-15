@@ -13903,15 +13903,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2f443568ffa273180d0b8c10e8cbd6a391b3777d"
+                    "reference": "4cf4ac0f91a1de4ab8f17cef867471d9ddddd3c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2f443568ffa273180d0b8c10e8cbd6a391b3777d",
-                    "reference": "2f443568ffa273180d0b8c10e8cbd6a391b3777d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4cf4ac0f91a1de4ab8f17cef867471d9ddddd3c8",
+                    "reference": "4cf4ac0f91a1de4ab8f17cef867471d9ddddd3c8",
                     "shasum": ""
                 },
-                "time": "2026-01-07T18:16:15+00:00",
+                "time": "2026-01-15T21:58:32+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13970,31 +13970,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            "dev-1102-new-bracket-list-style": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1102-new-bracket-list-style",
-                "version_normalized": "dev-1102-new-bracket-list-style",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "29899b07e9ad32245b398393e0887426f0a328db"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/29899b07e9ad32245b398393e0887426f0a328db",
-                    "reference": "29899b07e9ad32245b398393e0887426f0a328db",
-                    "shasum": ""
-                },
-                "time": "2026-01-15T21:35:37+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1102-new-bracket-list-style"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
