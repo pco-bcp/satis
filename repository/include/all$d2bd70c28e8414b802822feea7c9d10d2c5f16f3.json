@@ -13972,6 +13972,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
                 }
             },
+            "dev-1102-new-bracket-list-style": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-1102-new-bracket-list-style",
+                "version_normalized": "dev-1102-new-bracket-list-style",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "29899b07e9ad32245b398393e0887426f0a328db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/29899b07e9ad32245b398393e0887426f0a328db",
+                    "reference": "29899b07e9ad32245b398393e0887426f0a328db",
+                    "shasum": ""
+                },
+                "time": "2026-01-15T21:35:37+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1102-new-bracket-list-style"
+                }
+            },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
