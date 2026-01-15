@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "05b34687d972b57ddca27a5fb6c5673d2babc5d2"
+                    "reference": "42d54648e0875503ccb5e389e90ef8070fa2da67"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/05b34687d972b57ddca27a5fb6c5673d2babc5d2",
-                    "reference": "05b34687d972b57ddca27a5fb6c5673d2babc5d2",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/42d54648e0875503ccb5e389e90ef8070fa2da67",
+                    "reference": "42d54648e0875503ccb5e389e90ef8070fa2da67",
                     "shasum": ""
                 },
-                "time": "2026-01-15T16:47:26+00:00",
+                "time": "2026-01-15T22:16:49+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -200,31 +200,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1096-top-crop-for-portrait-photos-PG",
-                "version_normalized": "dev-1096-top-crop-for-portrait-photos-PG",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "fdf632d576872fc35cc59f4d0348460affdb29b3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/fdf632d576872fc35cc59f4d0348460affdb29b3",
-                    "reference": "fdf632d576872fc35cc59f4d0348460affdb29b3",
-                    "shasum": ""
-                },
-                "time": "2026-01-15T17:07:23+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1096-top-crop-for-portrait-photos-PG"
                 }
             },
             {
