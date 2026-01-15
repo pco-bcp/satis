@@ -11619,6 +11619,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
                 }
             },
+            "dev-1096-top-crop-for-portrait-photos-PG": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1096-top-crop-for-portrait-photos-PG",
+                "version_normalized": "dev-1096-top-crop-for-portrait-photos-PG",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "2493ff45ab51c4e4e842ecfaa40dcca2ffd56253"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2493ff45ab51c4e4e842ecfaa40dcca2ffd56253",
+                    "reference": "2493ff45ab51c4e4e842ecfaa40dcca2ffd56253",
+                    "shasum": ""
+                },
+                "time": "2026-01-15T17:01:08+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1096-top-crop-for-portrait-photos-PG"
+                }
+            },
             "dev-222--pm-cron-d-check": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
