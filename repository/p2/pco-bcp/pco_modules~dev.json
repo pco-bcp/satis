@@ -154,6 +154,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-1042-increased-h6",
+                "version_normalized": "dev-1042-increased-h6",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "7d600981ef78d5e5e03142bb6ed089ca3eb279a6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7d600981ef78d5e5e03142bb6ed089ca3eb279a6",
+                    "reference": "7d600981ef78d5e5e03142bb6ed089ca3eb279a6",
+                    "shasum": ""
+                },
+                "time": "2026-01-19T17:04:22+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1042-increased-h6"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-222-citation-d-check-fixes-2024-03-27",
                 "version_normalized": "dev-222-citation-d-check-fixes-2024-03-27",
                 "source": {
