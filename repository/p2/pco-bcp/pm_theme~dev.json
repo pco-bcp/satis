@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4cf4ac0f91a1de4ab8f17cef867471d9ddddd3c8"
+                    "reference": "e29bd2808ae98179a474c6d6d2135fbd84ea107c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4cf4ac0f91a1de4ab8f17cef867471d9ddddd3c8",
-                    "reference": "4cf4ac0f91a1de4ab8f17cef867471d9ddddd3c8",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e29bd2808ae98179a474c6d6d2135fbd84ea107c",
+                    "reference": "e29bd2808ae98179a474c6d6d2135fbd84ea107c",
                     "shasum": ""
                 },
-                "time": "2026-01-15T21:58:32+00:00",
+                "time": "2026-01-19T17:25:14+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -125,56 +125,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1042--update-header-sizes",
-                "version_normalized": "dev-1042--update-header-sizes",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "749897a71a03d7bb7a31004d07148e2103b2747c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/749897a71a03d7bb7a31004d07148e2103b2747c",
-                    "reference": "749897a71a03d7bb7a31004d07148e2103b2747c",
-                    "shasum": ""
-                },
-                "time": "2025-11-17T21:25:16+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1042--update-header-sizes"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1042-increased-h6",
-                "version_normalized": "dev-1042-increased-h6",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "c1d33a394b5e5fd0858f9c4e9bc398baec8b1f80"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c1d33a394b5e5fd0858f9c4e9bc398baec8b1f80",
-                    "reference": "c1d33a394b5e5fd0858f9c4e9bc398baec8b1f80",
-                    "shasum": ""
-                },
-                "time": "2026-01-19T17:03:13+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1042-increased-h6"
                 }
             },
             {

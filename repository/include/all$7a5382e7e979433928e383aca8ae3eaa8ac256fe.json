@@ -9547,15 +9547,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a556568788c69f042827ab2e21e0cb4ba0812ace"
+                    "reference": "43126e059e78e703d524636e70c407555503d1b8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a556568788c69f042827ab2e21e0cb4ba0812ace",
-                    "reference": "a556568788c69f042827ab2e21e0cb4ba0812ace",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/43126e059e78e703d524636e70c407555503d1b8",
+                    "reference": "43126e059e78e703d524636e70c407555503d1b8",
                     "shasum": ""
                 },
-                "time": "2026-01-08T19:41:20+00:00",
+                "time": "2026-01-19T17:26:35+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -9566,29 +9566,29 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.x"
                 }
             },
-            "dev-1042-increased-h6": {
+            "dev-1109-ordered-list-emails": {
                 "name": "pco-bcp/pco_modules",
-                "version": "dev-1042-increased-h6",
-                "version_normalized": "dev-1042-increased-h6",
+                "version": "dev-1109-ordered-list-emails",
+                "version_normalized": "dev-1109-ordered-list-emails",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "7d600981ef78d5e5e03142bb6ed089ca3eb279a6"
+                    "reference": "9d691ceefd1f5734a67b7f1e3b60634d84451e89"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7d600981ef78d5e5e03142bb6ed089ca3eb279a6",
-                    "reference": "7d600981ef78d5e5e03142bb6ed089ca3eb279a6",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/9d691ceefd1f5734a67b7f1e3b60634d84451e89",
+                    "reference": "9d691ceefd1f5734a67b7f1e3b60634d84451e89",
                     "shasum": ""
                 },
-                "time": "2026-01-19T17:04:22+00:00",
+                "time": "2026-01-20T18:37:03+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1042-increased-h6"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1109-ordered-list-emails"
                 }
             },
             "dev-222-citation-d-check-fixes-2024-03-27": {
@@ -13928,15 +13928,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4cf4ac0f91a1de4ab8f17cef867471d9ddddd3c8"
+                    "reference": "e29bd2808ae98179a474c6d6d2135fbd84ea107c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4cf4ac0f91a1de4ab8f17cef867471d9ddddd3c8",
-                    "reference": "4cf4ac0f91a1de4ab8f17cef867471d9ddddd3c8",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e29bd2808ae98179a474c6d6d2135fbd84ea107c",
+                    "reference": "e29bd2808ae98179a474c6d6d2135fbd84ea107c",
                     "shasum": ""
                 },
-                "time": "2026-01-15T21:58:32+00:00",
+                "time": "2026-01-19T17:25:14+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -13945,56 +13945,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.x"
-                }
-            },
-            "dev-1042--update-header-sizes": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1042--update-header-sizes",
-                "version_normalized": "dev-1042--update-header-sizes",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "749897a71a03d7bb7a31004d07148e2103b2747c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/749897a71a03d7bb7a31004d07148e2103b2747c",
-                    "reference": "749897a71a03d7bb7a31004d07148e2103b2747c",
-                    "shasum": ""
-                },
-                "time": "2025-11-17T21:25:16+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1042--update-header-sizes"
-                }
-            },
-            "dev-1042-increased-h6": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1042-increased-h6",
-                "version_normalized": "dev-1042-increased-h6",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "c1d33a394b5e5fd0858f9c4e9bc398baec8b1f80"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/c1d33a394b5e5fd0858f9c4e9bc398baec8b1f80",
-                    "reference": "c1d33a394b5e5fd0858f9c4e9bc398baec8b1f80",
-                    "shasum": ""
-                },
-                "time": "2026-01-19T17:03:13+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1042-increased-h6"
                 }
             },
             "dev-1098--fix-custom-list-indentation": {
