@@ -11569,6 +11569,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
                 }
             },
+            "dev-1003-keep-filter-open-when-populated": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1003-keep-filter-open-when-populated",
+                "version_normalized": "dev-1003-keep-filter-open-when-populated",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "dcda8410b2f52503ca2d6750e78acfaa4ea849b3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/dcda8410b2f52503ca2d6750e78acfaa4ea849b3",
+                    "reference": "dcda8410b2f52503ca2d6750e78acfaa4ea849b3",
+                    "shasum": ""
+                },
+                "time": "2026-01-26T14:39:30+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1003-keep-filter-open-when-populated"
+                }
+            },
             "dev-1005-keep-query-string-when-switching-langs": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-1005-keep-query-string-when-switching-langs",
@@ -38677,12 +38702,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "55233529162c776c086317f4a776bba7fbe1d73e"
+                    "reference": "ec3f689180fd4b7271159f77364be17e9b7775c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/55233529162c776c086317f4a776bba7fbe1d73e",
-                    "reference": "55233529162c776c086317f4a776bba7fbe1d73e",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/ec3f689180fd4b7271159f77364be17e9b7775c8",
+                    "reference": "ec3f689180fd4b7271159f77364be17e9b7775c8",
                     "shasum": ""
                 },
                 "require": {
@@ -38752,7 +38777,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2026-01-22T01:46:23+00:00",
+                "time": "2026-01-22T20:52:33+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {

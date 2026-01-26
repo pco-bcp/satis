@@ -129,6 +129,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1003-keep-filter-open-when-populated",
+                "version_normalized": "dev-1003-keep-filter-open-when-populated",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "dcda8410b2f52503ca2d6750e78acfaa4ea849b3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/dcda8410b2f52503ca2d6750e78acfaa4ea849b3",
+                    "reference": "dcda8410b2f52503ca2d6750e78acfaa4ea849b3",
+                    "shasum": ""
+                },
+                "time": "2026-01-26T14:39:30+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1003-keep-filter-open-when-populated"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1005-keep-query-string-when-switching-langs",
                 "version_normalized": "dev-1005-keep-query-string-when-switching-langs",
                 "source": {
