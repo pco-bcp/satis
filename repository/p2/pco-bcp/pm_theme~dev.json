@@ -154,6 +154,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-1111--feature-social-icons",
+                "version_normalized": "dev-1111--feature-social-icons",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "da6625e2639dd9a749f5c2a2ed80532e19915f9e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/da6625e2639dd9a749f5c2a2ed80532e19915f9e",
+                    "reference": "da6625e2639dd9a749f5c2a2ed80532e19915f9e",
+                    "shasum": ""
+                },
+                "time": "2026-01-27T16:38:23+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1111--feature-social-icons"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "version_normalized": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "source": {
