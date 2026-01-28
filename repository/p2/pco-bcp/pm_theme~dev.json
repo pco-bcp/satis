@@ -604,6 +604,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-948-bold-list-marker-ck5-new-plugin",
+                "version_normalized": "dev-948-bold-list-marker-ck5-new-plugin",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "619b7d0ac1b4b2486534a5b42b3e044d589d63cb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/619b7d0ac1b4b2486534a5b42b3e044d589d63cb",
+                    "reference": "619b7d0ac1b4b2486534a5b42b3e044d589d63cb",
+                    "shasum": ""
+                },
+                "time": "2026-01-28T14:25:10+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/948-bold-list-marker-ck5-new-plugin"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-961-date-filter-buttons",
                 "version_normalized": "dev-961-date-filter-buttons",
                 "source": {

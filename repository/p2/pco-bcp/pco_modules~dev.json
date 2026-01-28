@@ -579,6 +579,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-948-bold-list-marker-ck5-new-plugin",
+                "version_normalized": "dev-948-bold-list-marker-ck5-new-plugin",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "09577febb186d11998c9745ca2c80fc77e54e10c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/09577febb186d11998c9745ca2c80fc77e54e10c",
+                    "reference": "09577febb186d11998c9745ca2c80fc77e54e10c",
+                    "shasum": ""
+                },
+                "time": "2026-01-28T14:22:38+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/948-bold-list-marker-ck5-new-plugin"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "version_normalized": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
                 "source": {
