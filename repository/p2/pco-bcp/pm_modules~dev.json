@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "42d54648e0875503ccb5e389e90ef8070fa2da67"
+                    "reference": "cecb42a250caf4449fbae869a656bdcb6b494f06"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/42d54648e0875503ccb5e389e90ef8070fa2da67",
-                    "reference": "42d54648e0875503ccb5e389e90ef8070fa2da67",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/cecb42a250caf4449fbae869a656bdcb6b494f06",
+                    "reference": "cecb42a250caf4449fbae869a656bdcb6b494f06",
                     "shasum": ""
                 },
-                "time": "2026-01-15T22:16:49+00:00",
+                "time": "2026-01-29T19:01:34+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -650,31 +650,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/838-views-metatag-image"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-880--fix-3-text-lineup",
-                "version_normalized": "dev-880--fix-3-text-lineup",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "eb96d1fbb8f3aa7e7674739648e7aa102a75ed30"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/eb96d1fbb8f3aa7e7674739648e7aa102a75ed30",
-                    "reference": "eb96d1fbb8f3aa7e7674739648e7aa102a75ed30",
-                    "shasum": ""
-                },
-                "time": "2026-01-09T19:49:11+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/880--fix-3-text-lineup"
                 }
             },
             {
