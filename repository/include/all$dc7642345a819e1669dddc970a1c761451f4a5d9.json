@@ -13978,15 +13978,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e29bd2808ae98179a474c6d6d2135fbd84ea107c"
+                    "reference": "4ae6eea3065882a793a2d41006602455cc2a81aa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e29bd2808ae98179a474c6d6d2135fbd84ea107c",
-                    "reference": "e29bd2808ae98179a474c6d6d2135fbd84ea107c",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4ae6eea3065882a793a2d41006602455cc2a81aa",
+                    "reference": "4ae6eea3065882a793a2d41006602455cc2a81aa",
                     "shasum": ""
                 },
-                "time": "2026-01-19T17:25:14+00:00",
+                "time": "2026-01-29T15:38:25+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -14020,31 +14020,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            "dev-1111--feature-social-icons": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1111--feature-social-icons",
-                "version_normalized": "dev-1111--feature-social-icons",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "933210acdacd7e8074332c9b7af94fb1c4aac4c3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/933210acdacd7e8074332c9b7af94fb1c4aac4c3",
-                    "reference": "933210acdacd7e8074332c9b7af94fb1c4aac4c3",
-                    "shasum": ""
-                },
-                "time": "2026-01-27T17:01:48+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1111--feature-social-icons"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
