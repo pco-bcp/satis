@@ -2257,6 +2257,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.7"
                 }
             },
+            "dev-1117-staff-template": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-1117-staff-template",
+                "version_normalized": "dev-1117-staff-template",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "35a2156ae7a44d063209c5a41e83076098c3c6f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/35a2156ae7a44d063209c5a41e83076098c3c6f4",
+                    "reference": "35a2156ae7a44d063209c5a41e83076098c3c6f4",
+                    "shasum": ""
+                },
+                "time": "2026-01-30T21:20:55+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/1117-staff-template"
+                }
+            },
             "dev-24-upgrade-to-drupal-10": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "dev-24-upgrade-to-drupal-10",
