@@ -9547,15 +9547,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "43126e059e78e703d524636e70c407555503d1b8"
+                    "reference": "fce2dbfeec3100cea7f0dbf747999e5abd409cba"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/43126e059e78e703d524636e70c407555503d1b8",
-                    "reference": "43126e059e78e703d524636e70c407555503d1b8",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/fce2dbfeec3100cea7f0dbf747999e5abd409cba",
+                    "reference": "fce2dbfeec3100cea7f0dbf747999e5abd409cba",
                     "shasum": ""
                 },
-                "time": "2026-01-19T17:26:35+00:00",
+                "time": "2026-01-30T16:26:49+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -10014,31 +10014,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
-                }
-            },
-            "dev-948-bold-list-marker-ck5-new-plugin": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-948-bold-list-marker-ck5-new-plugin",
-                "version_normalized": "dev-948-bold-list-marker-ck5-new-plugin",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "09577febb186d11998c9745ca2c80fc77e54e10c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/09577febb186d11998c9745ca2c80fc77e54e10c",
-                    "reference": "09577febb186d11998c9745ca2c80fc77e54e10c",
-                    "shasum": ""
-                },
-                "time": "2026-01-28T14:22:38+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/948-bold-list-marker-ck5-new-plugin"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
@@ -13978,15 +13953,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4ae6eea3065882a793a2d41006602455cc2a81aa"
+                    "reference": "6f14ccd691cb61e7d6c6b4cd4f1a8ce0bcca0129"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4ae6eea3065882a793a2d41006602455cc2a81aa",
-                    "reference": "4ae6eea3065882a793a2d41006602455cc2a81aa",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/6f14ccd691cb61e7d6c6b4cd4f1a8ce0bcca0129",
+                    "reference": "6f14ccd691cb61e7d6c6b4cd4f1a8ce0bcca0129",
                     "shasum": ""
                 },
-                "time": "2026-01-29T15:38:25+00:00",
+                "time": "2026-01-30T16:26:53+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -14445,31 +14420,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/946-small-padding-on-translation"
-                }
-            },
-            "dev-948-bold-list-marker-ck5-new-plugin": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-948-bold-list-marker-ck5-new-plugin",
-                "version_normalized": "dev-948-bold-list-marker-ck5-new-plugin",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "619b7d0ac1b4b2486534a5b42b3e044d589d63cb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/619b7d0ac1b4b2486534a5b42b3e044d589d63cb",
-                    "reference": "619b7d0ac1b4b2486534a5b42b3e044d589d63cb",
-                    "shasum": ""
-                },
-                "time": "2026-01-28T14:25:10+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/948-bold-list-marker-ck5-new-plugin"
                 }
             },
             "dev-961-date-filter-buttons": {
