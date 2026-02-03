@@ -11625,15 +11625,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "c3a51d4829f1f4ec1d2d74db5049f419c9658c7d"
+                    "reference": "78503e5f5a10e3dc961084194b9bc5af93257f14"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c3a51d4829f1f4ec1d2d74db5049f419c9658c7d",
-                    "reference": "c3a51d4829f1f4ec1d2d74db5049f419c9658c7d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/78503e5f5a10e3dc961084194b9bc5af93257f14",
+                    "reference": "78503e5f5a10e3dc961084194b9bc5af93257f14",
                     "shasum": ""
                 },
-                "time": "2026-02-03T18:30:16+00:00",
+                "time": "2026-02-03T18:36:38+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11642,31 +11642,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
-                }
-            },
-            "dev-1005-keep-query-string-when-switching-langs": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1005-keep-query-string-when-switching-langs",
-                "version_normalized": "dev-1005-keep-query-string-when-switching-langs",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2497c88f695eabcadd63dec85a6bea3fb59be76a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2497c88f695eabcadd63dec85a6bea3fb59be76a",
-                    "reference": "2497c88f695eabcadd63dec85a6bea3fb59be76a",
-                    "shasum": ""
-                },
-                "time": "2026-01-22T16:39:25+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1005-keep-query-string-when-switching-langs"
                 }
             },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
