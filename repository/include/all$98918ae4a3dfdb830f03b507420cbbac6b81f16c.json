@@ -9572,15 +9572,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "fce2dbfeec3100cea7f0dbf747999e5abd409cba"
+                    "reference": "e521c5cc43953bd19fe809faf48f18fa4e001584"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/fce2dbfeec3100cea7f0dbf747999e5abd409cba",
-                    "reference": "fce2dbfeec3100cea7f0dbf747999e5abd409cba",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/e521c5cc43953bd19fe809faf48f18fa4e001584",
+                    "reference": "e521c5cc43953bd19fe809faf48f18fa4e001584",
                     "shasum": ""
                 },
-                "time": "2026-01-30T16:26:49+00:00",
+                "time": "2026-02-03T19:39:50+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -9614,31 +9614,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1109-ordered-list-emails"
-                }
-            },
-            "dev-1119--feat-bold-list-marker-plugin-enhancement": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-1119--feat-bold-list-marker-plugin-enhancement",
-                "version_normalized": "dev-1119--feat-bold-list-marker-plugin-enhancement",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "cb175bb6730236b9a75bee927554f562df68c84c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/cb175bb6730236b9a75bee927554f562df68c84c",
-                    "reference": "cb175bb6730236b9a75bee927554f562df68c84c",
-                    "shasum": ""
-                },
-                "time": "2026-02-02T14:50:16+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1119--feat-bold-list-marker-plugin-enhancement"
                 }
             },
             "dev-222-citation-d-check-fixes-2024-03-27": {
