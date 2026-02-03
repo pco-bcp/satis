@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "cecb42a250caf4449fbae869a656bdcb6b494f06"
+                    "reference": "c3a51d4829f1f4ec1d2d74db5049f419c9658c7d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/cecb42a250caf4449fbae869a656bdcb6b494f06",
-                    "reference": "cecb42a250caf4449fbae869a656bdcb6b494f06",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c3a51d4829f1f4ec1d2d74db5049f419c9658c7d",
+                    "reference": "c3a51d4829f1f4ec1d2d74db5049f419c9658c7d",
                     "shasum": ""
                 },
-                "time": "2026-01-29T19:01:34+00:00",
+                "time": "2026-02-03T18:30:16+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -125,31 +125,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1003-keep-filter-open-when-populated",
-                "version_normalized": "dev-1003-keep-filter-open-when-populated",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "102e01570caea4a61104f760b01771096c30f7e8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/102e01570caea4a61104f760b01771096c30f7e8",
-                    "reference": "102e01570caea4a61104f760b01771096c30f7e8",
-                    "shasum": ""
-                },
-                "time": "2026-02-03T15:43:32+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1003-keep-filter-open-when-populated"
                 }
             },
             {
