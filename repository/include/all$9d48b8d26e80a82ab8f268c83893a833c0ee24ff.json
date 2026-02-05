@@ -11769,6 +11769,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1121-fix-regressions-in-PG"
                 }
             },
+            "dev-1124-change-query-string-during-lang-switch": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1124-change-query-string-during-lang-switch",
+                "version_normalized": "dev-1124-change-query-string-during-lang-switch",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "597f508dec8547e124ab052579b0f02b63500f18"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/597f508dec8547e124ab052579b0f02b63500f18",
+                    "reference": "597f508dec8547e124ab052579b0f02b63500f18",
+                    "shasum": ""
+                },
+                "time": "2026-02-05T18:20:45+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1124-change-query-string-during-lang-switch"
+                }
+            },
             "dev-222--pm-cron-d-check": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
