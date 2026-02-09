@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "5f2b01606a7219e63ea3cd4ace45bdd2f2f91b9f"
+                    "reference": "45232ba027f97ebb27a73166493109891ffb6244"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5f2b01606a7219e63ea3cd4ace45bdd2f2f91b9f",
-                    "reference": "5f2b01606a7219e63ea3cd4ace45bdd2f2f91b9f",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/45232ba027f97ebb27a73166493109891ffb6244",
+                    "reference": "45232ba027f97ebb27a73166493109891ffb6244",
                     "shasum": ""
                 },
-                "time": "2026-02-09T18:04:57+00:00",
+                "time": "2026-02-09T18:21:02+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -200,31 +200,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1124-change-query-string-during-lang-switch",
-                "version_normalized": "dev-1124-change-query-string-during-lang-switch",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "19b901cf7d00d8e4ee1c6bb03b0739b9e2e40783"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/19b901cf7d00d8e4ee1c6bb03b0739b9e2e40783",
-                    "reference": "19b901cf7d00d8e4ee1c6bb03b0739b9e2e40783",
-                    "shasum": ""
-                },
-                "time": "2026-02-05T18:43:45+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1124-change-query-string-during-lang-switch"
                 }
             },
             {
