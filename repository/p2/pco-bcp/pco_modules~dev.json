@@ -133,15 +133,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "e521c5cc43953bd19fe809faf48f18fa4e001584"
+                    "reference": "4b48ae720955987daa222c161ea2924ea4b83bb7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/e521c5cc43953bd19fe809faf48f18fa4e001584",
-                    "reference": "e521c5cc43953bd19fe809faf48f18fa4e001584",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4b48ae720955987daa222c161ea2924ea4b83bb7",
+                    "reference": "4b48ae720955987daa222c161ea2924ea4b83bb7",
                     "shasum": ""
                 },
-                "time": "2026-02-03T19:39:50+00:00",
+                "time": "2026-02-11T19:32:52+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -149,7 +149,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.1"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.x"
                 }
             },
             {
@@ -600,31 +600,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-948--fix-bold-list-marker-with-bulleted-nested-list",
-                "version_normalized": "dev-948--fix-bold-list-marker-with-bulleted-nested-list",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "a4d7e10f4625505e794e748164b5f54d9a4e484b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a4d7e10f4625505e794e748164b5f54d9a4e484b",
-                    "reference": "a4d7e10f4625505e794e748164b5f54d9a4e484b",
-                    "shasum": ""
-                },
-                "time": "2026-02-11T18:36:11+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/948--fix-bold-list-marker-with-bulleted-nested-list"
                 }
             },
             {
