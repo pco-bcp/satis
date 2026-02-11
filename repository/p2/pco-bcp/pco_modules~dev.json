@@ -179,6 +179,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-1120-fix--list-markers-in-email",
+                "version_normalized": "dev-1120-fix--list-markers-in-email",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "914ac85948f158f33e14c27a3bbfb32111be1756"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/914ac85948f158f33e14c27a3bbfb32111be1756",
+                    "reference": "914ac85948f158f33e14c27a3bbfb32111be1756",
+                    "shasum": ""
+                },
+                "time": "2026-02-11T21:06:56+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1120-fix--list-markers-in-email"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-222-citation-d-check-fixes-2024-03-27",
                 "version_normalized": "dev-222-citation-d-check-fixes-2024-03-27",
                 "source": {

@@ -9641,6 +9641,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1109-ordered-list-emails"
                 }
             },
+            "dev-1120-fix--list-markers-in-email": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-1120-fix--list-markers-in-email",
+                "version_normalized": "dev-1120-fix--list-markers-in-email",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "914ac85948f158f33e14c27a3bbfb32111be1756"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/914ac85948f158f33e14c27a3bbfb32111be1756",
+                    "reference": "914ac85948f158f33e14c27a3bbfb32111be1756",
+                    "shasum": ""
+                },
+                "time": "2026-02-11T21:06:56+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1120-fix--list-markers-in-email"
+                }
+            },
             "dev-222-citation-d-check-fixes-2024-03-27": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-222-citation-d-check-fixes-2024-03-27",
@@ -39305,12 +39330,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "96a530ec37e2201cdf9f30134bed3d274dd151d3"
+                    "reference": "51328971cd347eeedf1aef9973a859a369a99fc5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/96a530ec37e2201cdf9f30134bed3d274dd151d3",
-                    "reference": "96a530ec37e2201cdf9f30134bed3d274dd151d3",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/51328971cd347eeedf1aef9973a859a369a99fc5",
+                    "reference": "51328971cd347eeedf1aef9973a859a369a99fc5",
                     "shasum": ""
                 },
                 "require": {
@@ -39380,7 +39405,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2026-02-10T22:34:42+00:00",
+                "time": "2026-02-11T21:06:47+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
