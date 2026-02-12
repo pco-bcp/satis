@@ -154,6 +154,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-1111--fix-no-icons-mobile",
+                "version_normalized": "dev-1111--fix-no-icons-mobile",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "5ba99b04bf2d1803af84d78418beddb033d0fa6f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/5ba99b04bf2d1803af84d78418beddb033d0fa6f",
+                    "reference": "5ba99b04bf2d1803af84d78418beddb033d0fa6f",
+                    "shasum": ""
+                },
+                "time": "2026-02-12T16:10:40+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1111--fix-no-icons-mobile"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "version_normalized": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "source": {
