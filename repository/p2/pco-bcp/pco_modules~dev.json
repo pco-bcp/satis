@@ -133,15 +133,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "4b48ae720955987daa222c161ea2924ea4b83bb7"
+                    "reference": "82821b48a600f3d93150f7a1c307a7504dabd122"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4b48ae720955987daa222c161ea2924ea4b83bb7",
-                    "reference": "4b48ae720955987daa222c161ea2924ea4b83bb7",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/82821b48a600f3d93150f7a1c307a7504dabd122",
+                    "reference": "82821b48a600f3d93150f7a1c307a7504dabd122",
                     "shasum": ""
                 },
-                "time": "2026-02-11T19:32:52+00:00",
+                "time": "2026-02-12T16:21:22+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -175,31 +175,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1109-ordered-list-emails"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-1120-fix--list-markers-in-email",
-                "version_normalized": "dev-1120-fix--list-markers-in-email",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "914ac85948f158f33e14c27a3bbfb32111be1756"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/914ac85948f158f33e14c27a3bbfb32111be1756",
-                    "reference": "914ac85948f158f33e14c27a3bbfb32111be1756",
-                    "shasum": ""
-                },
-                "time": "2026-02-11T21:06:56+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1120-fix--list-markers-in-email"
                 }
             },
             {
