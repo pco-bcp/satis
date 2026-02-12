@@ -11675,15 +11675,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "daa66c193553e9e4d5e60fa009a5af7045be1e1b"
+                    "reference": "2ee1fa9d136a846356fb25fe398598975ce9b5c3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/daa66c193553e9e4d5e60fa009a5af7045be1e1b",
-                    "reference": "daa66c193553e9e4d5e60fa009a5af7045be1e1b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2ee1fa9d136a846356fb25fe398598975ce9b5c3",
+                    "reference": "2ee1fa9d136a846356fb25fe398598975ce9b5c3",
                     "shasum": ""
                 },
-                "time": "2026-02-09T19:14:16+00:00",
+                "time": "2026-02-12T19:55:16+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11691,7 +11691,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.2"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
                 }
             },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
@@ -11767,31 +11767,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            "dev-1129-fix-label-in-fr-PG-date-filters": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1129-fix-label-in-fr-PG-date-filters",
-                "version_normalized": "dev-1129-fix-label-in-fr-PG-date-filters",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "e5669c80bc092591d0a0567cb9a9efa73cc5d7ed"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e5669c80bc092591d0a0567cb9a9efa73cc5d7ed",
-                    "reference": "e5669c80bc092591d0a0567cb9a9efa73cc5d7ed",
-                    "shasum": ""
-                },
-                "time": "2026-02-12T18:36:15+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1129-fix-label-in-fr-PG-date-filters"
                 }
             },
             "dev-222--pm-cron-d-check": {
