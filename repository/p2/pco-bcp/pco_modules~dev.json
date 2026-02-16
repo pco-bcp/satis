@@ -133,15 +133,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "82821b48a600f3d93150f7a1c307a7504dabd122"
+                    "reference": "a5b2e2fab01727932a4c366c585b2c722d239714"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/82821b48a600f3d93150f7a1c307a7504dabd122",
-                    "reference": "82821b48a600f3d93150f7a1c307a7504dabd122",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/a5b2e2fab01727932a4c366c585b2c722d239714",
+                    "reference": "a5b2e2fab01727932a4c366c585b2c722d239714",
                     "shasum": ""
                 },
-                "time": "2026-02-12T16:21:22+00:00",
+                "time": "2026-02-16T21:19:29+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -600,31 +600,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-948--fix-propagation-bold-list-marker-to-nested-lists",
-                "version_normalized": "dev-948--fix-propagation-bold-list-marker-to-nested-lists",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "95ae634ce22fe63f73bf5ddbaa03a2ce7f139256"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/95ae634ce22fe63f73bf5ddbaa03a2ce7f139256",
-                    "reference": "95ae634ce22fe63f73bf5ddbaa03a2ce7f139256",
-                    "shasum": ""
-                },
-                "time": "2026-02-16T19:18:05+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/948--fix-propagation-bold-list-marker-to-nested-lists"
                 }
             },
             {

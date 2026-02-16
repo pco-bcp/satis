@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d675f180597018633ce84bed9105957b09736068"
+                    "reference": "58177cf6076dec287538d0a219cc664f3999cacc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d675f180597018633ce84bed9105957b09736068",
-                    "reference": "d675f180597018633ce84bed9105957b09736068",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/58177cf6076dec287538d0a219cc664f3999cacc",
+                    "reference": "58177cf6076dec287538d0a219cc664f3999cacc",
                     "shasum": ""
                 },
-                "time": "2026-02-16T19:28:50+00:00",
+                "time": "2026-02-16T21:19:32+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -550,31 +550,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/946-small-padding-on-translation"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-948--fix-propagation-bold-list-marker-to-nested-lists",
-                "version_normalized": "dev-948--fix-propagation-bold-list-marker-to-nested-lists",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "10bf79f455124ad3b6de96d338a8c943f4bd9b59"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/10bf79f455124ad3b6de96d338a8c943f4bd9b59",
-                    "reference": "10bf79f455124ad3b6de96d338a8c943f4bd9b59",
-                    "shasum": ""
-                },
-                "time": "2026-02-16T19:21:22+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/948--fix-propagation-bold-list-marker-to-nested-lists"
                 }
             },
             {
