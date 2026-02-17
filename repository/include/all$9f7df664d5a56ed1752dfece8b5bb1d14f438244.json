@@ -10154,6 +10154,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
                 }
             },
+            "dev-945--fix-bold-list-markers-propagation-for-nested-list": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-945--fix-bold-list-markers-propagation-for-nested-list",
+                "version_normalized": "dev-945--fix-bold-list-markers-propagation-for-nested-list",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "69f3371a373c04e84558130b0e08054b3c80766b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/69f3371a373c04e84558130b0e08054b3c80766b",
+                    "reference": "69f3371a373c04e84558130b0e08054b3c80766b",
+                    "shasum": ""
+                },
+                "time": "2026-02-17T12:52:32+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/945--fix-bold-list-markers-propagation-for-nested-list"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
