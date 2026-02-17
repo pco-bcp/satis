@@ -1500,6 +1500,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.2"
                 }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "5.0.3",
+                "version_normalized": "5.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "58177cf6076dec287538d0a219cc664f3999cacc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/58177cf6076dec287538d0a219cc664f3999cacc",
+                    "reference": "58177cf6076dec287538d0a219cc664f3999cacc",
+                    "shasum": ""
+                },
+                "time": "2026-02-16T21:19:32+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.3"
+                }
             }
         ]
     }
