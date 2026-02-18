@@ -9710,15 +9710,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "b5c175a8f2973e3eee130931fdbe898ebe4c0204"
+                    "reference": "7a704012f2e4959bd9d208f5afc5a4f08e6537af"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/b5c175a8f2973e3eee130931fdbe898ebe4c0204",
-                    "reference": "b5c175a8f2973e3eee130931fdbe898ebe4c0204",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7a704012f2e4959bd9d208f5afc5a4f08e6537af",
+                    "reference": "7a704012f2e4959bd9d208f5afc5a4f08e6537af",
                     "shasum": ""
                 },
-                "time": "2026-02-17T13:44:19+00:00",
+                "time": "2026-02-18T15:16:56+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -9726,7 +9726,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.2"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.x"
                 }
             },
             "dev-1109-ordered-list-emails": {
@@ -10177,31 +10177,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
-                }
-            },
-            "dev-948--fix-nested-list-markers-are-bold-in-cke5": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-948--fix-nested-list-markers-are-bold-in-cke5",
-                "version_normalized": "dev-948--fix-nested-list-markers-are-bold-in-cke5",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "428490087f25e63f267816aca6a8e8c447450f32"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/428490087f25e63f267816aca6a8e8c447450f32",
-                    "reference": "428490087f25e63f267816aca6a8e8c447450f32",
-                    "shasum": ""
-                },
-                "time": "2026-02-18T14:29:25+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/948--fix-nested-list-markers-are-bold-in-cke5"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
