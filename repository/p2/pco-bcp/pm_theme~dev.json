@@ -154,6 +154,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-1132-add-space-to-imgs-in-bgs-articles",
+                "version_normalized": "dev-1132-add-space-to-imgs-in-bgs-articles",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e14d4c9602ec8bcb098db82e40a9c0dd4ee80341"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e14d4c9602ec8bcb098db82e40a9c0dd4ee80341",
+                    "reference": "e14d4c9602ec8bcb098db82e40a9c0dd4ee80341",
+                    "shasum": ""
+                },
+                "time": "2026-02-18T21:51:47+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1132-add-space-to-imgs-in-bgs-articles"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "version_normalized": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "source": {
