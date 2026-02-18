@@ -14216,15 +14216,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "58177cf6076dec287538d0a219cc664f3999cacc"
+                    "reference": "2b0268291b94b5d79dee50a97c3e28adac314f31"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/58177cf6076dec287538d0a219cc664f3999cacc",
-                    "reference": "58177cf6076dec287538d0a219cc664f3999cacc",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2b0268291b94b5d79dee50a97c3e28adac314f31",
+                    "reference": "2b0268291b94b5d79dee50a97c3e28adac314f31",
                     "shasum": ""
                 },
-                "time": "2026-02-16T21:19:32+00:00",
+                "time": "2026-02-18T16:14:44+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -14232,7 +14232,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.3"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.x"
                 }
             },
             "dev-1098--fix-custom-list-indentation": {
@@ -14658,31 +14658,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/946-small-padding-on-translation"
-                }
-            },
-            "dev-948--fix-nested-list-markers-are-bold-in-cke5": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-948--fix-nested-list-markers-are-bold-in-cke5",
-                "version_normalized": "dev-948--fix-nested-list-markers-are-bold-in-cke5",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "90f04dfec7458a04420b89adc6e07493fe06ba52"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/90f04dfec7458a04420b89adc6e07493fe06ba52",
-                    "reference": "90f04dfec7458a04420b89adc6e07493fe06ba52",
-                    "shasum": ""
-                },
-                "time": "2026-02-18T14:33:53+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/948--fix-nested-list-markers-are-bold-in-cke5"
                 }
             },
             "dev-961-date-filter-buttons": {
