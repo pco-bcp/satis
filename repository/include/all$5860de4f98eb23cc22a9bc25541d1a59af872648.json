@@ -11813,15 +11813,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2ee1fa9d136a846356fb25fe398598975ce9b5c3"
+                    "reference": "2972c5de17fa77071d23fa2bcdc9a1a96bb3e1b2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2ee1fa9d136a846356fb25fe398598975ce9b5c3",
-                    "reference": "2ee1fa9d136a846356fb25fe398598975ce9b5c3",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2972c5de17fa77071d23fa2bcdc9a1a96bb3e1b2",
+                    "reference": "2972c5de17fa77071d23fa2bcdc9a1a96bb3e1b2",
                     "shasum": ""
                 },
-                "time": "2026-02-12T19:55:16+00:00",
+                "time": "2026-02-18T15:55:39+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -11829,7 +11829,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.3"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
                 }
             },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
@@ -11880,31 +11880,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1019-css-changes"
-                }
-            },
-            "dev-1041-add-aria-label-PG": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1041-add-aria-label-PG",
-                "version_normalized": "dev-1041-add-aria-label-PG",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "453780bef74a36bb67c337352a19f06473b8f012"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/453780bef74a36bb67c337352a19f06473b8f012",
-                    "reference": "453780bef74a36bb67c337352a19f06473b8f012",
-                    "shasum": ""
-                },
-                "time": "2026-02-18T14:57:02+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1041-add-aria-label-PG"
                 }
             },
             "dev-1043-wave-fixes-for-PG": {
