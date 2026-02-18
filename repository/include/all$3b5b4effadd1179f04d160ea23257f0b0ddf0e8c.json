@@ -10179,6 +10179,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
                 }
             },
+            "dev-948--fix-nested-list-markers-are-bold-in-cke5": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-948--fix-nested-list-markers-are-bold-in-cke5",
+                "version_normalized": "dev-948--fix-nested-list-markers-are-bold-in-cke5",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "428490087f25e63f267816aca6a8e8c447450f32"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/428490087f25e63f267816aca6a8e8c447450f32",
+                    "reference": "428490087f25e63f267816aca6a8e8c447450f32",
+                    "shasum": ""
+                },
+                "time": "2026-02-18T14:29:25+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/948--fix-nested-list-markers-are-bold-in-cke5"
+                }
+            },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21",
@@ -14658,6 +14683,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/946-small-padding-on-translation"
+                }
+            },
+            "dev-948--fix-nested-list-markers-are-bold-in-cke5": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-948--fix-nested-list-markers-are-bold-in-cke5",
+                "version_normalized": "dev-948--fix-nested-list-markers-are-bold-in-cke5",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "90f04dfec7458a04420b89adc6e07493fe06ba52"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/90f04dfec7458a04420b89adc6e07493fe06ba52",
+                    "reference": "90f04dfec7458a04420b89adc6e07493fe06ba52",
+                    "shasum": ""
+                },
+                "time": "2026-02-18T14:33:53+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/948--fix-nested-list-markers-are-bold-in-cke5"
                 }
             },
             "dev-961-date-filter-buttons": {
