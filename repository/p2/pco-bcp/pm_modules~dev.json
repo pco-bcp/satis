@@ -124,7 +124,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.4"
                 }
             },
             {
