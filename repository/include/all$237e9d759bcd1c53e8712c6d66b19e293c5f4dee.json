@@ -14209,6 +14209,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.3"
                 }
             },
+            "5.0.4": {
+                "name": "pco-bcp/pm_theme",
+                "version": "5.0.4",
+                "version_normalized": "5.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "a6be0236289333126a39d91bb65c4844dd4515b8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a6be0236289333126a39d91bb65c4844dd4515b8",
+                    "reference": "a6be0236289333126a39d91bb65c4844dd4515b8",
+                    "shasum": ""
+                },
+                "time": "2026-02-19T16:36:22+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.4"
+                }
+            },
             "5.0.x-dev": {
                 "name": "pco-bcp/pm_theme",
                 "version": "5.0.x-dev",
@@ -14216,15 +14241,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2b0268291b94b5d79dee50a97c3e28adac314f31"
+                    "reference": "a6be0236289333126a39d91bb65c4844dd4515b8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2b0268291b94b5d79dee50a97c3e28adac314f31",
-                    "reference": "2b0268291b94b5d79dee50a97c3e28adac314f31",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a6be0236289333126a39d91bb65c4844dd4515b8",
+                    "reference": "a6be0236289333126a39d91bb65c4844dd4515b8",
                     "shasum": ""
                 },
-                "time": "2026-02-18T16:14:44+00:00",
+                "time": "2026-02-19T16:36:22+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -14258,31 +14283,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            "dev-1132-add-space-to-imgs-in-bgs-articles": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1132-add-space-to-imgs-in-bgs-articles",
-                "version_normalized": "dev-1132-add-space-to-imgs-in-bgs-articles",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "aa742a50a575059a5300386c2bae4ce65968dddb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/aa742a50a575059a5300386c2bae4ce65968dddb",
-                    "reference": "aa742a50a575059a5300386c2bae4ce65968dddb",
-                    "shasum": ""
-                },
-                "time": "2026-02-19T13:55:23+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1132-add-space-to-imgs-in-bgs-articles"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
