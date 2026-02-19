@@ -9710,15 +9710,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "7a704012f2e4959bd9d208f5afc5a4f08e6537af"
+                    "reference": "006371008701326692319cea6e02106c8ecdbc15"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7a704012f2e4959bd9d208f5afc5a4f08e6537af",
-                    "reference": "7a704012f2e4959bd9d208f5afc5a4f08e6537af",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/006371008701326692319cea6e02106c8ecdbc15",
+                    "reference": "006371008701326692319cea6e02106c8ecdbc15",
                     "shasum": ""
                 },
-                "time": "2026-02-18T15:16:56+00:00",
+                "time": "2026-02-19T15:42:42+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -10177,31 +10177,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
-                }
-            },
-            "dev-948--fix-inherited-class-attribute-when-using-custom-style": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-948--fix-inherited-class-attribute-when-using-custom-style",
-                "version_normalized": "dev-948--fix-inherited-class-attribute-when-using-custom-style",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "c1005791cc03184cd9792fd4e47a7498d886365c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/c1005791cc03184cd9792fd4e47a7498d886365c",
-                    "reference": "c1005791cc03184cd9792fd4e47a7498d886365c",
-                    "shasum": ""
-                },
-                "time": "2026-02-19T15:29:28+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/948--fix-inherited-class-attribute-when-using-custom-style"
                 }
             },
             "dev-fix--drupal-check-errors-pco_article_metatag-2023-07-21": {
