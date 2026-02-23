@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a6be0236289333126a39d91bb65c4844dd4515b8"
+                    "reference": "54cac02fc81eedbfa5e2acd3db6fd85e5bcbe29a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a6be0236289333126a39d91bb65c4844dd4515b8",
-                    "reference": "a6be0236289333126a39d91bb65c4844dd4515b8",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/54cac02fc81eedbfa5e2acd3db6fd85e5bcbe29a",
+                    "reference": "54cac02fc81eedbfa5e2acd3db6fd85e5bcbe29a",
                     "shasum": ""
                 },
-                "time": "2026-02-19T16:36:22+00:00",
+                "time": "2026-02-19T17:26:56+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -124,7 +124,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.4"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.x"
                 }
             },
             {
@@ -350,6 +350,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/353--fixes-content_missed_screen_reader-webform_V2-2024-05-21"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-577-fix-news-menus-content-are-hidden-when-on-main-content-click",
+                "version_normalized": "dev-577-fix-news-menus-content-are-hidden-when-on-main-content-click",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "3caa40423d91ffc9e1ea705a3ed0d75affc507b5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3caa40423d91ffc9e1ea705a3ed0d75affc507b5",
+                    "reference": "3caa40423d91ffc9e1ea705a3ed0d75affc507b5",
+                    "shasum": ""
+                },
+                "time": "2026-02-23T15:58:22+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/577-fix-news-menus-content-are-hidden-when-on-main-content-click"
                 }
             },
             {
