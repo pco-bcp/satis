@@ -654,6 +654,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-990-pm-modules-edit-photos-links",
+                "version_normalized": "dev-990-pm-modules-edit-photos-links",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "e7321c359c75bf5705b7bfc93fb02516d5b903ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e7321c359c75bf5705b7bfc93fb02516d5b903ca",
+                    "reference": "e7321c359c75bf5705b7bfc93fb02516d5b903ca",
+                    "shasum": ""
+                },
+                "time": "2026-02-24T16:11:22+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/990-pm-modules-edit-photos-links"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-995-photoswipe-lang-variable",
                 "version_normalized": "dev-995-photoswipe-lang-variable",
                 "source": {
