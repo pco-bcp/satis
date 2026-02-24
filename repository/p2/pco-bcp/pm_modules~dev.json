@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2972c5de17fa77071d23fa2bcdc9a1a96bb3e1b2"
+                    "reference": "8359fe370b6e5224e11a1f1cdcbce0ff2e36db67"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2972c5de17fa77071d23fa2bcdc9a1a96bb3e1b2",
-                    "reference": "2972c5de17fa77071d23fa2bcdc9a1a96bb3e1b2",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8359fe370b6e5224e11a1f1cdcbce0ff2e36db67",
+                    "reference": "8359fe370b6e5224e11a1f1cdcbce0ff2e36db67",
                     "shasum": ""
                 },
-                "time": "2026-02-18T15:55:39+00:00",
+                "time": "2026-02-24T18:15:57+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -124,7 +124,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.4"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
                 }
             },
             {
@@ -650,31 +650,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/99-es6-conversion-for-pm_photo"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-990-pm-modules-edit-photos-links",
-                "version_normalized": "dev-990-pm-modules-edit-photos-links",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "f6e99fa52b91d9f222a7e12021f4d2acafd556a3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f6e99fa52b91d9f222a7e12021f4d2acafd556a3",
-                    "reference": "f6e99fa52b91d9f222a7e12021f4d2acafd556a3",
-                    "shasum": ""
-                },
-                "time": "2026-02-24T16:48:24+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/990-pm-modules-edit-photos-links"
                 }
             },
             {
