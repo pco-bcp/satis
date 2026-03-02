@@ -14410,6 +14410,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1147-featured-items-rotation"
                 }
             },
+            "dev-1151-hashed-link-fix-for-published-articles": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-1151-hashed-link-fix-for-published-articles",
+                "version_normalized": "dev-1151-hashed-link-fix-for-published-articles",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "4162a38f0f2fd980a193ba4b6db1cbe9293e4c13"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4162a38f0f2fd980a193ba4b6db1cbe9293e4c13",
+                    "reference": "4162a38f0f2fd980a193ba4b6db1cbe9293e4c13",
+                    "shasum": ""
+                },
+                "time": "2026-03-02T16:37:30+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1151-hashed-link-fix-for-published-articles"
+                }
+            },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
