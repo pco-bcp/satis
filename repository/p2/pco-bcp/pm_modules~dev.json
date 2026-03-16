@@ -129,6 +129,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1001-create-multi-photo-upload-tool",
+                "version_normalized": "dev-1001-create-multi-photo-upload-tool",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "037595b7e9da916d813918cb467ef5ea9e93378a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/037595b7e9da916d813918cb467ef5ea9e93378a",
+                    "reference": "037595b7e9da916d813918cb467ef5ea9e93378a",
+                    "shasum": ""
+                },
+                "time": "2026-03-16T17:13:43+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1001-create-multi-photo-upload-tool"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1012-change-alt-des-fields-PG-2025-10-01",
                 "version_normalized": "dev-1012-change-alt-des-fields-PG-2025-10-01",
                 "source": {
