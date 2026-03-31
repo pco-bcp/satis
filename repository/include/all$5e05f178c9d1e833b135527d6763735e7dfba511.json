@@ -12108,6 +12108,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
                 }
             },
+            "dev-1001-fix-regression-in-PG": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1001-fix-regression-in-PG",
+                "version_normalized": "dev-1001-fix-regression-in-PG",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "395aa5ebaabce12682ebdce26db19f964efdda7e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/395aa5ebaabce12682ebdce26db19f964efdda7e",
+                    "reference": "395aa5ebaabce12682ebdce26db19f964efdda7e",
+                    "shasum": ""
+                },
+                "time": "2026-03-31T20:21:04+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1001-fix-regression-in-PG"
+                }
+            },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-1012-change-alt-des-fields-PG-2025-10-01",
