@@ -12115,15 +12115,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "a54f2005f8addc71ef391c1f2090f2c92c634c72"
+                    "reference": "d6692260c0dd4f88527372d22d2cc42bfcdf25a5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a54f2005f8addc71ef391c1f2090f2c92c634c72",
-                    "reference": "a54f2005f8addc71ef391c1f2090f2c92c634c72",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d6692260c0dd4f88527372d22d2cc42bfcdf25a5",
+                    "reference": "d6692260c0dd4f88527372d22d2cc42bfcdf25a5",
                     "shasum": ""
                 },
-                "time": "2026-03-30T13:51:28+00:00",
+                "time": "2026-03-31T15:25:22+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -14567,15 +14567,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4c575267ffb725efea9c3b152deb43f73843ce62"
+                    "reference": "98540339f677697d919264cdb58657e4db0fa7a7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4c575267ffb725efea9c3b152deb43f73843ce62",
-                    "reference": "4c575267ffb725efea9c3b152deb43f73843ce62",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/98540339f677697d919264cdb58657e4db0fa7a7",
+                    "reference": "98540339f677697d919264cdb58657e4db0fa7a7",
                     "shasum": ""
                 },
-                "time": "2026-02-23T16:50:45+00:00",
+                "time": "2026-03-31T15:22:47+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -14609,31 +14609,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            "dev-1144-hide-access-unpub-anonymous-user": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1144-hide-access-unpub-anonymous-user",
-                "version_normalized": "dev-1144-hide-access-unpub-anonymous-user",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "281a6e02dfc9ed7d7374126595f2ab6b385e826b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/281a6e02dfc9ed7d7374126595f2ab6b385e826b",
-                    "reference": "281a6e02dfc9ed7d7374126595f2ab6b385e826b",
-                    "shasum": ""
-                },
-                "time": "2026-02-25T22:59:15+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1144-hide-access-unpub-anonymous-user"
                 }
             },
             "dev-1147-featured-items-rotation": {
