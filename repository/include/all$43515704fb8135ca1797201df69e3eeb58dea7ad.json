@@ -12089,15 +12089,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "6b31c0b31572fc34865f4d3fc6da2b946b1b9d0e"
+                    "reference": "62958fb5f0cf11691755985de82754ba0a5cb362"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6b31c0b31572fc34865f4d3fc6da2b946b1b9d0e",
-                    "reference": "6b31c0b31572fc34865f4d3fc6da2b946b1b9d0e",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/62958fb5f0cf11691755985de82754ba0a5cb362",
+                    "reference": "62958fb5f0cf11691755985de82754ba0a5cb362",
                     "shasum": ""
                 },
-                "time": "2026-03-30T20:01:16+00:00",
+                "time": "2026-03-31T17:45:15+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -12106,31 +12106,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
-                }
-            },
-            "dev-1001-create-multi-photo-upload-tool": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1001-create-multi-photo-upload-tool",
-                "version_normalized": "dev-1001-create-multi-photo-upload-tool",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "d6692260c0dd4f88527372d22d2cc42bfcdf25a5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d6692260c0dd4f88527372d22d2cc42bfcdf25a5",
-                    "reference": "d6692260c0dd4f88527372d22d2cc42bfcdf25a5",
-                    "shasum": ""
-                },
-                "time": "2026-03-31T15:25:22+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1001-create-multi-photo-upload-tool"
                 }
             },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
@@ -12206,31 +12181,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            "dev-1147-tags-in-title-featured-items-ajax": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1147-tags-in-title-featured-items-ajax",
-                "version_normalized": "dev-1147-tags-in-title-featured-items-ajax",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "368a022e29b88249a210f7883a36e7bb31c2eb05"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/368a022e29b88249a210f7883a36e7bb31c2eb05",
-                    "reference": "368a022e29b88249a210f7883a36e7bb31c2eb05",
-                    "shasum": ""
-                },
-                "time": "2026-03-23T15:08:02+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1147-tags-in-title-featured-items-ajax"
                 }
             },
             "dev-222--pm-cron-d-check": {
@@ -14567,15 +14517,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "98540339f677697d919264cdb58657e4db0fa7a7"
+                    "reference": "3578a1fc0d78243110aed39e6416b4b6344d94ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/98540339f677697d919264cdb58657e4db0fa7a7",
-                    "reference": "98540339f677697d919264cdb58657e4db0fa7a7",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3578a1fc0d78243110aed39e6416b4b6344d94ce",
+                    "reference": "3578a1fc0d78243110aed39e6416b4b6344d94ce",
                     "shasum": ""
                 },
-                "time": "2026-03-31T15:22:47+00:00",
+                "time": "2026-03-31T15:35:25+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -14609,31 +14559,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            "dev-1147-featured-items-rotation": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1147-featured-items-rotation",
-                "version_normalized": "dev-1147-featured-items-rotation",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "3e66bad64ee1e420c83d91d8ea4d2041ed56ccbd"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3e66bad64ee1e420c83d91d8ea4d2041ed56ccbd",
-                    "reference": "3e66bad64ee1e420c83d91d8ea4d2041ed56ccbd",
-                    "shasum": ""
-                },
-                "time": "2026-03-04T20:50:43+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1147-featured-items-rotation"
                 }
             },
             "dev-1151-hashed-link-fix-for-published-articles": {
