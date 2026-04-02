@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "661e58bf6f77b8389e4d81b09ce0d29fefc3e4e9"
+                    "reference": "b79238e458463e49fca3adc154ad7af41a82129f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/661e58bf6f77b8389e4d81b09ce0d29fefc3e4e9",
-                    "reference": "661e58bf6f77b8389e4d81b09ce0d29fefc3e4e9",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/b79238e458463e49fca3adc154ad7af41a82129f",
+                    "reference": "b79238e458463e49fca3adc154ad7af41a82129f",
                     "shasum": ""
                 },
-                "time": "2026-04-01T20:53:35+00:00",
+                "time": "2026-04-02T15:53:41+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
