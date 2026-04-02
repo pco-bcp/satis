@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "37613cc43f922f0b229ddc3826fa7812991127a6"
+                    "reference": "b2e24dcd1047732d16d183fd301caeb6f6e18223"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/37613cc43f922f0b229ddc3826fa7812991127a6",
-                    "reference": "37613cc43f922f0b229ddc3826fa7812991127a6",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b2e24dcd1047732d16d183fd301caeb6f6e18223",
+                    "reference": "b2e24dcd1047732d16d183fd301caeb6f6e18223",
                     "shasum": ""
                 },
-                "time": "2026-04-02T19:27:11+00:00",
+                "time": "2026-04-02T19:39:00+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -200,31 +200,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1148--fix-custom-js-related-to-changing-page-base-to-1",
-                "version_normalized": "dev-1148--fix-custom-js-related-to-changing-page-base-to-1",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "36e16575352fa223409d58910053bd69ec0a6964"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/36e16575352fa223409d58910053bd69ec0a6964",
-                    "reference": "36e16575352fa223409d58910053bd69ec0a6964",
-                    "shasum": ""
-                },
-                "time": "2026-04-02T19:11:47+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1148--fix-custom-js-related-to-changing-page-base-to-1"
                 }
             },
             {
