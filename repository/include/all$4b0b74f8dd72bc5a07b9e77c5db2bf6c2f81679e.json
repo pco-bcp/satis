@@ -12208,6 +12208,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1153--fix-caching-when-using-params"
                 }
             },
+            "dev-1167-add-popup-to-reset-workspace": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1167-add-popup-to-reset-workspace",
+                "version_normalized": "dev-1167-add-popup-to-reset-workspace",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "a8946871613b8bf4c7b918592b5021de7c613ee5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a8946871613b8bf4c7b918592b5021de7c613ee5",
+                    "reference": "a8946871613b8bf4c7b918592b5021de7c613ee5",
+                    "shasum": ""
+                },
+                "time": "2026-04-02T18:18:38+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1167-add-popup-to-reset-workspace"
+                }
+            },
             "dev-222--pm-cron-d-check": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
