@@ -12057,6 +12057,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.4"
                 }
             },
+            "5.0.5": {
+                "name": "pco-bcp/pm_modules",
+                "version": "5.0.5",
+                "version_normalized": "5.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "b2e24dcd1047732d16d183fd301caeb6f6e18223"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b2e24dcd1047732d16d183fd301caeb6f6e18223",
+                    "reference": "b2e24dcd1047732d16d183fd301caeb6f6e18223",
+                    "shasum": ""
+                },
+                "time": "2026-04-02T19:39:00+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.5"
+                }
+            },
             "5.0.x-dev": {
                 "name": "pco-bcp/pm_modules",
                 "version": "5.0.x-dev",
@@ -14517,15 +14542,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "3578a1fc0d78243110aed39e6416b4b6344d94ce"
+                    "reference": "d404fefe5010428c6b7c3afb2d64dc7889278d4c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/3578a1fc0d78243110aed39e6416b4b6344d94ce",
-                    "reference": "3578a1fc0d78243110aed39e6416b4b6344d94ce",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d404fefe5010428c6b7c3afb2d64dc7889278d4c",
+                    "reference": "d404fefe5010428c6b7c3afb2d64dc7889278d4c",
                     "shasum": ""
                 },
-                "time": "2026-03-31T15:35:25+00:00",
+                "time": "2026-04-07T14:01:47+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -14559,31 +14584,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            "dev-1151-hashed-link-fix-for-published-articles": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1151-hashed-link-fix-for-published-articles",
-                "version_normalized": "dev-1151-hashed-link-fix-for-published-articles",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4162a38f0f2fd980a193ba4b6db1cbe9293e4c13"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4162a38f0f2fd980a193ba4b6db1cbe9293e4c13",
-                    "reference": "4162a38f0f2fd980a193ba4b6db1cbe9293e4c13",
-                    "shasum": ""
-                },
-                "time": "2026-03-02T16:37:30+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1151-hashed-link-fix-for-published-articles"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
@@ -40317,12 +40317,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "8a715aa9b10199194614c26ba7e8f25cc98bb7e2"
+                    "reference": "7309f3c28464952a74c39c7a0f0e9c8edfbe8d31"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/8a715aa9b10199194614c26ba7e8f25cc98bb7e2",
-                    "reference": "8a715aa9b10199194614c26ba7e8f25cc98bb7e2",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/7309f3c28464952a74c39c7a0f0e9c8edfbe8d31",
+                    "reference": "7309f3c28464952a74c39c7a0f0e9c8edfbe8d31",
                     "shasum": ""
                 },
                 "require": {
@@ -40397,7 +40397,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2026-04-01T20:18:41+00:00",
+                "time": "2026-04-07T13:51:11+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
