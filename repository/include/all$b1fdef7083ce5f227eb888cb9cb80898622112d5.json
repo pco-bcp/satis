@@ -6861,18 +6861,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "8fa71d75ccd59eb68f9794f9ae56da7397977ad5"
+                    "reference": "8d949e009c43d82d0fe182179ef8654511d5ffca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/8fa71d75ccd59eb68f9794f9ae56da7397977ad5",
-                    "reference": "8fa71d75ccd59eb68f9794f9ae56da7397977ad5",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/8d949e009c43d82d0fe182179ef8654511d5ffca",
+                    "reference": "8d949e009c43d82d0fe182179ef8654511d5ffca",
                     "shasum": ""
                 },
                 "require": {
-                    "drupalwxt/wxt": "5.6.1"
+                    "drupalwxt/wxt": "6.2.0"
                 },
-                "time": "2026-04-02T15:52:57+00:00",
+                "time": "2026-04-09T17:05:26+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -6937,9 +6937,9 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
+                "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/5.6.x"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/6.2.x"
                 }
             },
             "dev-1067-challenge-submission-portal-error": {
@@ -7116,94 +7116,6 @@
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/1130-process-mapping-modules"
-                }
-            },
-            "dev-1182--update-wxt-to-6.2.0": {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-1182--update-wxt-to-6.2.0",
-                "version_normalized": "dev-1182--update-wxt-to-6.2.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "16cc28c458068afb5eb269bf343c313cca012767"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/16cc28c458068afb5eb269bf343c313cca012767",
-                    "reference": "16cc28c458068afb5eb269bf343c313cca012767",
-                    "shasum": ""
-                },
-                "require": {
-                    "drupalwxt/wxt": "6.2.0"
-                },
-                "time": "2026-04-09T16:19:38+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/1182--update-wxt-to-6.2.0"
                 }
             },
             "dev-24--update-to-last-4.5.x": {
