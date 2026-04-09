@@ -454,6 +454,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-374--fix-php-cs-errors",
+                "version_normalized": "dev-374--fix-php-cs-errors",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "09ff435e24562679a94b868232af756703d87430"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/09ff435e24562679a94b868232af756703d87430",
+                    "reference": "09ff435e24562679a94b868232af756703d87430",
+                    "shasum": ""
+                },
+                "time": "2026-04-09T18:09:34+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/374--fix-php-cs-errors"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-545--fix-french-accents-drupal-message-when-sending-forms",
                 "version_normalized": "dev-545--fix-french-accents-drupal-message-when-sending-forms",
                 "source": {
