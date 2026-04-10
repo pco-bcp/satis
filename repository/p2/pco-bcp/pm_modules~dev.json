@@ -204,6 +204,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1128-new-share-icon",
+                "version_normalized": "dev-1128-new-share-icon",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "991ed6dd0b1b0eb06c78aa796cdafe579b01dee4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/991ed6dd0b1b0eb06c78aa796cdafe579b01dee4",
+                    "reference": "991ed6dd0b1b0eb06c78aa796cdafe579b01dee4",
+                    "shasum": ""
+                },
+                "time": "2026-04-10T20:57:06+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1128-new-share-icon"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1150-add-hide-show-to-caption-photoswipe",
                 "version_normalized": "dev-1150-add-hide-show-to-caption-photoswipe",
                 "source": {
