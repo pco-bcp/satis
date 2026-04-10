@@ -154,6 +154,31 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-1173--feature-add-instagram-icon",
+                "version_normalized": "dev-1173--feature-add-instagram-icon",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "906ae51b62ee56fcbbbb26034555562f9b611dde"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/906ae51b62ee56fcbbbb26034555562f9b611dde",
+                    "reference": "906ae51b62ee56fcbbbb26034555562f9b611dde",
+                    "shasum": ""
+                },
+                "time": "2026-04-10T18:39:30+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1173--feature-add-instagram-icon"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "version_normalized": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "source": {
