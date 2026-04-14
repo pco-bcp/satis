@@ -20,6 +20,7 @@
                     "drupalwxt/wxt": "5.6.1"
                 },
                 "time": "2026-04-02T15:52:57+00:00",
+                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -1570,7 +1571,6 @@
                     "drupalwxt/wxt": "5.4.1"
                 },
                 "time": "2025-11-12T17:05:01+00:00",
-                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
