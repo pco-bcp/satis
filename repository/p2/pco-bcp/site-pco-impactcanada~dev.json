@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "2f6adc8fee1e3be77f67adfa4ccd1f6ddc875848"
+                    "reference": "0b2f58ab8df908c353098198ad7ab654a6fb44ff"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/2f6adc8fee1e3be77f67adfa4ccd1f6ddc875848",
-                    "reference": "2f6adc8fee1e3be77f67adfa4ccd1f6ddc875848",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/0b2f58ab8df908c353098198ad7ab654a6fb44ff",
+                    "reference": "0b2f58ab8df908c353098198ad7ab654a6fb44ff",
                     "shasum": ""
                 },
                 "require": {
@@ -68,17 +68,17 @@
                     "drupal/webform_views": "^5.0@beta",
                     "mglaman/composer-drupal-lenient": "^1.0",
                     "oomphinc/composer-installers-extender": "^2 || ^1.1",
-                    "pco-bcp/impact_bootstrap": "*",
-                    "pco-bcp/pco_cities": "5.6.x-dev",
+                    "pco-bcp/impact_bootstrap": "^3.1",
+                    "pco-bcp/pco_cities": "^3.1",
                     "phpstan/phpstan": "^1.3",
                     "scssphp/scssphp": "^1.13",
                     "wikimedia/composer-merge-plugin": "^2.0"
                 },
                 "require-dev": {
-                    "drupal/core-composer-scaffold": "^10.6",
-                    "drupal/core-dev": "^10.6",
-                    "drupal/core-project-message": "^10.6",
-                    "drupal/core-recommended": "^10.6",
+                    "drupal/core-composer-scaffold": "~10.6.7",
+                    "drupal/core-dev": "~10.6.7",
+                    "drupal/core-project-message": "~10.6.7",
+                    "drupal/core-recommended": "~10.6.7",
                     "drupal/drupal-extension": "^5.1.0",
                     "drupal/upgrade_status": "^4.3",
                     "drush/drush": "^12",
@@ -89,7 +89,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2026-04-14T19:18:53+00:00",
+                "time": "2026-04-16T15:07:34+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -1047,12 +1047,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "4bd1af24e0a3c23706aea2a6f30ec6ef3e57f801"
+                    "reference": "eb63b91fc9739ffc45647eb64df14fcb5bf14783"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/4bd1af24e0a3c23706aea2a6f30ec6ef3e57f801",
-                    "reference": "4bd1af24e0a3c23706aea2a6f30ec6ef3e57f801",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/eb63b91fc9739ffc45647eb64df14fcb5bf14783",
+                    "reference": "eb63b91fc9739ffc45647eb64df14fcb5bf14783",
                     "shasum": ""
                 },
                 "require": {
@@ -1122,7 +1122,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2026-04-13T20:00:49+00:00",
+                "time": "2026-04-15T13:39:01+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
