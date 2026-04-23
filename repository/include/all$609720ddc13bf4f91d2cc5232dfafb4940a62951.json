@@ -12642,15 +12642,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "e0c42c1e812508b0a00f83bb8a10aa438702780b"
+                    "reference": "1f8e0ac76a618e6b76dc5c4b43986970225d404e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e0c42c1e812508b0a00f83bb8a10aa438702780b",
-                    "reference": "e0c42c1e812508b0a00f83bb8a10aa438702780b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1f8e0ac76a618e6b76dc5c4b43986970225d404e",
+                    "reference": "1f8e0ac76a618e6b76dc5c4b43986970225d404e",
                     "shasum": ""
                 },
-                "time": "2026-04-22T17:32:48+00:00",
+                "time": "2026-04-23T14:28:21+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -41387,12 +41387,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "fe0403cc2fc6340dc05d6f672802ee3b6e716545"
+                    "reference": "f844688d45d7438aa2a6c044da502f6cfb466499"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/fe0403cc2fc6340dc05d6f672802ee3b6e716545",
-                    "reference": "fe0403cc2fc6340dc05d6f672802ee3b6e716545",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/f844688d45d7438aa2a6c044da502f6cfb466499",
+                    "reference": "f844688d45d7438aa2a6c044da502f6cfb466499",
                     "shasum": ""
                 },
                 "require": {
@@ -41469,7 +41469,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2026-04-20T20:11:17+00:00",
+                "time": "2026-04-23T14:13:57+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -41530,6 +41530,9 @@
                         },
                         "drupal/layout_builder_st": {
                             "Fix null SectionStorage error (3069964)": "https://www.drupal.org/files/issues/2025-01-02/3069964-null-fix.patch"
+                        },
+                        "codemirror/codemirror": {
+                            "#3531472: Drupal 10.5 / 11.2 incompatibility": "https://www.drupal.org/files/issues/2025-11-13/ckeditor_codemirror-codemirror-LIBRARY-3531472-copyobj-hasownproperty-fix.diff"
                         }
                     }
                 },
@@ -41551,7 +41554,7 @@
                 ],
                 "description": "Project template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/3.1.38"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/5.6.x"
                 }
             },
             "6.2.x-dev": {
