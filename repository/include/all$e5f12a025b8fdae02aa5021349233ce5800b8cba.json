@@ -12629,15 +12629,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "6187fd15ca022e904de5e39a7d391943e5cc65a9"
+                    "reference": "d1ebd673166058a6779eb25ddc2f4e2b17019738"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6187fd15ca022e904de5e39a7d391943e5cc65a9",
-                    "reference": "6187fd15ca022e904de5e39a7d391943e5cc65a9",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d1ebd673166058a6779eb25ddc2f4e2b17019738",
+                    "reference": "d1ebd673166058a6779eb25ddc2f4e2b17019738",
                     "shasum": ""
                 },
-                "time": "2026-04-13T14:02:21+00:00",
+                "time": "2026-04-24T15:54:06+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -12645,7 +12645,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.6"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
                 }
             },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
@@ -12721,31 +12721,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            "dev-1084-add-tagged-photos-cron": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1084-add-tagged-photos-cron",
-                "version_normalized": "dev-1084-add-tagged-photos-cron",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "fa08093b1473cc588dc266f76383b766600d5940"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/fa08093b1473cc588dc266f76383b766600d5940",
-                    "reference": "fa08093b1473cc588dc266f76383b766600d5940",
-                    "shasum": ""
-                },
-                "time": "2026-04-24T15:18:16+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1084-add-tagged-photos-cron"
                 }
             },
             "dev-1150-add-hide-show-to-caption-photoswipe": {
