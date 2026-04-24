@@ -12773,6 +12773,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1167-add-popup-to-reset-workspace"
                 }
             },
+            "dev-1202--fix-cron-launcher-errors": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1202--fix-cron-launcher-errors",
+                "version_normalized": "dev-1202--fix-cron-launcher-errors",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "9ece36e3901e368bc90c2e49c667572c817f1b10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9ece36e3901e368bc90c2e49c667572c817f1b10",
+                    "reference": "9ece36e3901e368bc90c2e49c667572c817f1b10",
+                    "shasum": ""
+                },
+                "time": "2026-04-24T18:45:45+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1202--fix-cron-launcher-errors"
+                }
+            },
             "dev-222--pm-cron-d-check": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
