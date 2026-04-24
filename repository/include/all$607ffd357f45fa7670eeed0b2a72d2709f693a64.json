@@ -12723,6 +12723,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
                 }
             },
+            "dev-1084-change-to-second": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1084-change-to-second",
+                "version_normalized": "dev-1084-change-to-second",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "f2ff5809df3b9e5c9ebfba66168a9ba8fcd103f2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f2ff5809df3b9e5c9ebfba66168a9ba8fcd103f2",
+                    "reference": "f2ff5809df3b9e5c9ebfba66168a9ba8fcd103f2",
+                    "shasum": ""
+                },
+                "time": "2026-04-24T19:40:36+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1084-change-to-second"
+                }
+            },
             "dev-1131-fix-missing-rows-in-photoswipe": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-1131-fix-missing-rows-in-photoswipe",
