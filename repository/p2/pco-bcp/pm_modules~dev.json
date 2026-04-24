@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "d1ebd673166058a6779eb25ddc2f4e2b17019738"
+                    "reference": "5c13461995a748223f92acbf6d21ec119d7739a0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d1ebd673166058a6779eb25ddc2f4e2b17019738",
-                    "reference": "d1ebd673166058a6779eb25ddc2f4e2b17019738",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5c13461995a748223f92acbf6d21ec119d7739a0",
+                    "reference": "5c13461995a748223f92acbf6d21ec119d7739a0",
                     "shasum": ""
                 },
-                "time": "2026-04-24T15:54:06+00:00",
+                "time": "2026-04-24T19:49:42+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -200,31 +200,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1084-change-to-second",
-                "version_normalized": "dev-1084-change-to-second",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "f2ff5809df3b9e5c9ebfba66168a9ba8fcd103f2"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f2ff5809df3b9e5c9ebfba66168a9ba8fcd103f2",
-                    "reference": "f2ff5809df3b9e5c9ebfba66168a9ba8fcd103f2",
-                    "shasum": ""
-                },
-                "time": "2026-04-24T19:40:36+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1084-change-to-second"
                 }
             },
             {
