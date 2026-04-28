@@ -15276,6 +15276,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1173--feature-add-instagram-icon"
                 }
             },
+            "dev-1208--fix-css-visted-links-social-media-icons": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-1208--fix-css-visted-links-social-media-icons",
+                "version_normalized": "dev-1208--fix-css-visted-links-social-media-icons",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "9cdc8b12c9e254797898e182d704bab670dfea93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9cdc8b12c9e254797898e182d704bab670dfea93",
+                    "reference": "9cdc8b12c9e254797898e182d704bab670dfea93",
+                    "shasum": ""
+                },
+                "time": "2026-04-28T15:10:29+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1208--fix-css-visted-links-social-media-icons"
+                }
+            },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
