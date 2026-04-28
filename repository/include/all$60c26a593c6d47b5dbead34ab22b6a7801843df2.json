@@ -12730,15 +12730,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "8f7b2af31d014cf445b0ec1ddd437a176220c336"
+                    "reference": "3194ef6872f1364bf74e8528784ced6ae3f1d128"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8f7b2af31d014cf445b0ec1ddd437a176220c336",
-                    "reference": "8f7b2af31d014cf445b0ec1ddd437a176220c336",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3194ef6872f1364bf74e8528784ced6ae3f1d128",
+                    "reference": "3194ef6872f1364bf74e8528784ced6ae3f1d128",
                     "shasum": ""
                 },
-                "time": "2026-04-24T19:21:09+00:00",
+                "time": "2026-04-28T17:04:24+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -15207,15 +15207,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d404fefe5010428c6b7c3afb2d64dc7889278d4c"
+                    "reference": "a0d12cb5956490f898ca714335be35e0b6689b55"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d404fefe5010428c6b7c3afb2d64dc7889278d4c",
-                    "reference": "d404fefe5010428c6b7c3afb2d64dc7889278d4c",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a0d12cb5956490f898ca714335be35e0b6689b55",
+                    "reference": "a0d12cb5956490f898ca714335be35e0b6689b55",
                     "shasum": ""
                 },
-                "time": "2026-04-07T14:01:47+00:00",
+                "time": "2026-04-28T15:14:48+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -15223,7 +15223,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.5"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.x"
                 }
             },
             "dev-1098--fix-custom-list-indentation": {
@@ -15274,31 +15274,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1173--feature-add-instagram-icon"
-                }
-            },
-            "dev-1208--fix-css-visted-links-social-media-icons": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1208--fix-css-visted-links-social-media-icons",
-                "version_normalized": "dev-1208--fix-css-visted-links-social-media-icons",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "9cdc8b12c9e254797898e182d704bab670dfea93"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9cdc8b12c9e254797898e182d704bab670dfea93",
-                    "reference": "9cdc8b12c9e254797898e182d704bab670dfea93",
-                    "shasum": ""
-                },
-                "time": "2026-04-28T15:10:29+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1208--fix-css-visted-links-social-media-icons"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
