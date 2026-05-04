@@ -504,6 +504,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-640-monolog-custom-helper-module",
+                "version_normalized": "dev-640-monolog-custom-helper-module",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "5bba1462142023add9448e9039f14043cd5ced63"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/5bba1462142023add9448e9039f14043cd5ced63",
+                    "reference": "5bba1462142023add9448e9039f14043cd5ced63",
+                    "shasum": ""
+                },
+                "time": "2026-05-04T17:50:20+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/640-monolog-custom-helper-module"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-722-envoke-d11",
                 "version_normalized": "dev-722-envoke-d11",
                 "source": {
