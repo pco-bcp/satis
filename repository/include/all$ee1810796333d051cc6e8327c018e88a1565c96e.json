@@ -15207,15 +15207,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a0d12cb5956490f898ca714335be35e0b6689b55"
+                    "reference": "250b9564f8adf865b8e1e3f6b8f86168f0cb4acb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a0d12cb5956490f898ca714335be35e0b6689b55",
-                    "reference": "a0d12cb5956490f898ca714335be35e0b6689b55",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/250b9564f8adf865b8e1e3f6b8f86168f0cb4acb",
+                    "reference": "250b9564f8adf865b8e1e3f6b8f86168f0cb4acb",
                     "shasum": ""
                 },
-                "time": "2026-04-28T15:14:48+00:00",
+                "time": "2026-05-04T15:20:26+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -15249,31 +15249,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            "dev-1173--feature-add-instagram-icon": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1173--feature-add-instagram-icon",
-                "version_normalized": "dev-1173--feature-add-instagram-icon",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "210135ce89321d391e6ce42059c2a40f95399c7d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/210135ce89321d391e6ce42059c2a40f95399c7d",
-                    "reference": "210135ce89321d391e6ce42059c2a40f95399c7d",
-                    "shasum": ""
-                },
-                "time": "2026-04-14T17:55:42+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1173--feature-add-instagram-icon"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
