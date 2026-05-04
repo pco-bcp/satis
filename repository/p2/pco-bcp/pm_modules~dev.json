@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "5c13461995a748223f92acbf6d21ec119d7739a0"
+                    "reference": "35220e9c5e5b09bbeaf0a9aa88a0218347f88f1e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5c13461995a748223f92acbf6d21ec119d7739a0",
-                    "reference": "5c13461995a748223f92acbf6d21ec119d7739a0",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/35220e9c5e5b09bbeaf0a9aa88a0218347f88f1e",
+                    "reference": "35220e9c5e5b09bbeaf0a9aa88a0218347f88f1e",
                     "shasum": ""
                 },
-                "time": "2026-04-24T19:49:42+00:00",
+                "time": "2026-05-04T19:10:22+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -200,31 +200,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1131-fix-missing-rows-in-photoswipe",
-                "version_normalized": "dev-1131-fix-missing-rows-in-photoswipe",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "d8cb78c96b4eb03004a11bd09e3786f6c77068a0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d8cb78c96b4eb03004a11bd09e3786f6c77068a0",
-                    "reference": "d8cb78c96b4eb03004a11bd09e3786f6c77068a0",
-                    "shasum": ""
-                },
-                "time": "2026-05-04T18:33:49+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1131-fix-missing-rows-in-photoswipe"
                 }
             },
             {
