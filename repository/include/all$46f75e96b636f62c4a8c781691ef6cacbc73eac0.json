@@ -12679,15 +12679,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "af04b38c7e40f68a61b56f9bc37e3b896f17e76b"
+                    "reference": "39fd019d112a47d6029b886777ef8cf8745f6db0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/af04b38c7e40f68a61b56f9bc37e3b896f17e76b",
-                    "reference": "af04b38c7e40f68a61b56f9bc37e3b896f17e76b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/39fd019d112a47d6029b886777ef8cf8745f6db0",
+                    "reference": "39fd019d112a47d6029b886777ef8cf8745f6db0",
                     "shasum": ""
                 },
-                "time": "2026-05-05T15:13:00+00:00",
+                "time": "2026-05-05T15:43:26+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -12771,31 +12771,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            "dev-1150-add-hide-show-to-caption-photoswipe": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1150-add-hide-show-to-caption-photoswipe",
-                "version_normalized": "dev-1150-add-hide-show-to-caption-photoswipe",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "1f8e0ac76a618e6b76dc5c4b43986970225d404e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1f8e0ac76a618e6b76dc5c4b43986970225d404e",
-                    "reference": "1f8e0ac76a618e6b76dc5c4b43986970225d404e",
-                    "shasum": ""
-                },
-                "time": "2026-04-23T14:28:21+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1150-add-hide-show-to-caption-photoswipe"
                 }
             },
             "dev-1167-add-popup-to-reset-workspace": {
