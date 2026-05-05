@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "35220e9c5e5b09bbeaf0a9aa88a0218347f88f1e"
+                    "reference": "af04b38c7e40f68a61b56f9bc37e3b896f17e76b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/35220e9c5e5b09bbeaf0a9aa88a0218347f88f1e",
-                    "reference": "35220e9c5e5b09bbeaf0a9aa88a0218347f88f1e",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/af04b38c7e40f68a61b56f9bc37e3b896f17e76b",
+                    "reference": "af04b38c7e40f68a61b56f9bc37e3b896f17e76b",
                     "shasum": ""
                 },
-                "time": "2026-05-04T19:10:22+00:00",
+                "time": "2026-05-05T15:13:00+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -250,31 +250,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1167-add-popup-to-reset-workspace"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1202--fix-cron-launcher-errors",
-                "version_normalized": "dev-1202--fix-cron-launcher-errors",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "9ece36e3901e368bc90c2e49c667572c817f1b10"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9ece36e3901e368bc90c2e49c667572c817f1b10",
-                    "reference": "9ece36e3901e368bc90c2e49c667572c817f1b10",
-                    "shasum": ""
-                },
-                "time": "2026-04-24T18:45:45+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1202--fix-cron-launcher-errors"
                 }
             },
             {
