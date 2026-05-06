@@ -229,6 +229,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1212-remove-alt-in-multi-upload-tool",
+                "version_normalized": "dev-1212-remove-alt-in-multi-upload-tool",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "187d3fd1b1709323269a414c4ddacacce7184895"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/187d3fd1b1709323269a414c4ddacacce7184895",
+                    "reference": "187d3fd1b1709323269a414c4ddacacce7184895",
+                    "shasum": ""
+                },
+                "time": "2026-05-06T17:53:32+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1212-remove-alt-in-multi-upload-tool"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {
