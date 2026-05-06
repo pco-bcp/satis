@@ -10649,15 +10649,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "4592b20ed840a4eb441c238ab049828641e71cb2"
+                    "reference": "2c386385bdf83ccff9a7c89acb59614d8a0c7571"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/4592b20ed840a4eb441c238ab049828641e71cb2",
-                    "reference": "4592b20ed840a4eb441c238ab049828641e71cb2",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2c386385bdf83ccff9a7c89acb59614d8a0c7571",
+                    "reference": "2c386385bdf83ccff9a7c89acb59614d8a0c7571",
                     "shasum": ""
                 },
-                "time": "2026-05-05T16:16:13+00:00",
+                "time": "2026-05-06T19:39:33+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -10665,7 +10665,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.4"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.x"
                 }
             },
             "dev-1109-ordered-list-emails": {
@@ -10691,31 +10691,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1109-ordered-list-emails"
-                }
-            },
-            "dev-1189--fix-french-accent-encoding-in-email": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-1189--fix-french-accent-encoding-in-email",
-                "version_normalized": "dev-1189--fix-french-accent-encoding-in-email",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "6e05e3533bf9916fbc7fc5c524cf51c88e3a5fa3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/6e05e3533bf9916fbc7fc5c524cf51c88e3a5fa3",
-                    "reference": "6e05e3533bf9916fbc7fc5c524cf51c88e3a5fa3",
-                    "shasum": ""
-                },
-                "time": "2026-05-06T19:22:55+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1189--fix-french-accent-encoding-in-email"
                 }
             },
             "dev-222-citation-d-check-fixes-2024-03-27": {
