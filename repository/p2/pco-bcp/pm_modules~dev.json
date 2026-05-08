@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "39fd019d112a47d6029b886777ef8cf8745f6db0"
+                    "reference": "fe69c13a62135d6984c304f08f6849a7c81dc6fe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/39fd019d112a47d6029b886777ef8cf8745f6db0",
-                    "reference": "39fd019d112a47d6029b886777ef8cf8745f6db0",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/fe69c13a62135d6984c304f08f6849a7c81dc6fe",
+                    "reference": "fe69c13a62135d6984c304f08f6849a7c81dc6fe",
                     "shasum": ""
                 },
-                "time": "2026-05-05T15:43:26+00:00",
+                "time": "2026-05-08T15:43:13+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -124,7 +124,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.7"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
                 }
             },
             {
@@ -200,31 +200,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1150-add-translation-for-button-text",
-                "version_normalized": "dev-1150-add-translation-for-button-text",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "0f1638fd1bfb466f1049cd4daaf20ba30eecba2b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0f1638fd1bfb466f1049cd4daaf20ba30eecba2b",
-                    "reference": "0f1638fd1bfb466f1049cd4daaf20ba30eecba2b",
-                    "shasum": ""
-                },
-                "time": "2026-05-07T18:50:52+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1150-add-translation-for-button-text"
                 }
             },
             {
