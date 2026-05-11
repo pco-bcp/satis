@@ -10642,6 +10642,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.4"
                 }
             },
+            "5.0.5": {
+                "name": "pco-bcp/pco_modules",
+                "version": "5.0.5",
+                "version_normalized": "5.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "2c386385bdf83ccff9a7c89acb59614d8a0c7571"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2c386385bdf83ccff9a7c89acb59614d8a0c7571",
+                    "reference": "2c386385bdf83ccff9a7c89acb59614d8a0c7571",
+                    "shasum": ""
+                },
+                "time": "2026-05-06T19:39:33+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.5"
+                }
+            },
             "5.0.x-dev": {
                 "name": "pco-bcp/pco_modules",
                 "version": "5.0.x-dev",
@@ -10665,7 +10690,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.x"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.5"
                 }
             },
             "dev-1109-ordered-list-emails": {
@@ -15446,6 +15471,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.6"
+                }
+            },
+            "5.0.7": {
+                "name": "pco-bcp/pm_theme",
+                "version": "5.0.7",
+                "version_normalized": "5.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "250b9564f8adf865b8e1e3f6b8f86168f0cb4acb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/250b9564f8adf865b8e1e3f6b8f86168f0cb4acb",
+                    "reference": "250b9564f8adf865b8e1e3f6b8f86168f0cb4acb",
+                    "shasum": ""
+                },
+                "time": "2026-05-04T15:20:26+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.7"
                 }
             },
             "5.0.x-dev": {
