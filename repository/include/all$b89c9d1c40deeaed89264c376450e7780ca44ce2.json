@@ -13021,6 +13021,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
                 }
             },
+            "dev-1149-fix-resize-on-rotation-in-mobile": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1149-fix-resize-on-rotation-in-mobile",
+                "version_normalized": "dev-1149-fix-resize-on-rotation-in-mobile",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "f69efcdb8d7ebc0ec3333dc0fecb53dcc5c236b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/f69efcdb8d7ebc0ec3333dc0fecb53dcc5c236b0",
+                    "reference": "f69efcdb8d7ebc0ec3333dc0fecb53dcc5c236b0",
+                    "shasum": ""
+                },
+                "time": "2026-05-11T14:01:40+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1149-fix-resize-on-rotation-in-mobile"
+                }
+            },
             "dev-1167-add-popup-to-reset-workspace": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-1167-add-popup-to-reset-workspace",
@@ -15470,7 +15495,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.6"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.7"
                 }
             },
             "5.0.7": {
@@ -15521,7 +15546,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.6"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.7"
                 }
             },
             "dev-1098--fix-custom-list-indentation": {
