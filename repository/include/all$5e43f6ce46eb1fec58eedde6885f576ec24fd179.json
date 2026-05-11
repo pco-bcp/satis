@@ -12927,15 +12927,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "fe69c13a62135d6984c304f08f6849a7c81dc6fe"
+                    "reference": "845e534340df3938235de0722add02b7eb084ebb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/fe69c13a62135d6984c304f08f6849a7c81dc6fe",
-                    "reference": "fe69c13a62135d6984c304f08f6849a7c81dc6fe",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/845e534340df3938235de0722add02b7eb084ebb",
+                    "reference": "845e534340df3938235de0722add02b7eb084ebb",
                     "shasum": ""
                 },
-                "time": "2026-05-08T15:43:13+00:00",
+                "time": "2026-05-11T16:55:53+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -12943,7 +12943,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.8"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
                 }
             },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
@@ -13019,31 +13019,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            "dev-1149-fix-resize-on-rotation-in-mobile": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1149-fix-resize-on-rotation-in-mobile",
-                "version_normalized": "dev-1149-fix-resize-on-rotation-in-mobile",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2e36e90b464ea45a0c6532b268b2fec283291337"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2e36e90b464ea45a0c6532b268b2fec283291337",
-                    "reference": "2e36e90b464ea45a0c6532b268b2fec283291337",
-                    "shasum": ""
-                },
-                "time": "2026-05-11T16:06:03+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1149-fix-resize-on-rotation-in-mobile"
                 }
             },
             "dev-1167-add-popup-to-reset-workspace": {
