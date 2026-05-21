@@ -6313,6 +6313,94 @@
                     "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.1"
                 }
             },
+            "3.1.10": {
+                "name": "pco-bcp/pco_cities",
+                "version": "3.1.10",
+                "version_normalized": "3.1.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_cities.git",
+                    "reference": "1c5e16c13336022bb4c298b6b4b8c8b27f2d4b92"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/1c5e16c13336022bb4c298b6b4b8c8b27f2d4b92",
+                    "reference": "1c5e16c13336022bb4c298b6b4b8c8b27f2d4b92",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupalwxt/wxt": "5.6.1"
+                },
+                "time": "2026-05-21T15:11:00+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.10"
+                }
+            },
             "3.1.2": {
                 "name": "pco-bcp/pco_cities",
                 "version": "3.1.2",
@@ -7024,18 +7112,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "11a4f0016a2dad69f40708fcca928a24382b07e9"
+                    "reference": "1c5e16c13336022bb4c298b6b4b8c8b27f2d4b92"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/11a4f0016a2dad69f40708fcca928a24382b07e9",
-                    "reference": "11a4f0016a2dad69f40708fcca928a24382b07e9",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/1c5e16c13336022bb4c298b6b4b8c8b27f2d4b92",
+                    "reference": "1c5e16c13336022bb4c298b6b4b8c8b27f2d4b92",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "5.6.1"
                 },
-                "time": "2026-04-17T12:38:23+00:00",
+                "time": "2026-05-21T15:11:00+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -7103,7 +7191,7 @@
                 ],
                 "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.9"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/5.6.x"
                 }
             },
             "6.2.x-dev": {
@@ -7544,94 +7632,6 @@
                 "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/1183--fix-portail-dashboard-logout"
-                }
-            },
-            "dev-1198--fix-php-errors": {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-1198--fix-php-errors",
-                "version_normalized": "dev-1198--fix-php-errors",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "6785ed5917de74b7cda1989b1be4fae03781391a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/6785ed5917de74b7cda1989b1be4fae03781391a",
-                    "reference": "6785ed5917de74b7cda1989b1be4fae03781391a",
-                    "shasum": ""
-                },
-                "require": {
-                    "drupalwxt/wxt": "5.6.1"
-                },
-                "time": "2026-04-23T16:26:23+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/1198--fix-php-errors"
                 }
             },
             "dev-1213-pmwi-stage-2-application-forms": {
@@ -41961,12 +41961,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "886d83351e95102e849a46313eca39861cb9b276"
+                    "reference": "74703b3240a85fb0c80a605e12629696583f3ea2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/886d83351e95102e849a46313eca39861cb9b276",
-                    "reference": "886d83351e95102e849a46313eca39861cb9b276",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/74703b3240a85fb0c80a605e12629696583f3ea2",
+                    "reference": "74703b3240a85fb0c80a605e12629696583f3ea2",
                     "shasum": ""
                 },
                 "require": {
@@ -42029,10 +42029,11 @@
                     "wikimedia/composer-merge-plugin": "^2.0"
                 },
                 "require-dev": {
-                    "drupal/core-composer-scaffold": "~10.6.7",
-                    "drupal/core-dev": "~10.6.7",
-                    "drupal/core-project-message": "~10.6.7",
-                    "drupal/core-recommended": "~10.6.7",
+                    "drupal/core": "10.6.9",
+                    "drupal/core-composer-scaffold": "10.6.9",
+                    "drupal/core-dev": "10.6.9",
+                    "drupal/core-project-message": "10.6.9",
+                    "drupal/core-recommended": "10.6.9",
                     "drupal/drupal-extension": "^5.1.0",
                     "drupal/upgrade_status": "^4.3",
                     "drush/drush": "^12",
@@ -42043,7 +42044,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2026-05-15T13:32:30+00:00",
+                "time": "2026-05-21T13:10:40+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -42128,7 +42129,7 @@
                 ],
                 "description": "Project template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1223-psa-2026-05-20"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/5.6.x"
                 }
             },
             "6.2.x-dev": {
