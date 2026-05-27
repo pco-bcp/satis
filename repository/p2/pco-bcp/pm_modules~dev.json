@@ -229,6 +229,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1197-hide-imce-ckeditor",
+                "version_normalized": "dev-1197-hide-imce-ckeditor",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "4fe1bf1ad01f7530a7755741aa20a660d258cbc3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4fe1bf1ad01f7530a7755741aa20a660d258cbc3",
+                    "reference": "4fe1bf1ad01f7530a7755741aa20a660d258cbc3",
+                    "shasum": ""
+                },
+                "time": "2026-05-27T15:45:05+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1197-hide-imce-ckeditor"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1212-remove-alt-in-multi-upload-tool",
                 "version_normalized": "dev-1212-remove-alt-in-multi-upload-tool",
                 "source": {

@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "d2ea87be02aaa8051c04558d36788813e77c023a"
+                    "reference": "c339b551aeb4a4662599041d9419dff19ffd0566"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/d2ea87be02aaa8051c04558d36788813e77c023a",
-                    "reference": "d2ea87be02aaa8051c04558d36788813e77c023a",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/c339b551aeb4a4662599041d9419dff19ffd0566",
+                    "reference": "c339b551aeb4a4662599041d9419dff19ffd0566",
                     "shasum": ""
                 },
-                "time": "2026-04-20T16:13:15+00:00",
+                "time": "2026-05-26T11:46:22+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -24,7 +24,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.9"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/5.6.x"
                 }
             },
             {
@@ -75,31 +75,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/1117-staff-template"
-                }
-            },
-            {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-1183--fix-portail-dashboard-logout",
-                "version_normalized": "dev-1183--fix-portail-dashboard-logout",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "3ed08485ed6a51d910458e9e16cb2b9c018b398f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/3ed08485ed6a51d910458e9e16cb2b9c018b398f",
-                    "reference": "3ed08485ed6a51d910458e9e16cb2b9c018b398f",
-                    "shasum": ""
-                },
-                "time": "2026-05-19T16:28:07+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/1183--fix-portail-dashboard-logout"
                 }
             },
             {

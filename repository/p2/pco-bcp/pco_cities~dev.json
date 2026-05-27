@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "e912ed841032bf0b83e4b0378fad51be5028298d"
+                    "reference": "dad34b99866a56bed07bf83ee4d02e081008457f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/e912ed841032bf0b83e4b0378fad51be5028298d",
-                    "reference": "e912ed841032bf0b83e4b0378fad51be5028298d",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/dad34b99866a56bed07bf83ee4d02e081008457f",
+                    "reference": "dad34b99866a56bed07bf83ee4d02e081008457f",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "5.6.1"
                 },
-                "time": "2026-05-22T18:11:11+00:00",
+                "time": "2026-05-26T11:46:57+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -440,94 +440,6 @@
                 "description": "Installation profile template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/1130-process-mapping-modules"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-1183--fix-portail-dashboard-logout",
-                "version_normalized": "dev-1183--fix-portail-dashboard-logout",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "beb078356aad6c5c6cf49c8a8f34d1391b3b00e4"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/beb078356aad6c5c6cf49c8a8f34d1391b3b00e4",
-                    "reference": "beb078356aad6c5c6cf49c8a8f34d1391b3b00e4",
-                    "shasum": ""
-                },
-                "require": {
-                    "drupalwxt/wxt": "5.6.1"
-                },
-                "time": "2026-05-19T15:04:30+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/1183--fix-portail-dashboard-logout"
                 }
             },
             {
