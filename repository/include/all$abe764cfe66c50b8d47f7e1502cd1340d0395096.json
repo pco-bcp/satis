@@ -12977,15 +12977,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "ee048b475fdc17c97a9a848022dea70768bdbd95"
+                    "reference": "528f65bf5cda9b0ac6df806a50cac3c1d8235208"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/ee048b475fdc17c97a9a848022dea70768bdbd95",
-                    "reference": "ee048b475fdc17c97a9a848022dea70768bdbd95",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/528f65bf5cda9b0ac6df806a50cac3c1d8235208",
+                    "reference": "528f65bf5cda9b0ac6df806a50cac3c1d8235208",
                     "shasum": ""
                 },
-                "time": "2026-05-20T13:08:40+00:00",
+                "time": "2026-05-27T17:16:24+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -12993,7 +12993,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.9"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
                 }
             },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
@@ -13094,31 +13094,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1167-add-popup-to-reset-workspace"
-                }
-            },
-            "dev-1197-hide-imce-ckeditor": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1197-hide-imce-ckeditor",
-                "version_normalized": "dev-1197-hide-imce-ckeditor",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "4fe1bf1ad01f7530a7755741aa20a660d258cbc3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4fe1bf1ad01f7530a7755741aa20a660d258cbc3",
-                    "reference": "4fe1bf1ad01f7530a7755741aa20a660d258cbc3",
-                    "shasum": ""
-                },
-                "time": "2026-05-27T15:45:05+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1197-hide-imce-ckeditor"
                 }
             },
             "dev-1212-remove-alt-in-multi-upload-tool": {
