@@ -2182,18 +2182,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "3b45cad6409156d5f684de3dbb5bbac4f49e6491"
+                    "reference": "294b3f39161db66438d4053211d0889fa4945295"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/3b45cad6409156d5f684de3dbb5bbac4f49e6491",
-                    "reference": "3b45cad6409156d5f684de3dbb5bbac4f49e6491",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/294b3f39161db66438d4053211d0889fa4945295",
+                    "reference": "294b3f39161db66438d4053211d0889fa4945295",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "5.6.1"
                 },
-                "time": "2026-06-11T20:41:34+00:00",
+                "time": "2026-06-12T18:32:58+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
