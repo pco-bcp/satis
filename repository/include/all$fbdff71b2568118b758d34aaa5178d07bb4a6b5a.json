@@ -13297,6 +13297,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1123-add-tracking-for-pg-gallery"
                 }
             },
+            "dev-1167-upload-multiple-photos-at-once": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1167-upload-multiple-photos-at-once",
+                "version_normalized": "dev-1167-upload-multiple-photos-at-once",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "095ea1afbd7715b06d7c208580a4c7421c182dbf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/095ea1afbd7715b06d7c208580a4c7421c182dbf",
+                    "reference": "095ea1afbd7715b06d7c208580a4c7421c182dbf",
+                    "shasum": ""
+                },
+                "time": "2026-06-16T17:27:09+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1167-upload-multiple-photos-at-once"
+                }
+            },
             "dev-1212-remove-alt-in-multi-upload-tool": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-1212-remove-alt-in-multi-upload-tool",
