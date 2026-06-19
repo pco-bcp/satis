@@ -2307,6 +2307,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.9"
                 }
             },
+            "3.10": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "3.10",
+                "version_normalized": "3.10.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "c339b551aeb4a4662599041d9419dff19ffd0566"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/c339b551aeb4a4662599041d9419dff19ffd0566",
+                    "reference": "c339b551aeb4a4662599041d9419dff19ffd0566",
+                    "shasum": ""
+                },
+                "time": "2026-05-26T11:46:22+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.10"
+                }
+            },
             "5.6.x-dev": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "5.6.x-dev",
@@ -2330,7 +2355,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/5.6.x"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.10"
                 }
             },
             "6.2.x-dev": {
@@ -6401,6 +6426,94 @@
                     "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.10"
                 }
             },
+            "3.1.11": {
+                "name": "pco-bcp/pco_cities",
+                "version": "3.1.11",
+                "version_normalized": "3.1.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_cities.git",
+                    "reference": "dad34b99866a56bed07bf83ee4d02e081008457f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/dad34b99866a56bed07bf83ee4d02e081008457f",
+                    "reference": "dad34b99866a56bed07bf83ee4d02e081008457f",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupalwxt/wxt": "5.6.1"
+                },
+                "time": "2026-05-26T11:46:57+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.11"
+                }
+            },
             "3.1.2": {
                 "name": "pco-bcp/pco_cities",
                 "version": "3.1.2",
@@ -7191,7 +7304,7 @@
                 ],
                 "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/5.6.x"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.11"
                 }
             },
             "6.2.x-dev": {
@@ -42276,12 +42389,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "456ad0f58ccdf7ae9b0bfef96a38441ef753d0dd"
+                    "reference": "a844fdeac09e3c258f1b275db72b137723e74937"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/456ad0f58ccdf7ae9b0bfef96a38441ef753d0dd",
-                    "reference": "456ad0f58ccdf7ae9b0bfef96a38441ef753d0dd",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/a844fdeac09e3c258f1b275db72b137723e74937",
+                    "reference": "a844fdeac09e3c258f1b275db72b137723e74937",
                     "shasum": ""
                 },
                 "require": {
@@ -42359,7 +42472,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2026-06-05T16:59:43+00:00",
+                "time": "2026-06-19T19:31:24+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
