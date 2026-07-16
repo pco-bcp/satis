@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "250b9564f8adf865b8e1e3f6b8f86168f0cb4acb"
+                    "reference": "b994446bb829ad51c800c2eb932b8ae219cda4a5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/250b9564f8adf865b8e1e3f6b8f86168f0cb4acb",
-                    "reference": "250b9564f8adf865b8e1e3f6b8f86168f0cb4acb",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b994446bb829ad51c800c2eb932b8ae219cda4a5",
+                    "reference": "b994446bb829ad51c800c2eb932b8ae219cda4a5",
                     "shasum": ""
                 },
-                "time": "2026-05-04T15:20:26+00:00",
+                "time": "2026-07-16T17:37:10+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -124,7 +124,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.7"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.x"
                 }
             },
             {
@@ -175,31 +175,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1210-add-prev-next-links-to-ma"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1237--fix-superscript-release-date",
-                "version_normalized": "dev-1237--fix-superscript-release-date",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e3627228d144cebf0f485826ad39ec33800e8702"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e3627228d144cebf0f485826ad39ec33800e8702",
-                    "reference": "e3627228d144cebf0f485826ad39ec33800e8702",
-                    "shasum": ""
-                },
-                "time": "2026-06-17T14:40:54+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1237--fix-superscript-release-date"
                 }
             },
             {
