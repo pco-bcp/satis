@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b994446bb829ad51c800c2eb932b8ae219cda4a5"
+                    "reference": "d00d3059135dba5de3ed3ba297fcce1df32d4222"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b994446bb829ad51c800c2eb932b8ae219cda4a5",
-                    "reference": "b994446bb829ad51c800c2eb932b8ae219cda4a5",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d00d3059135dba5de3ed3ba297fcce1df32d4222",
+                    "reference": "d00d3059135dba5de3ed3ba297fcce1df32d4222",
                     "shasum": ""
                 },
-                "time": "2026-07-16T17:37:10+00:00",
+                "time": "2026-07-16T18:59:06+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -150,31 +150,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1210-add-prev-next-links-to-ma",
-                "version_normalized": "dev-1210-add-prev-next-links-to-ma",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "efe7f31efa4c77af7c8c7b6a83925ad59a6ad709"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/efe7f31efa4c77af7c8c7b6a83925ad59a6ad709",
-                    "reference": "efe7f31efa4c77af7c8c7b6a83925ad59a6ad709",
-                    "shasum": ""
-                },
-                "time": "2026-07-15T14:34:17+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1210-add-prev-next-links-to-ma"
                 }
             },
             {
