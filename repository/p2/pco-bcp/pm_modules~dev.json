@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "b86fdb3334b6d361e0838af5e51c96bd13cd14ba"
+                    "reference": "43a9593ae6b3b7839749e79727bd52b614d21f2e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b86fdb3334b6d361e0838af5e51c96bd13cd14ba",
-                    "reference": "b86fdb3334b6d361e0838af5e51c96bd13cd14ba",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/43a9593ae6b3b7839749e79727bd52b614d21f2e",
+                    "reference": "43a9593ae6b3b7839749e79727bd52b614d21f2e",
                     "shasum": ""
                 },
-                "time": "2026-06-15T19:16:40+00:00",
+                "time": "2026-07-16T18:12:45+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -225,31 +225,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1123-add-tracking-for-pg-gallery"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1167-upload-multiple-photos-at-once",
-                "version_normalized": "dev-1167-upload-multiple-photos-at-once",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "e6ddcba7d2722bb267d72b00328f246d781bb8bd"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e6ddcba7d2722bb267d72b00328f246d781bb8bd",
-                    "reference": "e6ddcba7d2722bb267d72b00328f246d781bb8bd",
-                    "shasum": ""
-                },
-                "time": "2026-06-22T18:24:34+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1167-upload-multiple-photos-at-once"
                 }
             },
             {
