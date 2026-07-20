@@ -13486,6 +13486,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
                 }
             },
+            "5.1.x-dev": {
+                "name": "pco-bcp/pm_modules",
+                "version": "5.1.x-dev",
+                "version_normalized": "5.1.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "8d629a7ffd2d9084606783e8b5a24b42cca09c6c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8d629a7ffd2d9084606783e8b5a24b42cca09c6c",
+                    "reference": "8d629a7ffd2d9084606783e8b5a24b42cca09c6c",
+                    "shasum": ""
+                },
+                "time": "2026-07-20T13:49:06+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.x"
+                }
+            },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-1012-change-alt-des-fields-PG-2025-10-01",
