@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "38255c7e715540b339e71a8368536f2f5cf5d62d"
+                    "reference": "a4feab02bfd8aa26e619d2ecac480e91145bdaab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/38255c7e715540b339e71a8368536f2f5cf5d62d",
-                    "reference": "38255c7e715540b339e71a8368536f2f5cf5d62d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a4feab02bfd8aa26e619d2ecac480e91145bdaab",
+                    "reference": "a4feab02bfd8aa26e619d2ecac480e91145bdaab",
                     "shasum": ""
                 },
-                "time": "2026-07-18T02:06:55+00:00",
+                "time": "2026-07-23T19:50:35+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -225,31 +225,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1043-wave-fixes-for-PG"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1123-add-tracking-for-pg-gallery",
-                "version_normalized": "dev-1123-add-tracking-for-pg-gallery",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "7cbc967c7c88725c7afd4068d141521c885439c7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7cbc967c7c88725c7afd4068d141521c885439c7",
-                    "reference": "7cbc967c7c88725c7afd4068d141521c885439c7",
-                    "shasum": ""
-                },
-                "time": "2026-07-20T15:51:52+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1123-add-tracking-for-pg-gallery"
                 }
             },
             {
