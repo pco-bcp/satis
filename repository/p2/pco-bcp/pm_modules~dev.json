@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "44704c8c757aed978f3a24798def4ed036e1fd7d"
+                    "reference": "9e7e5c18e6809ae66731eff87ad11cbe06c28772"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/44704c8c757aed978f3a24798def4ed036e1fd7d",
-                    "reference": "44704c8c757aed978f3a24798def4ed036e1fd7d",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9e7e5c18e6809ae66731eff87ad11cbe06c28772",
+                    "reference": "9e7e5c18e6809ae66731eff87ad11cbe06c28772",
                     "shasum": ""
                 },
-                "time": "2026-07-23T19:58:09+00:00",
+                "time": "2026-07-28T23:02:07+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -275,31 +275,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1212-sideport-alt-text-removal"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1258--update-subject-contact-form",
-                "version_normalized": "dev-1258--update-subject-contact-form",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "2c7c501c3aaa0fdee46e9c7088080d8f0925a3c6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2c7c501c3aaa0fdee46e9c7088080d8f0925a3c6",
-                    "reference": "2c7c501c3aaa0fdee46e9c7088080d8f0925a3c6",
-                    "shasum": ""
-                },
-                "time": "2026-07-27T19:25:28+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1258--update-subject-contact-form"
                 }
             },
             {
