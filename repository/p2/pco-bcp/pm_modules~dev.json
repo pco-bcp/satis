@@ -279,6 +279,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1250-add-custom-date-for-ps",
+                "version_normalized": "dev-1250-add-custom-date-for-ps",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "7bb2b6052d144c7c5a097603d9a01c303bf301a2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7bb2b6052d144c7c5a097603d9a01c303bf301a2",
+                    "reference": "7bb2b6052d144c7c5a097603d9a01c303bf301a2",
+                    "shasum": ""
+                },
+                "time": "2026-07-29T20:09:26+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1250-add-custom-date-for-ps"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1250-add-new-custom-date-113",
                 "version_normalized": "dev-1250-add-new-custom-date-113",
                 "source": {
