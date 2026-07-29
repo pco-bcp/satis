@@ -279,6 +279,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1250-add-new-custom-date-113",
+                "version_normalized": "dev-1250-add-new-custom-date-113",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "6722625416bc81c8d2608798ce60324b37015b24"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6722625416bc81c8d2608798ce60324b37015b24",
+                    "reference": "6722625416bc81c8d2608798ce60324b37015b24",
+                    "shasum": ""
+                },
+                "time": "2026-07-29T19:55:48+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1250-add-new-custom-date-113"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1258--comment-out-code-in-pm-admin-hook-alter-subject-field",
                 "version_normalized": "dev-1258--comment-out-code-in-pm-admin-hook-alter-subject-field",
                 "source": {
