@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "9e7e5c18e6809ae66731eff87ad11cbe06c28772"
+                    "reference": "3de45fdec60869650931e1fc1783aeb76bfd5515"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9e7e5c18e6809ae66731eff87ad11cbe06c28772",
-                    "reference": "9e7e5c18e6809ae66731eff87ad11cbe06c28772",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3de45fdec60869650931e1fc1783aeb76bfd5515",
+                    "reference": "3de45fdec60869650931e1fc1783aeb76bfd5515",
                     "shasum": ""
                 },
-                "time": "2026-07-28T23:02:07+00:00",
+                "time": "2026-07-29T01:38:33+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -124,7 +124,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.x"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.10"
                 }
             },
             {
@@ -1025,31 +1025,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/refactor-reduce-pm-admin"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-revert-181-1258--update-subject-contact-form",
-                "version_normalized": "dev-revert-181-1258--update-subject-contact-form",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "e9c335b543e45f31254fba50dab27bbbb6cb9eba"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e9c335b543e45f31254fba50dab27bbbb6cb9eba",
-                    "reference": "e9c335b543e45f31254fba50dab27bbbb6cb9eba",
-                    "shasum": ""
-                },
-                "time": "2026-07-29T01:11:12+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/revert-181-1258--update-subject-contact-form"
                 }
             }
         ]
