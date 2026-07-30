@@ -13636,6 +13636,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1212-remove-alt-in-multi-upload-tool"
                 }
             },
+            "dev-1212-set-alt-field-to-empty": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1212-set-alt-field-to-empty",
+                "version_normalized": "dev-1212-set-alt-field-to-empty",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "5c87ca1e9e281c8642c84970dad757a7a2e02c34"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5c87ca1e9e281c8642c84970dad757a7a2e02c34",
+                    "reference": "5c87ca1e9e281c8642c84970dad757a7a2e02c34",
+                    "shasum": ""
+                },
+                "time": "2026-07-30T13:57:40+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1212-set-alt-field-to-empty"
+                }
+            },
             "dev-1212-sideport-alt-text-removal": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-1212-sideport-alt-text-removal",
