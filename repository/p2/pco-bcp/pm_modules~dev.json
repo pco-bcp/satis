@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "d2a5328fd8d0dad2c42c95397b9c8866a1ceb353"
+                    "reference": "3fee56343cba9e9b136b7e87e19d52eba94abc87"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/d2a5328fd8d0dad2c42c95397b9c8866a1ceb353",
-                    "reference": "d2a5328fd8d0dad2c42c95397b9c8866a1ceb353",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3fee56343cba9e9b136b7e87e19d52eba94abc87",
+                    "reference": "3fee56343cba9e9b136b7e87e19d52eba94abc87",
                     "shasum": ""
                 },
-                "time": "2026-07-30T15:22:11+00:00",
+                "time": "2026-07-30T15:32:52+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -250,31 +250,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1212-remove-alt-in-multi-upload-tool"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1212-set-alt-field-to-empty",
-                "version_normalized": "dev-1212-set-alt-field-to-empty",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "5c87ca1e9e281c8642c84970dad757a7a2e02c34"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/5c87ca1e9e281c8642c84970dad757a7a2e02c34",
-                    "reference": "5c87ca1e9e281c8642c84970dad757a7a2e02c34",
-                    "shasum": ""
-                },
-                "time": "2026-07-30T13:57:40+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1212-set-alt-field-to-empty"
                 }
             },
             {
