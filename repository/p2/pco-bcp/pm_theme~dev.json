@@ -108,15 +108,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "d00d3059135dba5de3ed3ba297fcce1df32d4222"
+                    "reference": "4e482de3e35b5e62dead56014a421e109ada3ae6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/d00d3059135dba5de3ed3ba297fcce1df32d4222",
-                    "reference": "d00d3059135dba5de3ed3ba297fcce1df32d4222",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4e482de3e35b5e62dead56014a421e109ada3ae6",
+                    "reference": "4e482de3e35b5e62dead56014a421e109ada3ae6",
                     "shasum": ""
                 },
-                "time": "2026-07-16T18:59:06+00:00",
+                "time": "2026-08-04T20:19:59+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -124,7 +124,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.8"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.x"
                 }
             },
             {
@@ -150,31 +150,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1210--fix-prevnext-css",
-                "version_normalized": "dev-1210--fix-prevnext-css",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ecc7847b5c17f3f9be4998e7434486e4995094f6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ecc7847b5c17f3f9be4998e7434486e4995094f6",
-                    "reference": "ecc7847b5c17f3f9be4998e7434486e4995094f6",
-                    "shasum": ""
-                },
-                "time": "2026-08-04T19:59:56+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1210--fix-prevnext-css"
                 }
             },
             {
