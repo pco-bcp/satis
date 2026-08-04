@@ -1,6 +1,6 @@
 # Satis
 
-Simple static Composer repository generator.
+Simple static Composer repository generator. Ours is located here: https://pco-bcp.github.io/satis/repository/
 
 ## Run from source
 
