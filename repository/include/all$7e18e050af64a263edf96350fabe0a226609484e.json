@@ -11267,7 +11267,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.5"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.1.0"
                 }
             },
             "5.0.x-dev": {
@@ -11286,14 +11286,38 @@
                     "shasum": ""
                 },
                 "time": "2026-05-06T19:39:33+00:00",
-                "default-branch": true,
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.5"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.1.0"
+                }
+            },
+            "5.1.0": {
+                "name": "pco-bcp/pco_modules",
+                "version": "5.1.0",
+                "version_normalized": "5.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "2c386385bdf83ccff9a7c89acb59614d8a0c7571"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2c386385bdf83ccff9a7c89acb59614d8a0c7571",
+                    "reference": "2c386385bdf83ccff9a7c89acb59614d8a0c7571",
+                    "shasum": ""
+                },
+                "time": "2026-05-06T19:39:33+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.1.0"
                 }
             },
             "5.1.x-dev": {
@@ -11319,7 +11343,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.0.5"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.1.0"
                 }
             },
             "dev-1109-ordered-list-emails": {
@@ -13665,7 +13689,6 @@
                     "shasum": ""
                 },
                 "time": "2026-07-30T15:32:52+00:00",
-                "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -13675,10 +13698,10 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/5.0.11"
                 }
             },
-            "5.1.x-dev": {
+            "5.1.0": {
                 "name": "pco-bcp/pm_modules",
-                "version": "5.1.x-dev",
-                "version_normalized": "5.1.9999999.9999999-dev",
+                "version": "5.1.0",
+                "version_normalized": "5.1.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
@@ -13697,7 +13720,33 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.x"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.0"
+                }
+            },
+            "5.1.x-dev": {
+                "name": "pco-bcp/pm_modules",
+                "version": "5.1.x-dev",
+                "version_normalized": "5.1.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "ecb89acd3df74c3dd2b63d3bfb5e3671ea5c55e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/ecb89acd3df74c3dd2b63d3bfb5e3671ea5c55e2",
+                    "reference": "ecb89acd3df74c3dd2b63d3bfb5e3671ea5c55e2",
+                    "shasum": ""
+                },
+                "time": "2026-07-30T15:57:15+00:00",
+                "default-branch": true,
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.0"
                 }
             },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
@@ -16375,6 +16424,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.x"
+                }
+            },
+            "5.1.0": {
+                "name": "pco-bcp/pm_theme",
+                "version": "5.1.0",
+                "version_normalized": "5.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e5b10a351b3dc257312e786930b76828f91b43f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e5b10a351b3dc257312e786930b76828f91b43f3",
+                    "reference": "e5b10a351b3dc257312e786930b76828f91b43f3",
+                    "shasum": ""
+                },
+                "time": "2026-08-06T14:24:47+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.1.0"
                 }
             },
             "5.1.x-dev": {
