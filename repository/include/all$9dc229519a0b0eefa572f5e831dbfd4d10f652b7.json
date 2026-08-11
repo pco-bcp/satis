@@ -16527,6 +16527,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
                 }
             },
+            "dev-1264-d11-3-d-check-pm-theme": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-1264-d11-3-d-check-pm-theme",
+                "version_normalized": "dev-1264-d11-3-d-check-pm-theme",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "14978c437e8152240588df55dea4316a1af979a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/14978c437e8152240588df55dea4316a1af979a3",
+                    "reference": "14978c437e8152240588df55dea4316a1af979a3",
+                    "shasum": ""
+                },
+                "time": "2026-08-11T20:38:14+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1264-d11-3-d-check-pm-theme"
+                }
+            },
             "dev-1264-d11-3-rector-pm-theme": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-1264-d11-3-rector-pm-theme",
