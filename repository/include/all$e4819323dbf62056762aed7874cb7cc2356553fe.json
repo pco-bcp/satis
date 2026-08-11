@@ -13924,6 +13924,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1258--update-subject-contact-form"
                 }
             },
+            "dev-1264-d11-2-rector-custom-modules": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1264-d11-2-rector-custom-modules",
+                "version_normalized": "dev-1264-d11-2-rector-custom-modules",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "2f1452ed8696ffa587afc99ed071fd4fc69b9e90"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/2f1452ed8696ffa587afc99ed071fd4fc69b9e90",
+                    "reference": "2f1452ed8696ffa587afc99ed071fd4fc69b9e90",
+                    "shasum": ""
+                },
+                "time": "2026-08-11T19:48:03+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1264-d11-2-rector-custom-modules"
+                }
+            },
             "dev-222--pm-cron-d-check": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
@@ -16423,7 +16448,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.x"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.1.0"
                 }
             },
             "5.1.0": {
@@ -16474,7 +16499,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.0.x"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.1.0"
                 }
             },
             "dev-1098--fix-custom-list-indentation": {
@@ -16500,6 +16525,31 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
+                }
+            },
+            "dev-1264-d11-3-rector-pm-theme": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-1264-d11-3-rector-pm-theme",
+                "version_normalized": "dev-1264-d11-3-rector-pm-theme",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "fbc9335669dcdca3ddd1603e305f58a70eb409ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/fbc9335669dcdca3ddd1603e305f58a70eb409ca",
+                    "reference": "fbc9335669dcdca3ddd1603e305f58a70eb409ca",
+                    "shasum": ""
+                },
+                "time": "2026-08-11T19:42:55+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1264-d11-3-rector-pm-theme"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
