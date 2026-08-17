@@ -133,15 +133,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "0fd4030361a1d1e6d6ad1626c05bb04795d13a7b"
+                    "reference": "886b5e566123ef43718114b496a90528c1edff55"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/0fd4030361a1d1e6d6ad1626c05bb04795d13a7b",
-                    "reference": "0fd4030361a1d1e6d6ad1626c05bb04795d13a7b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/886b5e566123ef43718114b496a90528c1edff55",
+                    "reference": "886b5e566123ef43718114b496a90528c1edff55",
                     "shasum": ""
                 },
-                "time": "2026-08-17T18:19:35+00:00",
+                "time": "2026-08-17T19:27:33+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -175,31 +175,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1264-d11-3-d-check-pm-theme",
-                "version_normalized": "dev-1264-d11-3-d-check-pm-theme",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "14978c437e8152240588df55dea4316a1af979a3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/14978c437e8152240588df55dea4316a1af979a3",
-                    "reference": "14978c437e8152240588df55dea4316a1af979a3",
-                    "shasum": ""
-                },
-                "time": "2026-08-11T20:38:14+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1264-d11-3-d-check-pm-theme"
                 }
             },
             {
