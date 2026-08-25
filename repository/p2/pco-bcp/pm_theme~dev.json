@@ -133,15 +133,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "886b5e566123ef43718114b496a90528c1edff55"
+                    "reference": "65929f2b004cf22421ce7f46838285db3de103dd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/886b5e566123ef43718114b496a90528c1edff55",
-                    "reference": "886b5e566123ef43718114b496a90528c1edff55",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/65929f2b004cf22421ce7f46838285db3de103dd",
+                    "reference": "65929f2b004cf22421ce7f46838285db3de103dd",
                     "shasum": ""
                 },
-                "time": "2026-08-17T19:27:33+00:00",
+                "time": "2026-08-25T13:18:44+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -175,31 +175,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1146-change-FP-style",
-                "version_normalized": "dev-1146-change-FP-style",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "ef0dd9970b6ef61ec1658c7bbfefa2b51c3bf238"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/ef0dd9970b6ef61ec1658c7bbfefa2b51c3bf238",
-                    "reference": "ef0dd9970b6ef61ec1658c7bbfefa2b51c3bf238",
-                    "shasum": ""
-                },
-                "time": "2026-08-19T19:25:23+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1146-change-FP-style"
                 }
             },
             {
