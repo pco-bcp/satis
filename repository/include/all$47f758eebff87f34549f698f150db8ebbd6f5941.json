@@ -3033,6 +3033,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
                 }
             },
+            "dev-fix-issue-1283-description-text-contrast": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "dev-fix-issue-1283-description-text-contrast",
+                "version_normalized": "dev-fix-issue-1283-description-text-contrast",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "32c07de44b66b247ea547effcaf747a256ff20af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/32c07de44b66b247ea547effcaf747a256ff20af",
+                    "reference": "32c07de44b66b247ea547effcaf747a256ff20af",
+                    "shasum": ""
+                },
+                "time": "2026-08-26T19:35:44+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/fix-issue-1283-description-text-contrast"
+                }
+            },
             "dev-job-ad-updates": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "dev-job-ad-updates",
@@ -45906,6 +45931,177 @@
                 "description": "Project template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1236-remove-welcome"
+                }
+            },
+            "dev-1244-and-1257-update-webforms": {
+                "name": "pco-bcp/site-pco-impactcanada",
+                "version": "dev-1244-and-1257-update-webforms",
+                "version_normalized": "dev-1244-and-1257-update-webforms",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
+                    "reference": "9c80567b965360d93e1afcb9d3c3547fca67a6ec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/9c80567b965360d93e1afcb9d3c3547fca67a6ec",
+                    "reference": "9c80567b965360d93e1afcb9d3c3547fca67a6ec",
+                    "shasum": ""
+                },
+                "require": {
+                    "cweagans/composer-patches": "^1.7",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.2",
+                    "drupal/admin_toolbar": "^3.6",
+                    "drupal/autologout": "^2.0",
+                    "drupal/blog": "^3.1",
+                    "drupal/bootstrap_layouts": "^5.7",
+                    "drupal/cache_control_override": "^2.0",
+                    "drupal/captcha": "^2.0",
+                    "drupal/ckeditor5_fullscreen": "^1.0",
+                    "drupal/content_access": "^2.1@RC",
+                    "drupal/core": "~11.3.16",
+                    "drupal/core-composer-scaffold": "~11.3.16",
+                    "drupal/core-project-message": "~11.3.16",
+                    "drupal/core-recommended": "~11.3.16",
+                    "drupal/email_tfa": "^3.0",
+                    "drupal/fast_404": "^3.7",
+                    "drupal/features": "^3.16",
+                    "drupal/field_permissions": "^1.5",
+                    "drupal/gin": "^5.0",
+                    "drupal/gin_toolbar": "^3.0",
+                    "drupal/google_analytics": "^4.0",
+                    "drupal/hacked": "^2.0@beta",
+                    "drupal/honeypot": "^2.2",
+                    "drupal/js_cookie": "^2.0",
+                    "drupal/login_security": "^2.0",
+                    "drupal/mailgun": "^2.0",
+                    "drupal/mailsystem": "^4.5",
+                    "drupal/menu_link_attributes": "^1.7",
+                    "drupal/moderation_dashboard": "^3.1",
+                    "drupal/openapi_jsonapi": "^3.0",
+                    "drupal/page_manager": "^4.0@RC",
+                    "drupal/paragraphs": "1.23 as 1.20",
+                    "drupal/phpmailer_smtp": "^2.4",
+                    "drupal/quickedit": "^2.0",
+                    "drupal/rdf": "^3.0@beta",
+                    "drupal/real_aes": "^2.6",
+                    "drupal/recaptcha": "^3.4",
+                    "drupal/scheduled_updates": "^3.0@alpha",
+                    "drupal/seckit": "^2.0",
+                    "drupal/security_review": "^3.1",
+                    "drupal/seven": "^2.0@beta",
+                    "drupal/simple_oauth": "^6.1",
+                    "drupal/slick": "^3.0",
+                    "drupal/slick_extras": "^2.0",
+                    "drupal/slick_views": "^3.0",
+                    "drupal/stage_file_proxy": "^3.1",
+                    "drupal/tour": "^2.0",
+                    "drupal/webform_views": "^5.6",
+                    "fontawesome/fontawesome": "^6.4",
+                    "mglaman/composer-drupal-lenient": "^2.0",
+                    "pco-bcp/impact_bootstrap": "6.2.x-dev",
+                    "pco-bcp/pco_cities": "6.3.x-dev",
+                    "php-http/discovery": "^1.14",
+                    "scssphp/scssphp": "^2.1",
+                    "tbachert/spi": "^1.0",
+                    "wikimedia/composer-merge-plugin": "^2.0"
+                },
+                "replace": {
+                    "fontawesome/fontawesome": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "~11.3.16",
+                    "drupal/drupal-extension": "^5.1.0",
+                    "drupal/upgrade_status": "^4.3",
+                    "drush/drush": "^13.3.3",
+                    "palantirnet/drupal-rector": "dev-main",
+                    "phpspec/prophecy-phpunit": "^2.0",
+                    "rector/rector": "^2.4",
+                    "squizlabs/php_codesniffer": "^3.0"
+                },
+                "time": "2026-08-26T15:31:58+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "html/"
+                        }
+                    },
+                    "merge-plugin": {
+                        "include": [
+                            "html/modules/contrib/webform/composer.libraries.json"
+                        ]
+                    },
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-console-library",
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "composer-exit-on-patch-failure": false,
+                    "enable-patching": true,
+                    "patchLevel": {
+                        "drupal/core": "-p2"
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "3482408-typeerror-arraykeys-argument": "https://www.drupal.org/files/issues/2024-10-22/3482408-typeerror-arraykeys-argument_0.patch"
+                        },
+                        "drupal/layout_builder_st": {
+                            "fix layout builder symetric translations for null value of section_storage": "custom_patches/fix-null-value-section-storage-layout_builder_st.patch"
+                        },
+                        "codemirror/codemirror": {
+                            "#3531472: Drupal 10.5 / 11.2 incompatibility": "https://www.drupal.org/files/issues/2025-11-13/ckeditor_codemirror-codemirror-LIBRARY-3531472-copyobj-hasownproperty-fix.diff"
+                        }
+                    },
+                    "patches-ignore": {
+                        "drupalwxt/wxt": {
+                            "drupal/page_manager": {
+                                "ignore patch because because page_mannager has been updated with the fix": "https://www.drupal.org/files/issues/2026-03-07/page_manager-php8-4-deprecation-3536704-15.patch"
+                            }
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "post-create-project-cmd": [
+                        "rm -r -f .travis.yml behat.yml .travis-ci"
+                    ],
+                    "quick-start": [
+                        "composer install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Project template for Drupal 11 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1244-and-1257-update-webforms"
                 }
             },
             "dev-1246--fix-rector-and-phpstan": {
