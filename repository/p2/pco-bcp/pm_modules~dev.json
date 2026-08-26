@@ -229,6 +229,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1149-bring-photoswipe-caption-to-top",
+                "version_normalized": "dev-1149-bring-photoswipe-caption-to-top",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "4c62383c14ee3be94fe9679a75ce27a10bd3afec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4c62383c14ee3be94fe9679a75ce27a10bd3afec",
+                    "reference": "4c62383c14ee3be94fe9679a75ce27a10bd3afec",
+                    "shasum": ""
+                },
+                "time": "2026-08-26T14:08:51+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1149-bring-photoswipe-caption-to-top"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1212-remove-alt-in-multi-upload-tool",
                 "version_normalized": "dev-1212-remove-alt-in-multi-upload-tool",
                 "source": {
