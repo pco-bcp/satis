@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "ba561ca819f7999b47cc492efff837889ddee9dd"
+                    "reference": "51949a91a48505c0f64eb4cf5a451c46522cfd2e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/ba561ca819f7999b47cc492efff837889ddee9dd",
-                    "reference": "ba561ca819f7999b47cc492efff837889ddee9dd",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/51949a91a48505c0f64eb4cf5a451c46522cfd2e",
+                    "reference": "51949a91a48505c0f64eb4cf5a451c46522cfd2e",
                     "shasum": ""
                 },
                 "require": {
@@ -91,7 +91,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2026-08-27T15:55:30+00:00",
+                "time": "2026-08-27T18:27:37+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -2271,12 +2271,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "ce0f24e017f54d14cf1e0485a9722f1e8a86abac"
+                    "reference": "36e4b1996e28bdbed2875def9ad2be726e46dcb0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/ce0f24e017f54d14cf1e0485a9722f1e8a86abac",
-                    "reference": "ce0f24e017f54d14cf1e0485a9722f1e8a86abac",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/36e4b1996e28bdbed2875def9ad2be726e46dcb0",
+                    "reference": "36e4b1996e28bdbed2875def9ad2be726e46dcb0",
                     "shasum": ""
                 },
                 "require": {
@@ -2345,13 +2345,13 @@
                     "drupal/drupal-extension": "^5.1.0",
                     "drupal/upgrade_status": "^4.3",
                     "drush/drush": "^13.3.3",
-                    "mglaman/drupal-check": "*",
+                    "mglaman/phpstan-drupal": "^2.1",
                     "palantirnet/drupal-rector": "^1.0",
                     "phpspec/prophecy-phpunit": "^2.0",
                     "rector/rector": "2.6.2",
                     "squizlabs/php_codesniffer": "^3.0"
                 },
-                "time": "2026-08-21T13:33:48+00:00",
+                "time": "2026-08-27T19:44:19+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
