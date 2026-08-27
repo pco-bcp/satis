@@ -2339,15 +2339,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "c339b551aeb4a4662599041d9419dff19ffd0566"
+                    "reference": "b5bfb11e9432196f1c83f30e3e593f62bb6186dd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/c339b551aeb4a4662599041d9419dff19ffd0566",
-                    "reference": "c339b551aeb4a4662599041d9419dff19ffd0566",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/b5bfb11e9432196f1c83f30e3e593f62bb6186dd",
+                    "reference": "b5bfb11e9432196f1c83f30e3e593f62bb6186dd",
                     "shasum": ""
                 },
-                "time": "2026-05-26T11:46:22+00:00",
+                "time": "2026-08-27T15:55:59+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -2355,7 +2355,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.10"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/5.6.x"
                 }
             },
             "6.2.x-dev": {
@@ -3031,31 +3031,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
-                }
-            },
-            "dev-fix-issue-1283-description-text-contrast": {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-fix-issue-1283-description-text-contrast",
-                "version_normalized": "dev-fix-issue-1283-description-text-contrast",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "32c07de44b66b247ea547effcaf747a256ff20af"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/32c07de44b66b247ea547effcaf747a256ff20af",
-                    "reference": "32c07de44b66b247ea547effcaf747a256ff20af",
-                    "shasum": ""
-                },
-                "time": "2026-08-26T19:35:44+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/fix-issue-1283-description-text-contrast"
                 }
             },
             "dev-job-ad-updates": {
@@ -43848,12 +43823,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "1386d26c71ad3e918defdf142c9de26080da210d"
+                    "reference": "ba561ca819f7999b47cc492efff837889ddee9dd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/1386d26c71ad3e918defdf142c9de26080da210d",
-                    "reference": "1386d26c71ad3e918defdf142c9de26080da210d",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/ba561ca819f7999b47cc492efff837889ddee9dd",
+                    "reference": "ba561ca819f7999b47cc492efff837889ddee9dd",
                     "shasum": ""
                 },
                 "require": {
@@ -43931,7 +43906,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2026-08-24T20:19:48+00:00",
+                "time": "2026-08-27T15:55:30+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -44016,7 +43991,7 @@
                 ],
                 "description": "Project template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/3.1.42"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/5.6.x"
                 }
             },
             "6.2.x-dev": {
