@@ -8347,6 +8347,94 @@
                     "source": "https://github.com/pco-bcp/pco_cities/tree/1246--fix-rector-and-phpstan-errors-custom-modules-and-theme"
                 }
             },
+            "dev-1287--evaluation-portal-title-link-to-404-error-page": {
+                "name": "pco-bcp/pco_cities",
+                "version": "dev-1287--evaluation-portal-title-link-to-404-error-page",
+                "version_normalized": "dev-1287--evaluation-portal-title-link-to-404-error-page",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_cities.git",
+                    "reference": "2b5a480b044000b3cc1446af546bf07cef4b43e1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/2b5a480b044000b3cc1446af546bf07cef4b43e1",
+                    "reference": "2b5a480b044000b3cc1446af546bf07cef4b43e1",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupalwxt/wxt": "5.6.1"
+                },
+                "time": "2026-08-28T21:36:43+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/1287--evaluation-portal-title-link-to-404-error-page"
+                }
+            },
             "dev-24--update-to-last-4.5.x": {
                 "name": "pco-bcp/pco_cities",
                 "version": "dev-24--update-to-last-4.5.x",
@@ -46376,12 +46464,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "36e4b1996e28bdbed2875def9ad2be726e46dcb0"
+                    "reference": "6b62ad579d8ac107419af8c748aa09a1e58fea10"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/36e4b1996e28bdbed2875def9ad2be726e46dcb0",
-                    "reference": "36e4b1996e28bdbed2875def9ad2be726e46dcb0",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/6b62ad579d8ac107419af8c748aa09a1e58fea10",
+                    "reference": "6b62ad579d8ac107419af8c748aa09a1e58fea10",
                     "shasum": ""
                 },
                 "require": {
@@ -46453,10 +46541,11 @@
                     "mglaman/phpstan-drupal": "^2.1",
                     "palantirnet/drupal-rector": "^1.0",
                     "phpspec/prophecy-phpunit": "^2.0",
+                    "phpstan/phpstan-phpunit": "^2.0",
                     "rector/rector": "2.6.2",
                     "squizlabs/php_codesniffer": "^3.0"
                 },
-                "time": "2026-08-27T19:44:19+00:00",
+                "time": "2026-08-28T19:07:12+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
