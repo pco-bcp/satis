@@ -354,6 +354,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1271-GA-additional-items",
+                "version_normalized": "dev-1271-GA-additional-items",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "cd5c2eb2919845e5c3350cb2a18a5286aac6d980"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/cd5c2eb2919845e5c3350cb2a18a5286aac6d980",
+                    "reference": "cd5c2eb2919845e5c3350cb2a18a5286aac6d980",
+                    "shasum": ""
+                },
+                "time": "2026-09-02T17:40:34+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1271-GA-additional-items"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {
