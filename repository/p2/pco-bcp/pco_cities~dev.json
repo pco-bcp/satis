@@ -622,18 +622,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "bafa152f9830f6e032acb3cbdb444c9f666dbc6c"
+                    "reference": "4d1be432f3e7d4d50e1bf69c2673a9dba0585d1d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/bafa152f9830f6e032acb3cbdb444c9f666dbc6c",
-                    "reference": "bafa152f9830f6e032acb3cbdb444c9f666dbc6c",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/4d1be432f3e7d4d50e1bf69c2673a9dba0585d1d",
+                    "reference": "4d1be432f3e7d4d50e1bf69c2673a9dba0585d1d",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "6.3.0"
                 },
-                "time": "2026-09-01T18:00:24+00:00",
+                "time": "2026-09-03T16:09:59+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -2534,18 +2534,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "d2e822c9b40190284797df910a67081ec5c5e7bd"
+                    "reference": "784593b917dcc1b089f784578cb93f4005a6adee"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/d2e822c9b40190284797df910a67081ec5c5e7bd",
-                    "reference": "d2e822c9b40190284797df910a67081ec5c5e7bd",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/784593b917dcc1b089f784578cb93f4005a6adee",
+                    "reference": "784593b917dcc1b089f784578cb93f4005a6adee",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "5.6.1"
                 },
-                "time": "2026-09-02T14:40:25+00:00",
+                "time": "2026-09-02T20:52:20+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
