@@ -17048,15 +17048,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "9a2dea7d9443874c5e0f7fa1535ceba401c2a856"
+                    "reference": "a545a8c76a7d6206985b1fa6a75761d3fc12bcfd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/9a2dea7d9443874c5e0f7fa1535ceba401c2a856",
-                    "reference": "9a2dea7d9443874c5e0f7fa1535ceba401c2a856",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a545a8c76a7d6206985b1fa6a75761d3fc12bcfd",
+                    "reference": "a545a8c76a7d6206985b1fa6a75761d3fc12bcfd",
                     "shasum": ""
                 },
-                "time": "2026-08-31T14:58:01+00:00",
+                "time": "2026-09-04T14:27:58+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -17090,31 +17090,6 @@
                 "description": "PM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
-                }
-            },
-            "dev-1273-fix-article-date-twig": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1273-fix-article-date-twig",
-                "version_normalized": "dev-1273-fix-article-date-twig",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "7feaf1dbda1b5901ee6f1f257090bd1bc54767e7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/7feaf1dbda1b5901ee6f1f257090bd1bc54767e7",
-                    "reference": "7feaf1dbda1b5901ee6f1f257090bd1bc54767e7",
-                    "shasum": ""
-                },
-                "time": "2026-09-04T14:19:30+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1273-fix-article-date-twig"
                 }
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
