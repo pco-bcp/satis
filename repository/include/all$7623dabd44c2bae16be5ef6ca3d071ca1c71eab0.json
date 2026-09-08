@@ -7564,18 +7564,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "6c4314bd4398bd2f2682f4602109a5d080f6684a"
+                    "reference": "59c159a4b49725b0b5a712a4e77269ba57bc05ee"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/6c4314bd4398bd2f2682f4602109a5d080f6684a",
-                    "reference": "6c4314bd4398bd2f2682f4602109a5d080f6684a",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/59c159a4b49725b0b5a712a4e77269ba57bc05ee",
+                    "reference": "59c159a4b49725b0b5a712a4e77269ba57bc05ee",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "5.6.1"
                 },
-                "time": "2026-08-17T19:08:31+00:00",
+                "time": "2026-09-08T16:25:44+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -7643,7 +7643,7 @@
                 ],
                 "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.14"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/5.6.x"
                 }
             },
             "6.2.x-dev": {
@@ -10081,94 +10081,6 @@
                 "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/fix/issue-1274-coi-hotfix"
-                }
-            },
-            "dev-fix/issue-1274-procedural-coi-refactor": {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-fix/issue-1274-procedural-coi-refactor",
-                "version_normalized": "dev-fix/issue-1274-procedural-coi-refactor",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "33f4d643fd32693401e246a88e11fc38d9e261dc"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/33f4d643fd32693401e246a88e11fc38d9e261dc",
-                    "reference": "33f4d643fd32693401e246a88e11fc38d9e261dc",
-                    "shasum": ""
-                },
-                "require": {
-                    "drupalwxt/wxt": "5.6.1"
-                },
-                "time": "2026-09-08T14:03:03+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/fix/issue-1274-procedural-coi-refactor"
                 }
             },
             "dev-iiu-evaluation-portal-a-posteriori-v1": {
