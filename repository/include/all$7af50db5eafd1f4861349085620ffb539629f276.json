@@ -7741,18 +7741,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "0e09af5f53945a1aaf9c7e809f1ca69b3046187e"
+                    "reference": "e3598d65577e6b31052b5aa1d55b367a4631b2f5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/0e09af5f53945a1aaf9c7e809f1ca69b3046187e",
-                    "reference": "0e09af5f53945a1aaf9c7e809f1ca69b3046187e",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/e3598d65577e6b31052b5aa1d55b367a4631b2f5",
+                    "reference": "e3598d65577e6b31052b5aa1d55b367a4631b2f5",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "6.3.0"
                 },
-                "time": "2026-09-08T13:56:18+00:00",
+                "time": "2026-09-08T14:19:34+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -10081,6 +10081,94 @@
                 "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/fix/issue-1274-coi-hotfix"
+                }
+            },
+            "dev-fix/issue-1274-procedural-coi-refactor": {
+                "name": "pco-bcp/pco_cities",
+                "version": "dev-fix/issue-1274-procedural-coi-refactor",
+                "version_normalized": "dev-fix/issue-1274-procedural-coi-refactor",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_cities.git",
+                    "reference": "33f4d643fd32693401e246a88e11fc38d9e261dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/33f4d643fd32693401e246a88e11fc38d9e261dc",
+                    "reference": "33f4d643fd32693401e246a88e11fc38d9e261dc",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupalwxt/wxt": "5.6.1"
+                },
+                "time": "2026-09-08T14:03:03+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/fix/issue-1274-procedural-coi-refactor"
                 }
             },
             "dev-iiu-evaluation-portal-a-posteriori-v1": {
@@ -14433,15 +14521,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "3d4e3f305e68707e5f62e86b2055f4492bfab0b2"
+                    "reference": "11ebb236f92fbad79318d8e98d7beee493fa2574"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3d4e3f305e68707e5f62e86b2055f4492bfab0b2",
-                    "reference": "3d4e3f305e68707e5f62e86b2055f4492bfab0b2",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/11ebb236f92fbad79318d8e98d7beee493fa2574",
+                    "reference": "11ebb236f92fbad79318d8e98d7beee493fa2574",
                     "shasum": ""
                 },
-                "time": "2026-09-02T18:17:42+00:00",
+                "time": "2026-09-08T15:30:26+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
