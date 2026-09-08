@@ -21,7 +21,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Theme"
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/1.x"
+                }
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -44,7 +47,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Theme"
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.11"
+                }
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -66,7 +72,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Theme"
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/476-form-errors-theme"
+                }
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -88,7 +97,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Theme"
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/577--fix-main-menu-covering-content"
+                }
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -110,7 +122,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Theme"
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/date-released-twig-display-timezone-2023-09-05"
+                }
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -132,7 +147,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Theme"
+                "description": "DPM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_theme/tree/pco-bcp/dpm_theme--fix-indent-2023-08-30"
+                }
             }
         ]
     }
