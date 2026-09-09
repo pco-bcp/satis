@@ -14182,15 +14182,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "58a0afb796b71bd58bf8281b6b7c7a32d123a85b"
+                    "reference": "cbc53e8dfd894bafdfeec401b4125efc0a860abd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/58a0afb796b71bd58bf8281b6b7c7a32d123a85b",
-                    "reference": "58a0afb796b71bd58bf8281b6b7c7a32d123a85b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/cbc53e8dfd894bafdfeec401b4125efc0a860abd",
+                    "reference": "cbc53e8dfd894bafdfeec401b4125efc0a860abd",
                     "shasum": ""
                 },
-                "time": "2026-08-25T13:17:53+00:00",
+                "time": "2026-09-09T15:05:17+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -14198,7 +14198,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.2"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.x"
                 }
             },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
@@ -14424,31 +14424,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1271-GA-additional-items"
-                }
-            },
-            "dev-1296-fix-timezone-in-photoswipe": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1296-fix-timezone-in-photoswipe",
-                "version_normalized": "dev-1296-fix-timezone-in-photoswipe",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "35d62a047c5d9bb3340bf719e4875513d3315b0d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/35d62a047c5d9bb3340bf719e4875513d3315b0d",
-                    "reference": "35d62a047c5d9bb3340bf719e4875513d3315b0d",
-                    "shasum": ""
-                },
-                "time": "2026-09-09T14:44:35+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1296-fix-timezone-in-photoswipe"
                 }
             },
             "dev-222--pm-cron-d-check": {
