@@ -304,6 +304,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1218-add-additional-fields-in-multi-photo-tool",
+                "version_normalized": "dev-1218-add-additional-fields-in-multi-photo-tool",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "19f0594293d9b64c4d7ae63ff26c5ae881de71e7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/19f0594293d9b64c4d7ae63ff26c5ae881de71e7",
+                    "reference": "19f0594293d9b64c4d7ae63ff26c5ae881de71e7",
+                    "shasum": ""
+                },
+                "time": "2026-09-09T19:07:42+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1218-add-additional-fields-in-multi-photo-tool"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1258--comment-out-code-in-pm-admin-hook-alter-subject-field",
                 "version_normalized": "dev-1258--comment-out-code-in-pm-admin-hook-alter-subject-field",
                 "source": {
