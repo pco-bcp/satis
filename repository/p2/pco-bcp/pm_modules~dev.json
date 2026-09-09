@@ -379,6 +379,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1296-fix-timezone-in-photoswipe",
+                "version_normalized": "dev-1296-fix-timezone-in-photoswipe",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "35d62a047c5d9bb3340bf719e4875513d3315b0d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/35d62a047c5d9bb3340bf719e4875513d3315b0d",
+                    "reference": "35d62a047c5d9bb3340bf719e4875513d3315b0d",
+                    "shasum": ""
+                },
+                "time": "2026-09-09T14:44:35+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1296-fix-timezone-in-photoswipe"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {
