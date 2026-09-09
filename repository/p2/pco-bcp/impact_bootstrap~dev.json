@@ -34,15 +34,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "c52e7b185bac2ad3b3e88bff5dd9bd67c8d54699"
+                    "reference": "0f39ba2f9d8b6a03c3f85164adab0f869ac38f13"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/c52e7b185bac2ad3b3e88bff5dd9bd67c8d54699",
-                    "reference": "c52e7b185bac2ad3b3e88bff5dd9bd67c8d54699",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/0f39ba2f9d8b6a03c3f85164adab0f869ac38f13",
+                    "reference": "0f39ba2f9d8b6a03c3f85164adab0f869ac38f13",
                     "shasum": ""
                 },
-                "time": "2026-04-21T15:07:48+00:00",
+                "time": "2026-09-09T13:55:22+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -100,31 +100,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/1234-fix-forgotpwd-pdding"
-                }
-            },
-            {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-1246--fix-rector-and-phpstan",
-                "version_normalized": "dev-1246--fix-rector-and-phpstan",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "5ccf7706df9ca913a85cfadb9c306fb63914600b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/5ccf7706df9ca913a85cfadb9c306fb63914600b",
-                    "reference": "5ccf7706df9ca913a85cfadb9c306fb63914600b",
-                    "shasum": ""
-                },
-                "time": "2026-09-03T16:09:35+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/1246--fix-rector-and-phpstan"
                 }
             },
             {
