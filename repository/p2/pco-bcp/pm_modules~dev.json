@@ -379,6 +379,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1266-performance-fixes-for-multi-photo-upload",
+                "version_normalized": "dev-1266-performance-fixes-for-multi-photo-upload",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "8ad612e5209c950aa730791401a719859e21d8f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8ad612e5209c950aa730791401a719859e21d8f6",
+                    "reference": "8ad612e5209c950aa730791401a719859e21d8f6",
+                    "shasum": ""
+                },
+                "time": "2026-09-11T16:55:35+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1266-performance-fixes-for-multi-photo-upload"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1271-GA-additional-items",
                 "version_normalized": "dev-1271-GA-additional-items",
                 "source": {
