@@ -263,7 +263,7 @@
                 ],
                 "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/6.3.x"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/6.3.0"
                 }
             },
             {
