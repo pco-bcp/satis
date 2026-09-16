@@ -17,7 +17,6 @@
                     "shasum": ""
                 },
                 "time": "2026-08-27T15:55:59+00:00",
-                "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -68,6 +67,7 @@
                     "shasum": ""
                 },
                 "time": "2026-09-14T12:28:11+00:00",
+                "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"

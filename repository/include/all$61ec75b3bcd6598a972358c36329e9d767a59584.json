@@ -2373,7 +2373,6 @@
                     "shasum": ""
                 },
                 "time": "2026-08-27T15:55:59+00:00",
-                "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -2449,6 +2448,7 @@
                     "shasum": ""
                 },
                 "time": "2026-09-14T12:28:11+00:00",
+                "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -7689,7 +7689,6 @@
                     "drupalwxt/wxt": "5.6.1"
                 },
                 "time": "2026-09-08T18:34:08+00:00",
-                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -7954,6 +7953,7 @@
                     "drupalwxt/wxt": "6.3.0"
                 },
                 "time": "2026-09-14T14:03:40+00:00",
+                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -8458,6 +8458,94 @@
                 "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/1246--fix-rector-and-phpstan-errors-custom-modules-and-theme"
+                }
+            },
+            "dev-1287--sideport-code-evaluation-portal-404errorpage": {
+                "name": "pco-bcp/pco_cities",
+                "version": "dev-1287--sideport-code-evaluation-portal-404errorpage",
+                "version_normalized": "dev-1287--sideport-code-evaluation-portal-404errorpage",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_cities.git",
+                    "reference": "bf37287762db8d512ae57e0de09796c70e06fc02"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/bf37287762db8d512ae57e0de09796c70e06fc02",
+                    "reference": "bf37287762db8d512ae57e0de09796c70e06fc02",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupalwxt/wxt": "6.3.0"
+                },
+                "time": "2026-09-16T11:16:36+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/1287--sideport-code-evaluation-portal-404errorpage"
                 }
             },
             "dev-24--update-to-last-4.5.x": {
@@ -10194,6 +10282,94 @@
                 "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/fix/issue-1274-coi-hotfix"
+                }
+            },
+            "dev-fix/issue-1297-resolve-report-non-reusability": {
+                "name": "pco-bcp/pco_cities",
+                "version": "dev-fix/issue-1297-resolve-report-non-reusability",
+                "version_normalized": "dev-fix/issue-1297-resolve-report-non-reusability",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_cities.git",
+                    "reference": "e0b13626995e7b0a61f6eadf0e090c6381b8e6e0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/e0b13626995e7b0a61f6eadf0e090c6381b8e6e0",
+                    "reference": "e0b13626995e7b0a61f6eadf0e090c6381b8e6e0",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupalwxt/wxt": "6.3.0"
+                },
+                "time": "2026-09-14T23:41:39+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/fix/issue-1297-resolve-report-non-reusability"
                 }
             },
             "dev-iiu-evaluation-portal-a-posteriori-v1": {
@@ -18252,6 +18428,538 @@
                 "description": "Project template for Drupal 8 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1.1.0"
+                }
+            },
+            "11.3.0": {
+                "name": "pco-bcp/site-pco-impactcanada",
+                "version": "11.3.0",
+                "version_normalized": "11.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
+                    "reference": "df4ac5837624789c2bfb60499d0da1ad666ceccd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/df4ac5837624789c2bfb60499d0da1ad666ceccd",
+                    "reference": "df4ac5837624789c2bfb60499d0da1ad666ceccd",
+                    "shasum": ""
+                },
+                "require": {
+                    "cweagans/composer-patches": "^1.7",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.2",
+                    "drupal/admin_toolbar": "^3.6",
+                    "drupal/autologout": "^2.0",
+                    "drupal/bartik": "^1.1",
+                    "drupal/blog": "^3.1",
+                    "drupal/bootstrap_layouts": "^5.7",
+                    "drupal/cache_control_override": "^2.0",
+                    "drupal/captcha": "^2.0",
+                    "drupal/ckeditor5_fullscreen": "^1.0",
+                    "drupal/config_filter": "^2.7",
+                    "drupal/config_split": "^2.0",
+                    "drupal/content_access": "^2.1@RC",
+                    "drupal/core": "~11.3.16",
+                    "drupal/core-composer-scaffold": "~11.3.16",
+                    "drupal/core-project-message": "~11.3.16",
+                    "drupal/core-recommended": "~11.3.16",
+                    "drupal/email_tfa": "^3.0",
+                    "drupal/fast_404": "^3.7",
+                    "drupal/features": "^3.16",
+                    "drupal/field_permissions": "^1.5",
+                    "drupal/gin": "^5.0",
+                    "drupal/gin_toolbar": "^3.0",
+                    "drupal/google_analytics": "^4.0",
+                    "drupal/hacked": "^2.0@beta",
+                    "drupal/honeypot": "^2.2",
+                    "drupal/js_cookie": "^2.0",
+                    "drupal/login_security": "^2.0",
+                    "drupal/mailgun": "^2.0",
+                    "drupal/mailsystem": "^4.5",
+                    "drupal/menu_link_attributes": "^1.7",
+                    "drupal/moderation_dashboard": "^3.1",
+                    "drupal/openapi_jsonapi": "^3.0",
+                    "drupal/page_manager": "^4.0@RC",
+                    "drupal/paragraphs": "1.23 as 1.20",
+                    "drupal/phpmailer_smtp": "^2.4",
+                    "drupal/quickedit": "^2.0",
+                    "drupal/rdf": "^3.0@beta",
+                    "drupal/real_aes": "^2.6",
+                    "drupal/recaptcha": "^3.4",
+                    "drupal/scheduled_updates": "^3.0@alpha",
+                    "drupal/seckit": "^2.0",
+                    "drupal/security_review": "^3.1",
+                    "drupal/seven": "^2.0@beta",
+                    "drupal/simple_oauth": "^6.1",
+                    "drupal/slick": "^3.0",
+                    "drupal/slick_extras": "^2.0",
+                    "drupal/slick_views": "^3.0",
+                    "drupal/stable": "^2.1",
+                    "drupal/stage_file_proxy": "^3.1",
+                    "drupal/tour": "^2.0",
+                    "drupal/webform_views": "^5.6",
+                    "fontawesome/fontawesome": "^6.4",
+                    "mglaman/composer-drupal-lenient": "^2.0",
+                    "pco-bcp/impact_bootstrap": "^6.3",
+                    "pco-bcp/pco_cities": "^6.3",
+                    "php-http/discovery": "^1.14",
+                    "scssphp/scssphp": "^2.1",
+                    "tbachert/spi": "^1.0",
+                    "wikimedia/composer-merge-plugin": "^2.0"
+                },
+                "replace": {
+                    "fontawesome/fontawesome": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "~11.3.16",
+                    "drupal/drupal-extension": "^5.1.0",
+                    "drupal/upgrade_status": "^4.3",
+                    "drush/drush": "^13.3.3",
+                    "mglaman/phpstan-drupal": "^2.1",
+                    "palantirnet/drupal-rector": "^1.0",
+                    "phpspec/prophecy-phpunit": "^2.0",
+                    "phpstan/phpstan-phpunit": "^2.0",
+                    "rector/rector": "2.6.2",
+                    "squizlabs/php_codesniffer": "^3.0"
+                },
+                "time": "2026-09-14T20:45:41+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "html/"
+                        }
+                    },
+                    "merge-plugin": {
+                        "include": [
+                            "html/modules/contrib/webform/composer.libraries.json"
+                        ]
+                    },
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-console-library",
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "composer-exit-on-patch-failure": false,
+                    "enable-patching": true,
+                    "patchLevel": {
+                        "drupal/core": "-p2"
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "3482408-typeerror-arraykeys-argument": "https://www.drupal.org/files/issues/2024-10-22/3482408-typeerror-arraykeys-argument_0.patch"
+                        },
+                        "drupal/layout_builder_st": {
+                            "fix layout builder symetric translations for null value of section_storage": "custom_patches/fix-null-value-section-storage-layout_builder_st.patch"
+                        },
+                        "codemirror/codemirror": {
+                            "#3531472: Drupal 10.5 / 11.2 incompatibility": "https://www.drupal.org/files/issues/2025-11-13/ckeditor_codemirror-codemirror-LIBRARY-3531472-copyobj-hasownproperty-fix.diff"
+                        }
+                    },
+                    "patches-ignore": {
+                        "drupalwxt/wxt": {
+                            "drupal/page_manager": {
+                                "ignore patch because because page_mannager has been updated with the fix": "https://www.drupal.org/files/issues/2026-03-07/page_manager-php8-4-deprecation-3536704-15.patch"
+                            }
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "post-create-project-cmd": [
+                        "rm -r -f .travis.yml behat.yml .travis-ci"
+                    ],
+                    "quick-start": [
+                        "composer install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Project template for Drupal 11 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.0"
+                }
+            },
+            "11.3.1": {
+                "name": "pco-bcp/site-pco-impactcanada",
+                "version": "11.3.1",
+                "version_normalized": "11.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
+                    "reference": "5404e96635b15b5fa62f662f0ef0f7a9183bc55d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/5404e96635b15b5fa62f662f0ef0f7a9183bc55d",
+                    "reference": "5404e96635b15b5fa62f662f0ef0f7a9183bc55d",
+                    "shasum": ""
+                },
+                "require": {
+                    "cweagans/composer-patches": "^1.7",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.2",
+                    "drupal/admin_toolbar": "^3.6",
+                    "drupal/autologout": "^2.0",
+                    "drupal/bartik": "^1.1",
+                    "drupal/blog": "^3.1",
+                    "drupal/bootstrap_layouts": "^5.7",
+                    "drupal/cache_control_override": "^2.0",
+                    "drupal/captcha": "^2.0",
+                    "drupal/ckeditor5_fullscreen": "^1.0",
+                    "drupal/config_filter": "^2.7",
+                    "drupal/config_split": "^2.0",
+                    "drupal/content_access": "^2.1@RC",
+                    "drupal/core": "~11.3.16",
+                    "drupal/core-composer-scaffold": "~11.3.16",
+                    "drupal/core-project-message": "~11.3.16",
+                    "drupal/core-recommended": "~11.3.16",
+                    "drupal/email_tfa": "^3.0",
+                    "drupal/fast_404": "^3.7",
+                    "drupal/features": "^3.16",
+                    "drupal/field_permissions": "^1.5",
+                    "drupal/gin": "^5.0",
+                    "drupal/gin_toolbar": "^3.0",
+                    "drupal/google_analytics": "^4.0",
+                    "drupal/hacked": "^2.0@beta",
+                    "drupal/honeypot": "^2.2",
+                    "drupal/js_cookie": "^2.0",
+                    "drupal/login_security": "^2.0",
+                    "drupal/mailgun": "^2.0",
+                    "drupal/mailsystem": "^4.5",
+                    "drupal/menu_link_attributes": "^1.7",
+                    "drupal/moderation_dashboard": "^3.1",
+                    "drupal/openapi_jsonapi": "^3.0",
+                    "drupal/page_manager": "^4.0@RC",
+                    "drupal/paragraphs": "1.23 as 1.20",
+                    "drupal/phpmailer_smtp": "^2.4",
+                    "drupal/quickedit": "^2.0",
+                    "drupal/rdf": "^3.0@beta",
+                    "drupal/real_aes": "^2.6",
+                    "drupal/recaptcha": "^3.4",
+                    "drupal/scheduled_updates": "^3.0@alpha",
+                    "drupal/seckit": "^2.0",
+                    "drupal/security_review": "^3.1",
+                    "drupal/seven": "^2.0@beta",
+                    "drupal/simple_oauth": "^6.1",
+                    "drupal/slick": "^3.0",
+                    "drupal/slick_extras": "^2.0",
+                    "drupal/slick_views": "^3.0",
+                    "drupal/stable": "^2.1",
+                    "drupal/stage_file_proxy": "^3.1",
+                    "drupal/tour": "^2.0",
+                    "drupal/webform_views": "^5.6",
+                    "fontawesome/fontawesome": "^6.4",
+                    "mglaman/composer-drupal-lenient": "^2.0",
+                    "pco-bcp/impact_bootstrap": "^6.3",
+                    "pco-bcp/pco_cities": "^6.3",
+                    "php-http/discovery": "^1.14",
+                    "scssphp/scssphp": "^2.1",
+                    "tbachert/spi": "^1.0",
+                    "wikimedia/composer-merge-plugin": "^2.0"
+                },
+                "replace": {
+                    "fontawesome/fontawesome": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "~11.3.16",
+                    "drupal/drupal-extension": "^5.1.0",
+                    "drupal/upgrade_status": "^4.3",
+                    "drush/drush": "^13.3.3",
+                    "mglaman/phpstan-drupal": "^2.1",
+                    "palantirnet/drupal-rector": "^1.0",
+                    "phpspec/prophecy-phpunit": "^2.0",
+                    "phpstan/phpstan-phpunit": "^2.0",
+                    "rector/rector": "2.6.2",
+                    "squizlabs/php_codesniffer": "^3.0"
+                },
+                "time": "2026-09-15T12:45:55+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "html/"
+                        }
+                    },
+                    "merge-plugin": {
+                        "include": [
+                            "html/modules/contrib/webform/composer.libraries.json"
+                        ]
+                    },
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-console-library",
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "composer-exit-on-patch-failure": false,
+                    "enable-patching": true,
+                    "patchLevel": {
+                        "drupal/core": "-p2"
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "3482408-typeerror-arraykeys-argument": "https://www.drupal.org/files/issues/2024-10-22/3482408-typeerror-arraykeys-argument_0.patch"
+                        },
+                        "drupal/layout_builder_st": {
+                            "fix layout builder symetric translations for null value of section_storage": "custom_patches/fix-null-value-section-storage-layout_builder_st.patch"
+                        },
+                        "codemirror/codemirror": {
+                            "#3531472: Drupal 10.5 / 11.2 incompatibility": "https://www.drupal.org/files/issues/2025-11-13/ckeditor_codemirror-codemirror-LIBRARY-3531472-copyobj-hasownproperty-fix.diff"
+                        }
+                    },
+                    "patches-ignore": {
+                        "drupalwxt/wxt": {
+                            "drupal/page_manager": {
+                                "ignore patch because because page_mannager has been updated with the fix": "https://www.drupal.org/files/issues/2026-03-07/page_manager-php8-4-deprecation-3536704-15.patch"
+                            }
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "post-create-project-cmd": [
+                        "rm -r -f .travis.yml behat.yml .travis-ci"
+                    ],
+                    "quick-start": [
+                        "composer install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Project template for Drupal 11 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.1"
+                }
+            },
+            "11.3.x-dev": {
+                "name": "pco-bcp/site-pco-impactcanada",
+                "version": "11.3.x-dev",
+                "version_normalized": "11.3.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
+                    "reference": "5404e96635b15b5fa62f662f0ef0f7a9183bc55d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/5404e96635b15b5fa62f662f0ef0f7a9183bc55d",
+                    "reference": "5404e96635b15b5fa62f662f0ef0f7a9183bc55d",
+                    "shasum": ""
+                },
+                "require": {
+                    "cweagans/composer-patches": "^1.7",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.2",
+                    "drupal/admin_toolbar": "^3.6",
+                    "drupal/autologout": "^2.0",
+                    "drupal/bartik": "^1.1",
+                    "drupal/blog": "^3.1",
+                    "drupal/bootstrap_layouts": "^5.7",
+                    "drupal/cache_control_override": "^2.0",
+                    "drupal/captcha": "^2.0",
+                    "drupal/ckeditor5_fullscreen": "^1.0",
+                    "drupal/config_filter": "^2.7",
+                    "drupal/config_split": "^2.0",
+                    "drupal/content_access": "^2.1@RC",
+                    "drupal/core": "~11.3.16",
+                    "drupal/core-composer-scaffold": "~11.3.16",
+                    "drupal/core-project-message": "~11.3.16",
+                    "drupal/core-recommended": "~11.3.16",
+                    "drupal/email_tfa": "^3.0",
+                    "drupal/fast_404": "^3.7",
+                    "drupal/features": "^3.16",
+                    "drupal/field_permissions": "^1.5",
+                    "drupal/gin": "^5.0",
+                    "drupal/gin_toolbar": "^3.0",
+                    "drupal/google_analytics": "^4.0",
+                    "drupal/hacked": "^2.0@beta",
+                    "drupal/honeypot": "^2.2",
+                    "drupal/js_cookie": "^2.0",
+                    "drupal/login_security": "^2.0",
+                    "drupal/mailgun": "^2.0",
+                    "drupal/mailsystem": "^4.5",
+                    "drupal/menu_link_attributes": "^1.7",
+                    "drupal/moderation_dashboard": "^3.1",
+                    "drupal/openapi_jsonapi": "^3.0",
+                    "drupal/page_manager": "^4.0@RC",
+                    "drupal/paragraphs": "1.23 as 1.20",
+                    "drupal/phpmailer_smtp": "^2.4",
+                    "drupal/quickedit": "^2.0",
+                    "drupal/rdf": "^3.0@beta",
+                    "drupal/real_aes": "^2.6",
+                    "drupal/recaptcha": "^3.4",
+                    "drupal/scheduled_updates": "^3.0@alpha",
+                    "drupal/seckit": "^2.0",
+                    "drupal/security_review": "^3.1",
+                    "drupal/seven": "^2.0@beta",
+                    "drupal/simple_oauth": "^6.1",
+                    "drupal/slick": "^3.0",
+                    "drupal/slick_extras": "^2.0",
+                    "drupal/slick_views": "^3.0",
+                    "drupal/stable": "^2.1",
+                    "drupal/stage_file_proxy": "^3.1",
+                    "drupal/tour": "^2.0",
+                    "drupal/webform_views": "^5.6",
+                    "fontawesome/fontawesome": "^6.4",
+                    "mglaman/composer-drupal-lenient": "^2.0",
+                    "pco-bcp/impact_bootstrap": "^6.3",
+                    "pco-bcp/pco_cities": "^6.3",
+                    "php-http/discovery": "^1.14",
+                    "scssphp/scssphp": "^2.1",
+                    "tbachert/spi": "^1.0",
+                    "wikimedia/composer-merge-plugin": "^2.0"
+                },
+                "replace": {
+                    "fontawesome/fontawesome": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "~11.3.16",
+                    "drupal/drupal-extension": "^5.1.0",
+                    "drupal/upgrade_status": "^4.3",
+                    "drush/drush": "^13.3.3",
+                    "mglaman/phpstan-drupal": "^2.1",
+                    "palantirnet/drupal-rector": "^1.0",
+                    "phpspec/prophecy-phpunit": "^2.0",
+                    "phpstan/phpstan-phpunit": "^2.0",
+                    "rector/rector": "2.6.2",
+                    "squizlabs/php_codesniffer": "^3.0"
+                },
+                "time": "2026-09-15T12:45:55+00:00",
+                "default-branch": true,
+                "type": "drupal-profile",
+                "extra": {
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "html/"
+                        }
+                    },
+                    "merge-plugin": {
+                        "include": [
+                            "html/modules/contrib/webform/composer.libraries.json"
+                        ]
+                    },
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-console-library",
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "composer-exit-on-patch-failure": false,
+                    "enable-patching": true,
+                    "patchLevel": {
+                        "drupal/core": "-p2"
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "3482408-typeerror-arraykeys-argument": "https://www.drupal.org/files/issues/2024-10-22/3482408-typeerror-arraykeys-argument_0.patch"
+                        },
+                        "drupal/layout_builder_st": {
+                            "fix layout builder symetric translations for null value of section_storage": "custom_patches/fix-null-value-section-storage-layout_builder_st.patch"
+                        },
+                        "codemirror/codemirror": {
+                            "#3531472: Drupal 10.5 / 11.2 incompatibility": "https://www.drupal.org/files/issues/2025-11-13/ckeditor_codemirror-codemirror-LIBRARY-3531472-copyobj-hasownproperty-fix.diff"
+                        }
+                    },
+                    "patches-ignore": {
+                        "drupalwxt/wxt": {
+                            "drupal/page_manager": {
+                                "ignore patch because because page_mannager has been updated with the fix": "https://www.drupal.org/files/issues/2026-03-07/page_manager-php8-4-deprecation-3536704-15.patch"
+                            }
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "post-create-project-cmd": [
+                        "rm -r -f .travis.yml behat.yml .travis-ci"
+                    ],
+                    "quick-start": [
+                        "composer install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Project template for Drupal 11 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.1"
                 }
             },
             "2.0.0": {
@@ -44662,7 +45370,6 @@
                     "squizlabs/php_codesniffer": "3.*"
                 },
                 "time": "2026-09-08T19:10:56+00:00",
-                "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
@@ -44918,179 +45625,6 @@
                 "description": "Project template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/6.2.x"
-                }
-            },
-            "6.3.x-dev": {
-                "name": "pco-bcp/site-pco-impactcanada",
-                "version": "6.3.x-dev",
-                "version_normalized": "6.3.9999999.9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "18d02a7f65acc78498c2bcc57481225c0218bc09"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/18d02a7f65acc78498c2bcc57481225c0218bc09",
-                    "reference": "18d02a7f65acc78498c2bcc57481225c0218bc09",
-                    "shasum": ""
-                },
-                "require": {
-                    "cweagans/composer-patches": "^1.7",
-                    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.2",
-                    "drupal/admin_toolbar": "^3.6",
-                    "drupal/autologout": "^2.0",
-                    "drupal/blog": "^3.1",
-                    "drupal/bootstrap_layouts": "^5.7",
-                    "drupal/cache_control_override": "^2.0",
-                    "drupal/captcha": "^2.0",
-                    "drupal/ckeditor5_fullscreen": "^1.0",
-                    "drupal/content_access": "^2.1@RC",
-                    "drupal/core": "~11.3.16",
-                    "drupal/core-composer-scaffold": "~11.3.16",
-                    "drupal/core-project-message": "~11.3.16",
-                    "drupal/core-recommended": "~11.3.16",
-                    "drupal/email_tfa": "^3.0",
-                    "drupal/fast_404": "^3.7",
-                    "drupal/features": "^3.16",
-                    "drupal/field_permissions": "^1.5",
-                    "drupal/gin": "^5.0",
-                    "drupal/gin_toolbar": "^3.0",
-                    "drupal/google_analytics": "^4.0",
-                    "drupal/hacked": "^2.0@beta",
-                    "drupal/honeypot": "^2.2",
-                    "drupal/js_cookie": "^2.0",
-                    "drupal/login_security": "^2.0",
-                    "drupal/mailgun": "^2.0",
-                    "drupal/mailsystem": "^4.5",
-                    "drupal/menu_link_attributes": "^1.7",
-                    "drupal/moderation_dashboard": "^3.1",
-                    "drupal/openapi_jsonapi": "^3.0",
-                    "drupal/page_manager": "^4.0@RC",
-                    "drupal/paragraphs": "1.23 as 1.20",
-                    "drupal/phpmailer_smtp": "^2.4",
-                    "drupal/quickedit": "^2.0",
-                    "drupal/rdf": "^3.0@beta",
-                    "drupal/real_aes": "^2.6",
-                    "drupal/recaptcha": "^3.4",
-                    "drupal/scheduled_updates": "^3.0@alpha",
-                    "drupal/seckit": "^2.0",
-                    "drupal/security_review": "^3.1",
-                    "drupal/seven": "^2.0@beta",
-                    "drupal/simple_oauth": "^6.1",
-                    "drupal/slick": "^3.0",
-                    "drupal/slick_extras": "^2.0",
-                    "drupal/slick_views": "^3.0",
-                    "drupal/stage_file_proxy": "^3.1",
-                    "drupal/tour": "^2.0",
-                    "drupal/webform_views": "^5.6",
-                    "fontawesome/fontawesome": "^6.4",
-                    "mglaman/composer-drupal-lenient": "^2.0",
-                    "pco-bcp/impact_bootstrap": "6.2.x-dev",
-                    "pco-bcp/pco_cities": "6.3.x-dev",
-                    "php-http/discovery": "^1.14",
-                    "scssphp/scssphp": "^2.1",
-                    "tbachert/spi": "^1.0",
-                    "wikimedia/composer-merge-plugin": "^2.0"
-                },
-                "replace": {
-                    "fontawesome/fontawesome": "*"
-                },
-                "require-dev": {
-                    "drupal/core-dev": "~11.3.16",
-                    "drupal/drupal-extension": "^5.1.0",
-                    "drupal/upgrade_status": "^4.3",
-                    "drush/drush": "^13.3.3",
-                    "mglaman/phpstan-drupal": "^2.1",
-                    "palantirnet/drupal-rector": "^1.0",
-                    "phpspec/prophecy-phpunit": "^2.0",
-                    "phpstan/phpstan-phpunit": "^2.0",
-                    "rector/rector": "2.6.2",
-                    "squizlabs/php_codesniffer": "^3.0"
-                },
-                "time": "2026-09-11T16:27:00+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "drupal-scaffold": {
-                        "locations": {
-                            "web-root": "html/"
-                        }
-                    },
-                    "merge-plugin": {
-                        "include": [
-                            "html/modules/contrib/webform/composer.libraries.json"
-                        ]
-                    },
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-console-library",
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "composer-exit-on-patch-failure": false,
-                    "enable-patching": true,
-                    "patchLevel": {
-                        "drupal/core": "-p2"
-                    },
-                    "patches": {
-                        "drupal/core": {
-                            "3482408-typeerror-arraykeys-argument": "https://www.drupal.org/files/issues/2024-10-22/3482408-typeerror-arraykeys-argument_0.patch"
-                        },
-                        "drupal/layout_builder_st": {
-                            "fix layout builder symetric translations for null value of section_storage": "custom_patches/fix-null-value-section-storage-layout_builder_st.patch"
-                        },
-                        "codemirror/codemirror": {
-                            "#3531472: Drupal 10.5 / 11.2 incompatibility": "https://www.drupal.org/files/issues/2025-11-13/ckeditor_codemirror-codemirror-LIBRARY-3531472-copyobj-hasownproperty-fix.diff"
-                        }
-                    },
-                    "patches-ignore": {
-                        "drupalwxt/wxt": {
-                            "drupal/page_manager": {
-                                "ignore patch because because page_mannager has been updated with the fix": "https://www.drupal.org/files/issues/2026-03-07/page_manager-php8-4-deprecation-3536704-15.patch"
-                            }
-                        }
-                    }
-                },
-                "autoload": {
-                    "classmap": [
-                        "scripts/ScriptHandler.php"
-                    ]
-                },
-                "scripts": {
-                    "post-create-project-cmd": [
-                        "rm -r -f .travis.yml behat.yml .travis-ci"
-                    ],
-                    "quick-start": [
-                        "composer install"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Project template for Drupal 11 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/6.3.x"
                 }
             },
             "dev-1116-whvpf-quick-fix": {
@@ -46663,6 +47197,183 @@
                 "description": "Project template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1236-remove-welcome"
+                }
+            },
+            "dev-1287--sideport-code-evaluation-portal-to-404": {
+                "name": "pco-bcp/site-pco-impactcanada",
+                "version": "dev-1287--sideport-code-evaluation-portal-to-404",
+                "version_normalized": "dev-1287--sideport-code-evaluation-portal-to-404",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
+                    "reference": "5404e96635b15b5fa62f662f0ef0f7a9183bc55d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/5404e96635b15b5fa62f662f0ef0f7a9183bc55d",
+                    "reference": "5404e96635b15b5fa62f662f0ef0f7a9183bc55d",
+                    "shasum": ""
+                },
+                "require": {
+                    "cweagans/composer-patches": "^1.7",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.2",
+                    "drupal/admin_toolbar": "^3.6",
+                    "drupal/autologout": "^2.0",
+                    "drupal/bartik": "^1.1",
+                    "drupal/blog": "^3.1",
+                    "drupal/bootstrap_layouts": "^5.7",
+                    "drupal/cache_control_override": "^2.0",
+                    "drupal/captcha": "^2.0",
+                    "drupal/ckeditor5_fullscreen": "^1.0",
+                    "drupal/config_filter": "^2.7",
+                    "drupal/config_split": "^2.0",
+                    "drupal/content_access": "^2.1@RC",
+                    "drupal/core": "~11.3.16",
+                    "drupal/core-composer-scaffold": "~11.3.16",
+                    "drupal/core-project-message": "~11.3.16",
+                    "drupal/core-recommended": "~11.3.16",
+                    "drupal/email_tfa": "^3.0",
+                    "drupal/fast_404": "^3.7",
+                    "drupal/features": "^3.16",
+                    "drupal/field_permissions": "^1.5",
+                    "drupal/gin": "^5.0",
+                    "drupal/gin_toolbar": "^3.0",
+                    "drupal/google_analytics": "^4.0",
+                    "drupal/hacked": "^2.0@beta",
+                    "drupal/honeypot": "^2.2",
+                    "drupal/js_cookie": "^2.0",
+                    "drupal/login_security": "^2.0",
+                    "drupal/mailgun": "^2.0",
+                    "drupal/mailsystem": "^4.5",
+                    "drupal/menu_link_attributes": "^1.7",
+                    "drupal/moderation_dashboard": "^3.1",
+                    "drupal/openapi_jsonapi": "^3.0",
+                    "drupal/page_manager": "^4.0@RC",
+                    "drupal/paragraphs": "1.23 as 1.20",
+                    "drupal/phpmailer_smtp": "^2.4",
+                    "drupal/quickedit": "^2.0",
+                    "drupal/rdf": "^3.0@beta",
+                    "drupal/real_aes": "^2.6",
+                    "drupal/recaptcha": "^3.4",
+                    "drupal/scheduled_updates": "^3.0@alpha",
+                    "drupal/seckit": "^2.0",
+                    "drupal/security_review": "^3.1",
+                    "drupal/seven": "^2.0@beta",
+                    "drupal/simple_oauth": "^6.1",
+                    "drupal/slick": "^3.0",
+                    "drupal/slick_extras": "^2.0",
+                    "drupal/slick_views": "^3.0",
+                    "drupal/stable": "^2.1",
+                    "drupal/stage_file_proxy": "^3.1",
+                    "drupal/tour": "^2.0",
+                    "drupal/webform_views": "^5.6",
+                    "fontawesome/fontawesome": "^6.4",
+                    "mglaman/composer-drupal-lenient": "^2.0",
+                    "pco-bcp/impact_bootstrap": "^6.3",
+                    "pco-bcp/pco_cities": "^6.3",
+                    "php-http/discovery": "^1.14",
+                    "scssphp/scssphp": "^2.1",
+                    "tbachert/spi": "^1.0",
+                    "wikimedia/composer-merge-plugin": "^2.0"
+                },
+                "replace": {
+                    "fontawesome/fontawesome": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "~11.3.16",
+                    "drupal/drupal-extension": "^5.1.0",
+                    "drupal/upgrade_status": "^4.3",
+                    "drush/drush": "^13.3.3",
+                    "mglaman/phpstan-drupal": "^2.1",
+                    "palantirnet/drupal-rector": "^1.0",
+                    "phpspec/prophecy-phpunit": "^2.0",
+                    "phpstan/phpstan-phpunit": "^2.0",
+                    "rector/rector": "2.6.2",
+                    "squizlabs/php_codesniffer": "^3.0"
+                },
+                "time": "2026-09-15T12:45:55+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "html/"
+                        }
+                    },
+                    "merge-plugin": {
+                        "include": [
+                            "html/modules/contrib/webform/composer.libraries.json"
+                        ]
+                    },
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-console-library",
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "composer-exit-on-patch-failure": false,
+                    "enable-patching": true,
+                    "patchLevel": {
+                        "drupal/core": "-p2"
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "3482408-typeerror-arraykeys-argument": "https://www.drupal.org/files/issues/2024-10-22/3482408-typeerror-arraykeys-argument_0.patch"
+                        },
+                        "drupal/layout_builder_st": {
+                            "fix layout builder symetric translations for null value of section_storage": "custom_patches/fix-null-value-section-storage-layout_builder_st.patch"
+                        },
+                        "codemirror/codemirror": {
+                            "#3531472: Drupal 10.5 / 11.2 incompatibility": "https://www.drupal.org/files/issues/2025-11-13/ckeditor_codemirror-codemirror-LIBRARY-3531472-copyobj-hasownproperty-fix.diff"
+                        }
+                    },
+                    "patches-ignore": {
+                        "drupalwxt/wxt": {
+                            "drupal/page_manager": {
+                                "ignore patch because because page_mannager has been updated with the fix": "https://www.drupal.org/files/issues/2026-03-07/page_manager-php8-4-deprecation-3536704-15.patch"
+                            }
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "post-create-project-cmd": [
+                        "rm -r -f .travis.yml behat.yml .travis-ci"
+                    ],
+                    "quick-start": [
+                        "composer install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Project template for Drupal 11 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.1"
                 }
             },
             "dev-16-add-playwright-testing-to-ici": {
@@ -54299,6 +55010,183 @@
                 "description": "Project template for Drupal 9 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/fix-url-node-19-2023-07-09"
+                }
+            },
+            "dev-fix/issue-1268-intake-light-fixes": {
+                "name": "pco-bcp/site-pco-impactcanada",
+                "version": "dev-fix/issue-1268-intake-light-fixes",
+                "version_normalized": "dev-fix/issue-1268-intake-light-fixes",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
+                    "reference": "f6e50c460b932fb272ea94ca5e87e8c5a68aec2b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/f6e50c460b932fb272ea94ca5e87e8c5a68aec2b",
+                    "reference": "f6e50c460b932fb272ea94ca5e87e8c5a68aec2b",
+                    "shasum": ""
+                },
+                "require": {
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/admin_toolbar": "^3.2.1",
+                    "drupal/autologout": "^1.7",
+                    "drupal/bartik": "^1.0",
+                    "drupal/blazy": "^3.0",
+                    "drupal/blog": "^3.1",
+                    "drupal/cache_control_override": "^2.0.1 || ^1.1",
+                    "drupal/captcha": "^2.0",
+                    "drupal/ckeditor5_fullscreen": "^1.0",
+                    "drupal/config_filter": "^1.5",
+                    "drupal/config_split": "^2.0",
+                    "drupal/config_update": "^2.0@alpha",
+                    "drupal/content_access": "^2.0@RC",
+                    "drupal/email_tfa": "^2.0",
+                    "drupal/fast404": "^3.3",
+                    "drupal/fast_404": "^3.7",
+                    "drupal/features": "^3.12",
+                    "drupal/features_ui": "^3.12",
+                    "drupal/field_permissions": "^1.5",
+                    "drupal/gin": "^4.1",
+                    "drupal/gin_toolbar": "^2.1",
+                    "drupal/google_analytics": "^4.0",
+                    "drupal/hacked": "^2.0@beta",
+                    "drupal/honeypot": "^2.1",
+                    "drupal/jquery_ui_resizable": "^2.1",
+                    "drupal/js_cookie": "^1.0",
+                    "drupal/login_security": "^2.0",
+                    "drupal/mailgun": "^2.0",
+                    "drupal/mailsystem": "^4.3",
+                    "drupal/menu_link_attributes": "^1.6",
+                    "drupal/moderation_dashboard": "^3.1",
+                    "drupal/openapi_jsonapi": "^3.0",
+                    "drupal/page_manager": "^4.0@RC",
+                    "drupal/phpmailer_smtp": "^2.1",
+                    "drupal/quickedit": "^1.0",
+                    "drupal/rdf": "^2.1",
+                    "drupal/real_aes": "^2.4",
+                    "drupal/recaptcha": "^3.2",
+                    "drupal/restrict_role_login_by_ip": "3.x-dev@dev || ^2.0",
+                    "drupal/scheduled_updates": "2.x-dev@dev",
+                    "drupal/seckit": "^2.0",
+                    "drupal/security_review": "^3.1",
+                    "drupal/seven": "^1.0",
+                    "drupal/simple_oauth": "^5.2",
+                    "drupal/slick": "^3.0",
+                    "drupal/slick_extras": "^2.0",
+                    "drupal/slick_views": "^3.0",
+                    "drupal/stable": "^2.0",
+                    "drupal/stage_file_proxy": "^3.1",
+                    "drupal/webform_views": "^5.0@beta",
+                    "mglaman/composer-drupal-lenient": "^1.0",
+                    "oomphinc/composer-installers-extender": "^2 || ^1.1",
+                    "pco-bcp/impact_bootstrap": "^3.1",
+                    "pco-bcp/pco_cities": "^3.1",
+                    "phpstan/phpstan": "^1.3",
+                    "scssphp/scssphp": "^1.13",
+                    "wikimedia/composer-merge-plugin": "^2.0"
+                },
+                "require-dev": {
+                    "drupal/core": "^10.6",
+                    "drupal/core-composer-scaffold": "^10.6",
+                    "drupal/core-dev": "^10.6",
+                    "drupal/core-project-message": "^10.6",
+                    "drupal/core-recommended": "^10.6",
+                    "drupal/drupal-extension": "^5.1.0",
+                    "drupal/upgrade_status": "^4.3",
+                    "drush/drush": "^12",
+                    "mglaman/drupal-check": "^1.4",
+                    "oomphinc/composer-installers-extender": "^2 || ^1.1",
+                    "palantirnet/drupal-rector": "^0.20",
+                    "phpspec/prophecy-phpunit": "^2",
+                    "rector/rector": "^1.2",
+                    "squizlabs/php_codesniffer": "3.*"
+                },
+                "time": "2026-09-15T20:49:38+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "html/"
+                        }
+                    },
+                    "merge-plugin": {
+                        "include": [
+                            "html/modules/contrib/webform/composer.libraries.json"
+                        ]
+                    },
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-console-library",
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "composer-exit-on-patch-failure": false,
+                    "enable-patching": true,
+                    "patchLevel": {
+                        "drupal/core": "-p2"
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "2921627-92-10.6 - WCAG required markers on forms": "https://www.drupal.org/files/issues/2025-12-31/2921627-92-10.6.patch",
+                            "Error after saving node drupal 8.7 issue": "https://www.drupal.org/files/issues/2019-02-11/ignore_width_height_on_untranslatable_field_comparision_2941092_8.patch",
+                            "str_replace patch": "https://www.drupal.org/files/issues/2022-07-07/3294680-2.patch",
+                            "3266057": "https://www.drupal.org/files/issues/2024-11-22/3266057-134.patch"
+                        },
+                        "drupal/seven": {
+                            "seven-admin-theme-add-metatag-for-mixed-content": "custom_patches/seven-admin-theme-add-metatag.patch"
+                        },
+                        "drupal/restrict_role_login_by_ip": {
+                            "3074588 - Fix Header Check and foreach() argument must be of type array error": "custom_patches/fix-header-check-restrict-role-login-by-ip.patch"
+                        },
+                        "drupal/layout_builder_st": {
+                            "Fix null SectionStorage error (3069964)": "https://www.drupal.org/files/issues/2025-01-02/3069964-null-fix.patch"
+                        },
+                        "codemirror/codemirror": {
+                            "#3531472: Drupal 10.5 / 11.2 incompatibility": "https://www.drupal.org/files/issues/2025-11-13/ckeditor_codemirror-codemirror-LIBRARY-3531472-copyobj-hasownproperty-fix.diff"
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "post-create-project-cmd": [
+                        "rm -r -f .travis.yml behat.yml .travis-ci"
+                    ],
+                    "quick-start": [
+                        "composer install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Project template for Drupal 10 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/fix/issue-1268-intake-light-fixes"
                 }
             },
             "dev-fix/issue-1282-pulse-pages": {
