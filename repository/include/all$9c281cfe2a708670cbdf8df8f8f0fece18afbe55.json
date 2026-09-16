@@ -7941,18 +7941,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "877a1e80128bb76efb30af4c4b8b14f9c43d85d7"
+                    "reference": "d07cedbeaa298e486f295a5a66f03beb2565509d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/877a1e80128bb76efb30af4c4b8b14f9c43d85d7",
-                    "reference": "877a1e80128bb76efb30af4c4b8b14f9c43d85d7",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/d07cedbeaa298e486f295a5a66f03beb2565509d",
+                    "reference": "d07cedbeaa298e486f295a5a66f03beb2565509d",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "6.3.0"
                 },
-                "time": "2026-09-14T14:03:40+00:00",
+                "time": "2026-09-16T14:28:20+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -8020,7 +8020,7 @@
                 ],
                 "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/6.3.0"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/6.3.x"
                 }
             },
             "dev-1067-challenge-submission-portal-error": {
@@ -8458,94 +8458,6 @@
                 "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/1246--fix-rector-and-phpstan-errors-custom-modules-and-theme"
-                }
-            },
-            "dev-1287--sideport-code-evaluation-portal-404errorpage": {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-1287--sideport-code-evaluation-portal-404errorpage",
-                "version_normalized": "dev-1287--sideport-code-evaluation-portal-404errorpage",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "bf37287762db8d512ae57e0de09796c70e06fc02"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/bf37287762db8d512ae57e0de09796c70e06fc02",
-                    "reference": "bf37287762db8d512ae57e0de09796c70e06fc02",
-                    "shasum": ""
-                },
-                "require": {
-                    "drupalwxt/wxt": "6.3.0"
-                },
-                "time": "2026-09-16T11:16:36+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/1287--sideport-code-evaluation-portal-404errorpage"
                 }
             },
             "dev-24--update-to-last-4.5.x": {
@@ -18791,12 +18703,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "5404e96635b15b5fa62f662f0ef0f7a9183bc55d"
+                    "reference": "d1cd6f9a348696f99c78c4bd135c0205ca9e2d53"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/5404e96635b15b5fa62f662f0ef0f7a9183bc55d",
-                    "reference": "5404e96635b15b5fa62f662f0ef0f7a9183bc55d",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/d1cd6f9a348696f99c78c4bd135c0205ca9e2d53",
+                    "reference": "d1cd6f9a348696f99c78c4bd135c0205ca9e2d53",
                     "shasum": ""
                 },
                 "require": {
@@ -18876,7 +18788,7 @@
                     "rector/rector": "2.6.2",
                     "squizlabs/php_codesniffer": "^3.0"
                 },
-                "time": "2026-09-15T12:45:55+00:00",
+                "time": "2026-09-16T14:28:04+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -18959,7 +18871,7 @@
                 ],
                 "description": "Project template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.1"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.x"
                 }
             },
             "2.0.0": {
