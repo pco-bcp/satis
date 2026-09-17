@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "d1cd6f9a348696f99c78c4bd135c0205ca9e2d53"
+                    "reference": "bbf3d2d0e91698a923f0362244441dd953ded89f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/d1cd6f9a348696f99c78c4bd135c0205ca9e2d53",
-                    "reference": "d1cd6f9a348696f99c78c4bd135c0205ca9e2d53",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/bbf3d2d0e91698a923f0362244441dd953ded89f",
+                    "reference": "bbf3d2d0e91698a923f0362244441dd953ded89f",
                     "shasum": ""
                 },
                 "require": {
@@ -93,7 +93,7 @@
                     "rector/rector": "2.6.2",
                     "squizlabs/php_codesniffer": "^3.0"
                 },
-                "time": "2026-09-16T14:28:04+00:00",
+                "time": "2026-09-16T15:33:22+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -176,7 +176,7 @@
                 ],
                 "description": "Project template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.x"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.2"
                 }
             },
             {
@@ -9919,12 +9919,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "f6e50c460b932fb272ea94ca5e87e8c5a68aec2b"
+                    "reference": "402e67e5583659f0923d61741bd3ab67578ad4e0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/f6e50c460b932fb272ea94ca5e87e8c5a68aec2b",
-                    "reference": "f6e50c460b932fb272ea94ca5e87e8c5a68aec2b",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/402e67e5583659f0923d61741bd3ab67578ad4e0",
+                    "reference": "402e67e5583659f0923d61741bd3ab67578ad4e0",
                     "shasum": ""
                 },
                 "require": {
@@ -10002,7 +10002,7 @@
                     "rector/rector": "^1.2",
                     "squizlabs/php_codesniffer": "3.*"
                 },
-                "time": "2026-09-15T20:49:38+00:00",
+                "time": "2026-09-17T16:49:54+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
