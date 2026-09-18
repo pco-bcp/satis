@@ -229,6 +229,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1063-vidmatch-date-released",
+                "version_normalized": "dev-1063-vidmatch-date-released",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "7d0e77b2aaf2f78ef162dda3440c02a6a76297ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/7d0e77b2aaf2f78ef162dda3440c02a6a76297ea",
+                    "reference": "7d0e77b2aaf2f78ef162dda3440c02a6a76297ea",
+                    "shasum": ""
+                },
+                "time": "2026-09-18T18:38:19+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1063-vidmatch-date-released"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1149-bring-photoswipe-caption-to-top",
                 "version_normalized": "dev-1149-bring-photoswipe-caption-to-top",
                 "source": {
