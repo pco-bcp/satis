@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "d79fcee4a1b17c5521fec0b42ee9b30f7b9c4501"
+                    "reference": "b3521fafaad93643c9b2cc4f38b5beeecbfc7980"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/d79fcee4a1b17c5521fec0b42ee9b30f7b9c4501",
-                    "reference": "d79fcee4a1b17c5521fec0b42ee9b30f7b9c4501",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/b3521fafaad93643c9b2cc4f38b5beeecbfc7980",
+                    "reference": "b3521fafaad93643c9b2cc4f38b5beeecbfc7980",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "5.6.1"
                 },
-                "time": "2026-09-08T18:34:08+00:00",
+                "time": "2026-09-21T19:52:18+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -86,7 +86,7 @@
                 ],
                 "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/3.1.15"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/5.6.x"
                 }
             },
             {
