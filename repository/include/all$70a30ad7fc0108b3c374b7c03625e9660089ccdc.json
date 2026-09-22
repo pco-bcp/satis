@@ -2389,22 +2389,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "cbd9bafd6bc17d339957e6e33a1e2b050ca78411"
+                    "reference": "a1eb9fd4ddd15ba3a8ad1e66714c0d8e6368b79f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/cbd9bafd6bc17d339957e6e33a1e2b050ca78411",
-                    "reference": "cbd9bafd6bc17d339957e6e33a1e2b050ca78411",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/a1eb9fd4ddd15ba3a8ad1e66714c0d8e6368b79f",
+                    "reference": "a1eb9fd4ddd15ba3a8ad1e66714c0d8e6368b79f",
                     "shasum": ""
                 },
-                "time": "2026-09-17T18:08:46+00:00",
+                "time": "2026-09-22T13:19:28+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.12"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/5.6.x"
                 }
             },
             "6.2.x-dev": {
@@ -10307,6 +10307,94 @@
                 "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/fix/issue-1274-coi-hotfix"
+                }
+            },
+            "dev-fix/issue-1297-report-hotfix-2": {
+                "name": "pco-bcp/pco_cities",
+                "version": "dev-fix/issue-1297-report-hotfix-2",
+                "version_normalized": "dev-fix/issue-1297-report-hotfix-2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_cities.git",
+                    "reference": "14736e39a0c35ecec4c986316c8726beab50a2cd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/14736e39a0c35ecec4c986316c8726beab50a2cd",
+                    "reference": "14736e39a0c35ecec4c986316c8726beab50a2cd",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupalwxt/wxt": "5.6.1"
+                },
+                "time": "2026-09-22T00:58:00+00:00",
+                "type": "drupal-profile",
+                "extra": {
+                    "installer-types": [
+                        "bower-asset",
+                        "npm-asset"
+                    ],
+                    "installer-paths": {
+                        "html/core": [
+                            "type:drupal-core"
+                        ],
+                        "html/libraries/{$name}": [
+                            "type:drupal-library",
+                            "type:bower-asset",
+                            "type:npm-asset"
+                        ],
+                        "html/modules/custom/{$name}": [
+                            "drupal/wxt_library"
+                        ],
+                        "html/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "html/profiles/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "html/themes/custom/{$name}": [
+                            "drupal/wxt_bootstrap"
+                        ],
+                        "html/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ]
+                    },
+                    "enable-patching": true,
+                    "patches": []
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drupal\\pco_cities\\": "src"
+                    }
+                },
+                "scripts": {
+                    "drupal-scaffold": [
+                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
+                    ],
+                    "pre-install-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ],
+                    "post-update-cmd": [
+                        "@composer drupal-scaffold",
+                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/fix/issue-1297-report-hotfix-2"
                 }
             },
             "dev-fix/issue-1297-resolve-report-non-reusability": {
