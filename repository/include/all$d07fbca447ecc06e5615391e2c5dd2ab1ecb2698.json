@@ -15029,6 +15029,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1212-sideport-alt-text-removal"
                 }
             },
+            "dev-1254-fix-front-end-dragdrop-minister-sorting": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1254-fix-front-end-dragdrop-minister-sorting",
+                "version_normalized": "dev-1254-fix-front-end-dragdrop-minister-sorting",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "192997a773adaf8279d60f630119e92d0b2f96bb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/192997a773adaf8279d60f630119e92d0b2f96bb",
+                    "reference": "192997a773adaf8279d60f630119e92d0b2f96bb",
+                    "shasum": ""
+                },
+                "time": "2026-09-25T13:53:10+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1254-fix-front-end-dragdrop-minister-sorting"
+                }
+            },
             "dev-1258--comment-out-code-in-pm-admin-hook-alter-subject-field": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-1258--comment-out-code-in-pm-admin-hook-alter-subject-field",
