@@ -454,6 +454,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1322-fix-array-to-string-error",
+                "version_normalized": "dev-1322-fix-array-to-string-error",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "3928f0454a8ca18e10f21f1ffb7ed94c31f7534c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3928f0454a8ca18e10f21f1ffb7ed94c31f7534c",
+                    "reference": "3928f0454a8ca18e10f21f1ffb7ed94c31f7534c",
+                    "shasum": ""
+                },
+                "time": "2026-09-28T18:51:25+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1322-fix-array-to-string-error"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {

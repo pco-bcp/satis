@@ -2283,12 +2283,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "6fe4c169b5bba42bace144680b8f96ff2786e485"
+                    "reference": "ed26ed5f233abb4fd4dbcd20fc969fdcd53a6674"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/6fe4c169b5bba42bace144680b8f96ff2786e485",
-                    "reference": "6fe4c169b5bba42bace144680b8f96ff2786e485",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/ed26ed5f233abb4fd4dbcd20fc969fdcd53a6674",
+                    "reference": "ed26ed5f233abb4fd4dbcd20fc969fdcd53a6674",
                     "shasum": ""
                 },
                 "require": {
@@ -2305,9 +2305,9 @@
                     "drupal/config_filter": "^2.7",
                     "drupal/config_split": "^2.0",
                     "drupal/content_access": "^2.1@RC",
-                    "drupal/core-composer-scaffold": "~11.3.17",
-                    "drupal/core-project-message": "~11.3.17",
-                    "drupal/core-recommended": "~11.3.17",
+                    "drupal/core-composer-scaffold": "~11.3.16",
+                    "drupal/core-project-message": "~11.3.16",
+                    "drupal/core-recommended": "~11.3.16",
                     "drupal/email_tfa": "^3.0",
                     "drupal/fast_404": "^3.7",
                     "drupal/features": "^3.16",
@@ -2356,7 +2356,7 @@
                     "fontawesome/fontawesome": "*"
                 },
                 "require-dev": {
-                    "drupal/core-dev": "~11.3.17",
+                    "drupal/core-dev": "~11.3.16",
                     "drupal/drupal-extension": "^5.1.0",
                     "drupal/upgrade_status": "^4.3",
                     "drush/drush": "^13.3.3",
@@ -2367,7 +2367,7 @@
                     "rector/rector": "2.6.2",
                     "squizlabs/php_codesniffer": "^3.0"
                 },
-                "time": "2026-09-21T15:01:56+00:00",
+                "time": "2026-09-28T18:51:20+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
