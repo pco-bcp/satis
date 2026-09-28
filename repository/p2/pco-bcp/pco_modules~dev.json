@@ -158,15 +158,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "2c386385bdf83ccff9a7c89acb59614d8a0c7571"
+                    "reference": "da8ce24cae8d148ef04260e280b2af21f2701ab7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2c386385bdf83ccff9a7c89acb59614d8a0c7571",
-                    "reference": "2c386385bdf83ccff9a7c89acb59614d8a0c7571",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/da8ce24cae8d148ef04260e280b2af21f2701ab7",
+                    "reference": "da8ce24cae8d148ef04260e280b2af21f2701ab7",
                     "shasum": ""
                 },
-                "time": "2026-05-06T19:39:33+00:00",
+                "time": "2026-09-28T19:24:54+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -174,7 +174,7 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.1.1"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.1.x"
                 }
             },
             {
@@ -225,31 +225,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1189--fix-french-accent-encoding-in-email"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-1278-added-no-store-header-to-webforms",
-                "version_normalized": "dev-1278-added-no-store-header-to-webforms",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "2ea08693a43509c0bf6a11e477757afd4f97ce0c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/2ea08693a43509c0bf6a11e477757afd4f97ce0c",
-                    "reference": "2ea08693a43509c0bf6a11e477757afd4f97ce0c",
-                    "shasum": ""
-                },
-                "time": "2026-09-28T18:16:20+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1278-added-no-store-header-to-webforms"
                 }
             },
             {
