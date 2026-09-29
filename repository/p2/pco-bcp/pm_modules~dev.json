@@ -133,15 +133,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "261b90eb8f99d5695a8917a29a98bbe731530101"
+                    "reference": "32bbd21b61af00d419cd2e63a32d322f5ee65f51"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/261b90eb8f99d5695a8917a29a98bbe731530101",
-                    "reference": "261b90eb8f99d5695a8917a29a98bbe731530101",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/32bbd21b61af00d419cd2e63a32d322f5ee65f51",
+                    "reference": "32bbd21b61af00d419cd2e63a32d322f5ee65f51",
                     "shasum": ""
                 },
-                "time": "2026-09-18T17:29:53+00:00",
+                "time": "2026-09-29T15:35:36+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -450,31 +450,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1266-performance-fixes-for-multi-photo-upload"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1322-fix-array-to-string-error",
-                "version_normalized": "dev-1322-fix-array-to-string-error",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "3928f0454a8ca18e10f21f1ffb7ed94c31f7534c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3928f0454a8ca18e10f21f1ffb7ed94c31f7534c",
-                    "reference": "3928f0454a8ca18e10f21f1ffb7ed94c31f7534c",
-                    "shasum": ""
-                },
-                "time": "2026-09-28T18:51:25+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1322-fix-array-to-string-error"
                 }
             },
             {
