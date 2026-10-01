@@ -8255,18 +8255,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "d317e0de61b9df47d443be2ec8afc80f2890d2a6"
+                    "reference": "f7045b6a72dd5c47142ac20c4307123a1ffebfe8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/d317e0de61b9df47d443be2ec8afc80f2890d2a6",
-                    "reference": "d317e0de61b9df47d443be2ec8afc80f2890d2a6",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/f7045b6a72dd5c47142ac20c4307123a1ffebfe8",
+                    "reference": "f7045b6a72dd5c47142ac20c4307123a1ffebfe8",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "6.3.0"
                 },
-                "time": "2026-10-01T18:01:10+00:00",
+                "time": "2026-10-01T21:43:54+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -8860,94 +8860,6 @@
                 "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/1277--fix-warnings-on-non-numeric-values"
-                }
-            },
-            "dev-1323--fix-errors-after-using-dependency-injections-v2": {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-1323--fix-errors-after-using-dependency-injections-v2",
-                "version_normalized": "dev-1323--fix-errors-after-using-dependency-injections-v2",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "e1e2bbe02ddf839516c7285a037e8b565fc277a6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/e1e2bbe02ddf839516c7285a037e8b565fc277a6",
-                    "reference": "e1e2bbe02ddf839516c7285a037e8b565fc277a6",
-                    "shasum": ""
-                },
-                "require": {
-                    "drupalwxt/wxt": "6.3.0"
-                },
-                "time": "2026-10-01T16:50:15+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/1323--fix-errors-after-using-dependency-injections-v2"
                 }
             },
             "dev-24--update-to-last-4.5.x": {
