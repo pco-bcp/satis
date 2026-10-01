@@ -184,18 +184,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "3c21346d484787814e99647da5ad817350856fd4"
+                    "reference": "d317e0de61b9df47d443be2ec8afc80f2890d2a6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/3c21346d484787814e99647da5ad817350856fd4",
-                    "reference": "3c21346d484787814e99647da5ad817350856fd4",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/d317e0de61b9df47d443be2ec8afc80f2890d2a6",
+                    "reference": "d317e0de61b9df47d443be2ec8afc80f2890d2a6",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "6.3.0"
                 },
-                "time": "2026-10-01T11:44:46+00:00",
+                "time": "2026-10-01T18:01:10+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -2701,94 +2701,6 @@
                 "description": "Installation profile template for Drupal 10 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/fix/issue-1274-coi-hotfix"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-fix/issue-1297-forward-port",
-                "version_normalized": "dev-fix/issue-1297-forward-port",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "1baec00b7dc336892294d5b6f2eabca7feac8083"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/1baec00b7dc336892294d5b6f2eabca7feac8083",
-                    "reference": "1baec00b7dc336892294d5b6f2eabca7feac8083",
-                    "shasum": ""
-                },
-                "require": {
-                    "drupalwxt/wxt": "6.3.0"
-                },
-                "time": "2026-09-29T19:11:51+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/fix/issue-1297-forward-port"
                 }
             },
             {
