@@ -158,15 +158,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "da8ce24cae8d148ef04260e280b2af21f2701ab7"
+                    "reference": "df1bbfe82d5264dce465a6f8d54655dd3b11cdb1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/da8ce24cae8d148ef04260e280b2af21f2701ab7",
-                    "reference": "da8ce24cae8d148ef04260e280b2af21f2701ab7",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/df1bbfe82d5264dce465a6f8d54655dd3b11cdb1",
+                    "reference": "df1bbfe82d5264dce465a6f8d54655dd3b11cdb1",
                     "shasum": ""
                 },
-                "time": "2026-09-28T19:24:54+00:00",
+                "time": "2026-10-01T14:42:18+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -225,31 +225,6 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1189--fix-french-accent-encoding-in-email"
-                }
-            },
-            {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-1327-title-char-limit-to-265",
-                "version_normalized": "dev-1327-title-char-limit-to-265",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "8d033368405466556acd14199fcaef9d295a34e3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/8d033368405466556acd14199fcaef9d295a34e3",
-                    "reference": "8d033368405466556acd14199fcaef9d295a34e3",
-                    "shasum": ""
-                },
-                "time": "2026-10-01T14:29:23+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1327-title-char-limit-to-265"
                 }
             },
             {
