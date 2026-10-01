@@ -133,15 +133,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "fdbbb38793097ed781e2309adf52725c3eb713a4"
+                    "reference": "b0e07eeb8f294697e76934a031a48d675a597366"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/fdbbb38793097ed781e2309adf52725c3eb713a4",
-                    "reference": "fdbbb38793097ed781e2309adf52725c3eb713a4",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b0e07eeb8f294697e76934a031a48d675a597366",
+                    "reference": "b0e07eeb8f294697e76934a031a48d675a597366",
                     "shasum": ""
                 },
-                "time": "2026-09-29T17:06:25+00:00",
+                "time": "2026-10-01T14:54:27+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -250,31 +250,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1149-bring-photoswipe-caption-to-top"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1199-fix-cron-issue-purge-webform-submissions",
-                "version_normalized": "dev-1199-fix-cron-issue-purge-webform-submissions",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "71bd7d6f7c34d8330768f4ea97ea0f1c2600af69"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/71bd7d6f7c34d8330768f4ea97ea0f1c2600af69",
-                    "reference": "71bd7d6f7c34d8330768f4ea97ea0f1c2600af69",
-                    "shasum": ""
-                },
-                "time": "2026-09-24T18:27:54+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1199-fix-cron-issue-purge-webform-submissions"
                 }
             },
             {
