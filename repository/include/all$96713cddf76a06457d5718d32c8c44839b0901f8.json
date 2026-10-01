@@ -14986,15 +14986,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "b0e07eeb8f294697e76934a031a48d675a597366"
+                    "reference": "9bd9f53ab39a4f7a56ce4473abda012a8973d052"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b0e07eeb8f294697e76934a031a48d675a597366",
-                    "reference": "b0e07eeb8f294697e76934a031a48d675a597366",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/9bd9f53ab39a4f7a56ce4473abda012a8973d052",
+                    "reference": "9bd9f53ab39a4f7a56ce4473abda012a8973d052",
                     "shasum": ""
                 },
-                "time": "2026-10-01T14:54:27+00:00",
+                "time": "2026-10-01T15:28:22+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -15203,31 +15203,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1258--update-subject-contact-form"
-                }
-            },
-            "dev-1266-performance-fixes-for-multi-photo-upload": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1266-performance-fixes-for-multi-photo-upload",
-                "version_normalized": "dev-1266-performance-fixes-for-multi-photo-upload",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "b029ca209af0ccad05c91df38fc8c606125e709b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b029ca209af0ccad05c91df38fc8c606125e709b",
-                    "reference": "b029ca209af0ccad05c91df38fc8c606125e709b",
-                    "shasum": ""
-                },
-                "time": "2026-09-29T16:00:57+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1266-performance-fixes-for-multi-photo-upload"
                 }
             },
             "dev-222--pm-cron-d-check": {
