@@ -14810,15 +14810,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "4979f497c2be3109bceaf79fc5b068311619d09b"
+                    "reference": "6953d962dcfced8ee23bef2390bf31b51134840b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/4979f497c2be3109bceaf79fc5b068311619d09b",
-                    "reference": "4979f497c2be3109bceaf79fc5b068311619d09b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6953d962dcfced8ee23bef2390bf31b51134840b",
+                    "reference": "6953d962dcfced8ee23bef2390bf31b51134840b",
                     "shasum": ""
                 },
-                "time": "2026-10-01T20:21:03+00:00",
+                "time": "2026-10-02T12:58:42+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -15002,31 +15002,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1258--update-subject-contact-form"
-                }
-            },
-            "dev-1306--fix-yt-vid-orphan-cron": {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1306--fix-yt-vid-orphan-cron",
-                "version_normalized": "dev-1306--fix-yt-vid-orphan-cron",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "1c4b390da283bfd19fda3a094234bd155abc54d7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1c4b390da283bfd19fda3a094234bd155abc54d7",
-                    "reference": "1c4b390da283bfd19fda3a094234bd155abc54d7",
-                    "shasum": ""
-                },
-                "time": "2026-10-02T11:11:49+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1306--fix-yt-vid-orphan-cron"
                 }
             },
             "dev-222--pm-cron-d-check": {
