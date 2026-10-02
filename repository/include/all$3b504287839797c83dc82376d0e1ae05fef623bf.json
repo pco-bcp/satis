@@ -14803,6 +14803,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.2"
                 }
             },
+            "5.1.3": {
+                "name": "pco-bcp/pm_modules",
+                "version": "5.1.3",
+                "version_normalized": "5.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "6953d962dcfced8ee23bef2390bf31b51134840b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6953d962dcfced8ee23bef2390bf31b51134840b",
+                    "reference": "6953d962dcfced8ee23bef2390bf31b51134840b",
+                    "shasum": ""
+                },
+                "time": "2026-10-02T12:58:42+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.3"
+                }
+            },
             "5.1.x-dev": {
                 "name": "pco-bcp/pm_modules",
                 "version": "5.1.x-dev",
@@ -14826,7 +14851,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.x"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.3"
                 }
             },
             "dev-1012-change-alt-des-fields-PG-2025-10-01": {
@@ -17578,7 +17603,32 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.1.2"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.1.3"
+                }
+            },
+            "5.1.3": {
+                "name": "pco-bcp/pm_theme",
+                "version": "5.1.3",
+                "version_normalized": "5.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "a545a8c76a7d6206985b1fa6a75761d3fc12bcfd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a545a8c76a7d6206985b1fa6a75761d3fc12bcfd",
+                    "reference": "a545a8c76a7d6206985b1fa6a75761d3fc12bcfd",
+                    "shasum": ""
+                },
+                "time": "2026-09-04T14:27:58+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.1.3"
                 }
             },
             "5.1.x-dev": {
@@ -17604,7 +17654,7 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.1.2"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.1.3"
                 }
             },
             "dev-1098--fix-custom-list-indentation": {

@@ -1725,6 +1725,31 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.2"
                 }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
+                "version": "5.1.3",
+                "version_normalized": "5.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "6953d962dcfced8ee23bef2390bf31b51134840b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6953d962dcfced8ee23bef2390bf31b51134840b",
+                    "reference": "6953d962dcfced8ee23bef2390bf31b51134840b",
+                    "shasum": ""
+                },
+                "time": "2026-10-02T12:58:42+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.3"
+                }
             }
         ]
     }
