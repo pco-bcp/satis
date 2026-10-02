@@ -329,6 +329,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1306--fix-yt-vid-orphan-cron",
+                "version_normalized": "dev-1306--fix-yt-vid-orphan-cron",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "1c4b390da283bfd19fda3a094234bd155abc54d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1c4b390da283bfd19fda3a094234bd155abc54d7",
+                    "reference": "1c4b390da283bfd19fda3a094234bd155abc54d7",
+                    "shasum": ""
+                },
+                "time": "2026-10-02T11:11:49+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1306--fix-yt-vid-orphan-cron"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {

@@ -8255,18 +8255,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "f7045b6a72dd5c47142ac20c4307123a1ffebfe8"
+                    "reference": "109cd70adf2903f260fcc9863f17640fb61ec684"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/f7045b6a72dd5c47142ac20c4307123a1ffebfe8",
-                    "reference": "f7045b6a72dd5c47142ac20c4307123a1ffebfe8",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/109cd70adf2903f260fcc9863f17640fb61ec684",
+                    "reference": "109cd70adf2903f260fcc9863f17640fb61ec684",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "6.3.0"
                 },
-                "time": "2026-10-01T21:43:54+00:00",
+                "time": "2026-10-01T21:47:22+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -8772,94 +8772,6 @@
                 "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/1246--fix-rector-and-phpstan-errors-custom-modules-and-theme"
-                }
-            },
-            "dev-1277--fix-warnings-on-non-numeric-values": {
-                "name": "pco-bcp/pco_cities",
-                "version": "dev-1277--fix-warnings-on-non-numeric-values",
-                "version_normalized": "dev-1277--fix-warnings-on-non-numeric-values",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "2b46aeacea71dfd4681ddbe415931df5c40bf48e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/2b46aeacea71dfd4681ddbe415931df5c40bf48e",
-                    "reference": "2b46aeacea71dfd4681ddbe415931df5c40bf48e",
-                    "shasum": ""
-                },
-                "require": {
-                    "drupalwxt/wxt": "6.3.0"
-                },
-                "time": "2026-09-23T12:10:05+00:00",
-                "type": "drupal-profile",
-                "extra": {
-                    "installer-types": [
-                        "bower-asset",
-                        "npm-asset"
-                    ],
-                    "installer-paths": {
-                        "html/core": [
-                            "type:drupal-core"
-                        ],
-                        "html/libraries/{$name}": [
-                            "type:drupal-library",
-                            "type:bower-asset",
-                            "type:npm-asset"
-                        ],
-                        "html/modules/custom/{$name}": [
-                            "drupal/wxt_library"
-                        ],
-                        "html/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "html/profiles/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "html/themes/custom/{$name}": [
-                            "drupal/wxt_bootstrap"
-                        ],
-                        "html/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ]
-                    },
-                    "enable-patching": true,
-                    "patches": []
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Drupal\\pco_cities\\": "src"
-                    }
-                },
-                "scripts": {
-                    "drupal-scaffold": [
-                        "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
-                    ],
-                    "pre-install-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalWxT\\WxT\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ],
-                    "post-update-cmd": [
-                        "@composer drupal-scaffold",
-                        "DrupalWxT\\WxT\\ScriptHandler::deployLibraries"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/1277--fix-warnings-on-non-numeric-values"
                 }
             },
             "dev-24--update-to-last-4.5.x": {
@@ -15090,6 +15002,31 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1258--update-subject-contact-form"
+                }
+            },
+            "dev-1306--fix-yt-vid-orphan-cron": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1306--fix-yt-vid-orphan-cron",
+                "version_normalized": "dev-1306--fix-yt-vid-orphan-cron",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "1c4b390da283bfd19fda3a094234bd155abc54d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/1c4b390da283bfd19fda3a094234bd155abc54d7",
+                    "reference": "1c4b390da283bfd19fda3a094234bd155abc54d7",
+                    "shasum": ""
+                },
+                "time": "2026-10-02T11:11:49+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1306--fix-yt-vid-orphan-cron"
                 }
             },
             "dev-222--pm-cron-d-check": {
