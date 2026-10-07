@@ -58,15 +58,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "7037f6bed779b5211630d56db10f7a956ce295d5"
+                    "reference": "ecdda086f3b322bbbce06cea83df226d35b1deec"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/7037f6bed779b5211630d56db10f7a956ce295d5",
-                    "reference": "7037f6bed779b5211630d56db10f7a956ce295d5",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/ecdda086f3b322bbbce06cea83df226d35b1deec",
+                    "reference": "ecdda086f3b322bbbce06cea83df226d35b1deec",
                     "shasum": ""
                 },
-                "time": "2026-09-18T16:48:41+00:00",
+                "time": "2026-10-02T17:41:31+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -74,7 +74,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/6.3.1"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/6.3.x"
                 }
             },
             {
@@ -100,31 +100,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/1117-staff-template"
-                }
-            },
-            {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-1191--fix-forward-port-fix-to-6.3.x",
-                "version_normalized": "dev-1191--fix-forward-port-fix-to-6.3.x",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "1ca205e98cc252393f3ecf542aa08e6459ab793d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/1ca205e98cc252393f3ecf542aa08e6459ab793d",
-                    "reference": "1ca205e98cc252393f3ecf542aa08e6459ab793d",
-                    "shasum": ""
-                },
-                "time": "2026-10-02T17:36:35+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/1191--fix-forward-port-fix-to-6.3.x"
                 }
             },
             {

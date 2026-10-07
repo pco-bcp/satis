@@ -329,6 +329,31 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1332-fix-oobtargeterror",
+                "version_normalized": "dev-1332-fix-oobtargeterror",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "e2e6f6b32f352ed2d403cdcc4d54381bbc8e1db3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/e2e6f6b32f352ed2d403cdcc4d54381bbc8e1db3",
+                    "reference": "e2e6f6b32f352ed2d403cdcc4d54381bbc8e1db3",
+                    "shasum": ""
+                },
+                "time": "2026-10-07T14:20:34+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1332-fix-oobtargeterror"
+                }
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {
