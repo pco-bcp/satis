@@ -15280,6 +15280,31 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1258--update-subject-contact-form"
                 }
             },
+            "dev-1305-fix-filesystem-db-syncing": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1305-fix-filesystem-db-syncing",
+                "version_normalized": "dev-1305-fix-filesystem-db-syncing",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "c04ba829b23a90701987a21547e5492fb8f8f564"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/c04ba829b23a90701987a21547e5492fb8f8f564",
+                    "reference": "c04ba829b23a90701987a21547e5492fb8f8f564",
+                    "shasum": ""
+                },
+                "time": "2026-10-07T18:39:40+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1305-fix-filesystem-db-syncing"
+                }
+            },
             "dev-1332-fix-oobtargeterror": {
                 "name": "pco-bcp/pm_modules",
                 "version": "dev-1332-fix-oobtargeterror",
