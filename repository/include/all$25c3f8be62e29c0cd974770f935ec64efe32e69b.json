@@ -15287,15 +15287,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "a4e2c5699519d162b4fcfd84476c6099e5976d09"
+                    "reference": "3a1cc3467a04ec8dac6d7506e6f90ed93e9a53f1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a4e2c5699519d162b4fcfd84476c6099e5976d09",
-                    "reference": "a4e2c5699519d162b4fcfd84476c6099e5976d09",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/3a1cc3467a04ec8dac6d7506e6f90ed93e9a53f1",
+                    "reference": "3a1cc3467a04ec8dac6d7506e6f90ed93e9a53f1",
                     "shasum": ""
                 },
-                "time": "2026-10-08T13:52:18+00:00",
+                "time": "2026-10-09T16:00:47+00:00",
                 "type": "drupal-custom-module",
                 "license": [
                     "GPL-2.0+"
@@ -19684,12 +19684,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "ebad5ef00a71f2fd35f0a7da2ddb1203f9c04e82"
+                    "reference": "95f8f18c98772365639161c08be9459408bdf8f7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/ebad5ef00a71f2fd35f0a7da2ddb1203f9c04e82",
-                    "reference": "ebad5ef00a71f2fd35f0a7da2ddb1203f9c04e82",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/95f8f18c98772365639161c08be9459408bdf8f7",
+                    "reference": "95f8f18c98772365639161c08be9459408bdf8f7",
                     "shasum": ""
                 },
                 "require": {
@@ -19709,6 +19709,7 @@
                     "drupal/core-composer-scaffold": "~11.3.16",
                     "drupal/core-project-message": "~11.3.16",
                     "drupal/core-recommended": "~11.3.16",
+                    "drupal/diff": "2.1.1 as 1.10.0",
                     "drupal/email_tfa": "^3.0",
                     "drupal/fast_404": "^3.7",
                     "drupal/features": "^3.16",
@@ -19768,7 +19769,7 @@
                     "rector/rector": "2.6.2",
                     "squizlabs/php_codesniffer": "^3.0"
                 },
-                "time": "2026-10-02T15:18:17+00:00",
+                "time": "2026-10-08T16:47:18+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -19829,6 +19830,13 @@
                         "drupalwxt/wxt": {
                             "drupal/page_manager": {
                                 "ignore patch because because page_mannager has been updated with the fix": "https://www.drupal.org/files/issues/2026-03-07/page_manager-php8-4-deprecation-3536704-15.patch"
+                            },
+                            "drupal/diff": {
+                                "Enter drupal/diff patch #2844337 description here": "https://www.drupal.org/files/issues/2024-04-15/2844337-array_to_string_conversion-29.patch",
+                                "Enter drupal/diff patch #2882334 description here": "https://www.drupal.org/files/issues/2020-09-28/2882334-diff-missing_some_revisions-13.patch",
+                                "Enter drupal/diff patch #3004705 description here": "https://git.drupalcode.org/project/diff/-/merge_requests/87.patch",
+                                "Enter drupal/diff patch #3169729 description here": "https://www.drupal.org/files/issues/2020-09-08/diff_add-local-tasks-3169729-2.patch",
+                                "Enter drupal/diff patch #3228798 description here": "https://www.drupal.org/files/issues/2024-05-14/diff-3228798-17.patch"
                             }
                         }
                     }
@@ -19851,7 +19859,7 @@
                 ],
                 "description": "Project template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.3"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.x"
                 }
             },
             "2.0.0": {
@@ -48799,19 +48807,19 @@
                     "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.1"
                 }
             },
-            "dev-1335--fix-Security-vulnerability-menu_link_attributes": {
+            "dev-1336--add-math-php-library": {
                 "name": "pco-bcp/site-pco-impactcanada",
-                "version": "dev-1335--fix-Security-vulnerability-menu_link_attributes",
-                "version_normalized": "dev-1335--fix-Security-vulnerability-menu_link_attributes",
+                "version": "dev-1336--add-math-php-library",
+                "version_normalized": "dev-1336--add-math-php-library",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "4240f86cb258573c86c60bfd6cb31888e8d3ee9f"
+                    "reference": "5a6382bb58e3409e7bbf05d8c8c20b96a3fdd787"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/4240f86cb258573c86c60bfd6cb31888e8d3ee9f",
-                    "reference": "4240f86cb258573c86c60bfd6cb31888e8d3ee9f",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/5a6382bb58e3409e7bbf05d8c8c20b96a3fdd787",
+                    "reference": "5a6382bb58e3409e7bbf05d8c8c20b96a3fdd787",
                     "shasum": ""
                 },
                 "require": {
@@ -48868,6 +48876,7 @@
                     "drupal/tour": "^2.0",
                     "drupal/webform_views": "^5.6",
                     "fontawesome/fontawesome": "^6.4",
+                    "markrogoyski/math-php": "^2.0",
                     "mglaman/composer-drupal-lenient": "^2.0",
                     "pco-bcp/impact_bootstrap": "^6.3",
                     "pco-bcp/pco_cities": "^6.3",
@@ -48891,7 +48900,7 @@
                     "rector/rector": "2.6.2",
                     "squizlabs/php_codesniffer": "^3.0"
                 },
-                "time": "2026-10-07T19:56:21+00:00",
+                "time": "2026-10-08T18:10:37+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "drupal-scaffold": {
@@ -48980,7 +48989,7 @@
                 ],
                 "description": "Project template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1335--fix-Security-vulnerability-menu_link_attributes"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/1336--add-math-php-library"
                 }
             },
             "dev-16-add-playwright-testing-to-ici": {
