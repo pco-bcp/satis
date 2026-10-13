@@ -2514,15 +2514,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "ecdda086f3b322bbbce06cea83df226d35b1deec"
+                    "reference": "3f5d3b34e528b8c8cc878b435f2865309e55e0ae"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/ecdda086f3b322bbbce06cea83df226d35b1deec",
-                    "reference": "ecdda086f3b322bbbce06cea83df226d35b1deec",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/3f5d3b34e528b8c8cc878b435f2865309e55e0ae",
+                    "reference": "3f5d3b34e528b8c8cc878b435f2865309e55e0ae",
                     "shasum": ""
                 },
-                "time": "2026-10-02T17:41:31+00:00",
+                "time": "2026-10-13T16:30:46+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -3156,31 +3156,6 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
-                }
-            },
-            "dev-fix/issues-1311-captcha-forward-port": {
-                "name": "pco-bcp/impact_bootstrap",
-                "version": "dev-fix/issues-1311-captcha-forward-port",
-                "version_normalized": "dev-fix/issues-1311-captcha-forward-port",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
-                    "reference": "64b0de634abdde54d495f1c1f110b9f95d4140e8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/64b0de634abdde54d495f1c1f110b9f95d4140e8",
-                    "reference": "64b0de634abdde54d495f1c1f110b9f95d4140e8",
-                    "shasum": ""
-                },
-                "time": "2026-10-13T15:18:34+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
-                "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/fix/issues-1311-captcha-forward-port"
                 }
             },
             "dev-job-ad-updates": {
