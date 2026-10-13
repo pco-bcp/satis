@@ -133,15 +133,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "6953d962dcfced8ee23bef2390bf31b51134840b"
+                    "reference": "a5f742421ee8c375e168a38b11a17b94df2bca69"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/6953d962dcfced8ee23bef2390bf31b51134840b",
-                    "reference": "6953d962dcfced8ee23bef2390bf31b51134840b",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a5f742421ee8c375e168a38b11a17b94df2bca69",
+                    "reference": "a5f742421ee8c375e168a38b11a17b94df2bca69",
                     "shasum": ""
                 },
-                "time": "2026-10-02T12:58:42+00:00",
+                "time": "2026-10-13T18:51:17+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -149,7 +149,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.3"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.x"
                 }
             },
             {
@@ -350,31 +350,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1305-fix-filesystem-db-syncing"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1326--fix-delayed-news-listing-and-paginated-results",
-                "version_normalized": "dev-1326--fix-delayed-news-listing-and-paginated-results",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "db16856dfd179e4a388755f40221460ca3d8ddca"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/db16856dfd179e4a388755f40221460ca3d8ddca",
-                    "reference": "db16856dfd179e4a388755f40221460ca3d8ddca",
-                    "shasum": ""
-                },
-                "time": "2026-10-13T16:01:57+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1326--fix-delayed-news-listing-and-paginated-results"
                 }
             },
             {
