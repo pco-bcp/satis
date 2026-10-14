@@ -184,18 +184,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "109cd70adf2903f260fcc9863f17640fb61ec684"
+                    "reference": "309bb2485cc2e084a2fef95cb1a75f4e5b0a7b57"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/109cd70adf2903f260fcc9863f17640fb61ec684",
-                    "reference": "109cd70adf2903f260fcc9863f17640fb61ec684",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/309bb2485cc2e084a2fef95cb1a75f4e5b0a7b57",
+                    "reference": "309bb2485cc2e084a2fef95cb1a75f4e5b0a7b57",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "6.3.0"
                 },
-                "time": "2026-10-01T21:47:22+00:00",
+                "time": "2026-10-14T16:59:21+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -263,7 +263,7 @@
                 ],
                 "description": "Installation profile template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_cities/tree/6.3.2"
+                    "source": "https://github.com/pco-bcp/pco_cities/tree/6.3.x"
                 }
             },
             {
