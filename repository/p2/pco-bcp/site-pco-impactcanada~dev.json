@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "97a432925a232995d6ef77d12226ab3371eede92"
+                    "reference": "b2642b250bf9fdb2a050260e02ff76142eafe865"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/97a432925a232995d6ef77d12226ab3371eede92",
-                    "reference": "97a432925a232995d6ef77d12226ab3371eede92",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/b2642b250bf9fdb2a050260e02ff76142eafe865",
+                    "reference": "b2642b250bf9fdb2a050260e02ff76142eafe865",
                     "shasum": ""
                 },
                 "require": {
@@ -94,7 +94,7 @@
                     "rector/rector": "2.6.2",
                     "squizlabs/php_codesniffer": "^3.0"
                 },
-                "time": "2026-10-14T19:39:25+00:00",
+                "time": "2026-10-16T16:32:06+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -149,6 +149,9 @@
                         },
                         "codemirror/codemirror": {
                             "#3531472: Drupal 10.5 / 11.2 incompatibility": "https://www.drupal.org/files/issues/2025-11-13/ckeditor_codemirror-codemirror-LIBRARY-3531472-copyobj-hasownproperty-fix.diff"
+                        },
+                        "phpmailer/phpmailer": {
+                            "Remove IMAP parser advisory": "custom_patches/phpmailer-remove-imap-notice.patch"
                         }
                     },
                     "patches-ignore": {
@@ -184,7 +187,7 @@
                 ],
                 "description": "Project template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.4"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.6"
                 }
             },
             {
