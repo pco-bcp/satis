@@ -21,7 +21,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.0"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -43,7 +46,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.1"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -65,7 +71,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.1.0"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -87,7 +96,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.2"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -109,7 +121,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.3"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -131,7 +146,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.4"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -153,7 +171,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.5"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -175,7 +196,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.6"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -197,7 +221,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.7"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -219,7 +246,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.8"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -241,7 +271,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.0.9"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -263,7 +296,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/1.1.0"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -285,7 +321,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/2.0.0"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -307,7 +346,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/2.0.1"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -329,7 +371,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/2.0.2"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -351,7 +396,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/2.0.4"
+                }
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -373,7 +421,10 @@
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "DPM Custom Modules"
+                "description": "DPM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/dpm_modules/tree/2.0.4"
+                }
             }
         ]
     }
