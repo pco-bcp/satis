@@ -133,15 +133,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "699a222877950bd40b709003ee341e0a7fec5c94"
+                    "reference": "bbc42a13e9dfbe65f9fe2bc45eea8e1c46d6374f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/699a222877950bd40b709003ee341e0a7fec5c94",
-                    "reference": "699a222877950bd40b709003ee341e0a7fec5c94",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/bbc42a13e9dfbe65f9fe2bc45eea8e1c46d6374f",
+                    "reference": "bbc42a13e9dfbe65f9fe2bc45eea8e1c46d6374f",
                     "shasum": ""
                 },
-                "time": "2026-10-14T13:13:50+00:00",
+                "time": "2026-10-19T19:30:57+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -149,7 +149,7 @@
                 ],
                 "description": "PM Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.4"
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.x"
                 }
             },
             {
@@ -325,31 +325,6 @@
                 "description": "PM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1258--update-subject-contact-form"
-                }
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1271-change-lang-var",
-                "version_normalized": "dev-1271-change-lang-var",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "8b78c86fbedb1f0cc2e7c126c76898b6bd6a02fc"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/8b78c86fbedb1f0cc2e7c126c76898b6bd6a02fc",
-                    "reference": "8b78c86fbedb1f0cc2e7c126c76898b6bd6a02fc",
-                    "shasum": ""
-                },
-                "time": "2026-10-19T19:21:36+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1271-change-lang-var"
                 }
             },
             {
