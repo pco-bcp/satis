@@ -12865,6 +12865,31 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1189--fix-french-accent-encoding-in-email"
                 }
             },
+            "dev-1354--fix-title-field-schema-storage": {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-1354--fix-title-field-schema-storage",
+                "version_normalized": "dev-1354--fix-title-field-schema-storage",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "8c8884706970cf38a8f8b04724cb0068649b6a0c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/8c8884706970cf38a8f8b04724cb0068649b6a0c",
+                    "reference": "8c8884706970cf38a8f8b04724cb0068649b6a0c",
+                    "shasum": ""
+                },
+                "time": "2026-10-20T20:17:00+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1354--fix-title-field-schema-storage"
+                }
+            },
             "dev-222-citation-d-check-fixes-2024-03-27": {
                 "name": "pco-bcp/pco_modules",
                 "version": "dev-222-citation-d-check-fixes-2024-03-27",
