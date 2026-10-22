@@ -229,6 +229,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-1278-cache-control-akamai-headers",
+                "version_normalized": "dev-1278-cache-control-akamai-headers",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "7d2890dde1b42e49937c93f84a4b318f26f2fadc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/7d2890dde1b42e49937c93f84a4b318f26f2fadc",
+                    "reference": "7d2890dde1b42e49937c93f84a4b318f26f2fadc",
+                    "shasum": ""
+                },
+                "time": "2026-10-22T20:04:46+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1278-cache-control-akamai-headers"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-1354--fix-title-field-schema-storage",
                 "version_normalized": "dev-1354--fix-title-field-schema-storage",
                 "source": {
