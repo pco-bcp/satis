@@ -204,6 +204,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-1158-add-statement-default-twitter-og-image-card",
+                "version_normalized": "dev-1158-add-statement-default-twitter-og-image-card",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "e1b7c4f7bc16b1f635ebc74c1a1890172c3d718b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/e1b7c4f7bc16b1f635ebc74c1a1890172c3d718b",
+                    "reference": "e1b7c4f7bc16b1f635ebc74c1a1890172c3d718b",
+                    "shasum": ""
+                },
+                "time": "2026-10-27T20:19:03+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1158-add-statement-default-twitter-og-image-card"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-1189--fix-french-accent-encoding-in-email",
                 "version_normalized": "dev-1189--fix-french-accent-encoding-in-email",
                 "source": {
