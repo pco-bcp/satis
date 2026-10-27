@@ -254,6 +254,31 @@
             },
             {
                 "name": "pco-bcp/pco_modules",
+                "version": "dev-1278-webform-lazy-load",
+                "version_normalized": "dev-1278-webform-lazy-load",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "69a08420cfc30f5e4f7525388bbfa9a28b449961"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/69a08420cfc30f5e4f7525388bbfa9a28b449961",
+                    "reference": "69a08420cfc30f5e4f7525388bbfa9a28b449961",
+                    "shasum": ""
+                },
+                "time": "2026-10-27T18:04:57+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1278-webform-lazy-load"
+                }
+            },
+            {
+                "name": "pco-bcp/pco_modules",
                 "version": "dev-1354--fix-title-field-schema-storage",
                 "version_normalized": "dev-1354--fix-title-field-schema-storage",
                 "source": {
