@@ -2582,6 +2582,31 @@
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/6.3.4"
                 }
             },
+            "6.3.5": {
+                "name": "pco-bcp/impact_bootstrap",
+                "version": "6.3.5",
+                "version_normalized": "6.3.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/impact_bootstrap.git",
+                    "reference": "ba72c4ef7833b714297c9fa1c6a9e21b72f0b3d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/impact_bootstrap/zipball/ba72c4ef7833b714297c9fa1c6a9e21b72f0b3d9",
+                    "reference": "ba72c4ef7833b714297c9fa1c6a9e21b72f0b3d9",
+                    "shasum": ""
+                },
+                "time": "2026-10-29T18:17:15+00:00",
+                "type": "drupal-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
+                "support": {
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/6.3.5"
+                }
+            },
             "6.3.x-dev": {
                 "name": "pco-bcp/impact_bootstrap",
                 "version": "6.3.x-dev",
@@ -2605,7 +2630,7 @@
                 ],
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/6.3.x"
+                    "source": "https://github.com/pco-bcp/impact_bootstrap/tree/6.3.5"
                 }
             },
             "dev-1117-staff-template": {
