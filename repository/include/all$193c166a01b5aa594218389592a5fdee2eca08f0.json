@@ -18671,6 +18671,31 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/822-tablet-layout-for-3-column-news-2025-06-03"
                 }
             },
+            "dev-836--refactor-page-title-code-in-preproces_page-hook": {
+                "name": "pco-bcp/pm_theme",
+                "version": "dev-836--refactor-page-title-code-in-preproces_page-hook",
+                "version_normalized": "dev-836--refactor-page-title-code-in-preproces_page-hook",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "b1e5b836fcfaaa19d36308688906bebfb67b78fa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b1e5b836fcfaaa19d36308688906bebfb67b78fa",
+                    "reference": "b1e5b836fcfaaa19d36308688906bebfb67b78fa",
+                    "shasum": ""
+                },
+                "time": "2026-11-02T15:59:08+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/836--refactor-page-title-code-in-preproces_page-hook"
+                }
+            },
             "dev-861--new-design-menus-2025-06-05": {
                 "name": "pco-bcp/pm_theme",
                 "version": "dev-861--new-design-menus-2025-06-05",
