@@ -24,7 +24,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/1.1.0"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -50,7 +51,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/2.0.4"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -75,7 +77,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/151-add-leaf-icon-gin-toolbar-2024-03-04"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -100,7 +103,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/203--fix-news-landing-page-2024-02-28"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -125,7 +129,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/204--update-side-by-side-using-gin-admin-theme-2024-03-01"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -150,7 +155,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/222-drupal-check-dpm_cron"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -175,7 +181,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/222-drupal-check-pm_admin-2024-03-18"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -200,7 +207,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/222-fix-d-check-issues-pm_news-2024-04-30"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -225,7 +233,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/41--update-custom-modules-D10-2024-02-28"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -250,7 +259,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/43-dpm-upgrade-custom-dpm_modules-to-10x"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -275,7 +285,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/fix--deprecated-function-on-pm_admin-2023-07-24"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -300,7 +311,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/fix--update-pm_cron-to-point-to-pco_subscribe-2023-08-03"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -325,7 +337,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/fix-align-covid-and-ukraine-fields-same_row-2023-08-16"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -350,7 +363,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/pco-bcp/dpm_modules--updated-custom-modules-constraints-for-d10"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -375,7 +389,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/refactor-pm_news_emailer-to-use-pco_emailer-2023-07-18"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_modules",
@@ -400,7 +415,8 @@
                 "description": "DPM Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_modules/tree/refactor-reduce-pm-admin"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             }
         ]
     }

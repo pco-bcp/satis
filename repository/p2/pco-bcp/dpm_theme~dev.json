@@ -24,7 +24,8 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/1.x"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -50,7 +51,8 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/2.0.11"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -75,7 +77,8 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/476-form-errors-theme"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -100,7 +103,8 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/577--fix-main-menu-covering-content"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -125,7 +129,8 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/date-released-twig-display-timezone-2023-09-05"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/dpm_theme",
@@ -150,7 +155,8 @@
                 "description": "DPM Theme",
                 "support": {
                     "source": "https://github.com/pco-bcp/dpm_theme/tree/pco-bcp/dpm_theme--fix-indent-2023-08-30"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             }
         ]
     }

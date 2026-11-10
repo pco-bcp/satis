@@ -24,7 +24,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.13"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -49,7 +50,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/6.2.x"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -75,7 +77,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/6.3.5"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -100,7 +103,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/1117-staff-template"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -125,7 +129,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/1234-fix-forgotpwd-pdding"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -150,7 +155,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/24-upgrade-to-drupal-10"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -175,7 +181,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/1.0.0"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -200,7 +207,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.0.0"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -225,7 +233,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.1.0"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -250,7 +259,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/2.2.0"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -275,7 +285,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.3.x-2.3.x"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -300,7 +311,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/4.4.x-2.4.x"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -325,7 +337,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.0"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -350,7 +363,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/3.1.7"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -375,7 +389,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/524--fix-wcag-contrast-of-text-against-bg-2024-10-21"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -400,7 +415,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/528-css-video-player-wcag"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -425,7 +441,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/536--fix-wcag-alt-text-of-logo-2024-09-17"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -450,7 +467,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/538-mobile-menu"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -475,7 +493,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/582-ici-version-3"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -500,7 +519,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/621-theme-charting-update"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -525,7 +545,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/622-theme-update-for-tags"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -550,7 +571,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/625-site-management-updates"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -575,7 +597,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/627--fix-sass-ici-2024-09-26"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -600,7 +623,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/628-form-css-updates"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -625,7 +649,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/636-fix-migration-of-css-to-scss-2024-10-08"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -650,7 +675,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/638--fix-css-regression-photos-home-page-2024-10-09"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -675,7 +701,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/641-batch-updates"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -700,7 +727,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/695-d10-drupalcheck-deprecations"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -725,7 +753,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/fix/1330-input-other-fs"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/impact_bootstrap",
@@ -750,7 +779,8 @@
                 "description": "IMPACT Bootstrap sub-theme for Drupal WxT.",
                 "support": {
                     "source": "https://github.com/pco-bcp/impact_bootstrap/tree/job-ad-updates"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             }
         ]
     }

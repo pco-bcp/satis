@@ -24,7 +24,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1.0.5"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -49,7 +50,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/2.0.11"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -74,7 +76,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/3.x"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -99,7 +102,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/4.1.13"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -124,7 +128,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/4.1.1"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -149,7 +154,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/5.1.1"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -175,7 +181,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/5.1.3"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -200,7 +207,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1109-ordered-list-emails"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -225,7 +233,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1158-add-statement-default-twitter-og-image-card"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -250,7 +259,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1189--fix-french-accent-encoding-in-email"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -275,7 +285,34 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1278-cache-control-akamai-headers"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
+            },
+            {
+                "name": "pco-bcp/pco_modules",
+                "version": "dev-1278-js-sanitize-webforms",
+                "version_normalized": "dev-1278-js-sanitize-webforms",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pco_modules.git",
+                    "reference": "92a3fc3870a7b2537c4eddd9367cd428e942bfbf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/92a3fc3870a7b2537c4eddd9367cd428e942bfbf",
+                    "reference": "92a3fc3870a7b2537c4eddd9367cd428e942bfbf",
+                    "shasum": ""
+                },
+                "time": "2026-11-10T21:51:07+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PCO Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/1278-js-sanitize-webforms"
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -300,7 +337,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1278-webform-lazy-load"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -325,7 +363,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1354--fix-title-field-schema-storage"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -350,7 +389,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-citation-d-check-fixes-2024-03-27"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -375,7 +415,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-fixes-for-pco_metrics-2024-04-02"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -400,7 +441,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-pco_emailer"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -425,7 +467,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-pco_news_emailer"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -450,7 +493,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-d-check-pco_subscribe"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -475,7 +519,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-nbreakhy-d-check-fixes-2024-03-27"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -500,7 +545,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-nobrtag-d-check-fixes-2024-03-27"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -525,7 +571,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-noptag-d-check-fixes-2024-03-27"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -550,7 +597,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-pco_greetings-d-check-issues-2024-04-04"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -575,7 +623,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/222-pm_alias_d-check-issues-2024-04-02"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -600,7 +649,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/26-es6-javascript-conversions-ckeditor"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -625,7 +675,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/550-dynamics-submit-handler"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -650,7 +701,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/635-check-if-twitter-img-is-null-2024-10-07"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -675,7 +727,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/640-monolog-custom-helper-module"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -700,7 +753,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-d11"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -725,7 +779,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -750,7 +805,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/722-envoke-mailouts-new"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -775,7 +831,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/841-day-date-filter"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -800,7 +857,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/fix--drupal-check-errors-pco_article_metatag-2023-07-21"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -825,7 +883,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/issues#161-customer-insights"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
@@ -850,7 +909,8 @@
                 "description": "PCO Custom Modules",
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/pco-bcp/issues#23--fix-phpcs-issues-2023-11-16"
-                }
+                },
+                "published-time": "2026-11-10T21:57:25+00:00"
             }
         ]
     }
