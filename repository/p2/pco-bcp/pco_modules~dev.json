@@ -295,15 +295,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "92a3fc3870a7b2537c4eddd9367cd428e942bfbf"
+                    "reference": "6ee6595f915a2f5cb4efbb06e04aeb99e1ab426a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/92a3fc3870a7b2537c4eddd9367cd428e942bfbf",
-                    "reference": "92a3fc3870a7b2537c4eddd9367cd428e942bfbf",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/6ee6595f915a2f5cb4efbb06e04aeb99e1ab426a",
+                    "reference": "6ee6595f915a2f5cb4efbb06e04aeb99e1ab426a",
                     "shasum": ""
                 },
-                "time": "2026-11-10T21:51:07+00:00",
+                "time": "2026-11-12T16:15:13+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -312,7 +312,7 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1278-js-sanitize-webforms"
                 },
-                "published-time": "2026-11-10T21:57:25+00:00"
+                "published-time": "2026-11-12T16:24:14+00:00"
             },
             {
                 "name": "pco-bcp/pco_modules",
