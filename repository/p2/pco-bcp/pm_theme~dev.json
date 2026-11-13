@@ -191,15 +191,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "315e93d186a776dc0e83873eede65f7be23cf356"
+                    "reference": "4636b4a803465a0ba1372e4dacf6c93a5a52fb09"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/315e93d186a776dc0e83873eede65f7be23cf356",
-                    "reference": "315e93d186a776dc0e83873eede65f7be23cf356",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4636b4a803465a0ba1372e4dacf6c93a5a52fb09",
+                    "reference": "4636b4a803465a0ba1372e4dacf6c93a5a52fb09",
                     "shasum": ""
                 },
-                "time": "2026-11-10T21:50:08+00:00",
+                "time": "2026-11-13T20:31:52+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
@@ -208,7 +208,7 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1278-js-webform-sanitize"
                 },
-                "published-time": "2026-11-10T21:57:25+00:00"
+                "published-time": "2026-11-13T20:38:40+00:00"
             },
             {
                 "name": "pco-bcp/pm_theme",
