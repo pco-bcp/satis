@@ -238,6 +238,32 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-1373--fix-bullet-aligment-when-p-tag-has-ID",
+                "version_normalized": "dev-1373--fix-bullet-aligment-when-p-tag-has-ID",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "e1982ab8ff3b0c8f3707afb507a37989ee3ca1ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e1982ab8ff3b0c8f3707afb507a37989ee3ca1ca",
+                    "reference": "e1982ab8ff3b0c8f3707afb507a37989ee3ca1ca",
+                    "shasum": ""
+                },
+                "time": "2026-11-17T15:36:40+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1373--fix-bullet-aligment-when-p-tag-has-ID"
+                },
+                "published-time": "2026-11-17T15:44:24+00:00"
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "version_normalized": "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16",
                 "source": {
