@@ -19016,15 +19016,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "e1982ab8ff3b0c8f3707afb507a37989ee3ca1ca"
+                    "reference": "2337e0e1f9099dc85640ab59ebb316428313dee5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/e1982ab8ff3b0c8f3707afb507a37989ee3ca1ca",
-                    "reference": "e1982ab8ff3b0c8f3707afb507a37989ee3ca1ca",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2337e0e1f9099dc85640ab59ebb316428313dee5",
+                    "reference": "2337e0e1f9099dc85640ab59ebb316428313dee5",
                     "shasum": ""
                 },
-                "time": "2026-11-17T15:36:40+00:00",
+                "time": "2026-11-17T20:50:10+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
@@ -19033,7 +19033,7 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1373--fix-bullet-aligment-when-p-tag-has-ID"
                 },
-                "published-time": "2026-11-17T15:44:24+00:00"
+                "published-time": "2026-11-17T20:57:17+00:00"
             },
             "dev-170--resolve-regression-w-mandate-header-indent-2024-02-16": {
                 "name": "pco-bcp/pm_theme",
