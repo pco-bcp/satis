@@ -138,15 +138,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "a545a8c76a7d6206985b1fa6a75761d3fc12bcfd"
+                    "reference": "af117c8ebd315f63e08c5040eb91c70bd7f83ce3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/a545a8c76a7d6206985b1fa6a75761d3fc12bcfd",
-                    "reference": "a545a8c76a7d6206985b1fa6a75761d3fc12bcfd",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/af117c8ebd315f63e08c5040eb91c70bd7f83ce3",
+                    "reference": "af117c8ebd315f63e08c5040eb91c70bd7f83ce3",
                     "shasum": ""
                 },
-                "time": "2026-09-04T14:27:58+00:00",
+                "time": "2026-11-17T20:55:32+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -154,9 +154,9 @@
                 ],
                 "description": "PM Theme",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.1.3"
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/5.1.x"
                 },
-                "published-time": "2026-11-10T21:57:25+00:00"
+                "published-time": "2026-11-19T20:54:32+00:00"
             },
             {
                 "name": "pco-bcp/pm_theme",
@@ -235,32 +235,6 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1278-twig-webform-page"
                 },
                 "published-time": "2026-11-10T21:57:25+00:00"
-            },
-            {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1373--fix-bullet-aligment-when-p-tag-has-ID",
-                "version_normalized": "dev-1373--fix-bullet-aligment-when-p-tag-has-ID",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "2337e0e1f9099dc85640ab59ebb316428313dee5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/2337e0e1f9099dc85640ab59ebb316428313dee5",
-                    "reference": "2337e0e1f9099dc85640ab59ebb316428313dee5",
-                    "shasum": ""
-                },
-                "time": "2026-11-17T20:50:10+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1373--fix-bullet-aligment-when-p-tag-has-ID"
-                },
-                "published-time": "2026-11-17T20:57:17+00:00"
             },
             {
                 "name": "pco-bcp/pm_theme",

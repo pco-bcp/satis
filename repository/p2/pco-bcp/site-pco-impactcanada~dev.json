@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/site-pco-impactcanada.git",
-                    "reference": "468ba29c4b9c924e89af810dc1b0e382c110c6d3"
+                    "reference": "b6ebea9523097925c9093cdd9c17bda6882d3cfb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/468ba29c4b9c924e89af810dc1b0e382c110c6d3",
-                    "reference": "468ba29c4b9c924e89af810dc1b0e382c110c6d3",
+                    "url": "https://api.github.com/repos/pco-bcp/site-pco-impactcanada/zipball/b6ebea9523097925c9093cdd9c17bda6882d3cfb",
+                    "reference": "b6ebea9523097925c9093cdd9c17bda6882d3cfb",
                     "shasum": ""
                 },
                 "require": {
@@ -30,9 +30,9 @@
                     "drupal/config_filter": "^2.7",
                     "drupal/config_split": "^2.0",
                     "drupal/content_access": "^2.1@RC",
-                    "drupal/core-composer-scaffold": "~11.3.21",
-                    "drupal/core-project-message": "~11.3.21",
-                    "drupal/core-recommended": "~11.3.21",
+                    "drupal/core-composer-scaffold": "~11.3.22",
+                    "drupal/core-project-message": "~11.3.22",
+                    "drupal/core-recommended": "~11.3.22",
                     "drupal/diff": "2.1.1 as 1.10.0",
                     "drupal/email_tfa": "^3.0",
                     "drupal/fast_404": "^3.7",
@@ -50,7 +50,7 @@
                     "drupal/menu_link_attributes": "^1.7",
                     "drupal/moderation_dashboard": "^3.1",
                     "drupal/openapi_jsonapi": "^3.0",
-                    "drupal/page_manager": "^4.0@RC",
+                    "drupal/page_manager": "^4.1",
                     "drupal/paragraphs": "1.23 as 1.20",
                     "drupal/phpmailer_smtp": "^2.4",
                     "drupal/quickedit": "^2.0",
@@ -83,7 +83,7 @@
                     "fontawesome/fontawesome": "*"
                 },
                 "require-dev": {
-                    "drupal/core-dev": "~11.3.21",
+                    "drupal/core-dev": "~11.3.22",
                     "drupal/drupal-extension": "^5.1.0",
                     "drupal/upgrade_status": "^4.3",
                     "drush/drush": "^13.3.3",
@@ -94,7 +94,7 @@
                     "rector/rector": "2.6.2",
                     "squizlabs/php_codesniffer": "^3.0"
                 },
-                "time": "2026-11-10T17:22:53+00:00",
+                "time": "2026-11-18T20:37:55+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -187,9 +187,9 @@
                 ],
                 "description": "Project template for Drupal 11 sites built with the WxT distribution.",
                 "support": {
-                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.9"
+                    "source": "https://github.com/pco-bcp/site-pco-impactcanada/tree/11.3.10"
                 },
-                "published-time": "2026-11-10T21:57:25+00:00"
+                "published-time": "2026-11-19T20:54:32+00:00"
             },
             {
                 "name": "pco-bcp/site-pco-impactcanada",

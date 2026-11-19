@@ -2383,18 +2383,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "9441609a7aa363bc336c9c2bc924a09c6958dab9"
+                    "reference": "54f265aebee97bbb003d86c435725bff961c511f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/9441609a7aa363bc336c9c2bc924a09c6958dab9",
-                    "reference": "9441609a7aa363bc336c9c2bc924a09c6958dab9",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/54f265aebee97bbb003d86c435725bff961c511f",
+                    "reference": "54f265aebee97bbb003d86c435725bff961c511f",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "6.3.0"
                 },
-                "time": "2026-11-17T00:30:29+00:00",
+                "time": "2026-11-18T18:28:28+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -2463,7 +2463,7 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/feat/webform-checkbox-element-v1"
                 },
-                "published-time": "2026-11-17T15:44:24+00:00"
+                "published-time": "2026-11-19T20:54:32+00:00"
             },
             {
                 "name": "pco-bcp/pco_cities",
