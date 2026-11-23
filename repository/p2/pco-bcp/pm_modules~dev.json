@@ -420,6 +420,32 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1377-fix-videos-list-timezone",
+                "version_normalized": "dev-1377-fix-videos-list-timezone",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "a90819d74ffda155f5844809f88e3f0085cf3b65"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/a90819d74ffda155f5844809f88e3f0085cf3b65",
+                    "reference": "a90819d74ffda155f5844809f88e3f0085cf3b65",
+                    "shasum": ""
+                },
+                "time": "2026-11-23T20:45:48+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1377-fix-videos-list-timezone"
+                },
+                "published-time": "2026-11-23T20:52:34+00:00"
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-222--pm-cron-d-check",
                 "version_normalized": "dev-222--pm-cron-d-check",
                 "source": {
