@@ -138,15 +138,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "bbc42a13e9dfbe65f9fe2bc45eea8e1c46d6374f"
+                    "reference": "63434c63040b53d02a14b0335f8ea15bea68c826"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/bbc42a13e9dfbe65f9fe2bc45eea8e1c46d6374f",
-                    "reference": "bbc42a13e9dfbe65f9fe2bc45eea8e1c46d6374f",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/63434c63040b53d02a14b0335f8ea15bea68c826",
+                    "reference": "63434c63040b53d02a14b0335f8ea15bea68c826",
                     "shasum": ""
                 },
-                "time": "2026-10-19T19:30:57+00:00",
+                "time": "2026-11-25T16:46:47+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-module",
                 "license": [
@@ -156,7 +156,7 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_modules/tree/5.1.x"
                 },
-                "published-time": "2026-11-10T21:57:25+00:00"
+                "published-time": "2026-11-25T16:53:37+00:00"
             },
             {
                 "name": "pco-bcp/pm_modules",
@@ -391,32 +391,6 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1353-reorganize-gtm"
                 },
                 "published-time": "2026-11-10T21:57:25+00:00"
-            },
-            {
-                "name": "pco-bcp/pm_modules",
-                "version": "dev-1364--add-french-title-to-csv-export",
-                "version_normalized": "dev-1364--add-french-title-to-csv-export",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_modules.git",
-                    "reference": "0dca616275ab9f7d877cee305ea9ca6c5e3ea851"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0dca616275ab9f7d877cee305ea9ca6c5e3ea851",
-                    "reference": "0dca616275ab9f7d877cee305ea9ca6c5e3ea851",
-                    "shasum": ""
-                },
-                "time": "2026-11-25T15:12:57+00:00",
-                "type": "drupal-custom-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_modules/tree/1364--add-french-title-to-csv-export"
-                },
-                "published-time": "2026-11-25T15:21:42+00:00"
             },
             {
                 "name": "pco-bcp/pm_modules",
