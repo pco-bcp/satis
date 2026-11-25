@@ -10968,18 +10968,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_cities.git",
-                    "reference": "54f265aebee97bbb003d86c435725bff961c511f"
+                    "reference": "9b2e166c5064fbba7ef45989bdf4e31b22b3b1d9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/54f265aebee97bbb003d86c435725bff961c511f",
-                    "reference": "54f265aebee97bbb003d86c435725bff961c511f",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_cities/zipball/9b2e166c5064fbba7ef45989bdf4e31b22b3b1d9",
+                    "reference": "9b2e166c5064fbba7ef45989bdf4e31b22b3b1d9",
                     "shasum": ""
                 },
                 "require": {
                     "drupalwxt/wxt": "6.3.0"
                 },
-                "time": "2026-11-18T18:28:28+00:00",
+                "time": "2026-11-24T22:24:57+00:00",
                 "type": "drupal-profile",
                 "extra": {
                     "installer-types": [
@@ -11048,7 +11048,7 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pco_cities/tree/feat/webform-checkbox-element-v1"
                 },
-                "published-time": "2026-11-19T20:54:32+00:00"
+                "published-time": "2026-11-25T15:21:42+00:00"
             },
             "dev-fellowship-portal-new-version": {
                 "name": "pco-bcp/pco_cities",
@@ -16171,6 +16171,32 @@
                     "source": "https://github.com/pco-bcp/pm_modules/tree/1353-reorganize-gtm"
                 },
                 "published-time": "2026-11-10T21:57:25+00:00"
+            },
+            "dev-1364--add-french-title-to-csv-export": {
+                "name": "pco-bcp/pm_modules",
+                "version": "dev-1364--add-french-title-to-csv-export",
+                "version_normalized": "dev-1364--add-french-title-to-csv-export",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "0dca616275ab9f7d877cee305ea9ca6c5e3ea851"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0dca616275ab9f7d877cee305ea9ca6c5e3ea851",
+                    "reference": "0dca616275ab9f7d877cee305ea9ca6c5e3ea851",
+                    "shasum": ""
+                },
+                "time": "2026-11-25T15:12:57+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1364--add-french-title-to-csv-export"
+                },
+                "published-time": "2026-11-25T15:21:42+00:00"
             },
             "dev-1368--fix-pin-featured-items-to-specific-positions": {
                 "name": "pco-bcp/pm_modules",

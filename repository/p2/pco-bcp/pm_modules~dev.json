@@ -394,6 +394,32 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1364--add-french-title-to-csv-export",
+                "version_normalized": "dev-1364--add-french-title-to-csv-export",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "0dca616275ab9f7d877cee305ea9ca6c5e3ea851"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/0dca616275ab9f7d877cee305ea9ca6c5e3ea851",
+                    "reference": "0dca616275ab9f7d877cee305ea9ca6c5e3ea851",
+                    "shasum": ""
+                },
+                "time": "2026-11-25T15:12:57+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1364--add-french-title-to-csv-export"
+                },
+                "published-time": "2026-11-25T15:21:42+00:00"
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1368--fix-pin-featured-items-to-specific-positions",
                 "version_normalized": "dev-1368--fix-pin-featured-items-to-specific-positions",
                 "source": {
