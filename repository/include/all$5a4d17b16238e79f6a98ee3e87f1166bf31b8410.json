@@ -13185,15 +13185,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "df1bbfe82d5264dce465a6f8d54655dd3b11cdb1"
+                    "reference": "77da37f0be0bfdc09e5ce56c4b8a2d144ab0172f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/df1bbfe82d5264dce465a6f8d54655dd3b11cdb1",
-                    "reference": "df1bbfe82d5264dce465a6f8d54655dd3b11cdb1",
+                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/77da37f0be0bfdc09e5ce56c4b8a2d144ab0172f",
+                    "reference": "77da37f0be0bfdc09e5ce56c4b8a2d144ab0172f",
                     "shasum": ""
                 },
-                "time": "2026-10-01T14:42:18+00:00",
+                "time": "2026-11-25T16:00:08+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
@@ -13201,9 +13201,9 @@
                 ],
                 "description": "PCO Custom Modules",
                 "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.1.3"
+                    "source": "https://github.com/pco-bcp/pco_modules/tree/5.1.x"
                 },
-                "published-time": "2026-11-10T21:57:25+00:00"
+                "published-time": "2026-11-25T16:06:32+00:00"
             },
             "dev-1109-ordered-list-emails": {
                 "name": "pco-bcp/pco_modules",
@@ -13308,32 +13308,6 @@
                     "source": "https://github.com/pco-bcp/pco_modules/tree/1278-cache-control-akamai-headers"
                 },
                 "published-time": "2026-11-10T21:57:25+00:00"
-            },
-            "dev-1278-js-sanitize-webforms": {
-                "name": "pco-bcp/pco_modules",
-                "version": "dev-1278-js-sanitize-webforms",
-                "version_normalized": "dev-1278-js-sanitize-webforms",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pco_modules.git",
-                    "reference": "723b339d49ded51061fd507c4c398281b9334570"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pco_modules/zipball/723b339d49ded51061fd507c4c398281b9334570",
-                    "reference": "723b339d49ded51061fd507c4c398281b9334570",
-                    "shasum": ""
-                },
-                "time": "2026-11-19T20:48:27+00:00",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PCO Custom Modules",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pco_modules/tree/1278-js-sanitize-webforms"
-                },
-                "published-time": "2026-11-19T20:54:32+00:00"
             },
             "dev-1278-webform-lazy-load": {
                 "name": "pco-bcp/pco_modules",
@@ -18963,15 +18937,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "af117c8ebd315f63e08c5040eb91c70bd7f83ce3"
+                    "reference": "893cdb629b63adf68073330ea8a79da5cae15f3d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/af117c8ebd315f63e08c5040eb91c70bd7f83ce3",
-                    "reference": "af117c8ebd315f63e08c5040eb91c70bd7f83ce3",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/893cdb629b63adf68073330ea8a79da5cae15f3d",
+                    "reference": "893cdb629b63adf68073330ea8a79da5cae15f3d",
                     "shasum": ""
                 },
-                "time": "2026-11-17T20:55:32+00:00",
+                "time": "2026-11-25T15:59:23+00:00",
                 "default-branch": true,
                 "type": "drupal-custom-theme",
                 "license": [
@@ -18981,7 +18955,7 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/5.1.x"
                 },
-                "published-time": "2026-11-19T20:54:32+00:00"
+                "published-time": "2026-11-25T16:06:32+00:00"
             },
             "dev-1098--fix-custom-list-indentation": {
                 "name": "pco-bcp/pm_theme",
@@ -19008,32 +18982,6 @@
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1098--fix-custom-list-indentation"
                 },
                 "published-time": "2026-11-10T21:57:25+00:00"
-            },
-            "dev-1278-js-webform-sanitize": {
-                "name": "pco-bcp/pm_theme",
-                "version": "dev-1278-js-webform-sanitize",
-                "version_normalized": "dev-1278-js-webform-sanitize",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "4636b4a803465a0ba1372e4dacf6c93a5a52fb09"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/4636b4a803465a0ba1372e4dacf6c93a5a52fb09",
-                    "reference": "4636b4a803465a0ba1372e4dacf6c93a5a52fb09",
-                    "shasum": ""
-                },
-                "time": "2026-11-13T20:31:52+00:00",
-                "type": "drupal-custom-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "PM Theme",
-                "support": {
-                    "source": "https://github.com/pco-bcp/pm_theme/tree/1278-js-webform-sanitize"
-                },
-                "published-time": "2026-11-13T20:38:40+00:00"
             },
             "dev-1278-twig-webform-page": {
                 "name": "pco-bcp/pm_theme",
