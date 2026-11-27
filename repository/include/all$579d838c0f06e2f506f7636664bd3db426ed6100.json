@@ -18990,15 +18990,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:pco-bcp/pm_theme.git",
-                    "reference": "b7a97e07dc691a9bb303c8b3ad09eb27bac923dd"
+                    "reference": "034934ce87076cc52ae517ab56f06cac5f3b136e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/b7a97e07dc691a9bb303c8b3ad09eb27bac923dd",
-                    "reference": "b7a97e07dc691a9bb303c8b3ad09eb27bac923dd",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/034934ce87076cc52ae517ab56f06cac5f3b136e",
+                    "reference": "034934ce87076cc52ae517ab56f06cac5f3b136e",
                     "shasum": ""
                 },
-                "time": "2026-11-27T16:42:34+00:00",
+                "time": "2026-11-27T18:18:14+00:00",
                 "type": "drupal-custom-theme",
                 "license": [
                     "GPL-2.0+"
@@ -19007,7 +19007,7 @@
                 "support": {
                     "source": "https://github.com/pco-bcp/pm_theme/tree/1154-table-styles"
                 },
-                "published-time": "2026-11-27T17:32:17+00:00"
+                "published-time": "2026-11-27T18:22:46+00:00"
             },
             "dev-1278-twig-webform-page": {
                 "name": "pco-bcp/pm_theme",
