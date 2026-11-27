@@ -186,6 +186,32 @@
             },
             {
                 "name": "pco-bcp/pm_theme",
+                "version": "dev-1154-table-styles",
+                "version_normalized": "dev-1154-table-styles",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_theme.git",
+                    "reference": "25baef175e48b005a7c4507e4ccb7bf5ec18b4ed"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_theme/zipball/25baef175e48b005a7c4507e4ccb7bf5ec18b4ed",
+                    "reference": "25baef175e48b005a7c4507e4ccb7bf5ec18b4ed",
+                    "shasum": ""
+                },
+                "time": "2026-11-27T16:24:09+00:00",
+                "type": "drupal-custom-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Theme",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_theme/tree/1154-table-styles"
+                },
+                "published-time": "2026-11-27T16:31:37+00:00"
+            },
+            {
+                "name": "pco-bcp/pm_theme",
                 "version": "dev-1278-twig-webform-page",
                 "version_normalized": "dev-1278-twig-webform-page",
                 "source": {
