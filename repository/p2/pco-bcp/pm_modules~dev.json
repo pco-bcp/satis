@@ -238,6 +238,32 @@
             },
             {
                 "name": "pco-bcp/pm_modules",
+                "version": "dev-1154-table-styles",
+                "version_normalized": "dev-1154-table-styles",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:pco-bcp/pm_modules.git",
+                    "reference": "b82d04d54c26cd9659a36106a8bfaa4142beea58"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pco-bcp/pm_modules/zipball/b82d04d54c26cd9659a36106a8bfaa4142beea58",
+                    "reference": "b82d04d54c26cd9659a36106a8bfaa4142beea58",
+                    "shasum": ""
+                },
+                "time": "2026-11-27T17:27:04+00:00",
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "PM Custom Modules",
+                "support": {
+                    "source": "https://github.com/pco-bcp/pm_modules/tree/1154-table-styles"
+                },
+                "published-time": "2026-11-27T17:32:17+00:00"
+            },
+            {
+                "name": "pco-bcp/pm_modules",
                 "version": "dev-1212-remove-alt-in-multi-upload-tool",
                 "version_normalized": "dev-1212-remove-alt-in-multi-upload-tool",
                 "source": {
